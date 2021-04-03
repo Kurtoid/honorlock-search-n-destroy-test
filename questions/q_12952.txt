@@ -1,0 +1,20 @@
+Short Answer. (4 points each) Luego de leer el texto responde a las siguientes preguntas en espanol usando oraciones completas.
+2.8   Which ONE of the following items connects the motherboard and external devices connected to a computer?   (1)
+Name a chemical that is unique to the cell walls of Gram-positive bacteria (meaning it is NOT found in Gram-negative cells).
+You have been tasked to lead a strategic planning session for your firm. What type of analysis would you use? Note external and internal factors within this tool.
+Which one of the following represents a physical change?
+The _____, also known as the dens, is an upward projectile of bone that arises from the front part of the center of the _____vertebra. This structure provides a pivot point which allows you to shake your head "no".
+_________ is the capacity of muscles to receive and react to stimuli.
+import java.util.Scanner;public class ComputingChange {   public static void main (String [] args) {        Scanner scnr = new Scanner(System.in);      int amountToChange;      int numFives;      int numOnes;      amountToChange = scnr.nextInt();      numFives = amountToChange / 5;      /* Your solution goes here  */      System.out.print("numFives: ");      System.out.println(numFives);      System.out.print("numOnes: ");      System.out.println(numOnes);   }}-----------------------------------------------------------------------------------A cashier distributes change using the maximum number of five dollar bills, followed by one dollar bills. For example, 19 yields 3 fives and 4 ones. Considering the above code ,write a single statement that assigns the number of one dollar bills to variable numOnes, given amountToChange. Hint: Use the % operator.
+After teaching a patient to increase dietary potassium intake, a nurse assesses the patient's understanding. Which dietary meal selection indicates that the patient correctly understands the teaching?
+Before you start the exam, please read and sign the following CSU Honor Pledge: "I will not give, receive, or use any unauthorized assistance on this quiz."  (Type your name to "sign" the pledge)
+The pulmonary artery should contain _______________ blood.
+Berkeley argues that sensations cannot exist in anything that does not have perceptions. Hence, colors, shapes, motions, etc. can only exist in something that perceives them.
+How would a beam of light behave shining through a solution?
+One option to deal with hazards is to insert "nop" in the code that can be implemented by------------.
+If a macromolecule contains just C, H, and O, and is hydrophobic, it is probably a ______
+The patient diagnosed with end stage liver failure, who has ascites, is complaining of trouble with breathing. Which intervention should the nurse implement?
+A factor that causes the marginal cost curve to shift upward will result in:
+The nurse is teaching a woman about natural family planning methods. How would the nurse explain cervical mucus consistency if the woman desires pregnancy?
+Which of the following is not a step in the scientific method?
+The most recent blood work of a client with a long-standing diagnosis of type 1 diabetes has shown the presence of microalbuminuria. What is the nurse's most appropriate action?

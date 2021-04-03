@@ -1,0 +1,20 @@
+What is the normal HR for a cat?
+Are there any errors in the below code? If so, state the error(s). If not, state the output. public static void main(String[] args)  { try { throw new Exception(); } try { int n = 9/0; } catch(Exception e) { System.out.println("Caught Exception"); } }
+List and describe the fundamental problems associated with encoding bits onto signals.
+Instructions: For each of the following sentences, select "correct" if the sentence is punctuated correctly, "fragment" if it is a fragment, "run-on" if it is a run-on, and "comma splice" if it is a comma splice.   For broiling, smoking, and drying meat and fish.
+__________________ is the taking up of nutrients into the cells and occurs mainly in the intestines (both small and large intestines).
+The pineal gland is part of the:
+Murder is classified as
+George E. Edmondson Jr. (pictured) was an insurance salesman from Tampa, Florida, who was known to the University of Florida community as ________________________________________
+LaDonna was just exposed to "uga boogha" bacteria for the first time through a cut.   Which of the following events would most likely occur last (all within the context of responding to "uga boogha")?
+Define behavior modification.  Give an example.
+Which is NOT a characteristic of Jan Tschichold's "Die Neue Typographie"?
+Identify the error in the following sentence. Delayed at work, I asked my date to meet me at the Movies instead of coming to my house.
+Total surplus in a market will increase when the government
+In bacterial cells, the electron transport system is located in the:
+Write a code segment that prompts the user for a file name.  If the file exists, the program should print its contents on the terminal.  Otherwise, it should print an error message.
+50. Which of the following is NOT correct about the legislation process, "how an idea becomes law?
+Draw a class diagram showing the relationship between the animal, mammal, bird, and reptile classes.
+What findings convinced evolutionary biologists that they needed to rethink their assumptions concerning levels of genetic variation in nature, ultimately leading to the development of neutral theory?
+What two things do poor working conditions produce? __________ and ____________.
+The primary structure of a protein is

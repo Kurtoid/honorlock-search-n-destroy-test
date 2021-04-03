@@ -1,0 +1,20 @@
+From your chapter 9 reading in Schneider and our discussions about interrupting the chain of inflection identify the links from the following scenario. Please identify the links in the chain from the following- rats that carry the plague bacillus that multiples inside the rats. The fleas that act as hosts biting the infected rats which then bite humans.  Pick the best answer.
+Elwood, Inc. sells running shoes for $130 per unit representing 35 percent of total sales, and walking shoes for $85 per unit representing 65 percent of total sales. Variable cost per unit is $50 for running shoes and $40 for walking shoes. If fixed costs are $825,000.    What is the break-even point in total units?
+Customizing a standard product is a method to achieve a cost leadership strategy.
+Which of the following statements regarding tax deductions is false?
+Explain what this code does and what is the output, assuming that "data.json" file includes 1000 users records of First name, Last name, age, height, weight, and annual salary.  import json import numpy as np from pandas import DataFrame import pandas as pd   with open('data.json') as stream:     data = json.loads(stream.read())   df = DataFrame(data) df.describe()    What is the line of code that you need to add to sort the data from the youngest user to the oldest user and output the first 100 youngest users on the display? What is the line of code that you need to add to save the data to a CSV file? What are the lines of code that you need to add to plot the histogram of age? What are the lines of code that you need to add to plot the line graph of the annual salary vs age?
+The process of chewing is called ____________________.
+During World War I, what were the women called who treated disabled soldiers?
+13)  Indicate whether the following nuclei would be NMR active by indicating their spin state.  A portion of the periodic table is provided below.  Only fill in the blanks with the corresponding letter A - C:                        A:  for spin state I = 0                        B:  for spin state I = n1/2                        C:  for spin state I = n         [1]  2H            [2]  12C           [3]  31P            [4]  28Si           [5]  27Al           [6]  19F
+Match the four phrases on the left with the one correct answer choice from the list on the right.
+Which of the following is an accurate statement about the state-federal VR program?
+The cartilage connecting ribs to the sternum is called costal cartilage
+A manager of a 25-bed medical-surgical unit receives a call from a nurse who has called in sick five times in the last month. He tells the manger he very much wants to come to work when scheduled, but often cares for his wife, who is undergoing treatment for breast cancer. What would be the best approach to meeting the needs of the nurse, other staff and the unit?
+Because research suggests that students learn many words incidentally, teachers at the Crane Elementary School have wisely decided to __________.
+The nurse can facilitate a breastfeeding baby' s latching on correctly by helping the mother to hold the baby:
+*According to this figure, what is the approximate heart rate when laying down?
+How did the Industrial Revolution impact western society?
+The electrolyte primarily inside of your cells that is also needed for acid-base balance, muscle contraction, and nerve impulse conduction is:
+Vital records are essential documents that cannot be replaced.
+Select the anatomic media that would have the thickest half -value layer using a 6 MHz transducer:
+The nurse is caring for a client with sleep apnea.  Which delivery devices should the nurse use to administer oxygen to this client?

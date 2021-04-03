@@ -1,0 +1,20 @@
+10(3.10 - 5.17)2 + 10(5.00 - 5.17)2 + 10(6.80 - 5.17)2 + 10(5.80 - 5.17)2 = ____
+Quicksort can be modified to obtain an elegant and efficient linear (O(n)) algorithm QuickSelect for the selection problem. Quickselect(A, p, r, k) Input: p & r - starting and ending indexes; to find k-th smallest number in non-emptyarray A;1<=k<=(r-p+ 1) Output: k-th smallest number if p=r then return  A[p] else      q=Partition(A,p,r)  /* O(n) algorithm covered in class */      pivotDistance=q-p+1      if k=pivotDistance then return A[q]      else             if k < pivotDistance then                     return QuickSelect(A,p,q-1,k)             else                    return Quickselect(A,q+1,r,k-pivotDistance)             end      end end   (a) Draw the recursion tree of this algorithm for inputs A=[10, 3, 9, 4, 8, 5, 7, 6], p=1, r=8,k=2. At each non-base case node show all of the following: (1) values of all parameters: input array A, p, r & k; (2) A after Partition. At each base case node show values of all parameters: input array A, p, r & k. Beside each downward arrow connecting a parent execution to a child recursive execution, show the value returned upwards by the child execution. Note: You can use "",  "/", or "|"  to draw edges of the tree in the text box.
+Q4. Which of the following statements concerning the structure of DNA is INCORRECT?
+2.  A law that exempts businesses or individuals from state laws is
+Can a subclass of an abstract class also be abstract?
+When the younger brother tells his father, "Give me my share of the estate," what is he essentially saying?
+The hospice philosophy is best summarized as
+To affect physiologic aerobic adaptations, the duration of exercise must be at least how long?
+[Hello Kitty] You need to buy a gift for a young cousin's birthday. You go to the mall and see a girl wearing a Hello Kitty T-shirt. You remember there is a store in the mall with a lot of Hello Kitty merchandise, so you go there and buy a little backpack. When you give it to your cousin, she is very excited. In terms of behavioral learning, seeing the girl with the Hello Kitty shirt was a
+Water soluble nutrients are absorbed into:
+A mutation occurs in DNA, which subsequently alters the mRNA as follows:sequence before mutation: 5'- AUG CCA GUC UGG UAA - 3'sequence after mutation: 5' - AUG GCA GUC UGG UAA - 3'What type of mutation is it?
+Metabolism is the sum of all the:
+Two-year-olds can be expected to play cooperatively with one another.
+The most common type of immediate hypersensitivity is ________.
+Smooth muscle is characterized by all of the following EXCEPT (in other words, which is NOT true):
+Which two classes of Chordates do not have moveable jaw parts?
+A ridge of sand projecting into a bay and often having a hooked end:
+Which among these is not one of the "Three Jewels" (or Three Refuges) of Buddhism?
+Which is an advantage of using onshore wind farms as opposed to offshore wind farms?
+Taylor, a single taxpayer, has taxable income before the QBI deduction of $193,300 in 2020.  Taylor, a CPA, operates an accounting practice as a single-member LLC (which he reports as a sole proprietorship).  During 2020, his proprietorship reports net income of $150,000, W-2 wages of $125,000, and $10,000 of qualified property.  What is Taylor's qualified business income deduction?

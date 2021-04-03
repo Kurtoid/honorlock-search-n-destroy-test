@@ -1,0 +1,20 @@
+When transferring a resident from a wheel chair to the toilet, whenever possible, the wheel chair should be placed...
+Which of the following liquids are solid at room temperature?
+The process by which toxic substances can be concentrated in the flesh of organisms at higher trophic levels is called ____.
+"Failure as a challenge" means that the meaning of failure is a(n):
+True or false: Offer the reader or listener about a dozen central selling points when you deliver a persuasive message to a U.S. audience.
+Which of the following will allow an entire line of text to be read into a C-string object, even if it contains embedded blanks?
+A 35-year-old female has severe endometriosis of the uterus.  She is admitted for sterilization by bilateral laparoscopic tubal ligation via electrocautery sterilization.
+EXPLAIN using the divisibility rule taught in class why  3 divides 6,261  but  9 does NOT divide 6,261.
+Evolutionary trees are based on
+________ states that nominal interest rates in each country are equal to the required real rate of return plus the expected rate inflation.
+What is the name of the SI base unit for mass?
+Which of the following compounds would react the quickest towards an incoming nucleophile like Grignard.
+La carta. Olivia writes a letter to a friend describing what she used to do as a child. Complete the following paragraph by conjugating the verb in parentheses with the correct form of the imperfect or preterite tense. OJO: !No se olviden los acentos si son necesarios! For your reference: a e i o u u n // A E I N O U U // ? ? // ! ! Cuando yo [word1] (ser) nina [word2] (vivir) en Guaymas, Mexico. Yo [word3] (trabajar) en un supermercado con mi hermana. Todos los fines de semana mi familia y yo [word4] (comer) en el restaurante La Casa Manana y nosotros [word5] (pasar) mucho tiempo en la playa. Un dia mi hermano y yo [word6] (decidir) bucear en el oceano. Despues, yo [word7] (tomar) el sol en la playa y mi hermano [word8] (ir) al cine con sus amigos. Nosotros nos divertimos mucho ese dia.
+If a loop does not have a way of stopping, it is called a(n) ____________.
+Which is the correct location to assess a triceps skinfold?
+What drug is commonly given with a Beta-2 sympathomimetic medication, to block the Parasympathetic nervous system, thereby achieving bronchodilation?
+What is the name of a substance that is able to speed up chemical reactions?
+7.  Prokaryotes
+You have files Candy.java, JollyRancher.java, and a driver class named Driver.java. Fill in the correct visibility modifiers so that the comments in the class JollyRancher and Driver's main method are upheld.  public class Candy {    1  void isSour() { /*compiles*/ }    2  void munch() { /*compiles*/ }    3  void yummy() { /*compiles*/ } }  ----- in a separate file in a different package/directory ----- public class JollyRancher extends Candy {   public void sweet() { isSour(); // compiles munch(); // doesn't compile }}  ----- in a separate file in a different package/directory ----- public class Driver { public static void main(String[] args) {        JollyRancher j = new JollyRancher();         j.isSour(); // doesn't compile j.munch(); // doesn't compile        j.yummy(); // compiles  }}    1   : [1]  2   : [2]  3   : [3]
+A nurse is performing patient health education with a 68-year-old man who has recently been diagnosed with heart failure. Which of the following statements demonstrates an accurate understanding of his new diagnosis?

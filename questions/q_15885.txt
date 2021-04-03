@@ -1,0 +1,20 @@
+You have files Dessert.java, BlueberryMuffin.java, and a driver class named Driver.java. Fill in the correct visibility modifiers so that the comments in the class BlueberryMuffin and Driver's main method are upheld.  public class Dessert {    1  void eat() { /*compiles*/ }    2  void split() { /*compiles*/ }    3  void purchase() { /*compiles*/ } }  ----- in a separate file in a different package/directory ----- public class BlueberryMuffin extends Dessert {   public void nom() { split(); // doesn't compile purchase(); // compiles }}  ----- in a separate file in a different package/directory ----- public class Driver { public static void main(String[] args) {        BlueberryMuffin b = new BlueberryMuffin();        b.eat(); // compiles        b.split(); // doesn't compile        b.purchase(); // doesn't compile }}    1   : [1]  2   : [2]  3   : [3]
+A 44 year old with a history of IV drug use presents with mental status changes. Her Head CT shows evidence of septic emboli. An echocardiogram should be ordered to assess for this source of septic emboli:
+Fibric acid derivatives are as effective as 'statins' in reducing LDL cholesterol.
+The concept of contrast as it is displayed on a soft-copy monitor for digital images is described as
+This disorder develops when young children consume adequate calories but inadequate high-quality protein. This is characterized by generalized edema.
+The approximate dates for the Renaissance era are:
+The bond shown here is which of the following?
+A nurse is caring for a client hospitalized with Myasthenia Gravis. The nurse is preparing discharge education. When providing discharge instructions the nurse would instruct the client to
+_______ is the number of times a person is exposed to an advertising message.
+Which statement made by a female client indicates that she and her husband are having difficulty coping emotionally with their infertility regimen?
+Which of the following outcomes is NOT true?
+An elevated temperature is an early sign of malignant hyperthermia?
+Which adjustment to the prosthetic socket results in reducing pressure on areas which are prone to skin breakdown:
+A criminal act that is considered wrong even if there were no law prohibiting it is known as ____.
+A patient has an order to receive 12.5 mg of hydrochlorothiazide. The nurse has on hand a 25 mg tablet of hydrochlorothiazide. How many tablet(s) will the nurse administer?
+In the United States, the Foreign Corrupt Practices Act (FCPA) is a legacy of the Watergate scandal during Richard Nixon's presidency. Administered by the Department of Justice and the Securities and Exchange Commission, the act is concerned with disclosure and prohibition. What is this law concerned with, and why is it a subject of criticism by many?
+The legal process by which a transfer of property is made against the protest of the property owner is known as _____.
+In evaluating the audience for an essay, writers should______________
+The table shows the aggregate demand and aggregate supply schedule for a hypothetical economy. If the quantity of real domestic output demanded increased by $4000 at each price level, the new equilibrium price level and quantity of real domestic output would be:
+What is the primary mechanical purpose, based upon design, of a 2nd class lever?

@@ -1,0 +1,20 @@
+Noodle n1 = new Pasta(); Noodle n2 = new Ramen(); Pasta p = new Pasta(); Ramen r = new Ramen();  For the class hierarchy and declarations above, correctly indicate whether each of the following statements will compile and what will happen at runtime (runs correctly or runtime exception). It may be helpful to use scratch paper to keep track of each variable's static and dynamic type.  1   Noodle noodle = (Noodle) r; 2   Ramen r1 = (Ramen) n1;  3   Ramen r2 = (Ramen) p; 4   Ramen r3 = (Ramen) n2;   1   : [1]  2   : [2]  3   : [3]  4   : [4]
+Nondemocratic regimes can still have legitimacy.
+Use this figure to answer the following question: This pyramid depicts soil ________.
+During chemotherapy, cells of the lymph nodes can be completely destroyed. This would eliminate the effectiveness of previous vaccinations. Why?
+A patient tells the nurse, "This medication makes me feel weird. I don't think I should take it anymore. Do you?" Select the nurse's best response.
+Solomon was in love with all of his 700 wives and 300 concubines?
+Since it is hard to hit the moral mean perfectly every time, given the extremes relative to "moderation," on what side is it mostly agreed a person should err?
+A 26 year old G1P1 has delivered a healthy baby girl.  You are providing patient teaching and one of the subjects you know to cover is the restarting of ovulation and menstrual cycles.  One point you need to stress is:
+At year-end, the balance of Expenditures, Revenues and Other Financing Sources and Uses accounts are closed to: A. Budgetary Fund Balance B. Expenses C. Fund Balance - unassigned D. Expenditure
+Your patient is a 37-year-old man who collapsed while playing soccer. He is confused, and his skin is hot and dry. He has rapid and shallow breathing and a rapid and weak pulse. Appropriate care for this patient should include:
+If you used 7 mAs for a first exposure at 36" SID, what would you need to use in the second exposure at 72" in order to maintain exposure?
+Arthur does well on all of his tests in school. Arthur's friend Buster does not do so well in school but is very good with people and dealing with social issues. According to Sternberg's Triarchic Theory, we might say that Arthur is high in ________  intelligence and Buster is high in ________ intelligence.
+The nurse notes during the general survey her client has kyphosis. Which is the best description of this age-related change?
+The function(s) of the digestive system are
+What were the four main elements of Progressivism?
+Perceiving and processing include
+The cummulative whole-body effective dose limit is calculated by multiplying one's age in year times____________ .
+Order: Begin oxytocin infusion at 4 milliunits (mU)/min.  On hand: Oxytocin 60 units in 500 ml. The infusion pump should be set at _____ ml/hour  Give numeric answer only.
+Choose any and all of the following soluble salts that would make an acidic solution:
+What is the thickness of the matching layer of a 2 MHz pulsed wave transducer?

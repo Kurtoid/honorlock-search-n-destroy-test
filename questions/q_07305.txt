@@ -1,0 +1,20 @@
+In the processAreas() method, use a loop to go through each object in the arrayList of GeometricShape, and call the polymorphic methods calculateArea() and toString() for each object in the arrayList.  Each object should be printed with all the values in the instance variables, including the area.    public void processAreas() {        //Create a loop to process all the objects in the arrayList of GeometricShape.        //Within the loop:        //  1.) Each object in the arrayList calls its polymorphic method to calculate the area of that shape:        //  2.) Each object in the arrayList calls the toString method and prints all of the object's content and the object's area     }   Here is an example of the output produced by the processAreas() method.
+What protects the stomach wall from its acidic contents?
+Indian Culture What is the name of the all-inclusive sense or moral and spiritual duty with implications of truth and righteousness?
+CAM plants keep stomata closed in daytime, thus reducing loss of water. They can do this because...
+A patient admitted with dermal ulcers who has a history of a T3 spinal cord injury tells the nurse, "I have a pounding headache and I feel sick to my stomach." Which action should the nurse take first?
+Materials with higher atomic numbers have lower
+Write the ground state electron configuration for iron.
+The type of action on the San Andreas fault in California is
+Without glial cells, your nervous system would not
+What is the main idea of the whole reading (the thesis)?
+One of the chief concerns in designing experiments is the potential for committing a "Type II Error."  Which of the following statements is incorrect and does not apply to this problem?
+Let a perfectly competitive firm that produces widgets have total cost of  . Suppose the market price of widgets is $50. How much output should this firm produce?
+The association areas:  (select ALL that apply)
+Julie scores 115 on an IQ test.  IQ scores are normed so there is a mean of 100 and a standard deviation of 15.  It can be concluded that, on this particular test, the Julie's score is
+Facebook owns all of the following except:
+Whenever she gets a chance, 2-year-old Brenda applies her mother's cosmetics on her face and watches herself in the mirror. She has learned to do this by imitating her mother. Which of the following is true of Brenda?
+A PT giving home exercises is providing which type of social support?
+A short-run production function was estimated as Q = -0.002L3 + 0.16L2  and Average Product is estimated to be  Q = -0.002L2 + 0.16L .  At what level of labor usage does the maximum average product occur?
+The __________ tonsils are the largest, and their surgical removal (tonsillectomy) used to be one of the most common surgical procedures performed in children.
+A trimmed maxillary model will be _____ at the anterior portion, and the mandibular model will be _____ at the anterior portion.

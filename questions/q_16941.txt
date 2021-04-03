@@ -1,0 +1,20 @@
+Write a Java method isStrongPassword(String password) that takes in a String password as input and returns true if the following three conditions are met (otherwise, it returns false):    password is at least 8 characters long  password contains at least one alphabetical character  password contains at least one numeric digit  Example 1: password: th1s1sag00d1return value: true Example 2: password: 2shortreturn value: false Example 3: password: nonumbersherereturn value: false Example 4: password: 1234567890return value: false Note: You do not need to write a main method. You may use the isDigit and isLetter static methods from the Character class.
+Let f(x) = 3x2 - 2x. Find and simplify f(t + 1).
+Which of the following statements is true regarding the future risks of decadal (11-year) and multidecadal (35-year) droughts in the southwestern United States and Great Plains?
+What is the probability of scoring 7 or 11 on one roll of two dice?
+The arrow A is demonstrating what vessel on the proximal saggital Aorta?
+Which of the following clients would be looking for a "Transactional" attorney (check any that apply):
+Product advertising, sales promotion and personal selling are examples of the product element of IMC. (Ch. 6)
+Which statement is true concerning osteoarthritis? (Best Answer)
+Megasporocytes will eventually produce which of the following?
+During exercise, the increase in the body's oxygen requirements is met by: (choose all that apply)
+Which adaptation is a unique trait of the angiosperms?
+All the following are examples of local wind systems involving thermal highs and lows except:
+How many different elements have been discovered and reported on to date?
+Which of the following is not a characteristic of the genetic code?
+This picture demonstrates what concept?
+The reminiscence bump refers to a phenomenon whereby _______.
+For the above circuit, what is the Thevenin resistance and voltage between nodes A and B.  You should show your work as well as the Thevenin equivalent circuit in the work submitted at the end of the exam.  Make sure to include units in your answers.  (You can spell out ohms for resistance)  = [voltage]  = [resistance]
+The average function will give you the
+Adolescents seek to share their inner feelings most often with
+All of the following are common chest assessment findings in a patient with atelectasis except:

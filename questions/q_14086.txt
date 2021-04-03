@@ -1,0 +1,20 @@
+Erin has 3 costumes:  Pirate (P), Spiderman (S), and Vampire (V).  She also has 4 types of candy:  Reese's (R),  Candy Corn (C),  Laffy Taffy (L), and Nerds (N).   She can only wear one costume and hand out one type of candy.  Draw a tree or an array.  Use this information for #4 and #5.      What is the probability of Erin handing out Laffy Taffy?
+Given the following method, what will test(10) return if the user enters  9? public static int test (int a){    Scanner input = new Scanner(System.in);    System.out.print("Enter a number: ");    int num = input.nextInt();    if (num > a)    {        return 1;    }     return 0;}
+Choose the definite article: _________profesor
+Select ONE of the reasons for wanting better customer service skills that you did NOT use to answer #1. a) For the selected reason, define the population parameter, p, and identify n and  from the graphic and fine print.  Determine if the distribution of sample proportions is approximately normal, or not. Justify your response. b) Use the values to determine the mean and standard error of a sampling distribution of sample proportions for samples of size n.
+How can a group be susceptible to groupthink? What are the consequences of groupthink?
+Which of the following would NEVER be found in a bacteria cell:
+Create sentences using the command indicated. Follow the model. Make sure to punctuate correctly. Look at the (+/-) in parenthesis to indicate affirmative or negative commands. Modelo: jugar con tus amigos (- tu) No juegues con tus amigos.   comer mas (+ usted) _______________________
+The following describes the benefit of conducting interviews to collect data.
+The sarcoplasmic reticulum is the smooth endoplasmic reticulum of a muscle fiber.
+Which of the following interventions should the nurse implement for a patient experiencing delirium? Select all that apply.
+If the errors are perfectly correlated and c = v, the mean squared error reduces to v and averaging models with an ensemble approach will not help improve performance.
+Choose the best Lewis structure for BF3.
+Which type of transport allows small, nonpolar substances to cross the plasma membrane without assistance from membrane proteins?
+What is the name of this country and its capital city? Spelling counts. Use the blank Map of South America below to jog your memory.
+In Figure 2, if consumer incomes rise, then the equilibrium
+The horizontal plane, also known as the transverse plane, can also be referred to as the
+41. A nurse is talking to a client who is explaining about her home situation and the intimate partner violence she recently experienced. Which of the following responses should the nurse make?
+9.  The "small" (smaller Svedberg) ribosomal subunit of prokaryotes is
+According to Brian Burrough, how many bombings, on average, happened every day in the US between 1971 - 1972?
+Lucy and Fred want to begin saving for their baby's college education. They estimate that they will need $200,000 in eighteen years. If they are able to earn 6% per annum, how much must be deposited at the beginning of each of the next eighteen years to fund the education?

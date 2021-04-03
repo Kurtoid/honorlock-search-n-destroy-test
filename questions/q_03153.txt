@@ -1,0 +1,20 @@
+The anticoagulant used for coagulation studies is
+A vibratory systolic murmur is heard between the lower left sternal border and mid-sternal border in a healthy 5 year old at his kindergarten physical. The cardiovascular exam is otherwise normal. A likely diagnosis is
+Which of the following explains why a patient with MS may have had short term worsening of spasticity and blurring of vision with the exercise they completed for a HEP?
+What is an appropriate expression to use in Simio to model the inter-arrival time from 5-7pm?
+The main function of erythrocytes is to:
+Which of these terms refers to the posterior knee?
+Convert the following function to C.  Be sure to provide the function declaration with any arguments, local variables, and return value if present.   What does this function accomplish? foo: push ebp mov ebp, esp sub esp, 4 mov eax, DWORD PTR [ebp+8] mov eax, DWORD PTR [eax] mov DWORD PTR [ebp-4], eax mov eax, DWORD PTR [ebp+12] mov edx, DWORD PTR [eax] mov eax, DWORD PTR [ebp+8] mov DWORD PTR [eax], edx mov eax, DWORD PTR [ebp+12] mov edx, DWORD PTR [ebp-4] mov DWORD PTR [eax], edx mov eax, DWORD PTR [ebp+20] mov DWORD PTR [ebp-4], eax mov eax, DWORD PTR [ebp+8] mov edx, DWORD PTR [ebp-4] mov DWORD PTR [eax], edx nop leave ret
+Use the histogram on student financial aid to answer the following question: If three students are randomly selected with replacement, find the probability of getting at least one student who receives some type of financial aid?
+In 2006, people in this location legally elected the political party Hamas, which is considered a terrorist organization by many in the West.
+Of all the factors that influence our sense of taste, this is the most important one.
+Identify the statement that is incorrect.
+Depreciation is added to net income under the indirect method of preparing a statement of cash flows to:
+What is the action of this muscle when both right and left contract simultaneously?
+Unilever sells different products using a different marketing approach in England than it uses when marketing these products in the United States. This is an example of a(n) _______________ strategy.
+Two lines cross at the point (3,5). One has equation . The other line has an intercept of 11. What must its slope be?
+"____ is one of our greatest achievements-right up there with language, fire, and dental floss."
+The Hanging Drop Method is normally used to test for:
+What is the best description of the NICHD Investigative Interview Protocol?
+Answer the following question on your paper.  Show all work.  Enter your final answers, with correct significant digits and units, in the blanks provided.  Upload your work when you are finished with the exam. The decomposition of the caldera is first order.  0.274 M of caldera are added to a flask.  After 15.5 minutes, the concentration is 0.214 M.   a.  What is the rate constant for this reaction? [k] b.  How long will it take for the concentration of caldera to reach 0.137 M? [conc]
+Identify this abbreviation: L5

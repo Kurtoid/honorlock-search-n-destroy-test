@@ -1,0 +1,20 @@
+What is the name of the cells shown by the arrow? (400x magnification)
+The term acromegaly is defined as
+While filling your rubber molds or an alginate impression with plaster it is important to use a full spatula, adding large amounts of plaster to the mold/impression to fill it quickly.
+A student from a class of 150 students is randomly selected. The class is composed as follows     Freshman Sophomore Junior Senior   Male 12 24 20 4   Female 18 36 20 16    You are told that the selected student is a junior. What is the probability that the selected student is also male.
+(10 Extra Credit) What is the output of the following program? public class Main {    public static void main(String args[]) {        int arr[][] = new int[4][];        arr[0] = new int[1];        arr[1] = new int[2];        arr[2] = new int[3];        arr[3] = new int[4];        int i, j, k = 0;        for (i = 0; i < 4; i++) {            for (j = 0; j < i + 1; j++) {                arr[i][j] = k;                k++;            }        }        for (i = 0; i < 4; i++) {            for (j = 0; j < i + 1; j++) {                System.out.print(" " + arr[i][j]);                k++;            }            System.out.println();        }    }}
+Carbon dioxide and water combine to form:
+The nurse is providing teaching on preventing sepsis. Which should the nurse include as a major risk factor for the development of this health problem? Select all that apply.
+Which one of the following is an example of declarative memory?
+A person who is seeking immigrant "benefits" (ie. legal status, citizenship, or more permanent legal status) should apply through the administrative government agency called CIS
+What are sensory details? Please explain.
+Bandura was researching ____ using the Bobo Doll experiments.
+?Quien es el "Hijo?"
+The form that the DNA double helix most often takes in nature is called __________.
+Mouse mutations can affect an animal's appetite and eating habits. The ob gene codes for a satiety factor, the hormone leptin. The db gene product, the leptin receptor, is required to respond to the satiety factor.   Leptin is a product of adipose cells. Therefore, a very obese mouse would be expected to have
+Which cell type presents antigen to B-cells in the lymphoid follicles?
+BONUS: In the acronym ESKAPE, what does the K stand for? [write out full genus and species name]
+Put the following four layers of the atmosphere in order, beginning at the surface and going up in height: [BottomLayer], [Layer2], [Layer3], [TopLayer]
+The term that refers to genetically reviving a long dead species is
+Mobile chest images demonstrate and verify placement of all except which of the following:
+Write pseudocode or C++ code for a method to test if a given integer array is a min heap or a max heap. Your function should return true if the input array is a min heap or max heap and false, otherwise. If you prefer to run your code, you can run it on Zybooks compiler and make sure you copy and paste the code in the textbox below. You can run your code here: https://learn.zybooks.com/zybook/UFLCOP3530KapoorFall2020/chapter/1/section/2  Password to access is: Priority

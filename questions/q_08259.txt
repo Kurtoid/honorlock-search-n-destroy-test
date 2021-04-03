@@ -1,0 +1,20 @@
+What did Khubilai Khan need to build in order to conquer the Southern Song?
+For Robertson, children's films depict a world filled with:
+The nurse examines the lymph nodes of a patient during a physical assessment. Which assessment finding would be of most concern for a diagnisis of lymphoma to the nurse?
+Question 1 - 11 points A) Build a multiple linear regression model named model1 with Adult Mortality as the response variable and all other variables as predicting variables. Include an intercept. Display the summary table of the model. B) Is the overall regression significant at the 0.01 alpha level? Explain. C) Using model1, calculate the Cook's distance of the points in the dataset and create a plot for the Cook's Distances.  D) Identify the row number of the observation with the highest Cook's distance.  E) Remove this observation from the mortality dataset. Call this new dataset mortality2 and create a new multiple linear regression model, called model2, using the same predictors as model1 with Adult Mortality as the response. Display the summary table of this model. Are there any significant differences between the models with and without the outlier? Would you classify this observation as influential?
+Fill in the blanks by answering in the text box provided: Focusing on the meaning of items at encoding (rate for pleasantness) rather than on the physical characteristics (e.g., count the vowels), results in  ______________________ (better or worse?)  memory, a finding that according to ____________________________ theory, is due to ______________________   versus __________________ rehearsal.
+In the 1300s, Europeans sought African deposits of
+Gunpowder residue patterns can be detected by what?
+The creation of overly complex enterprise integration over time is often a symptom of:
+Write a function called springDates() that takes in one parameter: a list of holidays (str). Each string in the list is formatted as: "month day". The function should return a dictionary of months mapped to a list of holidays in that month (ints).  Hint: string methods may be very useful for this problem  Example Output #1:  >>> holidays = ["March 20", "May 5", "April 1", "May 9"] >>> springDates(holidays){'March': [20], 'May': [5, 9], 'April': [1]}  Example Output #2: >>> holidays = ["March 16", "March 17", "March 23", "April 2"]>>> springDates(holidays){"March": [16, 17, 23], "April": [2]}
+Based on practice in lab and knowledge of origins and insertions, which of the following is MOST accurate regarding the described resistance and corresponding muscle being tested?
+A nurse is caring for a client who has just had an amniocentesis. Which of the following interventions is highest priority at this time?
+All species (i.e. dogs,  ferns,  birds, etc.) have the same diploid number
+Which molecule below contains a double bond?
+Which of the following will add a quadratic term to the model?
+The maximum amount of air that can be expired after a maximum inspiratory effort, or the total amount of exchangeable air, is the:
+An example of a pivot joint is the _________.
+When an object is dropped from a height of 218 feet, its height can be found using the equation where t is seconds after the object is released. How long does it take the object to reach  154?
+To calculate the probability of a sequence of independent events, simply find the product of their corresponding probabilities.
+1.  I own property that has a fair market value of $328,500, the assessment rate is 35%, and the local tax rate is 5.2%.  Find the property tax. Use dollar sign, comma if necessary, and round to cents
+A nurse is discussing good food choices with a client who is recovering from an exacerbation of inflammatory bowel disease and is to start a low-lactose diet.  Which of the following foods is the best choice for the client?

@@ -1,0 +1,20 @@
+What is benny in the following Linux command? $ ssh benny@blanco.cs.wisc.edu Assume: the command works for the user typing it.
+Will the following program cause compile error?  Note: Employee is in the Employee.java file and EmployeeMain is in the EmplyeeMain.java file public class Employee { private int id; private String name; public Employee(int _id) { id = _id; } public Employee(String _name, int _id) { name = _name; id = _id; }} public class EmployeeMain { public static void main(String[] args) { Employee employee = new Employee(); }}
+This modality uses an xray tube that circles the patient.
+Depolarization is a(n)
+Which is not a chemical substances capable of killing pathological microbes?
+Which process or event immediately follows the consumption of oxygen during aerobic cellular respiration? i.e. Why is the oxygen no longer available?
+Interpret this ABG: 7.25/58/22
+Let S = { 4, 9, 12} be a sample space associated with an experiment. List all the events of this experiment. a) How many subsets of S contain the number 12? [answer1] subsets   b) How many subsets of S contain either the number 9 or the number 12? [answer2] subsets
+PART 1: There are 12 Multiple Choice questions worth a total of 99 points
+A "shoulder separation" involves dislocation of _________.
+A(n) ______ is the window you use to build a program and that will be displayed on your screen when you execute the program.
+New Caledonian crows do not use stone tools in the wild __________________ in captivity.
+Bacteria may share genes through which of the following processes:
+If explicit costs equal $40,000, implicit costs equal $95,000, and accounting profit equals $23,000, it follows that total revenue equals __________ and economic profit equals __________.
+Suppose you are told that the demand for Kentucky Bourbon is relatively inelastic. Then, a 10% decrease in the price of Kentucky Bourbon will cause:
+Which of the following terms describes justification?
+The flow pattern of two materials that enter the exchanger at separate ends and flow against each other is a ______________ flow?
+Which of the following is an example of a liability account?
+When considering logistics decisions, one should consider:
+Which food group is a good source of niacin?

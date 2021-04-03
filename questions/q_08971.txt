@@ -1,0 +1,20 @@
+What is the output of the following program? Assume classes are in separate java files public class Access{ public int x; public int y; public void cal(int a, int b) { x = a + 1; y = b; }}public class Access_specifier{ public static void main(String args[]) { Access obj = new Access(); obj.cal(2, 3); System.out.println(obj.x + " " + obj.y); }}
+The New Deal (1932-1938) implemented countless economic, social, and political reforms in order to address problems in the United States.  Many of those reforms remain with us today.   Identify THREE lasting reforms (i.e. they are still around today) that were implemented by the New Deal between 1932 and 1938.
+Stepparents belong in two distinct subsystems including
+What does a sommelier do?
+A nurse caring for a client that has a deep vein thrombi and is taking acetaminophen for pain.  The nurse should include which of the following in the teaching?
+Medicare is health insurance for low income people.
+Over the last 50 years, labor unions have, by in large have
+Which of the following is the best field for a radio button?
+Choose the composer for Listening Example #2.
+When our piglets are __________ days old, we will wean them and move them into the nursery.
+During morning rounds, the nurse notices blood spots on the pillow case of an 8 year old with acute lymphoid leukemia. Which lab value should the nurse be most concerned?
+What is line "C" pointing to in the figure?
+The autonomic nervous system:
+Describe three methods for measuring body composition and at least one advantage and one disadvantage for each.
+Which of the following clinical signs indicates development of impending ventilatory failure? (choose 2)
+Which of the following is accurate regarding a sinus hair?
+The kidneys must excrete water in the urine because
+Veins physically located within large muscle groups undergo compression as the muscles surrounding them contract, and they become decompressed as the muscles relax. Therefore, with normal cycles of contraction and relaxation, the veins are alternately compressed and decompressed pushing blood back to the heart.     What is being described in this statement?
+Your best friend says, "If you study hard, you'll get an A on the exam." This is an examples of a _____.
+Fiber forming natural and synthetic polymers have which of the following properties? (Mark all that apply)

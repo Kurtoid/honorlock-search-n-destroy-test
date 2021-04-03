@@ -1,0 +1,20 @@
+Explain the differences in meaning between the sentences below. (a) She is cooking dinner tonight.  (b) She is going to cook dinner tonight.
+If statement A is true and statement B is false, what is the truth value for A - B?
+Select all that is correct using the code snippet given below.  Assume that the class ,main method and variables have all been declared.    ...       switch (input)      {         case "A":            System.out.println("The cost per pound is $4.25");            break;         case "B":            System.out.println("The cost per pound is $4.60");            break;         case "C":         case "D":            System.out.println("The cost per pound is $4.97");            break;                default:            System.out.println("Please enter a valid category:n");
+In a periodic inventory system, purchases of merchandise on account are recorded by debiting
+Regarding vitamin D:
+The molecular geometry of the compound CH2Cl2 is ______________.
+Some passages of Scripture say that God "repents." Give an example (at least a reference to the episode), and explain the apparent contradiction with God's immutability?
+Give the decimal and percent equal to the fraction  Make sure to label which answer is the decimal and which is the percent. Decimal:  Percent:
+Match the hormone with its appropriate function.
+The nurse is working at the battered women's shelter and caring for a client who is in a violent and abusive relationship.  The client says, "What do you think about me leaving my spouse?"  Which of the following is the best response by the nurse?
+15                       /                       20        30                /           /                  21    40  32     31             /             35       a. The array representation of this heap is [original] b.  The array representation after 6 is inserted is [insertion]   Type your answers as numbers separated by spaces.  You may assume the heap starts at index zero and give an answer such as  1 2 3  OR type an answer such as  blank 1 2 3
+A patient with a blood pressure of 120/75, a pulse rate of 40 beats/minute, a stroke volume of 70 mL/beat, and a respiratory rate of 25 breaths/minute will have a cardiac output of
+Which of the following numbers is represented in words below?  ciento veintinueve
+Low cAMP levels indicate high glucose levels in the cell.
+For a related samples t-test, the null hypothesis states _____.
+This is a picture of Obelia.  What class does it belong to?
+What is the most hated font on the internet?
+The nurse is explaining to a student the effect sodium has on water in the body. Which statement by the student indicates understanding?
+A class that represents the most general entity in an inheritance hierarchy is called a/an ____.
+August 28th, 1963 is the day

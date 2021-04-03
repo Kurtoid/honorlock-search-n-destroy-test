@@ -1,0 +1,20 @@
+Changing Velocity with Position One advantage to using the velocity blocks inside conditionals (if blocks) is that your sprite keeps moving, even after the condition stops being true. For example, you only had to press a key once to launch your fly bot, and it kept flying forever. The code below uses if statements to make a fish sprite move in different directions.  var fish = createSprite(200, 200);fish.setAnimation("fishR");fish.velocityX = 2; function draw() {background("blue"); // if fish reaches left edge, fish moves right.if (fish.x < 0) {fish.setAnimation("fishR");fish.velocityX = 2;}// if fish reaches right edge, fish swims left.if (fish.x > 400) {fish.setAnimation("fishL");fish.velocityX = -2;}drawSprites();}  Do This  Look at if statements that check the sprite's position and set its velocity. Write what you think the code will do
+Over the ocean, the amount of evaporation is _____
+Crossing Over occurs in both prophase I & II of meiosis
+In the mid 1920s, the United States experienced an economic depression caused by increased immigration and scarcity of jobs.
+The following images are four plants from Greenhouse Tour #1. For each, give a name (any one of the following: common, genus, family), the biome it comes from, and an adaptation to that biome that is seen in the greenhouse plant.
+The chemical formula Al2O3 indicates:
+When you complete your multiple choice assessment in MML the remote proctoring software must remain running at all times. You will see the video camera running in the corner, even when you leave the Canvas platform to take your exam. Click below to confirm that you understand and agree to these guidelines.
+The Joint Commission's national Speak Up(r) campaign encourages patients to become active and informed participants on the healthcare team. The goal is to:
+The first sample from an independent-measures study has n = 4 with SS = 100. The second sample has n = 8 and SS = 140. What is the pooled variance?
+The Influenza virus is a member of this domain.
+The seller of unimproved property provides the Sellers Disclosures?
+There is good evidence that somatotopy exists in different regions of the brain. However, evidence suggests that which of the following is not somatotopically organized:
+Which of the following can be used to synthesize the heptoses in lipopolysaccharide (LPS)?
+Match each of the definitions with the appropriate pathology name.
+Austrian physician                     developed a method of gentle rhythmical massage along the surface lymphatics, accelerating lymphatic system function and treating chronic lymphedema.
+In North America, which of the following populations is most susceptible to deficiencies of multiple B-vitamins?
+Lovastatin 30mg po every day with food. Available:Lovastatin 0.03g. How many tablets will you administer per dose? NUMBERS ONLY!
+For each mole of glucose (C6H12O6) oxidized by cellular respiration, how many moles of CO2 are released in the citric acid cycle?
+The evolution of eukaryotic cells most likely involved ________.
+In direct digital detectors, the electronic readout of signal is accomplished by the

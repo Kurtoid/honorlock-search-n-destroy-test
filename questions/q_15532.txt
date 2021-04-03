@@ -1,0 +1,20 @@
+What is the output of the following looping structure? int i = 1; while (i < 3) {      int k = 0;      while (k < 3)      {           printf("%d ", k);           k = k + 1;      }      printf("%d ", i);      i = i + 1; }
+What would be the predicted charge on a boron ion?
+An ad campaign that stresses the importance of wearing a seatbelt when driving or riding in a car is an example of which of the following?
+The values in the following matrix are treatment means from a two-factor study. One of the means is missing. What value for the missing mean would most likely result in main effect for factor A but not factor B?          B1   B2     A1   12   13     A2   8   ?
+Stephen wants a new iPhone he saw in the local electronics store, but he doesn't have enough money to pay for it. Which structure of Stephen's personality would urge him to take the iPhone while no one in the store was looking?
+When the nurse is teaching a parent class about immunizations, which of the following immunizations would prevent meningitis?
+A patient hospitalized with pneumonia is disoriented and confused 3 days after admission. Which information indicates that the patient is experiencing delirium rather than dementia?
+A transgenic organism has DNA from multiple sources.
+What phenomenon happens immediately after full voltage is applied to start a motor?
+The full-employment unemployment rate means an unemployment rate of about:
+Which of the following represents the correct sequence of hierarchical taxonomic categories?
+A nurse is assessing a woman is complaining about sore nipples 48 hours after delivery. Which of the following are risk factors for sore nipples? (Select all that apply.)
+3.7   Why has the writer used a colon in the sentence below: After many unsuccessful journeys, they were convinced that El Dorado must lie somewhere where they have not yet searched: between the Orinoco and Amazon rivers.   (1)
+I have a bony skeleton, a 2-chambered heart, a mucous covered body surface, and most members of my group have a swim bladder. What type of animal am I?
+A client's assessment and diagnostic testing are suggestive of acute pancreatitis. When the nurse is performing the health interview, what assessment questions address likely etiologic factors? Select all that apply.
+To find the distance across a small lake, a surveyor has taken the measurements shown. Find the distance across the lake using this information. (Assume points A and B are exactly along the shoreline, and that a = 2.92 miles and b = 3.36 miles. Round your answer to two decimal places. Do not type the unit.)
+The major product(s) for the reaction below should be [product] occurring from [mech] mechanism(s).
+The community health nurse knows it is part of the national agenda to decrease obesity rates in children. What is an example of a tertiary intervention to address this issue?
+Which of the following best describes the region labeled "B"?
+On what does the range of a singer's voice depend?

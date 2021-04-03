@@ -1,0 +1,20 @@
+What does i_curr represent in the following code.  __global__ void merge_basic_kernel(int* A, int m, int* B, in n, int* C){ int tid = blockIdx.x*blockDim.x + threadIdx.x; int k_curr = tid * ceil((m+n)/(blockDim.x*gridDim.x)); int k_next = min( (tid+1)*ceil((m+n)/(blockDim.x*gridDim.x)), m+n); int i_curr = co_rank(k_curr, A, m, B, n); int i_next = co_rank(i_next, A, m, B, n); int j_curr = k_curr - i_curr; int j_next = k_next - i_next; merge_sequential(&A[i_curr], i_next - i_curr, &B[j_curr], j_next - j_curr, &C[k_curr];}
+The actual amount of matter an object contains is:
+The maximum amount of time that a minor has to disaffirm a contract is:
+A pint is 2 cups, therefore ____ teaspoons.
+Which of the systems listed below is responsible for increasing heart rate when we are scared or injured?
+What is formed by the union of the ampulla of vas deferens and duct of seminal vesicle?
+The example of the transposability of melodies as a Gestaltqualitaten or form quality was stated by which precursor to Gestalt Psychology?
+Which passage is most relevant to the preservation of the written word of God?
+Which of the following statements accurately describes the second Ku Klux Klan?
+the repetition of the initial consonant sound at the beginnings of nearby words, such as "descending dewdrops".
+Which of the following is an antagonist for plantar flexion?
+__________ refers to the change that family members make in social class from one generation to the next.
+What percentage of children in the United States between the ages of 5 and 12 spend some time alone after school without adult supervision?
+A certain culture of the bacterium Rhodobacter sphaeroides initially has 40 bacteria and is observed to double every 6 hours. (a) Find an exponential model   n(t) = n02t/a   for the number of bacteria in the culture after t hours. (Answers are whole numbers.)  [1] [2] (b) Estimate the number of bacteria after 16 hours. (Round your answer to the nearest whole number.) Answer is [3] bacteria. (c) After how many hours will the bacteria count reach 1 million? (Round your answer to one decimal place.) [4] hours.
+Jenny is considering choosing not to immunize her newborn son due to a suggested link between a mercury-based preservative used in vaccines and autism. Jenny should know that large-scale studies show __________ association with autism and __________ effects on cognitive performance.
+Chain ganglia are part of the
+Grief in the elderly:
+The payoff from writing a call option is:
+For the following 5th order equation    its characteristic equation          has solutions      A fundamental set of solutions of the 5th order  equation is
+A DPT completes a PROM movement testing on a patient with a knee pathology. Assuming a NORMAL end-feel, which of the following classifications would be MOST consistent with knee extension?

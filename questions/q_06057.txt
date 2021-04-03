@@ -1,0 +1,20 @@
+A recently discovered bacterium carries out ATP synthesis coupled to the flow of electrons through a chain of carriers to some electron acceptor. The components of its electron transfer chain differ from those found in mitochondria; they are listed below with their standard reduction potentials (E'deg).     Oxidant   Reductant    E'deg(V)      NAD+    NADH   -0.32     flavoprotein b (FPb)(oxidized)   flavoprotein b (FPb) (reduced)   -0.62     cyt c (Fe3+) (oxidized)   cyt c (Fe2+) (reduced)   +0.22     Fe-S protein (Fe-S) (oxidized)   Fe-S protein (Fe-S) (reduced)   +0.89     flavoprotein a (FPa) (oxidized)   flavoprotein a (FPa)(reduced)   +0.77     The electron carriers are most likely to act in carrying electrons in the order:
+Describe the mechanism by which phototropism takes place and the role of auxins.
+For the Dining Philosophers Problem (DPP) with 5 Philosophers discussed in class, the following code segment can represent the actions of a philosopher, where chopstick[i] is the semaphore representing the ith chopstick. Assume there are 5 semaphores, each representing one chopstick in the system.  do { wait (chopstick[i] );wait (chopStick[ (i + 1) % 5] );// eatsignal (chopstick[i] );signal (chopstick[ (i + 1) % 5] );// think} while (TRUE); Referring to DPP as described above, What are the initial values of semaphore array chopstick[5]?
+Match the following sentences with the appropriate words. Note each word can only be used once. Four words are not needed. Word List: ancient    as far as we know    claustrophobic    disturb    excerpt    facility    income    isolation    permanent    range    reject    uneasy    vehicle    virtual
+Name two things that can affect the pulse oximetry reading:
+Cross presentation is observed when an extracellular pathogens peptide is bound and presented by an MHC Class I molecule.
+The spring constant of the spring is closest to
+In one sentence, give one of the principles or parts of the Cell Theory.
+How does the phrase "Respect is always due to all creatures" illustrate the indigenous worldview?
+Identify the cerebral lobe labeled "D"
+To recognize that a face seen in a mirror is his or her own, a child must have a
+An inflammatory response is activated when   _____
+The energy levels of the hydrogen atom (and all atoms) are ____, meaning that only certain discrete energy levels are allowed.
+The migration of phagocytes and white blood cells to an inflamed area along a chemical gradient is called:
+Determine the mole number (i.e., number of moles) of N2 (kmol).
+Much Ado about Nothing Before the men return from the war, Beatrice is already speaking about Benedick.
+What type of shock can result from a severe reaction to the contrast media used in sonographic or radiographic examinations?
+The meter is a strong weak pattern repeated again and again.
+33. Television viewing contributes to obesity in the following ways EXCEPT
+Figure 1 shows three different loops in the program and how they progress over time in the frequency domain.    Frequency of the first loop is f1=100 MHz, frequency of the second loop is f2=50 MHz, and frequency of the third loop is f3=75 MHz.  Calculate how much time it takes to complete one iteration of each of three loops. Calculate spacing between two blue lines in the spectrogram marked as x.

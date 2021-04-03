@@ -1,0 +1,20 @@
+Federal judges are ___________.
+The equilibrium quantity of labor decreases and the equilibrium wage increases when:
+You have a file Cat.java and you have a driver class named Driver.java. Fill in the correct visibility modifiers so that the comments in the main method are upheld.  public class Driver {     public static void main(String[] args) {         Cat t = new Cat();         // each of the lines below is run independently         System.out.println(t.age);    // compiles and runs         System.out.println(t.isKitten); // compiles and runs         System.out.println(t.getIsKitten()); // compile error     } }  ------ in a separate file in a different package/directory ---------  public class Cat {         1   int age;        2   boolean isKitten;        3   boolean getIsKitten() {         return isKitten;     }     /** no-argument constructor implemented **/ }    1  :[vis1]   2  :[vis2]   3  :[vis3]
+All of the following are formed elements of blood EXCEPT:
+In the time that a single smooth muscle cross bridge cycle will expend 2 ATP, that from a skeletal muscle cross bridge cycle will expend  [NUMBER] ATP.  Hence, smooth muscle is energy conserving.
+A plane that divides the body into superior and inferior parts is known as a:
+Which of the following clinical situations would warrant hospitalization of a child with a UTI? Select all that apply.
+Which of the following statements about He are true?1. It is an inert gas.2. It is odorless.3. It is nonflammable.4. It is heavier than air.
+I finished my quiz and I am ready to submit it.
+You are the respiratory therapist giving a report to the oncoming shift about the patients of which you provided respiratory therapy.  Which of the following information do you think would be relevant to report?
+This disease is caused by single stranded negative sense RNA paramyxovirus which causes fever and rash, complications can include encephalitis and death, used to be common childhood illness with millions of cases per year until effective vaccine developed in 1960s.
+List two (2) examples of Assistive Technology for Dressing, Grooming, and Personal Needs. (0.5 points each)
+Which of the following is a pigment used in photosynthesis?
+In which type of circuit does the battery life tend to be shorter because the voltage is the same across all resistors?
+In instructional objectives, the behavior must be overt, observable, measurable.
+Which one of the following is considered the most important piece of information to include on a specification?
+Question about the reading: What do both parents often do these days?
+What causes SIDS?
+The Equal Pay Act of 1963 makes it illegal for an employer to discriminate on the basis of
+Identify the specific substance contained in letter E.

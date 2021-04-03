@@ -1,0 +1,20 @@
+Which toys should a nurse provide to promote imaginative play for a 3-year-old hospitalized child? Select all that apply.
+Of the following types of joints, which type occurs only in the skull? a. Sutureb. Ball and socketc. Hinged. Symphysis
+Read the following scenario and answer the questions accordingly (there are 4 questions for this specific scenario). You are walking up a popular canyon trail on a cool fall afternoon. You hear some call for help farther up the trail, near a cliff. You jog up the trail and find a hiker bent over another person at the base of a cliff. The hiker says the person lying motionless fell about 20 feet while climbing the cliff with no ropes or harness. There are no obvious signs of injury. The person appears to be breathing and has not serious bleed to be seen.  True or False - You should suspect spinal injury.
+In the text by Guest, the discussion of machismo in Latin America indicates that:
+Consider the following table EXAM_RESULTS:    STUDENT_ID FIRST_NAME LAST_NAME EXAM_ID EXAM_SCORE   10 LAURA LYNCH 1 90   10 LAURA LYNCH 2 85   11 GRACE BROWN 1 78   11 GRACE BROWN 2 72   12 JAY JACKSON 1 95   12 JAY JACKSON 2 92   13 WILLIAM BISHOP 1 70   13 WILLIAM BISHOP 2 100   14 CHARLES PRADA 2 85    What SQL statement do we use to find the name of all students who scored better than 90 on the second exam (EXAM_ID = 2)?
+Master data is data about:
+FACTOR the polynomial completely. Type your answer using NO SPACES.xy - 4yz + 12x - 48z
+70. To recenter a GP lens, the patient should:
+The redshift in the spectral lines of distant galaxies indicates that the universe is shrinking.
+Education to patients using drugs to treat insomnia should include an emphasis on what important issue?
+Certain cells in the brain fire both when an animal performs an action and when it watches that action performed. These cells are called:
+When preparing the operating activities section of the statement of cash flows using the indirect method, decreases in current operating assets are subtracted from net income.
+Functional foods may provide health and wellness benefits.  Provide 3 examples of functional foods, their bioactive component (what is in the food associated with health) and the health benefit associated with that food/bioactive component.
+Why are sensor measurements generally considered conditionally independent given the robot position?
+INSTRUCTIONS: Fill in each sentence with the past continuous form of the modal in parentheses.   Ex: His bodyguards should have been protecting (should / protect) him.        The candidate ____________________ (might not / tell) the truth.
+RNA polymerase binds to the _______ of a gene to begin transcription.
+If 35% of the bases in a region of the mouse genome are cytosine, what percentage in that region are adenine?
+These muscles have a convergent arrangement of their fascicles.
+Misty Moore worked in sales and marketing for which major hotel brand?
+What is the output of the following code? double[] myList = {12, 3, 6, 23, 5, 7, 23};double max = myList[0];int indexOfMax = 0;for (int i = 1; i < myList.length; i++) {  if (myList[i] > max) {    max = myList[i];    indexOfMax = i;  }} System.out.println(indexOfMax);

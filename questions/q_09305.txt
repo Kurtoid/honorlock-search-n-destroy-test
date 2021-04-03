@@ -1,0 +1,20 @@
+What characteristic is NOT descriptive of cardiac muscle tissue?
+TCRs are only found bound to the membrane and hence do not have a secreted form.
+Helena takes the subtests of the Wechsler Intelligence Scale for Adults (WAIS). She will take all but which of the following?
+What are the four reactions in aerobic respiration?  Where do they occur? List two ways these reactions differ for plants than animals? (6 points)
+What... is your quest?
+4. Decision Trees (12 points)  We have used a greedy one-step lookahead for growing decision trees: we pick a new node to add by looking at the remaining attributes and choosing the one with the greatest information gain. Let's call Gain(a,d) the information gain function, where a is an attribute and d our data set. Imagine that we instead used a two-step lookahead. Rather than pick a single node to add to our tree we are allowed to choose a node and its children simultaneously. We define a new information gain measure, Gain2(a,l,r,d), that computes the information gain of the attribute combined with the information gain of the best children that could follow it. In other words, we find a, l, and r that maximize Gain2(a,l,r,d) = Gain(a,d) + Gain(l,pos(d,a)) + Gain(r,neg(d,a)). Here pos(d,a) and neg(d,a) return the subset of data in d where attribute a is positive and negative, respectively, and Gain2 is reasonably defined when a, l, r and/or d are empty. This defines a mini tree (much like class Hs2 except that the children of a maybe different) that we then add to our decision tree. (a) Is this a richer hypothesis class? Why or why not? (b) What are some advantages and disadvantages of this alternate approach? Clearly mark your answers with (a) and (b).
+Identify G
+Which does not occur within an organelle?
+It takes 185000 J of work to accelerate a car from 23.0 m/s to 28.0 m/s. What is the mass of the car?
+A smart home does not use a voice command by devices such an Amazon's Alex. True or False?
+Which of the following have cell walls containing teichoic acids?
+In connection with this painting, describe the meaning of Xenia in a sentence or two.
+True or False: Most sexual harassment cases are managed through mediation and not litigation
+43. A nurse is collecting data for a client who has been receiving parenteral morphine 10 mg every 4 hours for the past week due to a serious traumatic injury to the pelvis and lower extremities. The client is awake and alert but states that the morphine no longer seems to be relieving their severe pain. Which phenomena is the client experiencing?
+Which of the following is not one of the core values of the BBC?
+What is the function of testosterone in males?
+Describe two differences between mitosis and meiosis. Be specific.
+The advantages of computer-mediated relating include EXCEPT...
+Which of the following is not a type of flow?
+Oedipus the King  What does Teiresias tell the king?

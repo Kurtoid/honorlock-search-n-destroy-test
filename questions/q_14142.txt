@@ -1,0 +1,20 @@
+During the physical examination for the first prenatal visit, it is noted that Chadwick's sign is present. This refers to the:
+For fill-in-the-blank & definition questions, these should be answered with the appropriate 1-2 word term. These will be autograded based on exact spelling, but I will go through and adjust the scores answers that are close enough. If you need to leave a comment about a FITB question to explain your thought process, please do so below.
+Most orchids are epiphytes, they grow on other plants and use them for support but do not harm them. Orchids gain their resources from the atmosphere and do not provide their plant hosts with nutrients. Would you classify the symbiotic relationship between orchids and the plants they grow on as mutualism, commensalism, or parasitism? Explain
+The nurse is in the room with a client receiving a local anesthetic.  Which equipment should be close by?
+The perinatal nurse providing care to a laboring woman recognizes a non-reassuring fetal heart rate tracing. Which of the following is the most appropriate initial action by the nurse?
+24. Which strand of DNA in the diagram below represents the coding strand, A (=top DNA strand) or B (=bottom DNA strand)? (Note: the DNA and RNA strands are correctly aligned and in the correct reading frame.)
+How is it possible for single-stranded RNA to fold into complex shapes?
+What is the density of copper if 11.8 cm3 of copper has a mass of 105.2 g?
+________ is a more polar bond than H - C.
+A person inherits an extra copy of chromosome 21 from their mother. This could be due to
+The primary function of ________ is to support cell and tissue growth, maintenance, and repair.
+The gate-control theory attempts to explain how:
+Sherburne Snow Removal's cost formula for its vehicle operating cost is $2,510 per month plus $371 per snow-day. For the month of March, the company planned for activity of 18 snow-days, but the actual level of activity was 17 snow-days. The actual vehicle operating cost for the month was $8,460. The vehicle operating cost in the flexible budget for March would be closest to:
+Use the code below to answer items 22 - 23. Assume all necessary imports.  public static void loopingWithArrays(char option) { int[] firstArrayOfNumbers = {1, 2, 3, 4, 5}; int[] evens = {2, 4}; int[] odds = {1, 3, 5};  switch(option) { case 'a': for (int i = 0; i < firstArrayOfNumbers.length; i++) { System.out.println(firstArrayOfNumbers[i]); }  break; case 'b': int secretValue = 0;  for (int i = 0; i < evens.length; i++) { for (int j = 0; j < firstArrayOfNumbers.length; j++) { if (evens[i] == firstArrayOfNumbers[j]) { secretValue++; } } }  System.out.println(secretValue); break; } }
+Being accepted by the peer group is of vital importance to 3-year-olds.
+During spermiogenesis _____.
+Clonal expansion causes which of the following to occur?
+In the diagram of the humerus below, which is the lateral epicondyle?
+A bystander physician who assists the paramedic at the scene is not required to accompany the patient in the ambulance unless the physician
+The type of involuntary muscle tissue surrounding internal organs, other than the heart, is:

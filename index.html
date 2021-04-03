@@ -1,0 +1,107 @@
+<html>
+
+<head>
+    <script src="/js/jquery.js"></script>
+    <script type="text/javascript" src="/js/jquery.lazy.js"></script>
+    <!-- <script type="text/javascript" src="/js/jquery.visible.js"></script> -->
+    <script type="text/javascript"
+        src="https://cdnjs.cloudflare.com/ajax/libs/jquery.lazy/1.7.10/jquery.lazy.plugins.min.js"></script>
+    <style>
+        p {
+            margin-bottom: 16px;
+        }
+
+        .not-loaded {
+            height: 10em;
+        }
+
+        .next {
+            display: block;
+        }
+
+        .queued {
+            display: none
+        }
+    </style>
+</head>
+
+<body>
+    <!-- <div class="lazy not-loaded" data-loader="questions" number=0 src=""></div> -->
+    <script>
+        // https://stackoverflow.com/a/11187738/
+        Number.prototype.pad = function (size) {
+            var s = String(this);
+            while (s.length < (size || 2)) { s = "0" + s; }
+            return s;
+        }
+        // shuffle
+        function shuffle(a) {
+            var j, x, i;
+            for (i = a.length - 1; i > 0; i--) {
+                j = Math.floor(Math.random() * (i + 1));
+                x = a[i];
+                a[i] = a[j];
+                a[j] = x;
+            }
+            return a;
+        }
+        const numFiles = 17376;
+        const numbers = shuffle([...Array(numFiles).keys()]);
+        for (var j = 0; j < numbers.length; j++) {
+            const i = numbers[j];
+            var myDiv = document.createElement("div");
+            if (i == 0) {
+                myDiv.setAttribute('class', 'lazy not-loaded');
+            } else if (i == 1) {
+                myDiv.setAttribute('class', 'lazy not-loaded next');
+            } else {
+                myDiv.setAttribute('class', 'lazy not-loaded queued');
+            }
+            myDiv.setAttribute('data-loader', 'questions');
+            myDiv.setAttribute('number', i);
+            myDiv.innerHTML = "loading...";
+            document.body.appendChild(myDiv);
+
+        }
+        //*
+        $(".lazy").Lazy({
+            visibleOnly: true,
+            // delay: 250,
+            // bind: 'event',
+            // callback
+            beforeLoad: function (element) {
+                console.log("start loading " + element.prop("tagName"));
+            },
+
+            // custom loaders
+            questions: function (element, response) {
+                // console.log(element);
+                var num = Number(element.attr("number"))
+
+                var url = '/questions/q_' + num.pad(5) + ".txt";
+                console.log("fetching file " + url);
+                fetch(url)
+                    .then(function (response_data) {
+                        console.log("got file");
+                        response_data.text().then(function (text) {
+                            var questions = text.split("\n");
+                            var question_block = ""
+                            questions.forEach((q) => {
+                                var url = "https://www.google.com/search?q=site:quizlet.com \"" + q + "\"";
+                                url = encodeURI(url);
+                                question_block += "<p><a href=" + url + ">" + q + "</a></p>";
+                            })
+                            element.html(question_block);
+                            element.removeClass('not-loaded');
+                            $("[number=" + (num + 1) + "]").removeClass("queued");
+                            $("[number=" + (num + 1) + "]").addClass("next");
+                            response(true);
+                        });
+                    });
+            }
+        });
+        //*/
+    </script>
+</body>
+
+</html>

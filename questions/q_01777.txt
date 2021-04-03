@@ -1,0 +1,20 @@
+A patient is being ventilated in PRVC mode.  The targeted tidal volume is set for 400ml.  The returned tidal volume from the previous breath is 425ml.  What changes to the next breath will be made?
+In regard to the NATA Position Statement (Cervical Spine), spinal realignment to neutral is contra-indicated for which of the following?
+Which of the following minerals should NOT be supplemented in patients with end stage liver disease?
+23.  Any formal organization of individuals or groups that seeks to influence government to promote their common cause, is called a/an:
+The instrument used to monitor neural function measures ________ and is called an ________.
+Centrosomes are unique to ________ cells.
+Going from proximal to distal, the bones of the upper extremity would be:
+What is the name of this cathedral?
+A term that means pertaining to the windpipe and the bronchi is:
+What process is necessary to create a unified progression of a movie?
+The cubital or elbow joint is an example of a ________ joint.
+For a healthy snacks company, which forecasting method below best supports the brand manager's belief that unemployment rate, CPI (Consumer Price Index) and PPI (Producer Price Index) will continue to be the most helpful predictors for demand next quarter?
+On abdominal evaluation the examiner notes a positive Rovsing's sign. What is the proper technique to elicit this sign? Examiner('s) ________ .
+Name structure #7 and structure #8.
+Which of the following statements is true about nonverbal communication?
+In horseshoe crabs, some males will find and grasp females that are heading towards a beach to lay their eggs, while other males will swim onto the beach alone and approached paired couples as a satellite male. Typically, males that are currently in better physical condition are better able to successfully find and hold females, while males in poorer physical condition are more likely to behave as a satellite. What type of alternate mating strategy system is this? (i.e. How are alternate male strategies determined in horseshoe crabs?)
+If a constant number is added to a set of data, how is the standard deviation affected?
+Which of the following is associated with the Sahara or the Arabian Desert?
+What is the action of the muscle labeled # 1?
+clockType-hr: int-min: int-sec: int+setTime(int, int, int): void+getTime(int&, int&, int&) const: void+printTime() const: void+incrementSeconds(): int+incrementMinutes(): int+incrementHours(): int+equalTime(const clockType&) const: boolConsider the UML class diagram shown in the accompanying figure. Which of the following is the name of the class?

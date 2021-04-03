@@ -1,0 +1,20 @@
+The mass number of an ion that consists of 38 protons, 50 neutrons and 36 electrons is:
+Under the terms of the plan as written and in operation, the process, strategies, evidentiary standards or other factors used in applying the non-quantitative treatment limitation to mental health and/or substance use disorder benefits are comparable to no more stringent to those used in applying the non-quantitative treatment limitation to medical and surgical procedure.
+A CUDA kernel processes an mxn image where m is the vertical or y direction and n is the x or horizontal direction.  Suppose that m=600 and n=800 and we decide to use a grid of 16x16 thread blocks for the calculation with one thread per pixel.  How many warps will experience control divergence?  __global__ void PictureKernel(float* d_Pin, float* d_Pout, int n, int m) {    // Calculate the row # of the d_Pin and d_Pout element to process    int Row = blockIdx.y*blockDim.y + threadIdx.y;    // Calculate the column # of the d_Pin and d_Pout element to process    int Col = blockIdx.x*blockDim.x + threadIdx.x;    // each thread computes one element of d_Pout if in range    if ((Row < m) && (Col < n)) {        d_Pout[Row*n+Col] = 2*d_Pin[Row*n+Col];    }}
+From the perspective of increased radiation safety, why is it best to place the x-ray tube end of the C-arm under the table and the image intensifier over the table whenever possible?
+Organisms that must absolutely avoid oxygen in order to metabolize are called ...
+A soil horizon with low value is likely to be ______________.
+Which term means closer to the point of origin (closer to the trunk of the body)?
+Farmer Ashley produces oranges. She sells half of her inventory to people at her roadside stand for $5,000 and sells the other half to Tropical Juice Co. for $10,000. Tropical Juice Co. uses the oranges to make orange juice, which it sells to consumers for $15,000. The impact of these transactions on gross domestic product (GDP) is ________.
+A circle has a diameter of 81.992 meters.  Determine the area of the circle.
+Plagiarism
+Order: cephalexin 0.5 g, PO, q6h.  Drug available:How many capsules would you give?Answer: ________________________________________________________.
+The monoamine hypothesis of depression proposed that mood disorders resulted from _____ amount of monoamines in the brain.
+Plantarflexion is the process of how the ankle joint functions. In this situation, the ankle will
+Identify the layer of the organ indicated by arrow "B".
+Components of the GCS the nurse would use to assess a patient after a head injury include
+Persons with protruding ears should wear their hair:
+What values will the following command iterate over? for i = -25:5:1
+What are canons?
+The largest volcano ever discovered in our solar system is on which planet?
+Explain how one of the works that we read during the semester meets the characteristics of a tragic hero. Identify the work and use specific examples from the story to answer. To receive credit, your answer must be written in complete sentences.

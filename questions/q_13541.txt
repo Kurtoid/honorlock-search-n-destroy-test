@@ -1,0 +1,20 @@
+Anika is hiring for entry-level positions for a job that requires a high degree of teamwork. Applicants will go through extensive training. They need to be willing to learn new things and be conscientiousness performers as well as be sociable and sensitive to their teammates' feelings. Finally, since the job is in an in fast paced, high stress, and quick to change environment, applicants need to be able to cope well with anxiety and worry. Anika is searching for a personality test to administer. Given the needs of the job she is hiring for, which test could she use?
+If a behavior is automatized, this means that the:
+At the heart of a computer is its central processing unit. The CPU's job is:
+The speed of light in a vacuum is
+Which of the following is the BEST description of the pathogenesis/causative factor of respiratory Tuberculosis?
+A COTA is reviewing dressing techniques with a young man with paraplegia. Which of the following would be MOST beneficial for the individual?
+A deficiency in calcium or vitamin D results in soft bones, bowed legs and skeletal deformities in children. This disease is called:
+What does FTSG stand for
+Solve the linear inequality. Other than , use interval notation to express the solution set and graph the solution set on a number line.-6(2x + 6)  >  - 24
+It is possible for intramembranous ossification to occur in an unusual place due to trauma.
+List the number of sigma bonds and pi bonds in a triple bond.
+In preparing a resource list for your customers, you should consider including:
+Which of the following statements would most correctly complete the following sentence? As the interest rate on a loan increases
+What was so special about the bridge span replaced on the Columbia river?
+What role did Thiokol play in the Challenger disaster?
+The organ that delivers semen into the female reproductive tract is the
+At a Superbowl party, 75 people were asked to choose their favorite snack food.   The results are in the table below.  Based on this probability model, would it be unusual for a randomly selected person at the party to choose popcorn?       Snack   Probability     Potato Chips   0.56     Chex Mix   0.04     Popcorn   0.40
+I have successfully logged into this quiz.
+A _____ shows how data acts through an information system but does not show program logic or processing steps.
+Write all the different possible outputs of the following Java multi-threaded program:    class MultithreadingDemo extends Thread{     public void run(){         try{             Multithread.i = 1 - Multithread.i;             System.out.println (Multithread.i);         }         catch (Exception e){             System.out.println ("Exception is caught");         }     }}public class Multithread{     public static int i = 0;     public static void main(String[] args){         for (int j = 0; j < 3; j++) {             MultithreadingDemo object = new MultithreadingDemo();             object.start();         }     }}

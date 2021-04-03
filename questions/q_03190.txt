@@ -1,0 +1,20 @@
+Data Models should accommodate data constraints over time.
+29.  Identify the specific region in the eye  Centralis      Disc      Fovea      Lutea       Macula     Optic
+What independent federal agency was created to investigate and determine the root cause of major industrial accidents?
+You are evaluating a patient who awoke with flu-like symptoms. The patient complains of a loss sensation to her face's left side; which cranial nerve could be compromised?
+Which of the following production combinations in Figure 1 is impossible?
+Which of the following statements about gases is TRUE?
+Which of the following structures is NOT possessed by spiders?
+15. The trachea bifurcates into the right and left bronchi. What is the name that marks this bifurcation?
+C4. Using RX whenever possible & appropriate, write an approximate expression for
+Lacteals
+During which phase does the nuclear envelope disappear?
+Identify this blood vessel.
+All or portions may be missing
+Match the following descriptions to the correct letter in the figure:
+A particular commodity has an elasticity of 1.3 at a certain price. Select the appropriate drop-downs in each statement.  An elasticity of 1.3 means that demand is [1]. This means that the price should [2] in order to maximize revenue.  It means that for every 1% increase in price, the demand [3] by 0.8%.
+Because mutex and semaphore mechanisms are different, we can't use semaphores to implement mutex locks.
+The purpose of the equivalent-unit computation is to ___________________
+Consider the following table that represents part of the memory of a 16-bit address space that has an addressability of 2 bytes (like LC-3):    ADDRESS CONTENTS   ... ...   0x0C10 0101 0010 0111 1011   0x0C0F 0000 1000 1100 1101   0x0C0E 1100 0000 0100 0000   0x0C0D 0110 1010 0001 1111   0x0C0C 0100 0011 0111 0011   0x0C0B 0000 1100 0001 0000   ... ...    The table above shows the addresses in hex (base 16) and the contents at the corresponding address in binary (base 2). A.) Interpret the contents at address 0x0C0C as two ASCII characters. [ascii] B.) Interpret the contents at the same address as A.) above as an unsigned integer. [unsigned] C.) Interpret the contents at address 0x0C0E as an LC-3 instruction to determine the operation.(Enter either ADD, JMP, LDR, or OTHER if it is not one of the first 3) [instr1] Recall that a "pointer" is a memory location that stores an address. We call it a pointer since the address it stores "points" to another memory location. D.) Interpret the contents at address 0x0C0B as a pointer.(Enter hex like the following example: 0x2A3F) [ptrvalue] E.) What are the contents of the memory location that the pointer above is pointing to?(Enter hex like the following example: 0x2A3F) [ptevalue]   REFERENCE: Partial Table of Hex to ASCII Characters:  20 sp 30 0 40 @ 50 P 60 ` 70 p 21 ! 31 1 41 A 51 Q 61 a 71 q 22 " 32 2 42 B 52 R 62 b 72 r 23 # 33 3 43 C 53 S 63 c 73 s 24 $ 34 4 44 D 54 T 64 d 74 t Table of LC-3 Opcodes in Hex:  ADD 0x1 JMP 0xC LDR 0x6
+Caloric intake is based solely on age and gender and has no bearing on activity level.
+HN BONUS: Describe a scene or two you saw while searching for Carla Tortelli "Funniest Moments" on the YouTube. I recommended this in celebration of the actress Rhea Perlman's birthday yesterday. What a riot!

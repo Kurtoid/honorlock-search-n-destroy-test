@@ -1,0 +1,20 @@
+London - "To Build a Fire"  What must the man do in order to eat?
+Yeast infections are generally caused by _____.
+When Reginald calls his favorite customer late in the evening, the customer invites him to a cafe near his office. Although the customer seems tired, he sits back with his hands and legs uncrossed during their meeting. In this scenario, Reginald can interpret his customer's nonverbal communication signal as:
+Most of the effectors of the parasympathetic nervous system have ______ receptors.
+A common basis for assessing economic development is gross domestic income.
+Match the terms to their definitions.
+CPU scheduling non preemptive decisions may take place when a process:
+A woman is in preterm labor at 30 weeks gestation and she receives a glucocorticoid (Betamethasone) intramuscularly. The purpose of this pharmacologic treatment is to:
+Hematology is the study of:
+The primary spermatocyte, prior to Meiosis, contains ______ chromosomes:
+The components of a routine urinalysis are:
+Identify the following:    A organ [a]
+Which is a common characteristic of those who sexually abuse children?
+Even though there are separate genes regulating the position of male and female reproductive organs in primrose, we typically only see pin and thrum morphs in natural populations. Why is it so rare for us to find flowers with male and female organs occurring in the same position?
+Accounting Profit for Connie's Cookie Company is equal to:
+The breakdown of food into smaller particles is mostly due to:
+An emergency department nurse is triaging a 77-year-old man who presents with uncharacteristic fatigue as well as back and rib pain. The client denies any recent injuries. The nurse should recognize the need for this client to be assessed for what health problem?
+The lungfish Protopterus aethiopicus has a genome 38 times larger than that of humans. Most of the DNA in this species is noncoding repetitive DNA. What type of library would allow you to compare just the genes in lungfish to the genes in humans?
+Nearly all the mass of an atom is found in the electron cloud.
+14. Complete the line in the semaphore signal() function. signal(semaphore *S) {    if (S->value _________ 0) {      remove a process P from S->list;       wakeup(P);    }    S->value++; }

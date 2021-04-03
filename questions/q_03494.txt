@@ -1,0 +1,20 @@
+Given , the 2x2 gradient of the cost with respect to the convolutional layer , and , the 3x3 output activations of the previous layer, perform the backward pass and return , the gradient of the cost with respect to the weights  . Note that we want the resulting value at [2,2] (indexing starts at 1) of the gradient . Assume the usual convolutional layer implementation (forward pass is cross-correlation).   Note: The kernel was applied with no padding and stride=1    x11 = [x11] x12 = [x12] x13 = [x13]   x21 = [x21] x22 = [x22] x23 = [x23]   x31 = [x31] x32 = [x32] x33 = [x33]         dh11 = [dh11] dh12 = [dh12]   dh21 = [dh21] dh22 = [dh22]
+The electron transport chain
+In the condensed steam, the oil is primarily
+When an atom has one or more unpaired electrons, what can be observed experimentally?
+of the following blood pressure readings would be indicative of hypertension?
+The kind of learning that applies to voluntary behavior is ________.
+Compare and contrast the examples. Don't forget to talk about each image and the changes that have occurred. Indicate which is the earliest image and why for extra credit.
+Which of the following groups is the size of a protist but contains distinct internal organ  systems?
+For reaction 2 AlCl3(aq) + 3 Na2CO3(aq) --> Al2(CO3)3(s) + 6 NaCl(aq), answer following questions. 1. How many moles of Al2(CO3)3 can be produced from 0.660 mol of AlCl3 ? [Answer1] 2. How many mole of Al2(CO3)3 can be produced from 0.660 mol of Na2CO3 ? [Answer2] 3. Which one is the limiting reactant? [Answer3]
+27-[27] 28-[28]
+Class II major histocompatibility complexes (MHC II) can be found at the surfaces of __________.
+What structure in skeletal muscle cells functions in calcium storage? A) sarcoplasmic reticulumB) mitochondriaC) Intermediate filament networkD) myofibrillar network
+Describe the changes, if any, in kinetic and potential energy between points B and C
+Which Learning Lab Staff specializes in health sciences tutoring?
+Most smog is produced by transportation sources.
+The first real intelligence tests were developed by
+You are instructed to subtract four points from each score and find the sum of the resulting values.  How would this set of instructions be expressed in summation notation?
+Genetic birth defects are inherited through one's genes.
+What are the ABC's of checking a victim that has a chest, abdominal or pelvic injury?
+The papillary muscles attach to the cusps of the atrioventricular valves by means of the:

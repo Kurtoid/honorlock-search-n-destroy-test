@@ -1,0 +1,20 @@
+A nurse is using the critical thinking skill of evaluation. Which action will the nurse take?
+A patient weighing 75 lbs is diagnosed with juvenile arthritis and  prescribed Ibuprofen 10mg/kg/dose  Q8 hrs PRN Pain. Please calculate the dose of medicine in milligrams that this patient should take. Please round to the nearest whole number.
+Media richness theory argues that is increasingly  difficult to choose which medium to send a message because of:
+The mitotic spindle is a microtubular structure that is involved in _____.
+The best advice to give a mother of a newborn who wants her baby to recognize her is:
+which of the following characteristics are NOT unique properties of muscle tissue?
+Which of these molecules is a tertiary amine?
+An experiment consists of rolling a die and then spinning a spinner with three equal sections.  How many possible outcomes are in the sample space?
+Which of the following compounds have trigonal pyramidal molecular geometry?
+Complementary base pairs in a DNA molecule are held together by ____ bonds.
+In your supplemental reading, in one of the African myths and tales', the price of seeing God brought the consequence of women now having to serve men
+Show the output of the following code: import java.util.*;public class Test1 {  public static void main(String[] args) {     String[] colors = {"blue", "yellow", "red"};      List list = Arrays.asList(colors);     Collections.sort(list, new MyComparator());      for (String s: list) {       System.out.println(s.toUpperCase());     }    }   static class MyComparator implements Comparator {   @Override    public int compare(String s1, String s2) {      return s1.length() - s2.length();    }  }}
+Which of the following specialty items would not likely be found in the cardiothoracic operating room?
+The thalamus, hypothalamus, and epithalamus collectively constitute the ________.
+Which definition(s) of the money supply include(s) only items that are directly and immediately usable as a medium of exchange?
+The epidemiologic triangle is based on the communicable disease model and is useful in showing the interaction and interdependence of certain factors. Which of the following best describes the Host?
+Financial statement analysis applies analytical tools to financial statements and related data for making business decisions.
+A person is on aspiration precautions. Which of the following does the nurse assistant recognize when giving care?
+Two adjacent angles are complementary.  One angle has a measure of
+Propose an efficient retrosynthesis for the following transformation. Draw all intermediates. SUBMIT YOUR WORK TO POST-FINAL WITHIN 10 MINUTES OF COMPLETING FINAL.

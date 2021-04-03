@@ -1,0 +1,20 @@
+The hormone ADH stimulates the kidneys to conserve water.
+When the compound on the left is converted to the compound on the right, which type of chemical change has occurred?
+Freud's superego concept is believed to be developed in a child between___________ of age.
+30) The function of sunlight in photosynthesis is to
+Question about the reading: What is the main idea (thesis) of the above reading? Write it in one or two sentences, using your own words. (2 points).
+Bile is produced by the ____ and stored by the ____ until it drains into the _____.
+Michael Jordan's career free throw percentage is 74%. That means that he makes 74% of his free throws. Let's consider his next four free throws. Calculate the following probabilities. Round your answers to the nearest thousandth. Make sure to label each answer as part A, B, or C so I can tell which answer goes to each part. A. P(makes the next 4) = __________ B. P(misses the next 4) = __________ C. P(makes at least one of the next 4) = ________
+Suppose myArray is declared in the main method and then passed into a method myMethod as shown below. After myMethod completes and returns to main what would be the result of printing each element in the array separated by a space?     public static void main(String[] args) {       int[] myArray = new int[5];        myMethod(myArray);       for (int i : myArray) {          System.out.print(i + " ");       }    }    public static void myMethod(int[] integerArray)    {       integerArray[0] += 1;    }
+The somatic senses enable us to detect sensations such as
+An object weighs 600N on the surface of the Earth.  How much will it weigh on the surface of Mars? (For Mars M = 6.4 x 1023kg and R = 3.4 x 106m).  F=GmM/R2 and G = 6.67 x 10-11
+The adrenal glands are attached superiorly to which organ?
+1.8)   The choice of accommodation is influenced by the following factor/s:   (1)
+The laboratory of Dr. Y has just generated a male and female mouse deficient in NADPH phagosome oxidase enzyme complex. These mice were mated such that a lineage of mice lacking NADPH phagosome oxidase complex were generated. With the following results would you NOT expect from the progeny?
+What is the output for the following loop? for(int i = 0; i < 10; i += 3)      printf("%d ", i);
+Identify the warrant for the following statement: I should be allowed to say anything I want; this is America!
+In the following function, what will print the first time the while loop executes? (1st pass ONLY!) #include  void testfunction(void)  {     int i =0;     while (i < 3 ) {         switch(i) {             case 0 : printf("fat ");             case 1 : printf("hat ");             case 2 : printf("cat ");             case 3 : printf("Oh no! ");                           break;         }         i++;     } }
+Identify the region highlighted in the black double arrow
+Not a leader of the Russian revolution
+Baxter International is the world's largest manufacturer of IV solutions in flexible containers. Which of the following would most likely reveal relevant facts about the firm's history, growth, and market share?
+Yeasts are members of this kingdom.

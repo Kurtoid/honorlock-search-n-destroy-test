@@ -1,0 +1,20 @@
+A mixture of four gases exerts a total pressure of 860 mm Hg.  Gas A = 220 mm Hg, Gas B = 220 mm Hg, Gas C = 110 mm Hg.  What pressure is exerted by gas D?
+To hedge a ____ in a foreign currency, a firm may ____ a currency futures contract for that currency.
+Perception is the process that creates changes in behavior through experience and practice.
+What amount of direct materials costs is assigned to the ending Work-in-Process account for January?
+Given the reaction:   Br-(aq)   +   ClO3-   -  Cl2(g)   +   Br2(aq) , unbalanced, we can conclude that  _________ is the reducer.
+What feature on this figure Feature F would be the best example of the principle of ________?
+Identify the organ at B. (Be specific!)
+Under what heading would you likely find the statement that a drug should be used "for the treatment of attention deficit hyperactivity disorder (ADHD) and narcolepsy"?
+Factor completely. (a)
+Given the following superclass definition, code the Rectangle class, which is one of the 3 subclasses of the GeometricShape superclass.  The Rectangle class should have the length and width instance variables, a constructor, getters & setters for the 2 new instance variables, and should override toString() and calcArea() methods.public abstract class GeometricShape {     private char shapeType;  //c=circle; t=triangle; r=rectangle;     public GeometricShape(char shapeType) {        this.shapeType = shapeType;    }     public char getShapeType() {        return shapeType;    }     public void setShapeType(char shapeType) {        this.shapeType = shapeType;    }     public String toString() {        if (shapeType == 'c')  {            return "Circle";        }       else if (shapeType == 't') {           return "Triangle";          }       else if (shapeType == 'r') {            return "Rectangle";      }    }    public abstract double calcArea();  //polymorphic method, defined concretely in subclasses }
+DNA is made of two ________________ strands.
+Which of the following is true of geometric isomers?
+A drone consists of one or more long sustained tones accompanying a melody.
+Using the number trick below, determine what the final number will always equal. 1.  Choose a number. 2.  Add 3 to that number. 3.  Multiply your new number by 2. 4.  Subtract 6. 5.  Divide by 2.
+Order:  Synthroid (levothyroxine) 0.175 mg po daily Supply:  scored levothyroxine tablets labeled 175 mcg   How many tablets will you administer per dose?
+Which of the following statements is an accurate paraphrase of the authors' assertion that reckless alcohol use by college students "has persisted on campuses despite both a general decrease in alcohol consumption among Americans and an increase in the number of abstainers"?
+Which one is NOT a result of the somatic nervous system? (Written by Ashlyn in Gainesville Last Semester)
+If a fertilized egg has a Y chromosome, all of the following are true EXCEPT:
+The ____converts sound waves into mechanical vibrations that stimulate the ossicles.
+Ryan wants to kill Joe.  Ryan sees Joe in the parking lot and accelerates towards him.  Joe sees someone else that he knows in the parking lot and suddenly changes course, darting out into another row of cars.  Allison accidentally hits Joe, killing him.  Will Ryan be held liable for the death of Joe?

@@ -1,0 +1,20 @@
+2.2   'n Mengsel is 'n stof met definitiewe fisiese en chemiese eienskappe en 'n vaste samestelling   (1)
+5.  This class of plant hormones promotes guard cell differentiation, and provides protection to the plant during abiotic stressors of chilling and drought.  To which hormone am I referring?
+Which of the following queue configurations is designed to ensure fairness of waiting time?
+The sales price for a product provides a gross profit of 22% of sales price. What is the gross profit as a percentage of cost?
+On your separate sheet, draw the compound: 2,4,6-trimethylaniline
+The lens on the microscope that is primarily responsible for the magnification of the specimen is the _____ lens.
+____________ is food that is spilled or spoiled before it reaches the retail sector.
+Sexual reproduction would be favored over asexual reproduction primarily when:
+During labor, the head of the laboring client's baby appears with pushing, but retracts back when the client stops pushing. The nurse-midwife suspects a shoulder dystocia. What is the priority nursing intervention?
+A "Bell Curve" is a term used to describe which of the following distributions?
+Which of the following images best depicts a normal healthy male prostate gland?
+Numbers on the athlete's jersey represents numerical data
+You have files VendingMachine.java, Cola.java, and a driver class named Driver.java. Fill in the correct visibility modifiers so that the comments in the class Cola and Driver's main method are upheld.  public class VendingMachine {    1  void pay() { /*compiles*/ }    2  void shake() { /*compiles*/ }    3  void choose() { /*compiles*/ } }  ----- in a separate file in a different package/directory ----- public class Cola extends VendingMachine {   public void cocaCola() { pay(); // doesn't compile choose(); // compiles }}  ----- in a separate file in a different package/directory ----- public class Driver { public static void main(String[] args) {        Cola c = new Cola();         c.pay();   // doesn't compile        c.shake(); // compiles c.choose(); // doesn't compile }}    1   : [1]  2   : [2]  3   : [3]
+If the air quality index (AQI) is 302, you should feel free to breathe deeply.
+There are several benefits to social behavior, but there are also costs.  For the European goldfinch that often lives in large flocks, which of the following is a cost of social behavior?
+Schwann cells wrap around the endoneurium.
+32 degrees Fahrenheit is equal to what temperature in degrees Celsius?
+When an international manager is considering where to do business, one of the first considerations is
+The type of contour that runs across the patient from left to right and sections the body into inferior and superior portions is the
+24.   A ______ protein has a specific shape to it so that only a particular molecule can bind to it.

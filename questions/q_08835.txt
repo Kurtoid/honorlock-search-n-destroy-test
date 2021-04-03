@@ -1,0 +1,20 @@
+Describe (briefly) two strategies you might use or considerations to increase recruitment. 2-3 sentences.
+Milipedes have 1 pair of legs per body segment
+Jacob is an 8 year old boy who has complained to his mother that he has trouble concentrating at school, is very tired, and often feels cold. He most likely is deficient in which nutrient?
+This vertebrate group has the following characteristics: internal fertilization, leathery amniotic egg, and skin that resists drying.
+Code-Reading, Part 1. Please read the code sample carefully before answering the next two questions. You may assume all classes are properly imported. class TestFrame extends JFrame{    JCheckBox checkBox1, checkBox2;    JPanel panel;    public TestFrame(){        Box outerBox = Box.createHorizontalBox();        Box[] innerBoxes = new Box[3];        checkBox1 = new JCheckBox("Check Box 1", true);        checkBox2 = new JCheckBox("Check Box 2", false);        for (int i = 0; i < innerBoxes.length; ++i){            innerBoxes[i]=Box.createVerticalBox();            outerBox.add(innerBoxes[i]);        }        innerBoxes[1].add(Box.createVerticalStrut(30));        innerBoxes[1].add(checkBox1);        panel = new JPanel();        GridLayout layout = new GridLayout(3, 3, 5, 5);        panel.setLayout(layout);        panel.add(new JLabel("Label A"));        panel.add(new JLabel("Label B"));        panel.add(checkBox2);        innerBoxes[2].add(panel);        add(outerBox);        checkBox1.addItemListener(new ItemListener(){            public void itemStateChanged(ItemEvent e){        checkBox2.setSelected(!checkBox1.isSelected());            }        });    }}
+A syringe initially holds a sample of gas with a volume of 285 mL at 82deg C and 1.88 atm. To what temperature must the gas in the syringe be heated/cooled in order to have a volume of 435 mL at 2.5 atm?
+Please use the extra essay question if necessary.
+Which of the following is a goal of radiation oncology?
+A nurse is planning care for a client who has cirrhosis of the liver. Which of the following actions should the nurse include in the plan? (Select all that apply.)
+What is the function of the nucleolus?
+The shape of a cell is determined by:
+In the diagram, which rocks cooled from lava over days or weeks at the Earth's surface? Look closely at the textures and choose all that apply.
+You have an order to give Pentobarbital 150mg IM x1 now. The vial of Pentobarbital reads 150mg/ml. How many ml will you administer? Round to the nearest half tablet _____
+How was "Little" Richard's music representative of the purest prototype of hard, mainstream rock of the 1950s?
+The ethyl group in ethylbenzene activates the ring in an electrophilic aromatic substitution reaction via which of the following effects?
+Nutrient rich blood from the intestinal capillaries travels directly to the [Liver]      via the [hepaticvein]
+While suctioning a patient, you observe an abrupt change in the electrocardiogram (EKG) waveform being displayed on the cardiac monitor. Which of the following actions would be most appropriate?
+Factor Completely.  So not use spaces when typing answers.
+As a result of an internal risk assessment, Berryhill Insurance decided it was no longer profitable to provide flood insurance in the southern states without a general rate increase. Berryhill apparently chose to ________ the risk of paying flood claims in the southern states by raising its insurance rate.
+Which section of the raga begins at approximately 5:52 on this recording?
