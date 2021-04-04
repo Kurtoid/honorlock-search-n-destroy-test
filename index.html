@@ -1,7 +1,7 @@
 <html>
 
 <head>
-    <script src="js/jquery.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
     <script type="text/javascript" src="js/jquery.lazy.js"></script>
     <!-- <script type="text/javascript" src="/js/jquery.visible.js"></script> -->
     <script type="text/javascript"
@@ -47,11 +47,11 @@
         }
         const numFiles = 17376;
         const numbers = shuffle([...Array(numFiles).keys()]);
-            var currentFile = 0;
-            function loadOne() {
-                var num = Number(numbers[currentFile]);
+        var currentFile = 0;
+        function loadOne() {
+            var num = Number(numbers[currentFile]);
 
-                var url = 'questions/q_' + num.pad(5) + ".txt";
+            var url = 'questions/q_' + num.pad(5) + ".txt";
             console.log("fetching file " + url);
             fetch(url).then(function (response_data) {
                 response_data.text().then(function (text) {
@@ -69,21 +69,16 @@
                 });
 
             });
-                    currentFile += 1;
-                }
-                $(window).on("scroll", function () {
-                    //page height
-                    var scrollHeight = $(document).height();
-                    //scroll position
-                    var scrollPos = $(window).height() + $(window).scrollTop();
-                    // fire if the scroll position is 300 pixels above the bottom of the page
-                    if (((scrollHeight - 300) >= scrollPos) / scrollHeight == 0) {
-                        loadOne();
-            }
-        });
-            for (var i = 0; i < 10; i++) {
+            currentFile += 1;
+        }
+        window.onscroll = function (ev) {
+            if ((window.innerHeight + window.scrollY) >= document.body.offsetHeight) {
                 loadOne();
             }
+        };
+        for (var i = 0; i < 10; i++) {
+            loadOne();
+        }
         //*/
     </script>
 </body>
