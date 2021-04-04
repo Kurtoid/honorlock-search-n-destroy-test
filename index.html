@@ -1,8 +1,8 @@
 <html>
 
 <head>
-    <script src="/js/jquery.js"></script>
-    <script type="text/javascript" src="/js/jquery.lazy.js"></script>
+    <script src="js/jquery.js"></script>
+    <script type="text/javascript" src="js/jquery.lazy.js"></script>
     <!-- <script type="text/javascript" src="/js/jquery.visible.js"></script> -->
     <script type="text/javascript"
         src="https://cdnjs.cloudflare.com/ajax/libs/jquery.lazy/1.7.10/jquery.lazy.plugins.min.js"></script>
@@ -51,7 +51,7 @@
             function loadOne() {
                 var num = Number(numbers[currentFile]);
 
-            var url = '/questions/q_' + num.pad(5) + ".txt";
+                var url = 'questions/q_' + num.pad(5) + ".txt";
             console.log("fetching file " + url);
             fetch(url).then(function (response_data) {
                 response_data.text().then(function (text) {
