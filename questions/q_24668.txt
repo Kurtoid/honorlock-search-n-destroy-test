@@ -1,0 +1,20 @@
+_______ is the citation for a case that is found in more than one reporter. For example, the same U.S. Supreme Court case can be found in United States Reports, in Supreme Court Reporter, and in United States Supreme Court Reports, Lawyer's Edition.ct!
+Suppose we replace the while loop in the code with a for loop. Which of the following for loops will result in the same value of Sum printing out?
+Use information below to answer the next few questions. Assume that Alice, John, and Bob can communicate using either Symmetric Key Cryptography and/or Public Key Cryptography, with the following parameters:  Alice and Bob shared the secret key, Ks, with each other.  Only Bob and Alice knows the secret key, Ks. Alice has Bob's and John's public key in her keyring. Bob and John have Alice's public key in their keyrings. Alice's keypair is denoted with Ka- for private key and Ka+ for public key. Bob's keypair is denoted with Kb- for private key and Kb+ for public key. John's keypair is denoted with Kj- for private key and Kj+ for public key. m is the plaintext message. H(x) is the digest of "x" using cryptographic hash function, where "x" can be the plaintext message "m" or other values that goes through the cryptographic hash function. Assume that H(m) received is valid and has not been forged.  Below are the messages received by Alice from Bob.    Msg#  Msg#    1  Ka+(m) 6  m, Ka+( H(m) )    2 Kb+(m) 7  m, Kb+( H(m) )   3  m, H(m) 8  m, Kb- ( H(m) )   4  m, H(Ks + m) 9  Ka+( m, Kb- ( H(m) ) )   5  m, H(m) + Ks 10  Kb+ ( m, Ka+( H(m) ) )    You can use Worksheet D on the Midterm Exam Appendix to help you keep track of the property of each message.   Question When Bob sent message 5 to Alice, which type(s) of attacks will this message be vulnerable to?  Select all that apply.
+The temptation to post things through social media that we would not normally say to someone face-to-face is called
+List pitches from low to high starting with the root (use letter names plus b, #, x, and bb only, with no spaces, like CEbG) for a half-diminished chord with the root D.
+Which of the following chemical disinfectants maintains high activity in the presence of organic matter?
+Which of the following describes a person propelling a wheelchair?
+In the standard IS-LM model, when MS remains constant but P rises, the ______ curve shifts to the __________ causing the interest rate to ______ and output to ___________.
+As part of gaining an initial understanding of internal control, an auditor is required to do all of the following except:
+While performing the monthly bank reconciliation, the bookkeeper determined that the bank charged a $60 service fee. The correct journal entry to record this would be?
+Suppose the government imposes a $10 per unit tax on a good. The tax causes consumer surplus to decrease by the area
+Perhaps the greatest geographic challenge facing Switzerland is the fact that it is a[n]:
+Which pair of songwriters is often referred to as "The Glimmer Twins?"
+In DNA sequencing, what is the purpose of the dideoxynucleotide bases?
+Please use the information in question #19 to answer question #21.  21. What is the value of this favorable financing assuming the annual discount rate is 6%?
+A #170 bur is used to:
+Which of the following pairs of declaration will cause a syntax error? I. double x = 14.7; int y = x; II. double x = 14.7; int y = (int)x; III. int x = 14; double y = x;
+Where is folate stored?
+A nurse is assessing a client prior to the administration of morphine. The nurse should recognize that which of the following assessments is the priority?
+The cutaneous sensory distribution of a spinal nerve can be mapped as a

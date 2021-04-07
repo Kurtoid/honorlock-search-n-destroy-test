@@ -1,20 +1,20 @@
-Remember to return to Canvas after you have completed the quiz in Examplify to submit this quiz and end the proctoring session. For any technical assistance, please contact Honorlock support through the livechat at the bottom right of the Honorlock page or by calling (855) 828-4004. Do Not go any further in Canvas at this point. Open Examplify to find today's quiz titled PHAR 552 - Quiz 05 Honorlock. The password for the quiz is Tempo402
-According to the following balanced reaction, how many moles of NO are formed from 2.50 moles of NO2 if there is plenty of water present? 3 NO2(g) + H2O(l) - 2 HNO3(aq) + NO(g)
-A beta-blocking agent is added to the pharmacologic therapy of a client with heart failure.  What is the expected therapeutic effect?
-The effectiveness of four disinfectants (Doom, KnockOut, BacDrop, and BacOut) against the gram-positive pathogen Staphylococcus aureus was determined using a use-dilution test (NG = no growth; G = growth).  Use the data below to answer questions 6-9.    Which disinfectant is bacteriocidal at all dilutions tested?
-Based on lecture, how many people attend music festivals annually:
-Which statement about the eukaryotic cell cycle is false?
-Write a function called weather() that takes in one parameter: a weather list (list of tuples). The first element of each tuple is the date (str), the second element is a descriptor of the weather (str), and the third element is the temperature (int). The function should create and return a dictionary that maps each descriptor to a list of tuples of dates and their temperatures from the weather list that match the descriptor.  Example Output #1: >>> weatherList = [("1/10", "cold", 45), ("2/04", "sunny", 67),("8/27", "hot", 98), ("12/10", "cold", 32)]>>> weather(weatherList){"cold": [("1/10", 45), ("12/10", 32)], "sunny": [("2/04", 67)], "hot": [("12/10", 32)]}  Example Output #2: >>> weatherList = [("10/14", "rainy", 22), ("7/26", "foggy", 72), ("1/23", "foggy", 62), ("10/31", "windy", 45), ("12/23", "snowy", 22)]>>> weather(weatherList){"rainy": [("10/14", 22)], "foggy": [("7/26", 72), ("1/23", 62)], "windy": [("10/31", 45)], "snowy": [("12/23", 22)]}
-name the projection
-The graph below shows growth rates determined for grey reef sharks (Carcharhinus amblyrhynchos) from 4 different regions, Which of these populations exhibits the FASTEST GROWTH RATE?
-Bob is a member of 18-Wheel Trucking, LLC. Bob's relationship with 18-Wheel ends, but the firm continues to do business. This is
-Use _____ functions to extract the data when only some of the characters in a cell need to be copied.
-Mean comparison analysis is used when the independent variable is categorical and the dependent variable is interval.
-Lecture Test 3, Question 11 Match each statement with the correct plant type according to Grime's Triangle.
-The recent iPhone commercial starts with presenting a little girl who is saying "Love you, mom" to her mom on the old-fashioned flip phone (a Motorora-type cell phone with plastic cover) in early 2000s. The next scene shows a young woman saying the same "Love you, mom" to an old lady (her mother) using the latest iPhone, and then the phrase of 'the shape changes, but love doesn't change' comes out. What is the most relevant term that describes this advertising strategy?
-4. (8 points) Given the functions  and
-SARS virus is a
-Which of the following statements correctly describes a difference between plants and fungi?
-An infant is being prepared for surgical repair of a ventricular septal defect (VSD). Which of the following problems will be prevented by closing the defect?
-Which abbreviation would the dentist write if she wanted the medicine taken "three times per day"?
-Prior to taking blood pressure, there are no sounds heard before the cuff is inflated.
+In which of the following scenarios is the pregnant person a candidate for tocolysis?
+Which of these is a first-class lever?
+The Harlem Renaissance
+The administration of medications demands that all nurses know that: a. all clients respond to medication in the same way.b. each client will respond to medication in his own unique way.c. a drug only produces one desired effect.d. one drug's action does not affect another drug's reaction.
+To maintain their economic profits, firms in monopolistic competition must continually engage in
+The thing that sets the hyperactive child apart from other active young children is there:
+Why was EDTA added to the catechol + catechol oxidase solution?
+Heliocentric means
+Flash Card Inc. recently underwent a significant company-wide change that involved revision of its manufacturing and leadership processes. The result of this was a stronger emphasis on horizontal coordination. This level of change is referred to as _____.
+An infant is born and has anacephaly.  Describe this condition.
+Ligaments and tendons are considered a __________ connective tissue.
+Exportation
+Balance the following equation:     B2O3(s) + HF(l) - BF3(g) + H2O(l)
+2. Car C collides with Truck T as shown in figure 2.  Truck T is three times as massive as Car C.  What is the velocity (magnitude and direction) of the wreck immediately after they collide?  Assume a perfectly inelastic collision.  Test #3 Figure Q2.pdf
+Muhammad based his new kingdom out of this present-day country.
+What type of tissue binds skin to underlying organs?
+If you make no effort to acquire responsible knowledge, you are telling your audience that
+Which of the following is an example of a cash outflow from an investing activity?
+Lily Munster is a system analyst of an IT company and she is also in charge of cash flow budgeting. Please help Lily manage the cash flow of the business. Today is January 1st. The team's opening balance on the project is $0. Hint: It's expected that the team will go into debt the first few months. Your goal is to determine if the company is profitable after four months. Income The IT company has on two (2) major contracts/projects to fulfill which have to be completed in March, and April. At the months of completion, the contracts will earn:  March: $75,000 April: $150,000  Expenditure  Permanent staff salaries ($30,000 per month), office rental ($2,000 per month), health insurance ($5,000 per month) and office and admin expenses ($1,000 per month) will take place every month, i.e. the same for each month. For example, you pay your staff members every month. In addition to the previously mentioned expenditures, there are project bonuses for employees will take place for the month the contracts are fulfilled. These will be different based on the current month.  January and February:  Project Bonuses for Team: $0  March:  Project Bonuses for Team: $5,000  April  Project Bonuses for Team: $5,000  Answer each of the questions:  What are the company's total expenses for January? (It's the same answer for February.) (This will be a positive number.) What are the company's total expenses for March? (This will be a positive number.) What are the company's total expenses for April? (This will be a positive number.) What are the company's total expenses across all four months? (This will be a positive number.) What is the company's total income after four months (total income ignores any expenses)? What is the ending balance on the last day of January? (This may be a negative number.) What is the ending balance on the last day of February? (This may be a negative number.) What is the ending balance on the last day of March? (This may be a negative number.) What is the ending balance on the last day of April? (This may be a negative number.)  (D2L will attempt to auto-grade your answers. For example, if an answer is $25,050 dollars, write "25050". I will be grading these questions manually regardless.)
+Attached here are a pdf and Word version of our formula sheet for this exam. Some information may be extra/unnecessary! It looks like Canvas has changed its software and now you only need click the link itself here to VIEW the sheet (there seems to be no magnifying glass icon anymore). You can only view the sheet here, not download it! Exam 2 Formulas Spring 2021

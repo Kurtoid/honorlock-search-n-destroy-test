@@ -1,20 +1,20 @@
-FM-89.7, National Public Radio - USF, broadcasts at a frequency of 8.97x107 s-1 (89.7 MHz). 1. What is the wavelength of the radio wave? 2. What is the energy of the radio wave in Joule (J)? Mark your answer next to words "Final answer is". You must follow significant figure rules.  Show your work here to receive any partial credit.
-The nurse understands that which of the medications below is effective to suppress inflammation?
-Contribution margin is the excess of sales over total variable costs.
-You inoculated 100 bacteria A, with a generation time of 20 minutes, into 100 ml of nutrient broth. At the same time, you inoculated 100 bacteria B with generation time of 20 minutes into 200 ml of nutrient broth. After incubation for 24 hours, if all cells divide by binary fission and remain viable in log phase, you can reasonably expect to have
-Using the following JavaScript code fragments, complete the following JavaScript function, which accepts a number representing the number of seconds as an integer value and converts this value into hours, minutes, and seconds, returned as a string in the format HH:MM:SS.  (For example, if the user enters the value 67165, the output should be  18:39:25.)(Note: Not all of the code fragments shown will be used!)function secondsConverter(seconds) {         [x0] hours, minutes;  hours = Math.floor( [x1] );  seconds = Math.floor( [x2] );  minutes = Math.floor( [x3] );  seconds = Math.floor( [x4] );  var output = [x5] + ":" + [x6] + ":" + [x7];    return output;   }   Hint. Try to remember how division/modulus operators work in JavaScript.
-Which generator requires it to charge up to the desired voltage before the exposure can be made?
-In the game Demolition Drake: Duck Squad, consider the AI agent, Sargent Snipe, moving in a 2D continuous space via steering behaviors. Sargent Snipe is currently at position (20.0, -10.0) m and traveling at her maximum speed with velocity (0.0, 5.0) m/s. In the current simulation frame, a Shrike Ray (collectable super weapon) randomly appears at position (15.0, -10) m. Sargent Snipe wants the Shrike Ray and immediately begins moving towards it at maximum acceleration (5 m/s2). She will continue to maximally accelerate (with velocity clamped to maximum speed) towards the Shrike Ray until it is collected. The collider radii of Sargent Snipe and the Shrike Ray are both 0.25 m, and a contact between the two colliders will register as a pick-up. The game simulation runs at 60 Hz. At what simulation time (in seconds) will Sargent Snipe collect the Shrike Ray? For this scenario, the moment the Shrike Ray appears is at time 0 s.
-The Merchandise Inventory account balance at the beginning of the current period is equal to the amount of ending Merchandise Inventory from the previous period.
-Which of the following is a change in the baseline fetal heart rate?
-LEES ASSEBLIEF DIE VOLGENDE INSTRUKSIES SORGVULDIG     1.   Lees die vrae aandagtig deur.     2.   BEANTWOORD AL DIE VRAE IN DIE VRAESTEL.     3.   Krediet sal gegee word vir *       Interpretasie en verduideliking, en *       Bewyse van persoonlike waarneming in die veld waar dit gepas is vir die vraag.     4.   Jy word aangemoedig om sketskaarte, diagramme en ander verduidelikende tekeninge te gebruik om u antwoorde te ondersteun, indien relevant.     5.   Dit is in jou eie belang om netjies en leesbaar te skryf.     6.   Daar is 'n Woordelys met woorde hieronder wat verduidelik wat die werkwoord in elke vraag beteken.
-DR is more sensitive to EFR errors than CR systems.
-The parents of a 1-year-old are discussing the safety needs of their daughter with the nurse. Which statement indicates a need for further education on safety practices?
-An angle measures
-Patient follow-up can be a public relations function for a hospital as most patients appreciate a registries continued interest.
-Determining a person's reaction time (in milliseconds) would involve measurement on a(n) ____ scale of measurement.
-Which is not a function of synovial fluid?
-The Puritans viewed sex as a necessary act to produce children in marriage. They held a dim view of it for pleasure.
-Which routing metric refers to the ability of a connection to handle more data than others?
-Prior to procedure, patient's should be warned about the warming effects of contrast. After a bolus of contrast, patients may feel like they have peed on themselves and may turn red. This is an example of
-A patient that has multiple sclerosis has been seeing a therapist for four visits.  Today's visit the therapist will be performing a comprehensive re-evaluation to determine the extent of progress.  There was a revised plan assessing the changes in the patient's functional status.  Initial profile was updated to reflect changes that affect future goals along with a revised plan of care.  Total care of 30 minutes were spent in this re-evaluation.  What CPT and ICD-10-CM codes should be reported?
+What is structure "c" made of?
+Which of the following taxpayers is potentially eligible for a qualified business income deduction based on the noted activity? (circle all that apply)
+Augmentin 2 tsp is ordered. Your medication label reads 125mg/5mls, how many mgs will you give?
+At age 22, Ryan is considering contributing $5,500 per year to a Roth IRA for the next 40 years until he retires at age 62. Contributions will be made at the end of the year (ordinary annuity). Because Ryan wants to retire at such a young age, he plans to invest the money aggressively and hopes to make a 11% return on his investment. Because money is tight after graduation, Ryan is considering not beginning the annual contributing to his Roth IRA until age 32. How much more money should Ryan expect to have in his Roth IRA when he retires at age 62 if he starts contributing at age 22 instead of 32? Tables: Time Value of Money Tables-1.pdf
+Which type of services are created especially to provide holistic care for patients in the end stage of terminal illness?
+During this stage of phage replication, the phage genome is injected into the host bacterium.
+Predict the output of the following C program:     #include  int func(int x, int y){    if(x == 0)         return y;    else         return func(x - 1, x + y);}main(){     printf("%d",fun1(10,20));}
+Which of the following molecules is/are not a hydrocarbon?
+Which secretion system injects effector proteins into target cells and is believed to have evolved from phages?
+Which one of the following compounds will be most reactive towards an electrophilic aromatic bromination reaction?
+What is the tone for Dai ? please answer with: 1 2 3 4 0 (for neutral tone)
+1.2   Which of the following do we judge Historical Significance against?
+Which of the following statements are TRUE regarding diastolic blood pressure?
+Answer the following questions about the Venn Diagram above. 1) How many people took all 3 classes? [1] 2) How many people took Spanish and Math? [2] 3) How many people did not take Chemistry? [3] 4) How many people took Chemistry or Math? [4]
+A dialysis bag that is permeable to water but not NaCl is partially filled with 10% NaCl solution, closed, and then weighed.  Next, it is put into a beaker containing 30% NaCl solution and allowed to sit for 1 hour.  If you then weigh the dialysis bag and its contents, you should find that the weight has:
+What prevents cells numbers from increasing at an exponential rate indefinitely in broth culture?
+Which of the following is an uncommon clinical manifestation of polymyositis and dermatomyositis?
+Endospores are __________________________.
+When would you need to "fish for cylinder"?
+Which body has the greatest influence on ocean tides?

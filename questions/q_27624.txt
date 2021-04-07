@@ -1,0 +1,20 @@
+__________ transfer energy to a patient to increase or decrease tissue temperature. Examples include hot packs, ice packs, ultrasound, whirlpool, and diathermy.
+Use the following code for items 63 - 67. Assume that all imports have been made and that the code compiles. Each item will replace the CODE HERE blank with actual code. The first box below shows the four lines in the data.txt file.  The second box contains the source code. data.txt Earth Mars Venus Saturn  Source Code String[] planets = new String[6];Scanner reader = new Scanner(new File("data.txt"));int counter = 0;while (reader.hasNext()) {       planets[counter] = reader.nextLine();       counter++;}System.out.print("start, ");try {           System.out.print( CODE HERE  + ", ");}catch (ArrayIndexOutOfBoundsException e){         System.out.print("AIOOBE, ");}catch (NullPointerException e){         System.out.print("NPE, ");} finally {       System.out.print("end."); }
+Calculate the IV flow rate for 100 mL NS with an antibiotic added to infuse in 30 minutes. The IV will be manually regulated. The drop factor is 20 gtt/min.   How many gtt(s)/min will the nurse administer? Only include the numbers in your answer, DO NOT include any units of measurement.
+Let X and Y be random variables such that the variance of X is 15, the variance of Y is 6, and the covariance of X with Y is 2.  Find the covariance of 3X + Y with X - Y.
+Why are naked animal viruses unable to enter host cells through membrane fusion?
+In anesthesia, 1 unit equals how many minutes?
+When you exercise, your body produces a lot of heat. Which of the following explains where that heat comes from?
+A differential white blood cell count is used to help determine the source and duration of an infection. The correlations between elevated white cell count and what it usually indicates are all true except
+If a company has advance ticket sales totaling $2,000,000 for the upcoming football season, the receipt of cash would be journalized as:
+Consider the regression
+1.         The law of independent assortment states which of the following?
+In matching questions, have at least one extra answer in the answer column than in the question/stem column.
+Imagine that you are in Paris in 1775. People tell you their physical and mental health is remarkably improved when they experience a strange sleeplike trance. Later, you hear that the man who performed these remarkable cures was investigated and forced to leave Paris. What forerunner of hypnosis were the people of Paris discussing?
+In what field must a drafter be familiar with roads, bridges, water and waste water systems, and surveying techniques?
+Which of the following is not one of the sources of attitudes discussed in the text and lecture?
+When the frequency of the voltage applied to a parallel RL circuit is decreased, the impedance of the circuit will
+Your database has just crashed - it's been an hour since your last transaction log backup. You have a full backup, three differential backups since your last full back and two transaction log backups since your last differential backup. Provide the recovery steps, including the "Recovery/Norecovery" option. Exact syntax is NOT needed.
+Mortgagees are entitled to possession of mortgaged property upon default in states that recognize the concept of____________.
+A technique used to reduce the presence of grating lobes by decreasing the strength of the voltage pulse sent to the outer elements and increasing the strength of the voltage sent to the inner elements:
+The Solow growth model shows that a key determinant of a higher level of steady-state output per worker is

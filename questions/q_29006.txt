@@ -1,0 +1,20 @@
+Define chromatin.
+Qu'est-ce qu'on fera? Complete the following sentences by selecting the appropriate verb in parentheses and by conjugating the verb in the futur simple. Je ne/n' [Group1] (aller / venir) jamais a Paris.
+Identify the layer indicated by the arrows at A.
+The parietal bones are formed through which process?
+What role did the federal government play in the Progressive Movement?
+Fred's blood was determined to be AB positive. What does this mean?
+How do you measure volume?
+Anemia is a condition in which the oxygen carrying capacity of the blood declines. Which of the following would lead to anemia:
+The dermis has two major layers. Which layer constitutes 80% of the dermis and is responsible for the tension lines in the skin?
+BONUS (4 points) Choose the major product(s) resulting from the reactions below. List the products of each intermediate step in the pathway (describe if you cannot name it) and any details about the reaction (name or regio/stereoselectivity if those are important). Write as much as you know - there is partial credit for this question.     Hint: there is no band at 3400 cm-1 in the IR spectrum for the final product.
+A formal amendment is proposed at the national level and ratified
+Cystoscopy and ureteroscopy procedures are performed in which position?
+All statements below about standard agendas are true EXCEPT
+The morning after a study the patient's ride arrives to pick him up.  He asks about the results of the study.  You should:
+Which term refers to the capability of a switch to copy data from any or all physical ports on a switch to a single physical port?
+Which of the following statements about activity-based costing is most correct?
+Jose Urrea was a ______________________ during the Texas Revolution.
+Under the Affordable Care Act, if a health insurer does not meet the minimum loss ratio requirement, the insurer must
+Competent group communicators often identify developing group norms and then adapt their communication styles to the group norms during the _______.
+Convert the following function to C.  Be sure to provide the function declaration with any arguments, local variables, and return value if present. foo:        push    ebp        mov     ebp, esp        sub     esp, 4        mov     DWORD PTR [ebp-4], 21.L13:        cmp     DWORD PTR [ebp-4], 42        jg      .L14        cmp     DWORD PTR [ebp-4], 20        jle     .L14        cmp     DWORD PTR [ebp+8], 29        jg      .L10        cmp     DWORD PTR [ebp+12], -1        jge     .L11.L10:        sub     DWORD PTR [ebp-4], 3        add     DWORD PTR [ebp-4], 1        jmp     .L13.L11:        add     DWORD PTR [ebp-4], 5        nop        jmp     .L13.L14:        nop        leave        ret

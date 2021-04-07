@@ -1,20 +1,20 @@
-Short Answer. (4 points each) Luego de leer el texto responde a las siguientes preguntas en espanol usando oraciones completas.
-2.8   Which ONE of the following items connects the motherboard and external devices connected to a computer?   (1)
-Name a chemical that is unique to the cell walls of Gram-positive bacteria (meaning it is NOT found in Gram-negative cells).
-You have been tasked to lead a strategic planning session for your firm. What type of analysis would you use? Note external and internal factors within this tool.
-Which one of the following represents a physical change?
-The _____, also known as the dens, is an upward projectile of bone that arises from the front part of the center of the _____vertebra. This structure provides a pivot point which allows you to shake your head "no".
-_________ is the capacity of muscles to receive and react to stimuli.
-import java.util.Scanner;public class ComputingChange {   public static void main (String [] args) {        Scanner scnr = new Scanner(System.in);      int amountToChange;      int numFives;      int numOnes;      amountToChange = scnr.nextInt();      numFives = amountToChange / 5;      /* Your solution goes here  */      System.out.print("numFives: ");      System.out.println(numFives);      System.out.print("numOnes: ");      System.out.println(numOnes);   }}-----------------------------------------------------------------------------------A cashier distributes change using the maximum number of five dollar bills, followed by one dollar bills. For example, 19 yields 3 fives and 4 ones. Considering the above code ,write a single statement that assigns the number of one dollar bills to variable numOnes, given amountToChange. Hint: Use the % operator.
-After teaching a patient to increase dietary potassium intake, a nurse assesses the patient's understanding. Which dietary meal selection indicates that the patient correctly understands the teaching?
-Before you start the exam, please read and sign the following CSU Honor Pledge: "I will not give, receive, or use any unauthorized assistance on this quiz."  (Type your name to "sign" the pledge)
-The pulmonary artery should contain _______________ blood.
-Berkeley argues that sensations cannot exist in anything that does not have perceptions. Hence, colors, shapes, motions, etc. can only exist in something that perceives them.
-How would a beam of light behave shining through a solution?
-One option to deal with hazards is to insert "nop" in the code that can be implemented by------------.
-If a macromolecule contains just C, H, and O, and is hydrophobic, it is probably a ______
-The patient diagnosed with end stage liver failure, who has ascites, is complaining of trouble with breathing. Which intervention should the nurse implement?
-A factor that causes the marginal cost curve to shift upward will result in:
-The nurse is teaching a woman about natural family planning methods. How would the nurse explain cervical mucus consistency if the woman desires pregnancy?
-Which of the following is not a step in the scientific method?
-The most recent blood work of a client with a long-standing diagnosis of type 1 diabetes has shown the presence of microalbuminuria. What is the nurse's most appropriate action?
+5. A 1,200-gram mass is pushed down a rough circular track (Radius = 200 cm) as shown in figure 5. The speed of the mass at point A is 3.2 m/s, and at point B, it is 6.0 m/s. a. Determine the angular velocity of the mass at point A. b. Determine the energy lost to friction from point A to point B. c. Describe how the normal force on the mass varies as it travels from point A to point B. Justify your answer. Test #3 Figure Q5.pdf
+Which of the following would be expected to have the largest atomic radius?
+Bonus question What is the IUPAC name of the compound shown below?
+If a clinician administers a test requiring a client to respond to unstructured stimuli, what type of test is the clinician administering?
+Word that best describes turning the palm of the hand toward the anterior.
+Which one represents a good example of "the Internet of Things":
+In which way does deep relaxation help in pain management?
+WORKOUT PROBLEM starts here: (Nothing to submit here, just read the problem. Some of the homework format/layout is already provided)   A ball is shot vertically upward with a speed of 35 m/s. The ball will travel upwards reaching some maximum height before falling back to the ground. We will focus only on the travel upward, from launch to the apex. If we split the maximum height in half, we are comparing the amount of time to travel up the first half of the distance with the amount of time to travel the second half of the distance. Given: A ball shot upwards.  Find:  Calculate the maximum height the ball travels from launch to its apex. You MUST follow the multi-step process shown in class and you must use units! Determine the time it takes to go half way up. Again, you MUST follow the multi-step process shown in class and you must use units! Find the time it takes to go the second half of the distance. Must use units!    Assume: Answer the following set of questions.
+Mr. Brandon, a 36 year old male comes to your office with complaints of "this headaches that comes out of nowhere intensifying to a level where I have to take a break from work even when I am in the middle of something important." He describes the head ache as severe, stabbing, and throbbing that alternate sides with each episode. Every time he gets it, he gets it more than once per day. Mr. Brandon is most likely describing:
+A term that implies that a disease is present in a community at all times but at a relatively low rate.
+Identify this highlighted artery.
+Sutures, gomphoses and syndesmoses are all:
+When these cells are low, what infection does it indicate?
+An axially loaded 50 mm-by-75-mm steel bar has a shear stress of 138 MPa developed on a plane at an angle of 40deg to the longitudinal axis of the bar. Calculate: a) the applied axial load on the bar. b) the normal stress developed on this plane.
+Figure 9.1 Using Figure 9.1, identify the following:The gland that is the major producer of female hormones is indicated by letter __________.
+All of the following statements about counseling are true except:
+According to the proximodistal principle,
+A user had trouble remembering his password so he decided to write it down. No one obtained access to it and used it, so this is a _____.a. Security incidentb. Security eventc. Audit controld. Information system activity review
+What tissue contains special receptors for removing low-density lipoproteins (LDLs) from the circulation?
+Cromolyn sodium acts by:

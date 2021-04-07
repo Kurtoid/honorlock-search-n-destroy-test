@@ -1,0 +1,20 @@
+Given,   public class Lab3App  {        public static void main(String[] args) throws IOException        {           BufferedReader br = new BufferedReader(new InputStreamReader(System.in));           Date aDate;           int month, day, year;           boolean done = false;                      while(!done) {             try {                    System.out.print("Enter the month as an integer: ");                    month = Integer.parseInt(br.readLine());                               System.out.print("Enter the day as an integer: ");                    day = Integer.parseInt(br.readLine());                               System.out.print("Enter the year as an integer: ");                    year = Integer.parseInt(br.readLine());                               aDate = new Date(month, day, year);                   System.out.println(aDate);                    done = true;             }             catch (NumberFormatException ex) {               System.out.println("NumberFormatException: " + ex.getMessage());             }             catch (DateException ex) {                   System.out.println("DateException: " + ex.getMessage());             }           } // end while        } // end main } // end Lab3App   Recall that the setMonth method called in the constructor throws a DateException when the month is not in the range 1-12 and that a DateException is a checked exception. Assume the user enters 13, 10 and 2021 for month, day and year respectively. Provide answers to each of the questions below. Be sure to label each with the appropriate letter.  Will the DateException handler execute? Explain your answer. Will the user be prompted to enter the month, day and year again? Explain your answer. Under what condition will the statement done = true; execute?
+Cool colors, like blue and violet, are often associated with water and shadow.
+Please the following stages from Erikson in developmental order:  (1) industry, (2) autonomy, (3) basic trust, and (4) identity
+Based on Harrison Hove's lecture, which of the following is among the JOBS in News You Know About?
+What hypothesis was Hutchison et al. testing by examining the relationship between muscle contractions and oxygen consumption in Burmese pythons?
+What part of the neuron releases neurotransmitters from vesicles?
+Which of the following terms best describes the reaction diagrammed above?
+The term used to describe an arm that is positioned out to the side and away from the body is _____________.
+Which of the following is the unit of absorbed radiation dose?
+What is the term for Aristotle's belief that virtues are always midpoints between two extremes, the excess and deficiency.
+Which of the following recent events did historians predict accurately?
+Which of the cations below would be subject to a structural rearrangement?
+Which of these structures actively secretes synovial fluid as a lubricant?
+The salivary glands are a good example of a ________ exocrine gland.
+What is a QTN and how would these be better than QTLs? (give several justifications).
+Record the value for the highlighted cell containing the letter 'f'
+The psychoanalytic perspective on personality focuses on __________ .
+The catalyst in the two-step mechanism shown below is: Step 1: A+B  C  Step 2: C+DF (slow)
+56.  At what time of day is the circadian alerting signal the highest?
+Explain how you got your answer to the previous question

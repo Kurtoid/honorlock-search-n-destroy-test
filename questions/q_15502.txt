@@ -1,20 +1,20 @@
-Using the following code fragments, complete the following JavaScript function, which accepts a number representing the number of seconds as an integer value and converts this value into hours, minutes, and seconds, returned as a string in the format HH:MM:SS.  (For example, if the user enters the value 67165, the output should be  18:39:25.)(Note: Not all of the code fragments shown will be used!)function secondsConverter(seconds) {         [x0] hours, minutes;  hours = Math.floor( [x1] );  seconds = Math.floor( [x2] );  minutes = Math.floor( [x3] );  seconds = Math.floor( [x4] );  var output = [x5] + ":" + [x6] + ":" + [x7];    return output;   }
-Name the muscle in the image below
-The primary difference between political parties and interest groups is that
-You are checking someone's pupillary reflex. Name the structure where the information synapses.
-Suppose you are studying an organism with linear chromosomes, few plasmids, and membrane-enclosed organelles. Its lipids are most likely:
-Which of the following statements regarding arthrokinematic joint movements is INCORRECT?
-What is the output of the following Java code? int code = 1; switch (code) {     case 1:     System.out.print("cat");     case 2:     System.out.print("dog ");     case 3:     System.out.print("bird ");                        break;        default: System.out.print("invalid code "); }
-The nurse is assessing a patient who has been admitted to the intensive care unit (ICU) with a hypertensive emergency. Which finding is most important to report to the health care provider?
-Remembering how to walk is an example of a ____ memory, whereas remembering the time you tripped in front crossing the stage at graduation is an example of a _____ memory.
-When can oxaloacetate be converted directly into phosphoenolpyruvate in the mitochondria?
-This condition involves the development of white patches on the skin caused by the loss of melanocytes.
-The ________ is the inner fluid-filled space in mitochondria.
-If a the Pst I restriction endonuclease cuts the 3' - 5' DNA sequence CTGCAG between the C and the T, into what size pieces would the following DNA segment will be cut?             3'    A T T G C T G C A G G G A A G G C C C A T G C T G C A G G T C    5'  [1] [2] [3]
-A client tells the nurse he is feeling "jittery and can't concentrate." Earlier the nurse noted that the client is pacing and cursing. The nurse may assess the client's level of anxiety as ______.
-Which gland regulates growth and metabolism by producing thyroxine?
-A graft taken from a dissimilar species such as a cow would be referred to as a _____ graft.
-What is the procedural step for applying etchant material?
-Choose the vocabulary word that best completes the sentenceEstudiamos mucho porque hay un __________ manana.
-In the United States there is minimal public interest in families, this explains why families are marginalized in policymaking.
-The governor has some control over the final appropriations bill through the use of the ________ veto.
+Will you be able to attend discussion in person after Spring Break? We need to know if we need to adjust how discussions work after Spring Break.   Don't write anything on your exam papers in the slot for Problem 2
+By the age of 3, a child should have received the third dose of all the following immunizations EXCEPT
+What would be probable causes of anemia in an animal with Chronic Kidney disease?
+Spinal nerves exit the vertebral column through the
+Tay-Sachs disease results in cells not being able to remove or metabolize waste products inside of cells. Tay-Sachs disease most likely affects the activity of enzymes inside of what organelle?
+The graph below shows  .        On which interval(s) is the derivative  negative?  Select all CORRECT intervals.  Hint: There are three intervals. Note:  Answers are approximate.
+Identify the idea you have chosen to explain by number, then write your answer in the following blank. You must answer EIGHT, but can answer two extra for bonus points.  (2 of 8 required answers)
+?Que estas estudiando este semestre?
+The definitive test to confirm the diagnosis of gouty arthritis is:
+An experiment in psychology is carried out to investigate the ______________effect of one or more variables (the independent variables) on another variable (thedependent variable).
+A researcher designed an experiment to study the causes of aggression in children. Half the children ate a sugared cereal; the other half ate cornflakes. The researcher then recorded the number of aggressive acts displayed by the children in a one-hour play period after breakfast. In this experiment, _____ is the dependent variable and _____ is the independent variable.
+The term "Infancy" comes from a Greek origin meaning baby.
+You feel like you have lost your sense of purpose in life.  Which habit could you use to change your situation?
+The dramatic increase in the number of overweight and obese people in the United States is a direct result of physical inactivity and poor dietary habits.
+Where does a radiologist get the ultrasound images to read from? (Where are your sonographic images sent to?)
+Most crimes are typically committed by strangers.
+Which of the following behaviors could attribute to horizontal violence in the work place?   (Select all that apply)
+Make up and solve three different word problems for
+What type of treatments are focused on releiving pain without providing a cure or dealing with the cause of the condition?
+Consider a good that is creating a negative externality, like non-recyclable plastic grocery bags. . The externality can be interalized by

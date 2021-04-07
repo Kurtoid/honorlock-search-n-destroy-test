@@ -1,0 +1,20 @@
+Do not answer this question until you are ready to exit the exam.  You may not go back to exam questions after this question is answered. I have not written on any of the pages of the stapled packet  during the exam.  Show fronts and backs of packet pages to the webcam.  Note:  Failure to adequately meet this requirement will result in disqualification of your test score and you will be required to take a cumulative exam over the course material, on campus, in order to determine if you pass.
+Which of the following would NEVER be considered a primary barrier in normal diagnostic radiography?
+Homologous chromosomes separate and move to opposite poles during:
+The nurse is reviewing case files for children at risk for injury resulting in brain injury. Which child is at most risk for experiencing this type of violence?
+Define Gradient
+Which of the following is NOT an indication for superficial heat?
+The client takes synthroid for his hypothyroidism. The ordered dose is 125 micrograms daily. How many milligrams does this client take?
+What is the sum of the internal angles of a heptagon?
+Which model of care, included in the Affordable Care Act, engages a team of providers in the delivery of care to the patient that typically includes physicians, nurse practitioners, registered nurses, medical assistants, health educators, and pharmacists?
+What is the difference between a benign and malignant tumor?
+Pick the odd one out in terms of index of unsaturation.
+1--[1] 2--[2]
+Part 1 (Semi-Join and Anti-Join in SQL) [10 points] SQL has native operators (keywords) for the Relational Algebra operators  (join) and [?] (outer join). For instance, given the table schemas (data types omitted) Employee(Name, EmpId, DeptName)Department(DeptName, Manager) we can, for example, write the queries SELECT * FROM Employee e JOIN Department d ON e.DeptName = d.DeptName;SELECT * FROM Employee NATURAL JOIN Department;SELECT * FROM Employee e FULL OUTER JOIN Department d ON e.DeptName = d.DeptName;SELECT * FROM Employee NATURAL FULL OUTER JOIN Department; Unfortunately, there are no operators (keywords) in SQL for the Relational Algebra operators [?] ((left) semi-join) and > ((left) anti-join). Taking the two table schemas and the queries from above as an example, provide two different simulations or "implementations" of each of these two operators in SQL (4 SQL queries in total). In other words, write two different SQL queries to simulate each of the two non-existing semi-join and anti-join operators in SELECT * FROM Employee e SEMI JOIN Department d ON e.DeptName = d.DeptName;SELECT * FROM Employee NATURAL SEMI JOIN Department;SELECT * FROM Employee e ANTI JOIN Department d ON e.DeptName = d.DeptName;SELECT * FROM Employee NATURAL ANTI JOIN Department;
+The Supreme Court decision in Dred Scott vs. Sanford:
+16.  What do the check cells confirm?
+One unique feature of the stomach is that it has ________ muscular layers instead of the normal 2 layers in the rest of the GI tract
+A toddler has been diagnosed with early-stage rickets.  The nurse is counseling the mother and suggests increasing which of the following vitamins in the child's diet?
+QUESTION 6         Consider the diagrams below showing three different neutral atoms A, B and C.             Right click on the button below to open the image in a new "tab".                                      6.1   Define mass number.   (2)     6.2   What is the name given to the collection of particles at the centre of the atom?   (1)     6.3   Which two atoms are isotopes of the same element? Give a reason for your answer   (3)     6.4   Comment on which model of the atom is used in the diagram above. Give a reason for your choice.   (3)             [9]
+At what interval should heart rate be monitored during a symptom-limited maximal exercise test?
+Referring to the image below, which number represents the medial malleolus?

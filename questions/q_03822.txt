@@ -1,20 +1,20 @@
-For the following questions, use the USairpollution data set from the "HSAUR2" package within R.  First install package "HSAUR2". Then load in the USairpollution data set. This data set contains information on Sulfur emissions (SO2) and six other weather variables for 41 US cities. We will be exploring how these variables influence sulfur emissions.
-Which of the following men explored Quebec, Montreal, and sailed as far as the St. Lawrence River?
-An agency relationship can be formed:
-Numerous climate science studies suggest that ________ are the cause of the recent documented changes in Earth's climate.
-As the membrane cools down, it tends to become ___________________ and therefore _________________.
-It is possible to include multiple seasonality components (e.g both day and month) using ANOVA modeling.
-As demonstrated in class, when mixing a 10-12 oz. glass of ORS for a person with diarrhea, which of the following would be the correct formula?
-A school nurse strongly suspects that a five year old female is being abused.  The child is reluctant to talk.  Another way the nurse could obtain information is to:
-Clouding of the lens of the eye is called
-Which laboratory blood tests need monitoring for abnormalities while caring for a patient who has acute pancreatitis? (Select all that apply.)
-The following statements are given: "Some hot dogs are made of turkey. All things made of turkey are edible." Choose the conclusion that makes the argument valid.
-A patient is asking the nurse what she can do about the "falling down of her reproductive organs and urinary tract wall." The nurse will tell the patient to try what exercise?
-The process of forming a trust involved:
-When a hydrogen atom emits a photon of light, as in the Lyman or Balmer series, a(n)  _______________ is going to a _________________ energy state.
-The name of the following ether is
-In an ethane (C2H6) molecule, each carbon atom is bonded to ________ hydrogen atoms.
-When aqueous solutions of potassium chloride and lead(II) nitrate are mixed, a double-displacement reaction occurs. What is the balanced equation for the reaction?
-SECTION A    QUESTION 1: MATCH COLUMN A TO COLUMN B  [10]    Match the correct description in Column B with the terms in Column A.
-The atmosphere of Venus is predominantly
-There are no differences in abilities between gender
+Which of the following agent models are suitable to build an agent that plays a competitive game of chess against a human player. This agent does not take previous games and their outcomes into consideration when deciding on a move in the game. To answer this question, consider agent models that may do well on this task and rule out agent models that do poorly due to their limitations or because they are unnecessarily complex for this type of task. Carefully think about the limitations and capabilities of each agent model before answering this question.
+In generation II list the numbers of those family members are afflicted with the disease.
+Which type of granulocyte produces histamine during the inflammatory response:
+7.   Which of the following is NOT a parenteral route of drug administration?
+Many frequent flyers have missed their flights due to long, slow security checks before being allowed to enter the airline's terminal. This policy designed to ensure safe flights has resulted in problems associated with perceived:
+Your server room has most items bolted down to the floor, but some items--such as network testing tools--can be easily removed from the room. Which security control can you implement to allow for automated notification of the removal of an item from the server room?
+When using numeric values in a formula, they must not be enclosed in quotation marks.
+Mammals in dry environments have short Loops of Henle.
+Simplify by factoring.
+What is a loop that never ends?
+Which method of correlation is most reliable for determining age equivalence among bodies of rock that are physically separated by vast distances?
+A ________ may occur with no obvious selective pressures at work.
+Provide an appropriate response.A traffic officer is compiling information about the relationship between the hour or the day and the speed over the limit at which the motorist is ticketed. He computes a correlation coefficient of 0.12. What does this tell the officer?
+What does Dr. Jekyll and Mr. Hyde tell us about evil? Does the indulgence of pleasures automatically lead to evil or is evil inherent in all human beings?
+Some simple items symbolize the same thing regardless of the culture in which the art was created, such as the use of lilies to represent purity and virginity.
+Which objective finding in a patient who has been diagnosed with a subarachnoid hemorrhage is most important to communicate to the health care provider?
+Which layer of the heart is in direct contact with circulating blood?
+The titration of 80.0 mL of an unknown concentration H3PO4 solution requires 126 mL of 0.198 M KOH solution.  What is the concentration of the H3PO4 solution (in M)?
+Use source transformation to find the Thevenin equivalent circuit across terminals a - b. Make sure to draw your transformed circuit at each step to receive full credit.
+_____ is the scientific study of the shape and structure of the body.

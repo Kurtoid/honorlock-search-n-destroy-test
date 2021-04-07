@@ -1,0 +1,20 @@
+Which immunoglobulin can cross the placenta in mice, some in dogs and cats?
+Each of the following is an ascending tract in the spinal cord except the
+a) Define what is a memory leak, a dangling pointer and a smart pointer and how does it resolve heap related problems.   b) Given the code below, indicate where there exist dangling and memory leaks, indicate the line number  and explain why. Make sure to indicate what the output of the program consist of. 1 - #include  2 - #include    3 - int *fun1() 4 - { 5 -     int x = 5; 6 -     return &x; 7 - } 8 - 9 - int *fun2() 10 - { 11 -     static int x = 5; 12 -     return &x; 13 - } 14 - 15 - void fun3(int** p) 16 - { 17 -     int x = 5; 18 -     *p = &x; 19 - } 20 - 21 -   // Driver Code 22 - int main() 23 - { 24 -     int *p; 25 - 26 -     p = fun1(); 27 -     fflush(stdin); 28 -     printf("%d", *p); 29 - 30 -     p = fun2(); 31 -     fflush(stdin); 32 -     printf("%d", *p); 33 - 34 -     fun3(&p); 35 -     fflush(stdin); 36 -     printf("%d", *p); 37 - 38 - 39 -     p = fun2(); 40 -     fflush(stdin); 41 -     fun3(&p); 42 -     printf("%d", *p); 43 - 44 -     return 0; 45 - } Lines:___________________________________              ____________________________________              ____________________________________              ____________________________________              ____________________________________   Output:___________________________________              ____________________________________              ____________________________________              ____________________________________              ____________________________________
+4.3   Explain the term bonded fabrics and give ONE use for bonded fabrics   (2)
+Sony's strong name recognition and solid customer demand for its televisions and game systems are two elements of the firm's
+Which of these equations does not represent an oxidation-reduction reaction?
+As a manager, Kelly must communicate to her employees some bad news that will likely upset them.  What is the best advice for her to follow when communicating this bad news?
+List three (3) training adaptations that occur in skeletal muscle with training.
+Which of the following veins is NOT an antecubital vein?
+What skeletal muscle structure depolarizes the inside of the muscle cell?
+A gang's turf is its
+Did Frederick believe his officers could be educated?
+The communications process always includes feedback.
+Which of the following statements are true about use of slatted floors in AMS free stall barns? (multi-select)
+Lynyrd Skynyrd signed with which record label?
+Which of the following is TRUE of MRI?
+What is the criterion measure or gold standard of cardiorespiratory fitness?
+Someone with epilepsy might be prescribed a medication to increase __________ action.
+Find all solutions of the given equation in the interval .
+The annexation of Texas happened as a result of

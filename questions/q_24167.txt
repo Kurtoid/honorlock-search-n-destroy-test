@@ -1,0 +1,20 @@
+What is the oxidation state of pertechnetate?
+Denise is brought by ambulance to the emergency room with agitation related to an overdose of prescribed antipsychotic medication. Initially the most important piece of information the charge nurse should obtain is:
+Which of the following is an anthropogenic source of nitrogen oxides?
+Which of the following is not a factor affecting the size of validity coefficients?
+Photosystem II produces
+As it pertains to ammunition, the most common shell casings are an alloy comprising which of the following metals?
+Of the following, which is NOT true of the cremaster muscle?a.    It is composed of skeletal muscle.b.    It is derived from the external abdominal oblique muscle.c.    It can be found on the external surface of the parietal vaginal tunic.d.    It is part of the thermoregulation mechanism.
+Use the following to answer questions 13-15: potassium nitrate + zinc
+If you suffer an injury such as cutting your foot when you step on a nail, what type of molecule is immediately released by the damaged cells?
+Give an example of an organism that has an exoskeleton.
+Which of the following is an example of a behavioral interview question?
+What is the chemical formula for vanadium(III) chlorite?
+Integrated Metadata can include:
+As discussed in Lesson 12 by your Instructor, the home builder market, including all the contractors and upstream suppliers, was devastated by the recession's quenching of consumers demand for new homes. This is an excellent example of ___________.
+The temperature of a reactor has a density function of 100x-2 for 50 C < x < 100 C and zero for x elsewhere. Determine the standard deviation of the reactor temperature.
+A central one-third bone-patellar tendon-bone autograft surgical procedure describes a possible means of reconstruction of which of the following ligaments?
+What is the result of the following code? !0
+Light attenuation
+Instructions for Final Alice 3.0 Program - After creating an Alice program to do the following instructions, upload the *.a3p file here.     Create a new Alice 3.1 program that will have the following objects in an underwater scene:  A big shark 5 small fish (assorted)    Make the shark move around with your arrow keys as follows:  Up arrow - move forward Down arrow - move backward Right arrow - turn right "a little" Left arrow - turn left "a little" Letters "A" - go up; "D" go down   A camera marker in another scene underwater, where a biped is found. Make an array to hold the 5 small fish, create a fishBobbing method that will have a loop that repeats 60 times or until the time runs out, or until all 5 fish are caught. In the fishBobbing method, all the fish move together up and down, as if they were bobbing in the water. Call the fishBobbing method from myFirstMethod. Add a 3-D text object for the score, and initialize it to 0. Add a 3-D text object for the timer, and initialize it to 60. Create a timerCountDown method that will decrease the timer by 1 for each second (use wait). Call the timerCountDown method from myFirstMethod, together with the fishBobbing method.  Create a collision event between the shark and the array of fish  If the shark collides with any fish, without pressing space bar Then the fish disappears & goes deep down into the sea And the score goes up by 1.    When the timer is down to 0, check the score with an if-statement.  Make camera go to a new location, with any biped underwater If score is >= 3 -a biped will say "Pretty good, you ate a lot of fish!" If score is < 3 --a biped will say "Sorry, you must still be hungry!"   Extra Credit #1 Add music playing in parallel to the timerCountDown method. Extra Credit #2: Create another camera marker for an Intro scene to the game. State the rules of the game, then move camera to game scene. Extra Credit #3: End game when score reaches 5, not just when time runs out. Extra Credit #4:  Add anything creative to game.    Rubric:
+Which of the following is used as a photoconductor in digital radiography?

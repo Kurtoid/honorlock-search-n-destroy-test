@@ -1,0 +1,20 @@
+What is the output of the following code?import javafx.beans.property.IntegerProperty;import javafx.beans.property.SimpleIntegerProperty;public class Test {public static void main(String[] args) {      IntegerProperty d1 = new SimpleIntegerProperty(1);      IntegerProperty d2 = new SimpleIntegerProperty(2);      d1.bind(d2);     System.out.print("d1 is " + d1.getValue() + " and d2 is " + d2.getValue());     d2.setValue(3);     System.out.println(", d1 is " + d1.getValue() + " and d2 is " + d2.getValue());  }}
+The sporophyte generation
+Precipitating factors for retained secretions include:1. decreased mucociliary transport 2. excessive secretions 3. overhydration 4. general anesthesia
+The amount of energy in food that your body can use to grow and be active is measured in
+A gas station wants to determine if it is feasible to stay open during the hours between 1 am and 4 am.  Data was collected over a period of several weeks and on average there were 3.2 customers per hour during those overnight hours. Assuming the number of customers arriving follows a Poisson distribution, what is the probability that there will be exactly 7 customers arriving during the three hours between 1 am and 4 am?
+You sold short 300 shares of common stock at $55 per share. The initial margin is 60%. At what stock price would you receive a margin call if the maintenance margin is 35%?
+A mother is group A, with anti-D in her serum. What would be the preferred blood product if an intrauterine transfusion is indicated?
+Which of the following layers of a vessel contains smooth muscle and the external elastic membrane?
+The amount of heat required to raise the temperature of 1 gram of water by 1 degree Celsius is called:
+A 6 year old child presents with recurrent fever, RUQ pain, and jaundice.  The liver and gallbladder appear normal on ultrasound, but a 2 cm cyst is seen communication with the common bile duct.  What does this cystic structure most likely represent?
+The anxiety disorders identified in the DSM-5 do NOT include:
+Rainbow Corp. hires a new secretary, Polonova, who differs from the vast majority of the company's employees in terms of her ethnicity. The company has a collectivist culture with a culturally diverse workforce and several policies to support the minorities. Yet, after a few weeks, she quits the company. Which of the following, if true, helps explain why she quit?
+5. What preventive measure is most often performed during a recall appointment and is the primary treatment for gingivitis?
+The completely consistent use of the subjective camera
+The nursing student observing in the perioperative area notes the unique functions of the circulating nurse, which include which roles? (Select all that apply.)
+Which of the following statements regarding tunics of arteries is true?
+8. What is the radius of the circle given in the following equation?  x2 + y2 = 144
+No matter the 6/4 type, you should always double the bass.
+A company with an expected earnings growth rate which is greater than that of the typical company in the same industry, most likely has __________________.
+To help reduce the nausea and vomiting experienced by a patient with Meniere's disease, the nurse would caution the patient to avoid:

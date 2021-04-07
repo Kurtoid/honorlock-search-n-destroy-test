@@ -1,20 +1,20 @@
-The APTA's Vision is "Transforming Society by Optimizing Movement to Improve the Human Experience." Explain what this means to you as a future physical therapist assistant.
-A patient presents with complaint of increased vaginal discharge with a "fishy odor".  She denies vaginal itching.  On exam you note a thin grayish-white discharge at the introitus and adherent to the vaginal walls.  There is not erythema to the cervix.  What are you likely to see on wet prep?
-The magnitude of the tension in the horizontal wire is approximately equal to:
-A client, admitted for valve replacement due to aortic stenosis, is 10 pounds overweight.  When prioritizing preoperative interventions, what would the nurse include?
-A subnet is created by borrowing bits from the _____.
-9. Each of the following should be included on a resume except one. Which one is the exception?
-What muscle is being indicated in this picture (what muscle is being encircled)?
-A patient is receiving total parenteral nutrition (TPN) in the hospital.  What is the recommended frequency for changing the tubing?
-Natalia is four years old. If Natalia is like other typically developing children of this age, she should be able to _____.
-If I were to see you place a small piece of paper the size of a pencil eraser under your tongue I would guess that you were taking which drug?
-A titration reached the equivalence point when 23.9 mL of 0.134 M calcium hydroxide solution was added to 31.5 mL of hydrochloric acid solution of unknown concentration.  Determine the concentration of the unknown hydrochloric acid solution.  (Chapter 4)
-The following scatterplot is given for a company's predicted profits.  The # website hits is the:
-Lydia smokes two packs of cigarettes a day, drinks heavily, and eats poorly. Her lifestyle ultimately contributes to shortening her life. Shneidman would classify her death as a(n):
-A  1/4 '' scale means that every quarter of an inch on the drawing equals 1' in real life. So a 3' tall box will be drawn as a ____'' tall square.
-An incision made in the artery is called an ____.
-Dental health team members should speak the truth and give adequate information to allow the patient to make sound decisions regarding treatment. This is known as
-Sustained agriculture in Sumer relied on which of the following?
-A child's ability to move "normally" has no impact on their intelligence or cognitive development
-In class we described a dynamic programming algorithm which determines the fastest way to multiply
-Wegmans decided to increase health care coverage for employees by hold base pay at a modest rate after conducting a survey to determine which benefits employees valued most.  The research demonstrates what professional goal?
+Which amino acid is produced by Micrococcus sp. and can cause an allergic reaction in some people?
+Molti giovani italiani abitano con i loro genitori.
+Complete the parts of the chart below that could be used to calculate the Variance of the data set: 12  15  17  19   21     Data Value   Xbar   X - Xbar   (X - Xbar)2     [a]   [b]   [c]   [d]
+Which abdominal muscle would be connected to the sternum and the pubis?
+Megan suffers from a phobia of kittens and cats. Even though she consciously understands that she does not have to be afraid of such small creatures, she still exhibits nervousness as she watches her daughter petting a neighbor's gentle cat. Which part of the limbic system causes this fear response that Megan does not understand?
+The 19th Amendment:
+1.1   'n Streeksvlug kan beskryf word as 'n vlug waar:   (1)
+You have just eaten a meal high in complex carbohydrates.  Which of the following enzymes will help you digest the meal?
+Question from the poem "Alone" The speaker describes his childhood as the dawn of what?
+Behavior that is reinforced through the mediation of another person is known as:
+Pro-filmic refers to
+[Jedi] After seeing Solo: A Star Wars Story, Claire decides to start looking for Star Wars-themed vacations that will "train" her to become a Jedi. Claire finds a "Become a Jedi" vacation that lasts for a week and books a reservation. Claire's decision to go on a Star Wars-themed vacation best represents which type of macro lifestyle trend?
+Patient's taking Allopurinol should be instructed to do which of the following? (select all that apply)
+Main function of sarcoplasmic  reticulum (SR) is a membrane-bound structure found within muscle cells that is similar to the endoplasmic reticulum in other cells. The main function of the SR is to store Sodium Ions Na+
+Which buffer system accounts for 75% of all chemical buffering in the body fluids?
+In somatic motor pathways, the only portion of the pathway that is outside of the CNS is the
+A patient is scheduled to receive Divalproex Sodium (Depakote) 1 gram po daily.  The tablets from pharmacy are labeled as 500 mg/tablet.  How many tablet(s) will the nurse administer?
+If a patient were given a prescription for Calcitonin, what physiologic effect would the patient experience?
+Please review the two functions given below: def load_data(filename='dataList'):   """ Load the elements stored in the binary file named filename. """   # Open file to read   dataList = []   with open (filename, 'rb') as fp:      dataList = pickle.load(fp)    return dataListdef store_data(dataList, filename='dataList'):   """ Allows the user to store data in a list to the binary file named filename. """   with open(filename, 'wb') as fp:       pickle.dump(dataList, fp)Look at the code segments that use the two functions below: filename= input('Enter file name.)if filename: store_data(dataList, filename)else: store_data(dataList)filename = input('Enter a file name. Hit enter for the default file (dataList)')if filename: dataList = load_data(filename)else: dataList = load_data() if dataList:    printResults(dataList)   break What does the following statements in the above two statements do? if filename:
+The most likely causative organism in a community acquired UTI in women of reproductive age is:

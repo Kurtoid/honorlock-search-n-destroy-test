@@ -1,20 +1,20 @@
-1.3   Watter een van die volgende is 'n uitset toestel (output device)?   (1)
-Select the bond that is most polar.
-BONUS question A) Identify the movements the arrows A and B point to.. B) Which joint do these movements occur at?  This is a foot with arrow A showing the foot moving upwards and arrow B showing the foot moving downwards.
-The essential difference between negative reinforcement and punishment is that
-All of the following are strong acids except for:
-Which of the following is false regarding the structure of RNA?
-The Northwest Ordinance required any territory seeking statehood to:
-Drawing demand and supply curves assumes that the primary variable influencing decisions to produce and purchase goods is:
-Infants first become capable of self-locomotion at approximately _____ months.
-The pacemaker of the heart is the:
-Which of the following was not a significance of "Bacon's Rebellion?"
-If you are looking for a graphical representation of central tendencies, percentiles, variabilities, and distributions of the data, ______________________ should be considered.
-An example of sublimation is
-What is the data type for integers?
-What are the three main elements of an enforceable contract? Discuss using a sport example
-What was the name of the theory that communism must be stopped where it already existed and not allowed to spread further?
-As the acceptable level of detection risk decreases, an auditor may change the
-Which of the following are true about autosomal dominant disorders?
-How many electrons can be contained in all of the orbitals with n = 4?
-Which of the following describes the products formed by the acid catalyzed dehydration of cis-2Methylcyclopentanol?
+The nurse is caring for a patient who is post-op from a TURP and has CBI (continuous bladder irrigation) running. Four hours after surgery, the nurse takes the patient's vital signs and empties the urinary drainage bag. Which assessment finding indicates the need to notify the health care provider (HCP)?
+Using institutional-based view, please explain the reasons why a firm that is successful domestically may not necessarily be successful internationally.
+Multiply the following decimals using any method from class. DO NOT use your calculator to multiply. Show multiplication by hand. Write your final answer as a decimal to the thousandths.
+In regard to the "toolchain" that we will generally utilize when programming with the "C" language, the compiler tool is used to generate machine code, not assembly code, from "C" source code.
+What cells would you find in the dark slits shown in this microscope image?
+The human body is composed of different types of cells and tissues, all of which have the same degree of radiosensitivity.
+Consider the game tree below. Each state can choose to escalate a crisis (E) or not escalate (~E). State A moves first, and then State B moves second, knowing State A's action. If State B found herself at the subgame starting at the node circled in red, what would her action be? What would her action be at the subgame starting at the node circled in green? What is the subgame perfect equilibrium of the overall game?
+Find the Maclaurin Series for the function. Write your answer using sigma (summation) notation. (a)f(x)=ex3{"version":"1.1","math":"(mbox{a}) quad{} f(x) = e^{x^{3}} quad{}quad{}quad{}"} (b)f(x)=cos[?](5x){"version":"1.1","math":"(mbox{b}) quad{} f(x) = cos(5x)"}
+CASE STUDY:  Mr. Smith underwent an anterior cervical fusion of C4-C7 for degenerative disc disease 1 month ago and has had a swallowing problem and hoarse voice since. He has a gastrostomy and is not taking solid food orally although will take small amounts of liquid and soft foods. On VFSS, had residue in pyriforms after all thin liquid, pudding and cookie swallows. Aspirated sometimes on residue during subsequent swallows with no cough. After reading the case study, you will note the approach used for the cervical fusion.  In relation to swallow function, what approach could result in great swallow dysfunction?
+I have $15,000 in a savings account paying 2.23%/year interest compounded quarterly.  How much should I deposit into the account each quarter in order to have a total of $40,000 in 7 years?  Use your calculator.  Record the calculator command and what you entered on your scrap paper.  Record the answer below.
+What is Myrtos? Explain what it is, provide a rough date, and give a geographical approximation.
+Given that Array is defined as shown below, determine the content of registers $v0 and $v1 after executing the following code. Also explain what the program does.   Array: .word 15, -19, -21, 20, -10, 12, 100, -5 la $a0, Array        # $a0 = 0x10010000 addi $a1, $a0, 28 move $v0, $a0 lw $v1, 0($v0) move $t0, $a0 loop:       addi $t0, $t0, 4 lw $t1, 0($t0) bge $t1, $v1, skip move $v0, $t0 move $v1, $t1 skip:       bne $t0, $a1, loop
+Which of the following anterior pituitary hormones stimulates the gonads to secrete progesterone and/or testosterone?
+What type of cells are tightly packed, forming a protective barrier on internal and external surfaces?
+I agree not to discuss this test with other students (regardless of whether I believe they have completed it or not)  until we discuss it as a class. [a] I will remember to upload my hand work to the appropriate assignment after submitting this test.  After I upload it, I will get rid of this scratch work.  [b] I understand that many open response questions need to be graded by hand by the instructor, so the score I see when I submit this test is not my final score.  I also understand that tests may not be manually graded until after the testing period is over (so the instructor can do them all at once).  [c]
+Jenny asks Jamie to join him for ice cream on Friday night. Jamie accepts invitation, hopeful that it is a date. On Friday, Jamie offers to pay and mentions being single. Jenny mentions a crush in Chemistry class and asks Jamie to play on an intramural volleyball team with other friends. Goffman would say Jenny and Jamie are ____________.
+Match the following concepts from Fraser et al., 1997 to the associated Five Freedoms.
+Which of the following is correct about a cell that passes through the G1 restriction point?
+The following hormones are produced by the Pituitary Gland Except for: _____________________________
+Which is an important component of cell membranes?

@@ -1,20 +1,20 @@
-One of the difficulties when integrating multiple source systems is:
-Which of the following is NOT a pure substance?
-Romanticism was a reaction against ______________________.
-The use of technology, data analysis, project planning and general management to move inventory is called:
-Application Question 1:  Background The area of Painted Paradise Resort and Spa that generates the most revenue is the hotel. The hotel has rooms that range from nice individual rooms to an exclusive grand villa suite. Hotel management must track all aspects of a reservation including special requests for items such as a crib. The hotel also has to track room charges that guests have made. Room rates vary according to size, season, demand, and discount. The hotel has discounts for typical groups, such as AARP. You have been asked to create several queries that will help management with decision making.   Download and save the file below. Question1.accdb   Steps to Perform: Step 1. (0.5 points) Save the file as Question1_FirstLast using your first and last name.  Step 2. (6 points) Use the data in tblReservations and tblRoomCharges to create a query that lists all reservations, the guest's room service and restaurant charges, and calculates a mandatory gratuity. The query results should display ReservationID, CheckInDate, ChargeCategory, ChargeAmount, and a calculated field named TotalCharge in that order. Sort in Ascending order by CheckInDate. TotalCharge should be calculated using the ChargeAmount field and a gratuity of 18% of ChargeAmount. Format the TotalCharge field as Currency. Save the query as qryStep2. Step 3. (12 points) Use the data in tblReservations and tblGuests to create a query that lists the guests who reside in AK, MT, or IA, and who will be paying between $300 and $400 for their room. The query results should display GuestFirstName, GuestLastName, Address, City, State, ZipCode, CheckInDate, and RoomRate in that order. Sort in Ascending order by CheckInDate. The front desk employees would like to be able to see which customers will be arriving in two weeks so they can call the guest and confirm the reservation. Create a new field named RSVPCallDate that calculates the date that is 14 days before the scheduled CheckInDate (use a function). Save the query as qryStep3. Step 4. (6 points) Create a query based on the tblGuest table that will display the GuestFirstName, GuestLastName, and Address, in that order. The return of the query should include guests whose last names begin with letters A through M. Sort the results in Ascending order by LastName. Save the query as qryStep4. Step 5. (9 points) Use the data in tblReservations and tblGuests to create a query that determines the discount that qualifying customers will receive. The query results should list ReservationID, GuestFirstName, GuestLastName, and DiscountType, in that order. Add a calculated field named DiscountPCT that displays the percentage that qualifying customers will have deducted from their bill when they check out.  If customers have an AAA discount, return the text 10% off. If customers have an AARP discount, return the text 15% off. If customers have a Military discount, return the text 18% off. If they do not receive a discount, then display No Discount in the field.  Save your query as qryStep5.  Upload your Question1 file (with answers) to this question.
-A/An ____________________ stroke is damage that occurs when a blood vessel in the brain leaks or ruptures.
-If you change a baby's position, and the infant's reaction is to arch the back, fling the arms and legs out, and then bring them back toward the chest, the ____ reflex has occurred.
-Falls, one of the modes of slope failure, commonly occurs on mild slopes
-A positive bulge sign indicates:
-1.7   Wat word dit genoem as die draaibeweging van die gedrewe rat vinniger is as die draaibeweging van die dryfrat?   [1]
-Opening which one of the following would cause the membrane to hyperpolarize?
-Which food has the most grams of saturated fat per serving portion?
-Convert 40 inches to cm.
-When comparing test scores of two groups, a difference of one point would never be highly statistically significant, even if you had a really large sample.
-Explain or show how you got your answer to the previous two questions here
-Where are keratinocytes found?
-When a condition operates to terminate a party's absolute promise to perform, it is called a condition subsequent.
-If the product AB is 2x5 matrix, then B must have 5 rows.
-How did cities and immigrants grapple with the migration experience during the late 19th and early 20th centuries?
-_________________learners learn best by taking a hands-on approach.
+Gilgamesh and Enkidu serve as character foils for each other.
+Dumping syndrome can be avoided by:
+AFDELING 1 TOTAAL   [20]
+True or False? Authors write fiction to inform as well as to entertain, but they write nonfiction to entertain and persuade someone to do something.
+For clarity and ease of reading, all tables should be
+A friend tells you that they have anemia.  You ask for more information because you know there are underlying causes of anemia.  Describe 3 underling reasons in detail and give an example of each.
+The aging method of determining bad debts expense is based on the knowledge that the longer a receivable is past due, the lower the likelihood of collection.
+Which of the following is TRUE regarding the Islamic State in Iraq and Syria (ISIS)? (from Lynch)
+Name the general area of a vertebra that is colored in green:
+An exercise performed in such a manner that the most distal segment is free in space is termed a(n):
+Characteristic of grass plants:
+Cushing syndrome is the result of:
+Which is the primary advantage of creating a new query based on an existing query?
+In order to feed an infant cow's milk, the infant must be
+________ occurs when the participants selected to receive the survey are not chosen from the complete enumeration of the population.
+________ is a measure of the balanced scorecard's internal process perspective.
+Which of the following is considered a post-purchase process?
+Which of the processes below is overall an anabolic process?
+The thyroid gland is the smallest gland of the endocrine system
+Which of the following is a standard, acceptable abbreviation for use in the medical field?

@@ -1,20 +1,20 @@
-When asked for the definition of a dependent variable, Mohammed replied, "It's the factor in an experiment that is observed and measured for change." Mohammed's answer reflects which category of long-term memory?
-Name the phases of cell division in order: 1. [cell1] 2. [cell2] 3. [cell3] 4. [cell4]
-Look at the chromatogram below.  A sample of an unknown was also developed containing one of the components of the mixture. The Rf value of the unknown was calculated to be 0.50.  Is the unknown A, B or C?
-SECTION A - SHORT QUESTIONS Answer all questions in this section directly on CANVAS. [5 MARKS]
-What of the following takes on increasing importance in middle childhood?
-A rich relative has bequeathed you a growing perpetuity. The first payment of $1,000 occurs in a year. Each year after that, you will receive a payment on the anniversary of the last payment that is 8% larger than the last payment. This pattern of payments will go on forever. Assume that the effective annual rate is 12%. What is the value of the bequest immediately after the first payment is made?
-Daisy seems especially impressed by Gatsby's shirts.
-In the prisoner's dilemma, what strategy will produce the GREATEST individual benefit?
-As shown in figure below, a reversible power cycle R and an irreversible power cycle I operate between the same hot and cold thermal reservoirs. Cycle I has a thermal efficiency equal to one-fifth of the thermal efficiency of cycle R eI=15eR.  If each cycle receives the same amount of energy by heat transfer from the hot reservoir, show (analytically) which cycle (R or I) develops greater net work.
-Your text points out that the Dust Bowl was made worse by:
-A person who supports a mother through the birth process from early labor at home through delivery at home or in a hospital is called a _____.
-An 84 year old male with a history of hypertension, diabetes, morbidity obesity, and peripheral vascular disease presents with sharp chest pain with breathing, dyspnea, and cool pale skin. His vital signs are: T 97.F, HR 124, BP 84/49 (MAP 61mmHg), RR 32, O2 saturation of 87% on room air. His chest X-ray is negative. An ultrasound shows evidence of RV dilation and right heart strain. Which of the following do you anticipate being ordered by the physician:
-The National Human Neural Stem Cell Resource supplies researchers with neural stem cells that are obtained from ___________________ .
-The storage of heat in the lower layer of the atmosphere due to certain gases absorbing heat is called ________.
-What is the name of the large opening in the base of the cranium through which the spinal cord passes?
-Instructions concerning how to resolve problems between Christians ("...if thy brother shall trespass against thee, go and tell him his fault between thee and him alone...")
-Which of the following is an appropriately written patient outcome (goal)? a.    Nurse will assess vital signs every dayb.    Resident will observe safety guidelines while smokingc.    Resident will take part in one activity daily for the next 90 daysd.    Nurse will monitor O2 saturation to maintain at greater than 90%
-Which of the following laboratory values is most common in clients with hyperosmolar hyperglycemic syndrome (HHS)?
-Identify the type of dairy cow housing system pictured below:      Assess the dairy cow housing system below by identifying one advantage and one disadvantage (challenge). Additionally, identify the corresponding circle of animal welfare the advantage and disadvantage best corresponds to. Format your answer in the following manner:  Name of housing system: (1 point) Advantage to housing system: (1 point) Circle of animal welfare advantage best corresponds to: (0.5 points) Disadvantage (challenge) to housing system: (1 point) Circle of animal welfare disadvantage best corresponds to: (0.5 points)
-What are some disadvantages to using coal to produce electricity?
+Rewrite the logarithm using the change of base formula and evaluate using a calculator.  Round your answer to 3 decimal places.  This can be evaluated using a scientific calculator.  A graphing calculator is not required.
+Which of the following hormones would increase after an meal
+Which of these is in the correct hierarchical classification order? (Start with first as the broadest level of classification. You will use all of the choices)
+A CUDA kernel processes an mxn image where m is the vertical or y direction and n is the x or horizontal direction.  Suppose that m=800 and n=600 and we decide to use a grid of 16x16 thread blocks for the calculation with one thread per pixel.  How many warps will experience control divergence?   __global__ void PictureKernel(float* d_Pin, float* d_Pout, int n, int m) {    // Calculate the row # of the d_Pin and d_Pout element to process    int Row = blockIdx.y*blockDim.y + threadIdx.y;    // Calculate the column # of the d_Pin and d_Pout element to process    int Col = blockIdx.x*blockDim.x + threadIdx.x;    // each thread computes one element of d_Pout if in range    if ((Row < m) && (Col < n)) {        d_Pout[Row*n+Col] = 2*d_Pin[Row*n+Col];    }}
+In which step of the scientific method does one develop a statement that sums up what the data says about the hypothesis?
+Money paid upon signing of a contract of sale by the offeror is called earnest money.
+What is the biggest problem with the Roman Church's view concerning their interpretation of Christ's statement that the bread was his body and the wine was his blood?
+A circuit that has only one path for current flow is a _____ circuit.
+According to the video entitled "Violence: An American Tradition," we have accurately identified the root causes of violence and developed effective strategies to significantly reduce the likelihood of continued violence in our society.
+What is a progressive series of changes that ultimately produces a climax community?
+Which of the proposal(s) in the First Atomic Theory are NO LONGER supported?
+A(n) ____ circular reference occurs when a formula in a cell refers to another cell or cells that include a formula that refers back to the original cell.
+. 2x5 - 4x4 + 4x3 - 8x2
+Label as Q-BEN on your paper. (8 min) You must show all your work for this problem on your paper.  You must show starting variables, starting equations, and use one step equation dimensional analysis where applicable.  In addition to showing you work on paper, you must state you final answer(s) here with units.  Failure to do so will result in zero credit regardless of your work on paper.  Calculate the binding energy per nucleon of an P-33 nucleus given that the measured mass is 32.97173 amu. Mass of proton = 1.007825 amu Mass of neutron = 1.008665 amu 1 kg = 6.022 x 1026 amu c = 3.00 x 108 m/s.
+Ramp transfers of more than 30 minutes are an abnormality in the air transport industry.
+Amanda is assigned to a group to take a quiz (which actually doesn't count towards the course grade). For one of the questions, she is certain the correct answer is C, but the rest of her group all says the answer is A. Based on information about the Asch line studies, how would Amanda be likely to respond?
+Which of the following is true about ciliates?
+In which of the following settings would shaming be LEAST effective?
+The nurse cares for a client in the emergency department.  The client's family reports a history of heavy alcohol abuse and consumption of alcohol 24 hours ago.  The client is oriented but is tremulous, weak, and sweaty with some gastrointestinal (GI) symptoms.  The client's BP is 160/110 and temperature of 100.5.  Which is the most likely cause of the symptoms?
+If my cellular device (cell phone) is seen during class exams, what consequence will I receive?

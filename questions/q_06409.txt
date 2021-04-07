@@ -1,20 +1,20 @@
-What is the likely consequence of an unemployment rate falling below the rate at which "full employment" is achieved?
-Write a method countDown(int num) in Java that takes in an integer num in the range 20-98 as input. The method doesn't have a return value. The method will print out a countdown starting from the integer, and stopping when both output digits are identical. If the input integer num is less than 20 and greater than 98, your program prints: "Input must be between 20-98!".   Example 1:    If the input is:    93    The output is:    93 92 91 90 89 88 Example 2:    If the input is:    77    The output is:    77 Example 3:    If the input is:    15    The output is:    Input must be between 20-98!   Note: Each number in the output must be separated by a space, even the last one. You don't need to write a main method.
-Exam 2 | WST 3415 | Thursday March 18th, 2021 |9:35am- 10:35am (1 Hour)   CLOSED BOOK, NO NOTES, NO ELECTRONIC DEVICES ALLOWED (no phone/tablets, etc.)   Total possible points: 100
-Drugs that relieve pain without loss of consciousness are known as ____.
-Where is the transformer? Type the letter:
-In which of these cases have researchers found good evidence of "far transfer"?
-Consider the DE      Does the DE have two distinct real roots? [1] Will a graph of the solution oscillate? [2] Is damping present? [3]
-For students to succeed at any skill, they must be exposed to ________ practice.
-The adult epinephrine auto-injector delivers ______ mg of epinephrine, and the infant-child auto-injector delivers ______ mg.
-In regard to bone matrix, which of the following does not belong?
-The code between a pair of curly braces in a method is a ____________.
-Find the quotient and simplify. /
-True or False: Tidal volume is the air you breathe when you are standing in the ocean.
-Which is most required for calcium absorption?
-Which of the following is NOT a change in the digestive system associated with aging?
-An erythrocyte that is larger than normal is considered a [answer1] and an erythrocyte that is smaller than normal is considered a [answer2].
-A weight of sixty pounds is supported by pulleys which are supported by four ropes.  How much force must be applied to move the weight?
-State whether the triangles are congruent. If the information given is not sufficient, state "No conclusion possible".
-Correctly conjugate the verb in parenthesis in the preterit. Copy and paste any of these you may need: a e i o u n Las chicas _____  ________ (dormirse) a las doce de la noche.
-Match the following bone types with an example of each.
+Which of the following is not a characteristic of the person-centered approach?
+On the absolute Kelvin temperature scale, the temperature of freezing water is about
+Humidity can be expressed in many different ways--volume, pressure, mass; but humidity is always
+Research on the effects of mediated communication indicates that
+A _____ is a review of a project team member's work by other members of a team.
+Consider the following information for Viking Corporation:  The September 30, 2021 Bank Reconciliation showed the following outstanding checks:  #301 for $3,500 #305 for $700   As of September 30, 2021, a $2,850 cash receipt had not yet been processed by the bank. Cash Balance per Books on October 31, 2021 was $10,500. The following information was taken from the October 31, 2021 Bank Statement, as well as the most recent Cash Journal:      Bank Statement:         Cash Receipts    General Ledger:          Cash Receipts     Date   Amount    Date   Amount     10-3   $2,850    10-5   $4,600     10-9   $4,600    10-14   $580     10-16   $850    10-26   $1,400     10-29   $1,400    10-31   $9,600     10-31   $4,250 (EFT)              Bank Statement:   Cash Disbursements       General Ledger:  Cash Disbursements     Check No.   Amount       Check No.   Amount     301   $3,500       306   $1,600     306   $1,600       307   $1,250     307   $1,250       308   $1,850     309   $1,800       309   $1,800     311   $2,650       310   $835     312   $1,000       311   $2,605                 312   $1,000      If there are any differences between the bank records and the book records, assume that the amounts recorded by the bank are correct.  The October 31, 2021 Bank Statement also had the following memos:  Cash Balance per Bank was $7,450 Debit Memo: $50 Bank service charge Debit Memo: NSF Check from customer Lions Inc. for $1,260 Credit Memo: Electronic Fund Transfer (EFT) received for $4,250  Prepare the Bank Reconciliation for the month ending October 31, 2021.
+In Munchausen syndrome by proxy, anger is usually the primary causal factor of child abuse.
+What is the molarity of a NaOH solution if {v} mL are needed to titrate a {m} g sample of potassium hydrogen phthalate (KHP)? The molar mass of KHP is 204.2 g/mol and 1 mole of KHP reacts with 1 mole of NaOH. Report your answer to 3 significant figures.
+Which of the following is NOT one of the three choices economies make?
+A blood vessel has the following characteristics: outer layer of connective tissue, a thick layer of smooth muscle with elastic fibers, no valves. It is which of the following?
+In the swap module, the third variable is declared as a __________ variable.
+If a whole paragraph is included in a single string, the split() method can be used to obtain a list of the sentences in the paragraph.
+At the time the expiration of an option to purchase, the optionee
+When a company provides services on account, the transaction would be recorded with a debit to:
+Which sport is exempt from the Sherman Antitrust Act?
+An agent that is often necessary when a patient is receiving daily opioids is?
+The Chinese made the observation that if one had a weak strain of smallpox, one would not get a strong strain of smallpox later. This is situation is termed:
+After adding antigen and antibody to a test tube, several large agglutinates in a clear background were observed. How should this reaction be graded?
+Questions 21, 22, and 23 are based on Tupac Shakur's poem, "The Rose That Grew from Concrete". Select the answer choice that best defines the term "laws" in stanza 2. You must consider the context of how the term is used in the poem.   Did you hear about the rose that grew   from a crack in the concrete?   Proving nature's laws wrong,  it learned how to walk without having feet.   Funny it seems, but by keeping its dreams,  it learned to breathe fresh air.   Long live the rose that grew from concrete  when no one else even cared.
+Monsieur et Madame Ouellette sont au cafe.SERVEUR:  Vous desirez?M. OUELLETTE:  Je voudrais un sandwich au fromage et une limonade, s'il vous plait.SERVEUR:  Et pour vous, Madame?MME OUELLETTE:  Un the, s'il vous plait.SERVEUR:  Quelque chose a manger?

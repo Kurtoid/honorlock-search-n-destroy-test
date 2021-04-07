@@ -1,0 +1,20 @@
+A nurse is in a client's room when the client begins having a tonic-clonic seizure. Which of the following actions should the nurse take first?
+Which of these species is likely to be useful in the food industry? (Select all that apply)
+The nurse obtains all of the following assessment data about a patient with deficient fluid volume caused by a massive burn injury. Which assessment data should be of most concern to the nurse?
+A database contains information on the wait times patients have reported in the emergency room to see a physician since the hospital opened 5 years ago. Suppose the wait times vary according to a normal distribution with mean wait time of 1.9 hours and a standard deviation of 0.7 hours. Based on a simple random sample of 23 patients at the hospital in the waiting room, what is the probability that they will have to wait for more than 2.5 hours?
+Trace the following code and write the outputs. Show all work.  Read the code carefully.    public class AddOperator   {      private int num = 0;      public AddOperator(int num_in)      {         num = num_in;      }      public int getNumber()      {         return num;      }      public int getNumberX()      {         return num;      }   }   public class SuperAddOperator extends AddOperator   {      public SuperAddOperator(int age)      {         super(age);      }      public int getNumber()      {         return super.getNumber() + 1;      }   } //in the client...   public static void main(String[] args)   {      SuperAddOperator object1 = new SuperAddOperator(2);      AddOperator object2 = new SuperAddOperator(6);      AddOperator object3 = new AddOperator(10);            System.out.println(object3.getNumber());      System.out.println(object1.getNumber());      System.out.println(object2.getNumber());      System.out.println(object1.getNumberX());      System.out.println(object2.getNumberX());   }
+Lyophilized products that are re-constituted and  kept at room temperature, most commonly are assigned a stability or expiration of:
+(Q014) In which type of group do members play a substantial role, serving on committees and engaging in group politics?
+Name the structure in this slide (please disregard the question mark)
+If a dental hygienist discusses a patient's current dental status with a non-dental or nonmedical professional, the dental hygienist is experiencing breach of:
+In Medieval India daughters were frequently married
+Neptunium-239 has a half-life of 2.35 days and follows first-order decay kinetics. How many days must elapse for a sample of 239Np to decay to 1.00% of its original quantity?
+A substrate control ensures that the surface on which a sample was deposited does not interfere with the interpretation of laboratory tests.
+You should focus on selling yourself during an interview.
+What is the source of the error in the code below? taxonomic_rank(1).family = "Elephantidae";taxonomic_rank(1).genus = "Loxodonta";taxonomic_rank(2).order = "Carnivora";taxonomic_rank(2).family = "Felidae";taxonomic_rank(2).genus = "Pantherinae Panthera";classification.family = "family";classification.genus = "genus"; classification = [taxonomic_rank, classification];
+We like to be around talented people in the hopes that their skills and abilities will rub off on us. This refers to:
+Pulmonary ventilation is more commonly called:
+You know the drill...Describe one concept from Unit 2 you understand really well but weren't fully tested over on this exam. You must explain the concept to receive bonus points. If you're blanking on concepts, you could describe one of the following processes: binary fission, glycolysis, respiration, DNA replication, transcription, or translation.
+Which of the following is a common OSI Layer 3 (network layer) troubleshooting issue? (Choose two.)
+According to Professor Kapp, the Donner Party tale is a story of
+In a dog with ascites (the accumulation of fluid in the peritoneal cavity), the ascitic compartment can represent up to 30% of body weight.  If Drug A is distributed to the ascitic compartment, which statement below is true:

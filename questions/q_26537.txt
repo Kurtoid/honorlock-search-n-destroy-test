@@ -1,0 +1,20 @@
+Convert 27.1 inches to centimeters. Given 1 in = 2.54 cm.
+A nurse is caring for a laboring woman who is in transition.  Which of the following signs/symptoms would indicate that the woman is progressing into the second stage of labor?  Select all that apply.
+A student purchases bottled drinks and canned drinks for a party. She purchased a total of 40 drinks for the party at a total cost of $58.05. If bottled drinks each cost $1.95 and canned drinks each cost $0.90, how many of each type of drink did she purchase?
+You have files Candy.java, JollyRancher.java, and a driver class named Driver.java. Fill in the correct visibility modifiers so that the comments in the class JollyRancher and Driver's main method are upheld.  public class Candy {    1  void isSour() { /*compiles*/ }    2  void munch() { /*compiles*/ }    3  void yummy() { /*compiles*/ } }  ----- in a separate file in a different package/directory ----- public class JollyRancher extends Candy {   public void sweet() { isSour(); // compiles munch(); // doesn't compile }}  ----- in a separate file in a different package/directory ----- public class Driver { public static void main(String[] args) {        JollyRancher j = new JollyRancher();         j.isSour(); // doesn't compile j.munch(); // doesn't compile        j.yummy(); // compiles  }}    1   : [1]  2   : [2]  3   : [3]
+Neutropenia can be due to:
+Solve for x. Be sure to reduce your answer. Check your solution.x = -5
+Which method of delivery involves a speech being delivered by reading word-for-word from a prepared text?
+The endocrine system covers and protects the body.
+What is Prepositional Singular of istoriia Rossii?
+Three experimental set-ups were required for you to study catalase activity.  Two were controls. What was one of the other conditions that you set up, other than "Catalase + substrate?"
+Which of the following statements represents a slippery slope fallacy?
+A patient is suffering from tendonitis of the knee. The nurse is reviewing the patient's medication administration record and recognizes that which adjuvant medication is most appropriate for this type of pain?
+The pipe cleaners are traveling through what space? Be specific. *Do not list the side (left or right)*
+Part A. Fill-in-the-Blank/Multiple Choice type questions (31 pts)- Questions 1-14 These can be answered in a letter, a single word or a short phrase.  The number of points are provided for each question- most are 2 points.
+The home care nurse is caring for a patient who has severe Chronic Obstructive Pulmonary Disease (COPD) and uses home oxygen therapy. The patient increased the oxygen flowmeter from 2L/min to 5L/min and reports to the nurse feeling much better. The patient's pulse oximetry is 98%. What is the best action of the nurse?
+sciolto
+Before beginning this exam, I am acknowledging here that I understand the importance of academic integrity. I agree to neither give nor receive any help on this exam from anyone. I understand that using outside sources  of any kind on this exam is an academic misconduct violation. I also understand that discussing or sharing any part of this exam is an academic misconduct violation. I agree to only use a scientific calculator on this exam. It is important to me to be a person of integrity and that means that ALL ANSWERS on this exam are my answers.
+At 18-months of age Ben could speak approximately 50 words. However, by 22-months of age, his vocabulary had increased to almost 300 words, most of which were nouns. This can be explained by which of the following?
+Which one of the following is not true regarding a like-kind exchange?
+The lower end of the manubrium joins the body of the sternum to form a palpable prominence called the manubrial notch.

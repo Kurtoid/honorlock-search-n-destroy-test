@@ -1,20 +1,20 @@
-Your cousin Vinny is a third-year dental student and he joined a research group interested in determining whiteness in teeth. Unfortunately, no one in his dental group knows how to conduct a study. So your cousin asks you to help them investigate three popular teeth whitening brands: (A1) Crest 3D White Strips, (A2) Rembrandt 2-Hour Whitening, and (A3) Opulence PF Teeth Whitening. Four clinical dentists will serve as judges and rate tooth color on a whiteness scale (range: zero - 100; dull gray to brilliant white) before and after treatments. Vinny's dental group would like you to plan and conduct the study, compute the appropriate statistical analyses, interpret the findings, and draw valid conclusions.        (a) List three steps involved in conducting this study including the experimental design, variability concerns, and statistical analysis.        (b) Below is a matrix showing a design and means for each cell. No answer required.                                                  Testing Session                 Before                       After    A1   61   60     A2   56   84     A3   65   72     (c)   Analysis of Variance Summary Source           Degrees          Sum of             Mean                  Calculated              Term          of freedom        Squares           Square (S2)                F       A                       2                       72              36                           ?   B                       1                         8                8                           ?   AB                    2                    148              74                         18.50               Error              69                    276                4                             ________________________________________________________   Total              74                  504 (d)    What calculated F values and critical F values are required to fully analyze the data?         Main effect A, calculated F = ?         Main effect B, calculated F = ?           F critical A (2, 69) = ____??_____          F critical B (1, 69) = ______??___          F critical Ax B (2, 69) = _____??____ (e)  What is an appropriate conclusion based on your statistical analyses?   (f)   Calculate an appropriate Eta Squared for your most important finding. (g)   What are you going to tell Vinny?
-Do the following conversion. Do NOT include units in your answer     108 dag = ______ cg
-The majority of feces is water and bacterial mass.
-She drove to Cincinnati at an average speed of 65 MPH. This is an example of discrete data.
-The United Kingdom phase of Israel came to an end with the death of:
-A 30-year-old male presents with multiple, scattered, discrete vesicular lesions on the right leg for 5 days. There are honey-colored "stuck-on" crusts and erosions in some of these lesions. The culture yields Staphylococcus aureus. What is the most likely diagnosis?
-All of the following are albums by Pink Floyd EXCEPT:
-The shape of the molecule below is___________.        :O:         ||H - C - H
-You are the RN that is caring for a 2-week old infant that was admitted for repeated projectile vomiting.  During the interview with the mom, she tells you that the baby was a good eater but is now vomiting everything.  The baby was fussy and dehydrated so the pediatrician asked the mom to come to the ED.  As the nurse, you suspect pyloric stenosis.  You know that the most likely intervention will be:
-What does the abbreviation "PTFE" refers to?
-According to Unit 3 Grammar article, subjects and adjectives are sometimes connected by linking verbs (ie. Bobby is old.). ASL is similar to English in that ASL also uses linking verbs.
-As oxygen moves from the alveoli into the pulmonary capillaries, oxygen must cross the respiratory membrane.  What is the correct order of structures that oxygen must pass through as it goes through the respiratory membrane from the alveoli into the bloodstream? 1.  Endothelial cells of the capillary 2.  Type 2 alveolar cells 3.  Type 1 alveolar cells 4.  Fused basement membrane
-The molecule used most frequently by cells as a fuel belongs to which of the following groups?
-If you were to assemble a complete diagram, which of the fragments would you use to end the diagram?
-Which formed element transports oxygen and carbon dioxide?
-A nurse is planning care for a patient with acute pancreatitis. Which patient outcome is the highest priority?
-The proper name for Cr2S3 is ________
-A patient that has a colostomy will go through a grieving process.
-Type II hypersensitivities differ from type III in that ________.
-According to the "pooling principle", when 4 identical and independent demand streams, each with standard deviation 10 units, are pooled (that is, combined, or added), the standard deviation of the pooled demand stream is
+A new nurse is admitting a patient diagnosed with DKA related to type 2 diabetes mellitus. The nurse should expect the following symptoms during an assessment, except:
+Most infants develop the gross motor skill to roll from back to stomach
+How could you test for function of the accessory nerve?
+Which of the following represents a type of movement where there is a decrease in the angle between articulating bones?
+Give a proof of the following statement:   Suppose
+In branched DNA amplification, the signal is amplified instead of the actual target DNA.
+Match the example of the measurement with its classification:
+The purpose of developing the subtotal "Income from Continuing Operations" in an income statement is to:
+The equilibrium price and quantity for this graph are, respectively,
+Stage 7: Assessment A Be thoughtful and deliberate with your work. Do not rush! If you finish early, do not submit it first thing! Take some time to look away from it, then come back and review your work. Notes about the exam:  The assessment is timed at 45 minutes.  Those with extended time have it built in.   You may use the scratch paper I have provided. Your bags and other electronic devices should be kept in your bag. When you have finished, I will grade your submission and provide comments.
+What do compensation managers use to recognize differences in the relative worth of jobs and to establish pay differentials based upon management priorities?
+What is the output for the following code snippet? word = '!!Perseverance%$'; word (2:3: end ) = word (16: -3:2); disp ( word );
+The interaction between ionizing radiation and the target molecule that is most likely to occur is the _____________ (direct / indirect ) effect.
+54. Name this tumor which most often occurs in the 4th ventricle.
+A parameter is
+Skeletal muscle cells will have a large number of _____ due to their high demand for energy
+Let P(x,y) mean " x2+y2=25 ", where x and y are real numbers. Determine which of the following statements is true.
+Suppose that  and  model the revenue (in billions of dollars) for a large corporation. The model R1 gives projected annual revenues from 2008 through 2015, with t = 8 corresponding to 2008, and R2 gives projected revenues if there is a decrease in the rate of growth of corporate sales over the period. Approximate the total reduction in revenue if corporate sales are actually closer to the model R2. Round your answer to three decimal places.
+**Calculation Upload Required** Consider the combustion reaction for octane (C8H18), which is a primary component of gasoline.  2 C8H18 + 25 O2 --> 16 CO2 + 18 H2O If 11.3 grams of CO2 gas was emitted from the reaction, how may grams of octane was burned?
+Instructions: Complete each sentence with one or two words/phrases from the list. Sometimes more than one answer is possible. Words/Phrases can be used more than once.climbinghikingjoggingplaying soccerskiingsnowboardingswimmingWhen you are ____________________, you need a ball.

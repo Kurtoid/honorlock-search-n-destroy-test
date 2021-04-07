@@ -1,0 +1,20 @@
+What is the net production of ATP molecules resulting from the complete aerobic metabolism of glucose?
+For many industrial products, the revenue from associated services exceeds the revenue from the products themselves.
+One cubic meter (cm3) of which of these would have the greatest mass (weigh) the most? (D = m/V)
+What is the mode(s) of the following set of scores? 11, 11, 12, 12, 13, 14, 15, 15,15, 15, 16, 16, 17, 18, 18, 18, 18, 18
+Below is an image of the molecular structure of a particular class of antibiotics. Identify the highlighted region of the molecule below?
+Describe Diego Velazquez's Las Meninas.  Why is it considered his best and most enigmatic painting?  Explain your answer in 1-2 paragraphs.
+1.1.1   The main function of this nutrient is to provide energy and heat.   (1)
+Find the derivative of the function.y = (9x + 11)3 + -1
+4.2.2   Lithium has two naturally occurring isotopes, Li - 6 (abundance 7%) and Li - 7 (abundance 93%). Calculate the relative atomic mass of lithium, giving your answer to 3 significant figures.                      (3)
+The compact bone that surrounds the roots of the tooth and forms the lining of the tooth socket is known as all of the following EXCEPT:
+Fill in the provided skeleton code to create a 1-process FSMD for the following pseudo-code. High-level code: Inputs: go (std_logic), n (16-bit std_logic_vector)Outputs: result (8-bit std_logic_vector), done (std_logic) done = 0; result_r = 0; while (1) {    while (go == 0);  done = 0;    i = 1; result_r = 0; // initialize result register n_r = n; // store input n into register    while (i > 1; // shift n_r right by 1             i++;  }   result = result_r;  done = 1;  while (go == 1);} VHDL: library ieee;use ieee.std_logic_1164.all;use ieee.numeric_std.all;entity fsmd is    port (        clk, rst, go : in  std_logic;        n            : in  std_logic_vector(15 downto 0);        result       : out std_logic_vector(7 downto 0);        done         : out std_logic        );end fsmd;architecture default of fsmd is    -- BEGIN REGION 1 (create state_type)    -- END REGION 1    signal state : state_type;    signal i        : unsigned(4 downto 0);    signal n_r      : std_logic_vector(n'range);    signal result_r : unsigned(result'range);    begin        process(clk, rst)    begin        if (rst = '1') then            -- BEGIN REGION 2            -- END REGION 2       elsif (rising_edge(clk)) then            -- BEGIN REGION 3           -- END REGION 3        end if;    end process; -- BEGIN REGION 4 -- END REGION 4end default;
+Lorena y Maria estudian mucho. Son buenas estudiantes. Son_______________.
+Most of the fossils discovered in Africa come from the eastern and southern parts of the continent. Why is this?
+The objective of _____ is to gather data about project usability, costs, benefits, and schedules.
+There is a universal growth media that supports the growth of all types of bacteria.
+Which of the following is the Tort of Assault?
+Damaging which cranial nerve could decrease gastrointestinal secretions?
+Which of the following solutions has the highest hydroxide ion concentration?
+A partially completed ANOVA table for a completely randomized design is shown here.    Source df SS MS F   Treatments 5 16.9 ---- ----   Error ---- ---- ----    Total 41 45.2 X     What is the number of treatments in the experiment?
+The force that moves fluid out of capillaries is ________ pressure whereas the opposing force that moves fluid into capillaries is ________ pressure.

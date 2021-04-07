@@ -1,20 +1,20 @@
-A composite cylinder is 30 inches long and is fixed at the left end. It consists of an inner core with diameter 1 inch and G=12,000 ksi. The outer shell is perfectly bonded to the inner core and has an outer diameter of 2 inches with G=18,000 ksi. A torque is applied at the right end of T=2 k-ft. Find the maximum shear stress in both the core and shell along with the total angle of twist.
-The nurse teaches the client about therapy to prevent asthma attacks. What statement by the nurse would best explain the purpose for daily asthma therapy?
-Please upload your WRITTEN response here if you have any issues with your exam.
-The following question pertains to the physioex laboratory on Chemical and Physical processes of digestion: What was the optimal pH for lipase?
-Given the encryption functions: 1) Enc(x, p) = p(x) 2) Enc(x, K) = x*K 3) Enc(x)=(x+3) mod 26 4) Enc(x, K)=(x+K) mod 26 5) Enc(x, )=(a*x+b) mod 26 6) Enc(, )=< xi+K(i mod n) mod 26 | 0<=i<=m > 7) Enc(, )=< xi XOR K(i mod n) mod 256 | 0<=i<=m > 8) Enc(, p) =    Which of them are used in the following ciphers (fill its number in the space): a) _[a]___ Affine Cipher b) _[b]___ Caesar Cipher c) _[c]___ Hill Cipher d) _[d]___ Permutation Cipher e) _[e]___ Shift Cipher f) _[f]___ Substitution Cipher g) _[g]___ Vernam Cipher h) _[h]___ Vigenere Cipher
-"Logos" means
-[UGC] User-generated content (UGC) refers to
-You discover a new membrane protein that functions as a channel. In order to extract this protein, the membrane has to be treated with a detergent. What can you conclude about your newly-discovered protein based on this information?
-What is the type of metadata that documents source to target field mapping?
-The evaluation and selection of products and suppliers are affected by the needs of both the organization and the individuals making the decision. These needs are categorized as:
-Elevated levels of this type of white blood cell indicates the presence of a(n) __________  _________ infection? (two words)
-When Alexia was born, she had a lack of oxygen for a small amount of time. Alexia experienced _____.
-The phospholipid tails are ________, which make the plasma membrane impermeable to water.
-When you walk from inside to outside and settle into your unheated car seats, what type of temperature receptors are telling you that your booty is cold?
-Which of the following associations accredits schools that award a DO degree?
-Which component of the XR Tube assembly is positioned below the window and outside of the housing and responsible for shaping the XR beam.
-What is the most important factor in all family violence situations?
-John wants to collect insurance money for the destruction of his warehouse so he hires Jim to set the fire.  In the dark, Jim gets confused and sets fire to the wrong warehouse, burning it to the ground. Which type of mens rea can be used to hold Jim guilty of setting the fire?
-The external urethral sphincter is under involuntary control.
-Which technique will the nurse use to facilitate the history and physical examination of a small child?
+Endocrine glands that are near (above) each kidney are called _____ glands.
+One of the advantages of the extemporaneous method of delivery is that it enables you to maintain eye contact with your audience.
+Strain hardening is also called
+20. Adding this vegetable to a stew, soup, or gumbo will help it thicken (from the mucilage/amylose/amylopectin capturing water molecules):
+A person who has died without a will has died
+What is the recommended temperature for cooking ground beef?
+Christopher Columbus - "Letter of Discovery" Where did Columbus initially believe he'd landed when he first sighted what is now modern-day Cuba?
+Finish the following code (all parts indicated by keyword "TODO") to show two rectangle moving towards the mouse location from their current position.  You can design any type of the motion as long as it is related to the mouse location and the current location of the object.  You can NOT set the location as mouse location directly. // put your name here:moveObj obj = new moveObj(10, 10, 10, 10);// TODO: create another object of the moveObj class at different location void setup(){  size(640, 360);  fill(100); } void draw(){  background(255);  // TODO: move and display the two moving objects   } class moveObj {  float w; // rect width  float xpos; // rect xposition  float h; // rect height  float ypos ; // rect yposition   moveObj(float iw, float ixp, float ih, float iyp) {    w = iw;    xpos = ixp;    h = ih;    ypos = iyp;   }   void move () {   // TODO: code for moving toward the mouse location  }   void display() {      rect(xpos, ypos, w, h);  }}
+The nurse notes that a patient is experiencing respiration increases in rate and depth with long blowing exhalations.  Which respiratory pattern should the nurse document for this patient?
+Because asteroid defense is potentially subject to free riding, a private sector market for national defense would lead to
+Diagrams A, B, and C represent three acids (HA) dissolved in water. Which of the diagrams shows the weakest acid?
+What is the energy in joules of an entire mole of photons having a wavelength of 205 nm? E = Nh(nu)
+Review the following clause and apply to the hypo presented:    The Contractor and Owner waive all claims against each other for all consequential damages arising out of or relating to this Contract.   This mutual waiver includes:     damages incurred by the Owner for rental expenses, for losses of use, income, profit, financing, business and reputation, and for loss of management or employee productivity or of the services of such persons; and    2.  damages incurred by the Contractor for principal office expenses including the compensation of personnel stationed there, for losses of financing, business and reputation, and for loss of profit other than anticipated profits arising directly from the Work.   FACTS: The contractor is delayed on a casino project for two months. The job logs indicate that for thirteen of those days the project is affected by unusually severe weather that required mitigation and remediation, for seventeen days the contractor was delayed due to waiting for architect approval, and on four separate occasions there were labor shortages and material delivery delays that held up the project. None of these happened to be concurrent delays. Among other damages, the owner claims he is out over $2 million due to the delayed opening, while the contractor is out lost profits for other jobs he had to forego, two months additional equipment rental and off site materials storage costs.   Which of the following is PROBABLY true for the listed damages under the clause above:
+Which of these lab techniques is most effective at determining the size of a DNA fragment that is a few thousand base pairs?
+The medical term that is defined as the sole of the foot
+Information gathered during the medical history interview with a cancer patient includes demographic information. Which of the following would not be included in the patient's demographic information obtained?
+In a well-organized short essay of no more than two paragraphs, compare and contrast Roman slavery with slavery as it was practiced in another, more recent culture - e.g. the United States before the Civil War, the Spanish colonies in Central and South America, serfdom in the Russian Empire or elsewhere in medieval Europe, or another culture with which you are familiar. What specific similarities and differences can you see between the practices of slavery in the two cultures? What factors (other than simply the passage of time) might account for the differences?
+What is the zone of proximal development?
+Which line on the graph above represents the results of the osmosis experiment using 20% sucrose? Answer with the color of the line.  If you cannot see the colors clearly, answer with the position of the line such as top line, middle line, or bottom line.
+The Ticer family spends 25% of their monthly budget on rent. How much is their rent if their monthly budget is $4200?  You do not need to type the $, just the number.

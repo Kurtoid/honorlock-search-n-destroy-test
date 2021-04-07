@@ -1,20 +1,20 @@
-Mrs. Robinson is hypothyroid.  Calculate a loading dose of thyroxine to rapidly get her to an effective concentration of 9.1 mg/dL.  The Vd is 11.6L/kg and the bioavailability is 50% for an oral dose.  Recall that Loading dose = Vd x desired steady state concentration / bioavailability.
-Match the joint movement with the appropriate activity.
-EBCDIC and ASCII both require _____ bits for storage of each character.
-The single-shear connection shown below has 1/4" thick side plates joined by a 3/8" bolt.  Tension (F) is 2 kips.  Determine bolt shear stress based on the unthreaded shank. Provide your answer in ksi, but do not include units in your submittal. 1 kip = 1000 lb and 1 ksi = 1000 psi
-What is the most common location for a AAA?
-Which athlete will benefit from fast twitch muscle fibers the most?
-A nurse is caring for a client with Hodgkin lymphoma at the oncology clinic. The nurse should identify what main goal of care?
-The entire active area of reworked sediment due to wave action is known as the ________.
-The time of day most hazardous for heart attacks is ________.
-Which nursing interventions are appropriate for the patient with Bell palsy? Select all that apply.
-When does a merger between companies typically occur?
-Amanda, a middle-aged mother, teaches her son Timothy to tie his shoes. She demonstrates the procedure and then takes her son through the steps until Timothy can perform the task on his own. In the context of Vygotsky's sociocultural theory, this is an example of ___________.
-Which of the following is NOT a form of lung cancer?
-The weighted moving average forecasting model uses a weighting scheme to modify the effects of individual data points. This is its major advantage over the simple moving average model.
-Which combination of terms refer to a substance that dissolves well in lipids, including fats and oils?
-Stoma is a tiny opening or pore, found mostly on the underside of the leaf and used for gas exchange.
-Cells that destroy bone are termed:
-What variables factor in for the risk of cellular injury and oxygen toxicity?
-Which of the following are rod-shaped bacteria?
-A male client has been diagnosed with secondary syphilis. When assessing the client, which finding will understand as congruent with the diagnosis?
+Blanca often gets bored in her chemistry class because the professor never varies his pitch when speaking.  Which word would best describe Blanca's professor?
+24. You have taken out a $360,000 fixed-rate mortgage loan (the monthly payment is a constant, and is made at the end of each month), and the loan term is 15 years. The annual interest rate is 8%. Calculate the monthly payment for this mortgage loan.
+This section is provided to ask any questions about Exam #2
+In which stage of normal bone healing is there bridging of the fracture site, and cartilage and immature bone provide support?
+Sigmund Freud suggested that people who are dominated by their ________ might be narcissistic and impulsive.
+Which is the number one cause of UTIs?
+Which muscle in the image above is circed and has the number 6?
+This type of muscle tissue is capable of regenerating via satellite cells:
+At the end of the first month of operations for Jackson's Catering Service, the business had the following accounts: Cash, $20,500; Prepaid Rent, $500; Equipment, $7,500 and Accounts Payable $4,000. By the end of the month, Jackson's had earned $33,800 of Revenues, and used $1,940 of Utilities Expenses, $4,300 of Rent Expense and $3,680 of Salaries Expenses. Net income to be reported by the company for this first month is
+First aid administered by a licensed medical provider is:
+Which of the following is a freely moveable joint?
+Glucose enters cells via:
+Boa constrictors and pythons lack external limbs but their skeletons reveal bones of tiny hindlimbs. What structure is represented in this example?
+As CO2 dissolves into the ocean water, the pH
+From the Honorlock Student Information, these are important items: Pick all that apply:
+The nurse's age is 30. This data is at nominal level of measurement
+Which of the following is not a common form of data mining analysis?
+A visual aid is hardly effective if it cannot be _________________ by all learners.
+In the 1920s and 1930s, ultranationalists in Japan
+Complete the main method below so that it reads in a file named FileIn.txt (assume this exists in the same directory where you are running your program). The method should output each line to another file named FileOut.txt, replacing each EVEN line with "Line X was an even line", where X is the line number (starting with 1). Look closely at the example output for more clarification. Notice that the output file has the SAME number of lines as the input file. HINT: Store each line from the input file into a String variable BEFORE testing if it is an even or odd line number. import java.io.*;import java.util.Scanner;public class FileIO {  public static void main(String[] args) { /* Your implementation here */ }} Example input and output files:     FileIn.txt   FileOut.txt     Here is  some texteven more   HereLine 2 was an even linesome textLine 4 was an even line       Make sure to select the 'Preformatted' style from the dropdown so your code is formatted clearly.  DO NOT USE THE TAB KEY WHEN WRITING CODE AS YOU MAY ACCIDENTALLY SUBMIT YOUR EXAM. USE THE SPACE BAR INSTEAD.

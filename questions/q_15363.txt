@@ -1,20 +1,20 @@
-34. Transcription is the synthesis of RNA using information in the mRNA.
-The first step in Egyptian General Gamal Abdel Nasser's bid to become the leader of the Arab world was
-The general characteristic of a solid material:
-Not having to select the president makes members of Congress more powerful than if they did choose the president.
-Monthly remittance of sales tax due decreases net income on the income statement, and reduces cash flow from operating activities.
-Drama Short-Answer:  In Henrik Ibesen's "A Doll's House" how does Nora's secretive behavior effect their relationship? What does this tell the reader about the author's context? Does he condone and promote this feminist behavior? Why do you believe that? Again answer in paragraph format, use examples from the text.
-The muscles located in the anterior compartment of the arm are likely to be:
-What is the force that keeps a main sequence star from blowing apart?
-Match the correct cellular structure to its function for questions
-While giving a speech, you will feel more nervous than you look.
-Specific gravity is the weight of a volume of urine to the weight of the same volume of distilled water, therefore it is considered a ratio.
-Psychotropic medications are drugs that treat psychiatric symptoms by restoring ________ balance.
-A(n) _____ is a data validation rule that is used for applying to mandatory data items.
-What is the IQR for the dataset consisting of the following numbers?  (give answer to one decimal place) 15, 18, 23, 23, 18, 27, 56, 35, 51, 32, 14, 56
-If a medical office has a computer network, passwords should be used on:
-Pluralistic ignorance
-What is the most common form of canine lymphoma based on anatomic location and grade?
-In Excel, what does the RIGHT function accomplish?
-Which of the following is considered the most serious of all levels of crime?
-Richard believes most college students engage in a lot of binge drinking. Last weekend, he observed many students binge drinking at a local bar. He used this observation as evidence in support of his belief. However, he also ignored many previous weekends when students did not binge drink. What does Richard's belief illustrate?
+Given a credit card number of any length, determine the bank it belongs to. Assume that: If the credit card number begins with 6, then the bank is Capital 1.  If the credit card number begins with 3, then the bank is PNC. For all other numbers its Wells Fargo.  Write a program to determine and display the name of the bank based on the credit card number given by the user. (Note: You cannot use any type string functions or string manipulation) card = input('Enter the credit card number:  ');   Test Case 1: Enter the credit card number: 452122823Wells Fargo Test Case 2: Enter the credit card number: 6578847455454455Capital 1 Test Case 3: Enter the credit card number: 3842680234PNC
+What type of transport protein is shown below?
+Time series that tend to grow by a constant amount from period to period should be modeled by  ___A____, whereas time series that tend to grow at a constant rate should be modeled by ____B____.
+Solve the system of equations by the substitution method. Check your solutions. For any dependent equations, write your answer in ordered pair form. x + y = 45x + 5y = 20
+This country's military intervention in Syria recently culminated in a ceasefire agreement between Ankara and Moscow, Syrian President Bashar al-Assad's principal backer: ___________
+The U.S. Bureau of Labor Statistics (BLS, 2011) expects that opportunities in psychology will continue to grow over the next decade.
+Which of the following is NOT a role of distributors in a distribution channel?
+Which of the following is a simple carbohydrate?
+The percentage values listed in the weather table are
+Interphase consists of mitosis and cytokinesis
+A cell that could suggest that lymphocytes in CLL are not normal is a:
+A ___________ is a software program that performs one of two functions: brute-force password attack to gain unauthorized access to a system, or recovery of passwords stored in a computer system.
+Which one of the following dienophiles is least reactive in the Diels-Alder reaction?
+When a(n) ______  is added to ADP, ATP results.
+34. What are the appropriate order of steps to take if an employer is following grievance procedures?a.    Oral warning, suspension, termination, written documentation b.    Oral warning, written documentation, suspension, termination c.    Written documentation, oral warning, suspension, termination d.    Written documentation, suspension, oral warning, termination
+Please answer any five of these questions. I will only grade the first five if you answer more than 5 Why does the flu shot change?
+Single mode fiber is preferred over multi-mode fiber for short distances.
+In the figure, which tube shows the expected growth pattern for a facultative anaerobe?
+The following data is obtained on a 23-year-old patient:       % Predicted   FVC 88%   FEV1 82%   FEV1/FVC 93%   RV 110%   TLC 105%   DLCO 54%    What should you recommend?
+Kidney damage is seen in a urine test as:

@@ -1,20 +1,20 @@
-The subarachnoid space lies between what two layers of meninges?
-Fill in the blanks: A molecule is made up of [1] bonds while a salt is made up of [2] bonds.
-When a response occurs to a previously neutral stimulus, it is called
-Actions that transform a traditional manufacturing environment to a lean environment include all of the following except
-What type of health insurance plan pays specialists according to a contractual agreement?
-A lack of iron reduces the amount of _____ produced, and thus lowers the blood's ability to deliver oxygen.
-Before Julia opened her florist shop, she read all she could about the floral industry. She also consulted several published research reports to understand growth patterns in the local area with a particular interest in the location of florists throughout the city. This ________ helped her to decide on the location of her store.
-The most common forms of ownership by institutional investors in real estate are local syndications and private equity funds.
-Purpose of this question is to start your exam off with a positive mindset (1 pt. extra credit)  Question:  Before starting this exam, what is one thing that you are looking forward to this year that you are willing to share with me (can be academic or personal)?
-Which of the following are considered to be antioxidants?
-The approach for tonsillectomy is:
-After several years of foster care, children in the study in Bucharest (discussed in the text) had _____ brain cells than children who stayed in the orphanage.
-A bag of fertilizer can cover 3000 square feet of lawn. How many bags of fertilizer should be purchased to cover a rectangular lawn 200 feet by 190 feet?
-Closure of the AV valves occurs when
-The study of single-celled organisms is known as ________.
-The renal corpuscle is made up of ______.
-This occurs when triglycerides react with water to free their fatty acids from glycerol.  Enzymes, such as lipase, as well as heat, can catalyze this reaction.
-This Native American nation led the 1870s resistance to US encroachment into the Great Plains and defeated the US Army's George Custer: _________.
-The rule of applying a bandage is start __________ /and work _________.
-65. .A ____________team involves more than one department
+You are a safety manager of a road construction site. Recently, lots of casualties were reported from the site, so you are asked to identify the cause and implement the best safety measure to minimize accidents in the jobsite. After inspection, you found that the most critical cause is an intrusion accident caused by cars passing by the jobsite. In that situation, you need to decide the best safety measure among the 3 options as follows.  Option 1: Hiring additional traffic controllers Option 2: Changing working hours to the night Option 3: Deploying the new technology that provides intrusion warning  You can only take one option among the three options considering effectiveness, cost, and sustainability.  Assume that pairwise comparison is derived from interviews with experts.         Which factor is more favorable over another?   How much the selected factor is favorable over another? (1-9)     Effectiveness vs. Cost   Effectiveness   6     Effectiveness vs. Sustainability   Effectiveness   4     Cost vs. Sustainability   Cost   3           Effectiveness   Option 1   Option 2   Option 3     Option 1   1   3   0.5     Option 2   0.33   1   0.33     Option 3   2   3   1           Cost   Option 1   Option 2   Option 3     Option 1   1   0.5   4     Option 2   2   1   3     Option 3   0.25   0.33   1           Sustainability   Option 1   Option 2   Option 3     Option 1   1   0.5   0.2     Option 2   2   1   0.25     Option 3   5   4   1     Derive a comparison matrix of the three criteria:         Effectiveness   Cost   Sustainability     Effectiveness   [ee]   [ec]   [es]     Cost   [ce]   [cc]   [cs]     Sustainability   [se]   [sc]   [ss]
+What is the name of Rachel's teacher?
+The chief problem confronting the U.S. government in confining Indians to certain areas or reservations was
+__________  are automated mailing-list administrators that allow for easy subscription, cancellation, and delivery of emails.
+The tonsils are located in the larynx.
+In Rx transposition, which of the following does not change?
+In (a) ____, care is provided in a private home with a small number of children.
+A monoclinic unit cell has lattice parameters a = 2 A, b = 3 A, and c = 5 A.  What is the volume of this unit cell?
+Which action by the nurse indicates a safe and efficient use of social networks?
+Metadata is information about an electronic record.
+52. Which polysomnographic finding would rule out REM behavior disorder?
+Following authentication, if the access point accepts the wireless device, it reserves memory space in the AP and establishes a(n) ____ ID for it.
+A Haitian patient is admitted to the hospital for arthritic pain. During the nursing assessment, the nurse learns that the patient is using a therapy called cupping for palliation of pain along with traditional Western medicine. Cupping involves placing heated cups on the skin. Which is the most appropriate action by the nurse?
+Select the word that doesn't belong
+______________ is a state in which an animal does not use even its normal tidal volume. Its breathing motions are deficient.
+The central limit theorem applies to multiple samples selected from different populations.
+Which of the following is NOT a function of the topic sentence?
+You have files Parent.java, Child.java, and a driver class named Driver.java. Fill in the correct visibility modifiers so that the comments in the class Child and Driver's main method are upheld.  public class Parent {    1  void method1() { /*compiles*/ }    2  void method2() { /*compiles*/ }    3  void method3() { /*compiles*/ } }  ----- in a separate file in a different package/directory ----- public class Child extends Parent {   public void foo() { method1(); // compiles method3(); // doesn't compile }}  ----- in a separate file in a different package/directory ----- public class Driver { public static void main(String[] args) { Child c = new Child(); c.method1(); // doesn't compile c.method2(); // compiles c.method3(); // doesn't compile }}    1   : [1]  2   : [2]  3   : [3]
+Any environmental factor that can cause a birth defect is known as a(n) __________.
+What can be determined by a gram stain?

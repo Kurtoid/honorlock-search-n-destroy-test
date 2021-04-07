@@ -1,0 +1,20 @@
+When you apply an account-lockout policy, set the __________ to a high enough number that authorized users aren't locked out due to mistyped passwords.
+A 12,000-kg truck traveling at 50 m/s brakes to a stop at a traffic light. How much kinetic energy is lost in this action?
+For healthy adults, the DRI for protein has been set at _________________.
+Solve the problem.Ben lost $498 on each of 4 consecutive days in the stock market. If he had $17,402 before his loss, how much does he have after his loss?
+Which one of the following quantities is equivalent to 1 W?
+Under aerobic conditions, how many (net) molecules of ATP may be produced from one molecule of glucose?
+Which term;  soluble, insoluble, miscible or immiscible best describes the behavior of the following pairs of substances when shaken together:  25 ml of water and 10 ml of oil- the resulting mixture is cloudy and separates into layers
+Pain that radiates to the right lower quadrant from the umbilical area, nausea and vomiting, and lack of appetite are MOST indicative of:
+You are looking at your patient's chart from their last exam.  Under extra testing the chart has: NFV at distance:  10/24/20 1.  What does NFV mean and what kind of prism is being used for the testing?  2.  What is the range for the normals for this test? This question and information also applies to the 3 questions (31, 32, and 33) following this one.
+Explain the function of melanin. Be specific.
+The Total CO2 on the chemistry panel is the same thing as the CO2 on the arterial blood gas result.
+An unconscious patient with a traumatic head injury has a blood pressure of 130/76 mm Hg, and an intracranial pressure (ICP) of 20 mm Hg. The nurse will calculate the cerebral perfusion pressure (CPP) as ____ mm Hg.
+The function of articular cartilage is to:1. absorb shock.2. serve as an attachment point for tendons and ligaments.3. make motion easier.
+Describe two differences between viruses and viroids in terms of their structural organization and/or how they carry out different parts of the disease cycle.
+The creation of a production order results in several outcomes including all of the following except
+One problem with using photographs as presentation aids is that they are generally
+Convert the following function to C.  Be sure to provide the function declaration with any arguments, local variables, and return value if present. checker:        push    ebp        mov     ebp, esp        sub     esp, 4        mov     DWORD PTR [ebp-4], 1.L18:        cmp     DWORD PTR [ebp-4], 11        jg      .L20        mov     eax, DWORD PTR [ebp-4]        lea     edx, [eax*4]        mov     eax, DWORD PTR [ebp+8]        add     eax, edx        mov     edx, DWORD PTR [eax]        mov     eax, DWORD PTR [ebp-4]        add     eax, -1        lea     ecx, [eax*4]        mov     eax, DWORD PTR [ebp+8]        add     eax, ecx        mov     ecx, DWORD PTR [eax]        mov     eax, DWORD PTR [ebp+8]        mov     eax, DWORD PTR [eax]        add     eax, ecx        cmp     edx, eax        jne     .L21        add     DWORD PTR [ebp-4], 1        jmp     .L18.L21:        nop.L20:        nop        leave        ret
+Multiple Choice 15 points (1.5 points/question)
+The present value of an annuity due is less than the present value of an ordinary annuity.
+This radiation oncology staff member minimum personal requirements consist of -as needed or one per 90 patients treated annaully.

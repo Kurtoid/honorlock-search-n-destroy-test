@@ -1,0 +1,20 @@
+Most of the time, the heart activity is reduced through this nervous innervation:
+Which of the following is a proper way to select a vein for venipuncture?a. Palpate for veins while the patient clenches her fistb. Palpate for veins using a tourniquetc. Visually assess the patient's veinsd. Ask the patient for her vein preference
+Which of the following best captures the overall theme of Genesis?
+Reverse Annuity Mortgages provide monthly payments to the homeowner from the lender in exchange for the rights to the equity in the home when it is sold.
+The patient is a 68-year-old male being treated for cancer. He says, "You may as well as give up on me, Nurse. I'll never get better." What is the nurse's appropriate response?
+In the list below, what position is the number 9 in? my_list = [9, 2, 1, 3, 4]
+A patient has undergone a left radical mastectomy, which site CANNOT be used for venipuncture, until consulting the patient's physician?
+import java.util.Scanner;public class ComputingChange {   public static void main (String [] args) {        Scanner scnr = new Scanner(System.in);      int amountToChange;      int numFives;      int numOnes;      amountToChange = scnr.nextInt();      numFives = amountToChange / 5;      /* Your solution goes here  */      System.out.print("numFives: ");      System.out.println(numFives);      System.out.print("numOnes: ");      System.out.println(numOnes);   }}-----------------------------------------------------------------------------------A cashier distributes change using the maximum number of five dollar bills, followed by one dollar bills. For example, 19 yields 3 fives and 4 ones. Considering the above code ,write a single statement that assigns the number of one dollar bills to variable numOnes, given amountToChange. Hint: Use the % operator.
+In childhood and adolescence, growth in the neurological system is predominantly by hyperplasia of the neurons, glial cells, and myelin rather than synaptic formation.
+The nurse understands that the primary purpose of diagnostic testing for a client diagnosed with any dissociative disorders is to:
+Which principles are at the center of Habit 7? (Choose three.)
+A 24 year old female is coming to physical therapy for treatment of bruised ribs and soft tissue trauma following a bicycle accident.  The patient does not remember the accident very well.  The patient complains of pain throughout her left rib cage and reports difficulty taking a deep breath.  Her plan of care includes soft tissue mobilization and exercise to increase her ease of movement and overall endurance.  The patient has complaints of dizziness, difficulty sleeping, and general fatigue.  She reports difficulty concentrating in her job as a computer data entry clerk.  How should the physical therapist respond to this situation?
+The Patient Protection and Affordable Care Act was signed into law by President Obama on March 23 of which year?
+The nurse is caring for a 55-year-old female who states she has taken omeprazole (Prilosec) daily for the past 15 years. The nurse knows that based on this information, the client should receive screening for:
+(Choose all the apply) Which of the following are associated with Duchenne muscular dystrophy?
+Describe at least two (2) ways that you keep your personal device secure.
+The purpose of the immune system involves surveillance of the body, recognizing foreign  material and destroying it.
+Which of these processes moves a solute down its concentration gradient?
+If you were seeking a soil colloid with a high capacity to adsorb cationic pollutants, but also with a consistent capacity to do so even as the pH varied form 4.0 to 7.5, which of the following would you choose?
+In a coup-contre coup brain injury, only one side of the brain is injured.

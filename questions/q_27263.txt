@@ -1,0 +1,20 @@
+import java.util.Scanner;public class DetectSenior {   public static void main (String [] args) {      Scanner scnr = new Scanner(System.in);      int patronAge;      patronAge = scnr.nextInt();      /* Your solution goes here  */   }}-----------------------------------------------------------------------------------------------------Considering the above code, write an if-else statement that checks patronAge. If 55 or greater, print "Senior citizen", otherwise print "Not senior citizen" (without quotes). End with newline. (assume your written answer will go in the "/* Your solution goes here */" area.
+Which type of untreated pneumothorax is considered to be the most serious?
+You buy 2000 shares of XYZ for $50 with 55% margin. Three months later the price is $60. What is the buying power for your investment?
+What division of the nervous system controls the structure labeled "B" in the model above?
+2.1.3   Discuss the term "non-essential services".     (2)
+The RN has assessed four G1, P0 clients in the prenatal clinic.  Which of the women would the RN refer to the Obstetrician for further assessment?
+The receiving regions of a neuron include(s):
+In the figure, which number represents the mature gametophyte?
+A 56-year-old patient presents with labored breathing and increased respiratory rate, increased heart rate, and leaning forward with his hands on his knees. His skin is cyanotic and his pulse oximetry is 88%. Which of the following BEST describes his respiratory status:
+Google offers its search capabilities for free and makes its money from advertising. There are no barriers to launching a new search engine on the Internet. New search engines that are similar to Google appear frequently on the Internet, but few are successful. How would you rate the threat of new entrants, one of Porter's five forces, for Google?
+Which of the following is an action of the transversus abdominis?
+The anti-Irish political cartoonist was?
+Smooth transitions do not matter to the effectiveness of your lesson.
+ID green structure.
+When two alleles for a gene occur together, and both are fully expressed, this is referred to as __________.
+Ramon and dona Rosa, the owner of a home that houses university students, are talking. Ramon is very excited about the plans he is making for a party. Imagine the feelings of several people involved and the condition of dona Rosa's house. Complete each sentence in a logical manner with the correct form of estar and an appropriate adjective from the list. Use four different adjectives and make sure they agree in number and gender with the person/people you are describing. Number your responses 1-4. For your reference: a e i o u u n // A E I N O U U // ? ? // ! !   aburrido | contento | desordenado | emocionado | enfermo | enojado | ordenado | preocupado | triste 1. Ramon no ________ ______________.  2. Dona Rosa ________ ______________.  3. A los otros residentes de la casa les gustan las fiestas. Ellos _________ ____________________.  4. Antes de la fiesta, Ramon limpia la casa porque la casa ___________ _____________________.
+Which structure is correctly paired with its tissue system?
+To change margins, page color, and orientation, click _____ and then _____.
+Adaptive immunity develops throughout life as body is exposed to microbes or foreign material.
+Find the points of inflection and discuss the concavity of the function.

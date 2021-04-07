@@ -1,0 +1,20 @@
+Database schema: Student(sID, name, gender, email_address, dID)Instructor(iID, name, email_address, dID)Course(cID, name, credit: number, dID, iID, semester)Enroll(sID, cID, grade)Homework(cID, hID, hw_name, score)Department(dID, name, location, students_number: number, chair_name) Query: Find the names of the courses that both the instructors "James" and "Jim" have taught.
+If a slow wave artifact appears in two channels that share the same reference, what is the BEST solution to correct it?
+What is the sum of the interior angles of a hexagonal?
+Identify if the amino acid is essential or non-essential :   Alanine
+True or False:  Adding ADH to the distal tubule will concentrate urine more than adding ADH and aldosterone together to the distal tubule.
+The term __________ is used to describe those drugs which have a special or unique effect on the mind or mental functioning.
+You have a 22 year old female patient with a two-year history of recurrent, unilateral, pulsating headaches that last approximately three hours with vomiting and photophobia.  Her headaches can usually be aborted by resting in a dark room.  Her physical examination is unremarkable.  This representation is most consistent with:
+The femoral vein is in the:
+"A" is the [a] cavity.  "B" is the cavity called the [b].  "C" is the [c] cavity.  "D" is the structure called the [d].  "E" is the [e] cavity.  "F" is the [f] cavity.
+The nurse is assigned to a client who had a TURP procedure 2 hours ago and is having hematuria with large cots. Which is the best nursing action to maintain catheter patency?
+By, Hughes, and Ford, the authors of Change Leadership: Oxymorons and Myths, believe that leaders and managers are typically change agents, and employees typically resist change.
+Laser light is from the infrared portion of the energy spectrum.
+Beethoven Op.110, 1st mvmt
+Manufacturers of high fructose corn syrup prefer it over other sweeteners because               .
+Genetic abnormalities are always inherited.
+Approximately how many people are represented in each US House District?
+Identify the structure (hole)
+Oversight for the appropriate handling of data falls under both Data Governance and Legal Counsel. What are they NOT required to do?
+Identify the organs marked 1 to 4 on radiograph
+Identify the population and sample (use the correct notation) for: "A nationwide survey of 1000 adults found that 50% of respondents favored a plan to break up the 12 megabanks" Is the percentage provided a descriptive statistic or inferential statistic? In general, what is the difference between a statistic and a parameter? PLEASE USE 4 DECIMAL PLACES FOR ALL ANSWERS, UNLESS OTHERWISE STATED: LIKE FRACTIONS, ETC. DO NOT ENTER ANY ANYSWERS IN THE ANSWER BOX: ENTER ZERO FOR ALL AND MOVE ON TO THE NEXT PROBLEM.  PRESENT YOUR SOLUTION FOR EACH PROBLEM AND DO NOT LEAVE BLANK SPACES BETWEEN PROBLEMS. UPLOAD YOUR WORK IMMEDIATELY AFTER YOU COMPLETE THE MIDTERM IN THE CORRECT MODULE AT THE TOP OF MODULES. GOOD LUCK!

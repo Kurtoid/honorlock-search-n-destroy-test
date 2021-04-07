@@ -1,20 +1,20 @@
-Of the choices below, select the choice that is NOT RELATED to the others.
-Q. 1 (40 pts) The basic operations of a fruit selling company is the following:  Production cost and restrictions: Each month the cost of production (harvesting and boxing) per unit fruit is ct for the next 5 months t = 1, 2, 3, 4, 5. At most ft units of fruits can be produced in month t for t = 1, 2, 3, 4, 5. Demand: The demand for fruit in the next 5 months is dt for t = 1, 2, 3, 4, 5. We must (at least) meet this demand, but can sell more than the demand. In month t, the selling price of the fruits for the first dt units is pt per unit fruit and the selling price of fruits sold beyond demand dt is 0.5pt per unit fruit.  Inventory and fruit juice: The company has inventory capacity of storing fruits. The cost of storing fruits is vt per unit fruit from month t to t + 1. All inventory left at the end of month 5 should be converted into juice and sold at j per unit. Each unit of fruit yields 0.7 units of juice.      Formulate an LP to maximize the net profit (i.e. money obtained from selling fruits & juice - total cost) of this fruit selling company.  Write Gurobi-python code for solving your model.
-A nurse assesses a patient who is recovering from a paracentesis 1 hour ago. Which assessment finding requires action by the nurse?
-Which of the following is not a function of antibodies?
-Which of the following is an example of a behavioral interview question?
-Which of the following best describes the possible values for a chi-square statistic?
-What is the definition of inverse condemnation?
-Which reflex is more sensitive, the stretch reflex or the deep tendon reflex?
-The nurse caring for a patient recovering from a myocardial infarction (MI) teaches which method to avoid stimulating the vagal response by performing the Valsalva's maneuver during a bowel movement?
-The balanced scorecard approach focuses on what will happen in the organization.
-What were some of the findings from the Dartmouth Atlas Project?
-Mr M is an 82 year old man who was brought to our office by his daughter. She expresses concern because her father frequently has a "far away stare", and his left hand has developed a noticeable (21) shake. His (22) slow speech and "word slurring" makes it difficult for her to understand and respond to him, causing him further frustrations. The daughter notes that her father (23) slow movement and (24) difficulty swallowing, often gagging on his food. The results of a complete medical history, examination, and full neurological workup indicate that this gentlemen is suffering from (25) shaking palsy. The plan is to begin treatment with Levodopa. This medication increases dopamine in the brain and helps control tremors and muscle rigidity. What is # 22?
-The main route by which pioneers traveled to the Pacific coast was:
-Where a branching point occurs in a phylogenetic tree it is called a _________; it illustrates that _______ has occurred.
-This scope is best for viewing pond water critters:
-Refractometer
-What is the term used for adding text to an image after processing?
-Match the following database related terms:
-Which of the following plant hormones is responsible for fruit ripening?
-Which of the following sedimentary features would typically be found in shales but not in sandstones?
+The cosmetology license must be displayed wither at the stylist station or
+The population pyramid helps us:
+Forceful coughing can cause rib fractures?
+Bonus - 3 points Name the five forces that confront a company and determine its competitive intensity.
+Louise's blue eyes and petite frame are the observable characteristics that comprise her
+The nurse has several educational pamphlets for the client about prescribed medications. Prior to giving the client these pamphlets, what is a primary assessment for the nurse?
+In a sandwich assay,
+Would exert a positive chronotropic effect
+When completing a movement where the knee is flexing, what muscles/muscle groups are the Agonist and Antagonist?
+The illusion of invulnerability is best defined by the phrase:
+Earths geological history is organized into eras, periods and Mesozoic.
+President Reagan's anti-missile defense system involved laser-equipped
+DNA transfer by transduction depends on what occasional mistake that can occur during a phage lytic cycle?
+Define the term anemia
+The simultaneous use of several rhythmic patterns is called
+A patient needs a crown on tooth #30. She is changing jobs, and her dental benefits will terminate at the end of the month. There is $800 left on her annual maximum, and she wants to use it for her crown. Because the work can't be completed before the end of the month, she asks the dentist to change the date of service to ensure that the fee will be covered by her insurance company. If the dentist complies, which of the following will he be committing?
+The code int *p; declares p to be a(n) ____ variable.
+According to the ___________________, the states have ultimate authority in the US.
+Which of the following is also known as "the Semantic Web"?
+A company factored $30,000 of its accounts receivable and was charged a 2% factoring fee. The journal entry to record this transaction would include a debit to Cash of $30,000, a debit to Factoring Fee Expense of $600, and credit to Accounts Receivable of $30,600.

@@ -1,0 +1,20 @@
+What is the value of Allowable Stress (Fa) for the designed column section?
+An asymmetrical composition is mirrored on either side of the midline.
+In the following picture, what phase would the athlete be considered in?
+A patient is experiencing a high fever, stiff neck, drowsiness, and intense headaches. A spinal tap showed bacteria and white blood cells in the cerebrospinal fluid (CSF). This individual most likely has what condition?
+A momie weave has an irregular interlacing pattern.
+A person who lies supine on a table with her hands clasped behind her head and is unable to get her elbows to touch the table (or who lies supine with arms extended overhead and is unable to allow arms to rest on table) is exhibiting tightness of her ___.
+Solve the problem.Suppose a life insurance policy costs $20 for the first unit of coverage and then $5 for each additional unit of coverage. Let C(x) be the cost for insurance of x units of coverage. What will 10 units of coverage cost?
+Write a function called springBreak() that takes in one parameter: a dictionary of activities. Each key is a spring break activity (str) that maps to a list of people (str) who want to do the activity. The function should return a tuple with the most popular activity (str) as the first element and the number of people who signed up for that activity (int) as the second element. Popularity is determined by how many people signed up for each activity. Note: Two activities will never have the same number of people signed up.   Example Output #1: >>> actDict = {"sleepover": ["Peter", "Raj"], "beach day": ["Michael", "Caitlin", "Arushi"], "cook out": ["Parul", "Alexa", "Craig", "Fareeda"]}>>> springBreak(actDict)("cook out", 4)  Example Output #2: >>> actDict = {"escape room": ["Arvin", "Anthony"],"ultimate frisbee": ["Arvin", "Alex", "Brian"], "mario kart": ["Alexa"]}>>> springBreak(actDict)("ultimate frisbee", 3)
+Which one of the following has the lowest Freedom House score?
+Upload your code file here.
+Most melodies consist of what type of melodic motion?
+Astronomers who subscribe to the Big Bang theory believe the Big Bang occurred
+What is the name of the distribution model where films are licensed to airlines and hotels?
+When fructose and glucose are bonded together, they form...
+Which of the following is a feature of zinc in nutrition?
+When the leader sees and interprets the team's experiences in organizational context it is called
+Arrange the following events of exocytosis in the correct sequence: (1) vesicle membrane fuses with plasma membrane(2) secretory vesicles migrate to plasma membrane(3) vesicle contents are expelled from cell(4) secretions accumulate within secretory vesicles
+What shape does the distribution shown have? (Image source: Wikipedia)
+Realism attempts to distort and alter depicted reality according to an aesthetic.
+4. What factors control the speed of sound in seawater, and as a result of that, how does the speed of sound change with depth?  Discuss how they affect speed, and explain how the interaction of these factors creates the SOFAR (SOund Fixing And Ranging) channel in the ocean.  What happens within the SOFAR channel and why?.

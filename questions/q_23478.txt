@@ -1,0 +1,20 @@
+Which of the food groups on the food guide pyramid allows for the least servings per day?
+List 3 pathogens that are commonly found when dairy manure is sampled.  (Ted will hand grade)
+Which of the following is/are cartilaginous joints?A. syndesmosisB. symphysisC. gomphosisD. synchondrosisE.  A and BF.  B and DG. C and D
+Cancer of which female reproductive organ is most deadly?
+Which of the following would be a normal response of the cardiovascular system to a decreased pressure on the baroreceptors?
+Which of the following expressions is the correct equilibrium-constant expression for the reaction below? CO2 (s) + H2O (l) H+ (aq) + HCO3- (aq)
+Which is the movement of blood from the right ventricle of the heart, to the lungs, and back to the left atrium of the heart?
+Discrimination can be subtle (i.e., difficult to analyze or describe, implicit) but not overt (i.e., obvious, explicit).
+The prevalence of three-generation families who live together is greater among ________ American families than among Caucasians.
+The element  designated as 8035X is ____. Answer is case sensitive.
+Which of the following phenomena impact African American mate availability?
+Transcription in eukaryotes requires which of the following molecules in addition to RNA polymerase?
+Which of the following is a posterior thigh muscle?
+All of the following protect the skin and mucous membranes from infection EXCEPT:
+Protein polymer
+A 10-month-old infant with Developmental Dysplasia of the Hip (DDH) is placed in Bryant's traction. The nurse includes the following in her assessment regarding the traction. (Select all that apply).
+The emergency department nurse is caring for a client who is experiencing symptoms of a cerebrovascular accident (CVA). Which diagnostic test does the nurse anticipate to determine the type of CVA?
+Lampreys can switch between tidal and unidirectional ventilation.
+Show the exact output if the following Perl program is executed. &yippee (13,6);   sub yippee {   local ($first) = $_[0];   my ($second) = $_[1];   print "1: First is $first  Second is $secondn";   &yuk($first, $second);   print "2: First is $first  Second is $secondn"; }   sub yahoo {   print "3: First is $first  Second is $secondn";   print "4: Cat is $cat   Dog is $dogn"; }   sub yuk {   $dog = $_[0];   my $cat = $_[1];   print "5: First is $first  Second is $secondn";   print "6: Cat is $cat   Dog is $dogn";   $dog  += 20;   $second  -= 50;   print "7: Cat is $cat   Dog is $dogn";   &yahoo(); }
+When circuit breakers trips because of "a magnet being pulled together" it is called ______________

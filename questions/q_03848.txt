@@ -1,20 +1,20 @@
-Can you rename configurations?
-?Hace mucho tiempo que ustedes se sienten mal? (cinco dias)
-Use a vertical shift to graph the function.y = -3 cos  + 2
-On February 1, 2020 (t = 0, today), a company is interested in purchasing 1-year zero coupon Treasury bond with the proceeds of a sale of equipment ($200 million dollars) to take place on February 1, 2021 (The maturity date of the 1-year zero coupon Treasury bond is February 1, 2022). The company is interested in locking in the price of the Treasuries today through a forward contract. Using the forward contract, the company is planning to invest all of the proceeds of a sale of equipment ($200M). You observe the following zero-coupon bond prices (with F = $100 and maturity T) on February 1, 2020.    t T     0 0.5 98.2   0 1.0 96.2   0 1.5 94.0   0 2.0 91.5   0 2.5 89.2   0 3.0 86.7      (a) What would be the forward price (i.e. the fair value: , per 1-unit) of a 1-year zero coupon treasury bond (with M = February 1, 2022)?  Assume that the face value of the bond is $100.   : [answer1]   (b) Suppose you observe that a bank quotes the following forward price for a 1-year zero coupon bond: , which allows you to buy or short-sell the bond at the quoted forward price after 1-year from now. Is there an arbitrage opportunity? If there is, how would you take advantage of it? Describe the exact transactions that you need to make in order to obtain an arbitrage profit. Note: please assume that you would like to generate positive cash-flows today and no other cash flows in the future.  (Step 1.)  You [answer2] 1-unit of the 1-year zero coupon bond at the bank's quoted forward price at .  (Step 2.) You [answer3] [answer4]-units of a 1-year zero coupon bond at . (Step 3.) You [answer5] 1-unit of a 2-year zero coupon bond at . (Step 4.) As a result, your take the arbitrage profit of $[answer6] today, with no other cash flows in the future.    (c) Today (t=0), February 1, 2020, you enter into a forward rate agreement (FRA) with a bank for the period starting February 1, 2021 to August 1, 2021. Notional amount is $200 million dollars. You enter the FRA as a payer of the fixed rate () and a receiver of the floating rate (). Both rates are semiannually compounded interest rates. What is the value of the FRA at inception (t = 0)? [answer7] Six months later (August 1, 2020 or t = 0.5), you have second thoughts and consider that maybe you should get out of the transaction. You observe the new term structure of interest rates as follows.     t T     0.5 1.0 0.985   0.5 1.5 0.975   0.5 2.0 0.965   0.5 2.5 0.955    What is the value of the FRA on August 1, 2020?[answer8]
-15.  A condition in which there is total, chaotic electrical activity throughout the ventricles describes:
-Air flows out of the body during expiration because
-Identify the correct structure for cyclopentane.
-Two word elements that mean the same thing are
-The covariance between YOHO stock and the S&P 500 is 0.05. The standard deviation of the stock market is 20 percent. What is the beta of YOHO?
-A cut parallel to the median plane would produce a(n) ________ section.
-Mixing two primary colors produces a ________ color.
-Find a formula for integer  such that
-The ulna is the ________.
-If your ocular lens is 10X magnification and your oil immersion lens is 100X magnification, what is the total magnification?
-What is the angle between electron groups in the trigonal planar electron geometry?
-Which SCI syndrome does not include a disruption in motor function?
-Event A : the result is a Female Event B: the result is majoring in Business Classify the above events as: Disjoint or NOT Disjoint
-The first step of the financial planning process is to
-Label structure #3.  This structure is attached to the hair follicle and causes it to stand up on end (goosebumps) when we get cold.
-US EPA's Energy Star has arrangements with agencies in other countries for office equipment.
+When a falling object has reached its terminal velocity, its acceleration is
+Which molecule is the final electron acceptor for electrons from photosystem I?
+Research suggests the most problematic element of informed consent is
+?Como eres? (=describe yourself)
+Let y = f(x) be a differentiable function for which the graph of its derivative, f/, is given below:   On what interval(s) is the graph of f decreasing?
+A nurse in the intensive care unit is providing teaching for a client prior to removal of an endotracheal tube. Which of the following instructions should the nurse include in the teaching?
+Little Albert was conditioned by John Watson to fear a white rat. Eventually, however, Albert became fearful of any stimulus that looked white and furry. He became scared not only of rats, but also of rabbits, dogs, and even sealskin coats. This study illustrates
+Which of the following is true for exergonic reactions?
+A patient  is prescribed Robitussion DM. The nurse knows that an antitussive is indicated to:
+There is a small lake on campus that students like to use for recreational activities. A study has begun on the microbial community in the lake at different times of the year. In order to quickly determine the approximate number of reproducing bacteria in a sample, it would be best to use __________.
+What is the trigger height when the masonry walls must be braced?
+What does research discussed in the lectures tell us regarding food preference in infants and young children?
+The nurse is collecting data for a client who has been diagnosed with iron-deficiency anemia. What subjective finding does the nurse recognize as a symptom related to this type of anemia?
+A patient has nephrogenic diabetes insipidus. Which of the following conditions would  be expected in this patient?
+Problem 4 (21 points):   Based on a survey, it was found that 72% of people have a pet cat, 56% of people have a pet dog and 35% of people have both a pet cat and a pet dog.  (4 points) What is the probability that a person had a pet cat, given they had a pet dog? (4 points) What is the probability a randomly selected person had a pet cat or a pet dog? (3 points) What is the probability that a randomly selected person did not have a pet cat? (5 points) Are the events "having a pet cat" and "having a pet dog" independent? Show all work to support your claim. (5 points) Are the events "having a pet cat" and "having a pet dog" mutually exclusive? Show all work to support your claim.
+A pregnant client visits the prenatal clinic for a routine visit during the second trimester  of pregnancy.  Which assessment finding should lead the nurse to suspect development of a Abruption placentae?
+A Stack also exists as a class in the Java API.
+In the English language, there are:
+What voltage ripple % would be associated with the 3 phase 12 pulse generator wave form below?
+Questions 22 - 27 are based on the adverts provided. Right click on the button  below to see the specifications of 2 computers. Study it and then answer the questions that follow

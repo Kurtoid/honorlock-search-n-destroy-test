@@ -1,20 +1,20 @@
-A recently discovered bacterium carries out ATP synthesis coupled to the flow of electrons through a chain of carriers to some electron acceptor. The components of its electron transfer chain differ from those found in mitochondria; they are listed below with their standard reduction potentials (E'deg).     Oxidant   Reductant    E'deg(V)      NAD+    NADH   -0.32     flavoprotein b (FPb)(oxidized)   flavoprotein b (FPb) (reduced)   -0.62     cyt c (Fe3+) (oxidized)   cyt c (Fe2+) (reduced)   +0.22     Fe-S protein (Fe-S) (oxidized)   Fe-S protein (Fe-S) (reduced)   +0.89     flavoprotein a (FPa) (oxidized)   flavoprotein a (FPa)(reduced)   +0.77     The electron carriers are most likely to act in carrying electrons in the order:
-Describe the mechanism by which phototropism takes place and the role of auxins.
-For the Dining Philosophers Problem (DPP) with 5 Philosophers discussed in class, the following code segment can represent the actions of a philosopher, where chopstick[i] is the semaphore representing the ith chopstick. Assume there are 5 semaphores, each representing one chopstick in the system.  do { wait (chopstick[i] );wait (chopStick[ (i + 1) % 5] );// eatsignal (chopstick[i] );signal (chopstick[ (i + 1) % 5] );// think} while (TRUE); Referring to DPP as described above, What are the initial values of semaphore array chopstick[5]?
-Match the following sentences with the appropriate words. Note each word can only be used once. Four words are not needed. Word List: ancient    as far as we know    claustrophobic    disturb    excerpt    facility    income    isolation    permanent    range    reject    uneasy    vehicle    virtual
-Name two things that can affect the pulse oximetry reading:
-Cross presentation is observed when an extracellular pathogens peptide is bound and presented by an MHC Class I molecule.
-The spring constant of the spring is closest to
-In one sentence, give one of the principles or parts of the Cell Theory.
-How does the phrase "Respect is always due to all creatures" illustrate the indigenous worldview?
-Identify the cerebral lobe labeled "D"
-To recognize that a face seen in a mirror is his or her own, a child must have a
-An inflammatory response is activated when   _____
-The energy levels of the hydrogen atom (and all atoms) are ____, meaning that only certain discrete energy levels are allowed.
-The migration of phagocytes and white blood cells to an inflamed area along a chemical gradient is called:
-Determine the mole number (i.e., number of moles) of N2 (kmol).
-Much Ado about Nothing Before the men return from the war, Beatrice is already speaking about Benedick.
-What type of shock can result from a severe reaction to the contrast media used in sonographic or radiographic examinations?
-The meter is a strong weak pattern repeated again and again.
-33. Television viewing contributes to obesity in the following ways EXCEPT
-Figure 1 shows three different loops in the program and how they progress over time in the frequency domain.    Frequency of the first loop is f1=100 MHz, frequency of the second loop is f2=50 MHz, and frequency of the third loop is f3=75 MHz.  Calculate how much time it takes to complete one iteration of each of three loops. Calculate spacing between two blue lines in the spectrogram marked as x.
+Which part of the body has the largest representation in the somatosensory map?
+What famous mountain man established the Oregon Trail?
+During DNA replication, the lagging strand is formed from:
+Instructions: Track 11 | Listen. Then decide whether the underlined part of each statement is T (true) or F (false). Correct the false information.     The man's class will be two hours long.
+Perform the indicated operation. Write your result in scientific notation.
+An anemometer measures
+Septic systems are designed to ______ household waste
+Consider the following spot rates (EAR):    Maturity (Years) Spot Rate    1 1%   2 2%   3 3%   4 4%    Calculate the YTM of a four-year annuity that pays annual cash flows of $25.
+What is the main function of a simple epithelium?
+In a myringoplasty, the surgical procedure is a(n)
+{10} What is dialectical theory? "Integration-Separation" is the first of the three most commonly identified dialectical tensions. "Integration-Separation" means that there's a tension for each person in the dyad to maintain her/his individuality while at the same time merging self with the partner.
+Production of urine to modify plasma makeup is the result of .
+The nurse is monitoring a client with a diagnosis of peptic ulcer. Which assessment finding would most likely indicate perforation of the ulcer?
+This church  represented Orthodox Christianity in the West, in this case Italy .  Its style is Byzantine.  Pictured is one of its famous mosaics.
+Answer question 9
+Name one symptom of Lithium toxicity as discussed in the lecture video and zoom meeting:
+Classify the following chemical reaction (select all that apply). Hg(NO3)2(aq) + 2HBr(aq) --> HgBr2(s) + 2HNO3(aq)
+A factory worker pushes a box horizontally with a force of 500 N along a flat horizontal at a constant velocity.  If the coefficient of kinetic friction between the box and the floor is 0.25 and the man pushes the box a distance of 12 m, find the change in thermal energy.
+The plot tells the reader what happened in the story, and the theme tells the reader what it means.
+5-Scratch Writing Area: Use this area to jot down notes or to complete calculations as needed during your quiz/test.

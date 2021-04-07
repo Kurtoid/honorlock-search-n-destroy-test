@@ -1,0 +1,20 @@
+In the kinetic molecular theory of gas behavior, the assumption is made that gas molecules ________.
+Instructions: Select the letter of the answer that correctly identifies the subject and complete verb in each sentence.   A mystery admirer from Ian's office sent the bouquet of flowers.
+Find the indicated IQ score. The graph depicts IQ scores of  adults, and those scores are normally distributed with a mean of 100 and a standard deviation of 15. Area = 0.99  (Round to 2 decimal places as needed.)
+The transition from the gas phase directly to the solid phase is called:
+Jo files a suit against Lara in a Missouri state court. Lara's only connection to Missouri is an ad on the Web originating in Nebraska. For Missouri to exercise jurisdiction, the issue is whether Lara, through her ad, has
+How deep into a skinfold do you place the caliper?
+____________ is a term that describes shared culture--the practices, values, and beliefs of a group.
+Quicksort can be modified to obtain an elegant and efficient linear (O(n)) algorithm QuickSelect for the selection problem. Quickselect(A, p, r, k) Input: p & r - starting and ending indexes; to find k-th smallest number in non-emptyarray A;1<=k<=(r-p+ 1) Output: k-th smallest number if p=r then return  A[p] else      q=Partition(A,p,r)  /* O(n) algorithm covered in class */      pivotDistance=q-p+1      if k=pivotDistance then return A[q]      else             if k < pivotDistance then                     return QuickSelect(A,p,q-1,k)             else                    return Quickselect(A,q+1,r,k-pivotDistance)             end      end end   (a) Draw the recursion tree of this algorithm for inputs A=[10, 3, 9, 4, 8, 5, 7, 6], p=1, r=8,k=2. At each non-base case node show all of the following: (1) values of all parameters: input array A, p, r & k; (2) A after Partition. At each base case node show values of all parameters: input array A, p, r & k. Beside each downward arrow connecting a parent execution to a child recursive execution, show the value returned upwards by the child execution. Note: You can use "",  "/", or "|"  to draw edges of the tree in the text box.
+The Railroad Strike of 1877:
+You are a physician. Your patient comes down with a bacterial infection. You have isolated the causative agent and tested its sensitivity to a number of antibiotics to determine optimal treatment. Which antibiotic will you prescribe?
+Which of the following structures is outlined/shaded in red?
+Which Apollo mission traveled to the moon, but did not land on the surface due to technical difficulties on the space craft?
+Which heat transfer process below are dominantly related to convection? Select all that are correct answers.
+After extensive testing, Dr. Jones has determined that Molly has a conduct disorder that is confined to family context. This would be reported with code ____________.
+Which agency is responsible for developing a standardizing core curriculum used at all public colleges and universities in Texas?
+The unaccompanied solo improvisation heard during the opening portion of Ahmed Mukhtar's "Iraqi Cafe" is called a
+Identify correct name for the tolerance zone pictured
+Onset refers to when the criminal career of an individual ends and he or she opts out of offending.
+Which of the following are accurate statements regarding viruses? Choose all that are correct.
+_________ provide(s) a way to store large amounts of energy and provide thermal  insulation and padding in animals.

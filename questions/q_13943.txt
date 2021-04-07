@@ -1,20 +1,20 @@
-What does i_curr represent in the following code.  __global__ void merge_basic_kernel(int* A, int m, int* B, in n, int* C){ int tid = blockIdx.x*blockDim.x + threadIdx.x; int k_curr = tid * ceil((m+n)/(blockDim.x*gridDim.x)); int k_next = min( (tid+1)*ceil((m+n)/(blockDim.x*gridDim.x)), m+n); int i_curr = co_rank(k_curr, A, m, B, n); int i_next = co_rank(i_next, A, m, B, n); int j_curr = k_curr - i_curr; int j_next = k_next - i_next; merge_sequential(&A[i_curr], i_next - i_curr, &B[j_curr], j_next - j_curr, &C[k_curr];}
-The actual amount of matter an object contains is:
-The maximum amount of time that a minor has to disaffirm a contract is:
-A pint is 2 cups, therefore ____ teaspoons.
-Which of the systems listed below is responsible for increasing heart rate when we are scared or injured?
-What is formed by the union of the ampulla of vas deferens and duct of seminal vesicle?
-The example of the transposability of melodies as a Gestaltqualitaten or form quality was stated by which precursor to Gestalt Psychology?
-Which passage is most relevant to the preservation of the written word of God?
-Which of the following statements accurately describes the second Ku Klux Klan?
-the repetition of the initial consonant sound at the beginnings of nearby words, such as "descending dewdrops".
-Which of the following is an antagonist for plantar flexion?
-__________ refers to the change that family members make in social class from one generation to the next.
-What percentage of children in the United States between the ages of 5 and 12 spend some time alone after school without adult supervision?
-A certain culture of the bacterium Rhodobacter sphaeroides initially has 40 bacteria and is observed to double every 6 hours. (a) Find an exponential model   n(t) = n02t/a   for the number of bacteria in the culture after t hours. (Answers are whole numbers.)  [1] [2] (b) Estimate the number of bacteria after 16 hours. (Round your answer to the nearest whole number.) Answer is [3] bacteria. (c) After how many hours will the bacteria count reach 1 million? (Round your answer to one decimal place.) [4] hours.
-Jenny is considering choosing not to immunize her newborn son due to a suggested link between a mercury-based preservative used in vaccines and autism. Jenny should know that large-scale studies show __________ association with autism and __________ effects on cognitive performance.
-Chain ganglia are part of the
-Grief in the elderly:
-The payoff from writing a call option is:
-For the following 5th order equation    its characteristic equation          has solutions      A fundamental set of solutions of the 5th order  equation is
-A DPT completes a PROM movement testing on a patient with a knee pathology. Assuming a NORMAL end-feel, which of the following classifications would be MOST consistent with knee extension?
+What is the purpose of Portal?
+Approximately what percent of the general population scores over 100 on a standardized IQ test?
+The plica circularis are mucosal folds of the:
+What is the difference between overreaching and overtraining syndrome?
+"To inform my audience about the causes of the American Revolution" is a specific purpose statement for an informative speech about a(n)
+II. Los pronombres reflexivos. Escribe la conjugacion correcta.  Yo [a1] (levantarse) a las 8. Ellos [a2] (vestirse) antes de ir al trabajo. Tu [a3] (cepillarse) los dientes. Nosotros [a4] (lavarse) las manos. Vosotros [a5] (peinarse) por la manana.
+Main component of the thyroid hormone that regulates metabolic activity, low levels can result in a goiter.
+An example of a conservative approach to juvenile justice would be:
+The Fourth Amendment's requirement for a warrant ________
+A person taking notes must write down every word that the lecturer says because everything is important.
+In a movie, when the camera moves horizontally over a scene, yet remains fixed vertically, this is called what?
+Units based upon horology (the study of time) where each major unit is subdivided by 60 parts and again by 60 parts.  The distance that each unit covers varies depending on the location's latitude since these are measures of angles not distances.
+Which of the following is true of calculating confidence intervals for larger samples?
+Which of the following is/are true of synaptic vesicles?
+65. Where can pollutants from a watershed end up?
+To cause cancer, tumor suppressor genes are recessive and require _______ allele(s) to be mutated.
+Jun constantly questions whether his romantic partner truly loves him. Despite the fact that his partner is consistently there for him and expresses intimacy compassion, Jun constantly tests his partners commitment. Jun most likely has a(n) ________ attachment style.
+As discussed in lecture the money spent for every Division I sports mostly goes towards student-athlete scholarships
+What is the highest Sharpe ratio one can achieve with a portfolio given the CAPM set-up stated above?
+Name the location in the red circle 1 [1] Name the location in the purple arrow 2 [2] Name the area between the red and purple circle, where the white arrow is pointing 3 [3] Name the yellow dashed line 4[4] Name the red dashed line 5[5]

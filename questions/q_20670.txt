@@ -1,0 +1,20 @@
+True or False: 6. If a rectangle and parallelogram have the same base and height, then the perimeters are the same.
+Which of the following is not a holding of the Supreme Court in the Nordlinger case:
+What is the action of muscle "D"?
+During a severe respiratory epidemic, the local health care organizations decide to give health care workers priority access to ventilators over other members of the community who also need that resource. Which philosophy would give the strongest support for this decision?
+Glands whose ducts have few branches are called
+Which group of organisms are obligate endoparasites with two or more host species?
+Which would have antihistamine effects?
+What type of motion is occurring when the slope of a velocity vs. time graph is zero?
+Which of the following BEST describes a base station?
+State whether the following statement is true or false.  Then prove your assertion.  If  A  and  B  are sets, then
+To measure aggressiveness in toddlers, a researcher sat on a park bench for an afternoon and observed children playing on the slides and climbing equipment. To get clean results, it was very important that the toddlers be unaware that someone was observing them. What type of experiment would best fit these criteria?
+Consider a doubly linked list specified as follows: public class MyList {    private MyNode head;    private MyNode tail;    private class MyNode {         private Object payload;         private MyNode next;  // null if the last node         private MyNode prev; // null if the first node    }    ...}  Write a method private void moveToFront(Node p) for class MyList that would move an existing node p from its current position in the list to the beginning of the list. For simplicity, assume that you do not need to check if node p indeed belongs to the list. (3 pts) What is the running time of your method expressed in the big-O notation? (1 pt)
+In this question, n! denote the factorial of n, where n is any non-negative integer. Consider the trailing zeros of factorials in binary representation. For example, in binary representation, 110! = 1*10*11*100*101*110=1011010000, which has four trailing zeros. This corresponds to 6!=1*2*3*4*5*6=720 in decimal representation.   In binary representation, the number of trailing zeros of   is []
+Which of the following is directly responsible for creating "goosebumps" when you're scared or cold?
+Which of the following statements about nutrition in older adults (as compared to younger people) is true?
+Functions of keratin include___________.
+Golden rice is an example of biotechnology, in which rice has been modified. What vitamin does golden rice contain as a result of biotechnological changes?
+Which of the following is NOT encoded by DNA?
+An effective recommendation for a patient experiencing GERD might be to:
+The chemical formula Al2O3 indicates:

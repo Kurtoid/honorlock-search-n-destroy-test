@@ -1,20 +1,20 @@
-3.1       Lees die volgende gevallestudie en beantwoord die vrae wat volg:       Anne, 'n tweede jaar Verbruikerswetenskap student by die Universiteit van Tegnologie, is passievol oor voedsel.  Haar passie het ontaard in 'n vooruitstrewende besigheid.  Sy hou daarvan om te bak en gee lesse vir haar vriende.  Met die ondervinding wat sy in haar studies opgedoen het, het sy begin om gebakte produkte te verkoop.  Haar vriende help haar terwyl hulle ook leer om te bak.  Sy gebruik haar middae om te bak, aangesien sy nie middagklasse het nie. Haar besigheid het ontwikkel in spyseniering vir alle soorte funksies en die word van haar woonstel bedryf.  Haar woonstel is deurmekaar, klein en sy het 'n gebrek aan geskikte toerusting vir spyseniering.  Sy het later twee vriende voltyds indiens geneem.  Sy het in 'n nuwe perseel ingetrek sonder om die ekstra uitgawes te oorweeg en het nie enige reserwe kontant gehad om deur die moeilike tye te sien nie.  Gelukkig kan sy nog op krediet bestanddele by die plaaslike supermark kry.
-V-shaped valleys would most likely contain ________.
-Complete the main method below so that it reads in a file named FileIn.txt (assume this exists in the same directory where you are running your program). The method should output each line to another file named FileOut.txt, replacing each EVEN line with "Line X was an even line", where X is the line number (starting with 1). Look closely at the example output for more clarification. Notice that the output file has the SAME number of lines as the input file. HINT: Store each line from the input file into a String variable BEFORE testing if it is an even or odd line number. import java.io.*;import java.util.Scanner;public class FileIO {  public static void main(String[] args) { /* Your implementation here */ }} Example input and output files:     FileIn.txt   FileOut.txt     Here is  some texteven more   HereLine 2 was an even linesome textLine 4 was an even line       Make sure to select the 'Preformatted' style from the dropdown so your code is formatted clearly.  DO NOT USE THE TAB KEY WHEN WRITING CODE AS YOU MAY ACCIDENTALLY SUBMIT YOUR EXAM. USE THE SPACE BAR INSTEAD.
-You are dispatched to a state park for a young female experiencing an allergic reaction. Your assessment reveals that her breathing is severely labored and her blood pressure is very low. You carry epinephrine auto-injectors on your ambulance and have been trained and approved by your medical director to administer them. As your partner gives the patient supplemental oxygen, you attempt to contact medical control but do not have a signal from your cell phone. You should:
-Which of the following describes an example of microbial competition (microbial antagonism)?
-Find m
-Contrast how boys and girls generally engage with their peers from 1st through 5th grades.
-What was the evidence of a new type of force from the observation of the scattering?
-Infants should not be fed honey because it can contain
-Select the incorrect statement below regarding arterioles:
-Urinary tract infections (UTIs) are more common in females because they have:
-Which of the following equations is used as a measure of the impact of humankind upon the natural environment?
-The lobe labeled "A" is the [1] ________ _______. The white matter labeled B is the [2]_______ _______.
-Which of the following led to the Stock Market Crash in 1929?
-5. List 2 different learning strategies that you should incorporate into a training presentation Please number your answers 1-2
-Which structure allows bacteria to attach to surfaces (select all that apply)
-Target cell activation depends upon all of the following except;
-31. Oral hypoglycemic are
-Partial reinforcement is defined as reinforcement in which ____.
-A separation of the hard palate at midline which is covered by the soft tissue and gives the appearance of a white line is known as:
+In a completed Gram stain, gram-positive bacteria are purple.
+A person who is seeking immigrant "benefits" (ie. legal status, citizenship, or more permanent legal status) should apply through the administrative government agency called CIS
+Which reaction type best describes the transformation shown below?
+The term res ipsa loquitur means the
+Cardiac muscle cells have more mitochondria than the average body cell.  More mitochondria would help the cardiac muscle cell with:
+6.  Which of the following about bond ratings is NOT correct?
+Poor maternal diet quality during lactation results in:
+Expiration _____________the size of the thoracic cavity, while inspiration ____________________ the size of the thoracic cavity.
+There are 6 different types of cells represented by the black dots.  Name one ....only one
+Experimental data show that the rate law for the reaction: 2HgCl2(aq) + C2O42-(aq)
+Which type of metamorphism alters the basaltic rocks of the seafloor?
+Capsules can be made of _______ or _______ .
+A patient is brought to the emergency room with abdominal trauma following an automobile accident.  The vital signs are recorded as: T 97.7,  BP  70/47, HR 128 / min,  RR 32, oxygen saturation of 89% on room air.  Which intervention does the nurse perform FIRST?
+Animals that eat primarily meat are:
+Antibiotics that disrupt bacterial ribosomes can also affect
+In Vygotsky's theory, the difference between what a child can do on his or her own and what they can do only with assistance is called the
+Of the following, which would be considered a FAD diet?
+Which of the following cells and their functions are correctly matched?
+In a minority of states a _______________ obligation may be enforceable without consideration.
+A uniform magnetic field is applied perpendicular to the plane of a circular coil with a radius of 6.0 cm, a resistance of 0.60 O and  turns. When the magnetic field increases uniformly from 200 mT to 1.8 T in 200 ms, an EMF of 5.4 V is induced. What is , the number of turns in the coil?

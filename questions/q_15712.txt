@@ -1,20 +1,20 @@
-The Following Problem will be referenced in the Flowchart Problem and the Coding Problem PROBLEM: Speed at a given time t is equal to  (v0 * t) + 1/2(a*(t^2)), where v0 is the initial velocity and a is the acceleration.  Assume that the acceleration is 9.8.  v0 is a floating-point number and t is a whole number; define a as a constant floating-point number.  Write a program that asks the user for the initial velocity of an object and the elapsed time time t and calculates the speed.          Define your variables  Ask the user to enter the initial velocity v0 and time.   If time is 0 or less, output the message "Invalid Time" and end the program.  If v0 is less than 0, output the message "Invalid Initial Velocity" and end the program.  Otherwise, do the following:   Compute the speed using the formula: s = (v0*t) + 1/2(a*(t^2)) (obviously you need to convert this to C++ code and that may take several separate statements)    Display the result to the screen using 2 columns: a label  in the first column and in the second printing the number using exactly 4 decimal places. (use setw to define the columns)     Using the conventions discussed in class, create a flowchart to model the solution to the problem (use diagrams.net).  Download the flowchart to your computer as a pdf and then submit that flowchart file below.
-The type of burn that may require a skin graft is a:
-The Beatles learned to be a great live rock 'n' roll band in this city:
-31.  Nagel believes that knowledge of what it feels like to be a bat can be acquired through scientific investigation.
-Which of the following investigators was (were) responsible for the discovery that in DNA from any species, the amount of adenine equals the amount of thymine, and the amount of guanine equals the amount of cytosine?
-Which of the following includes the supporting soft and hard dental tissue between and including the tooth and surrounding bone?
-In the following reaction the oxygen is the _____________. C + O2 --> CO2
-Which of the following approaches will best help operations manager Pablo Huerta to reduce the service time variance of a fish market that advertises fresh seafood?
-Noah and Ella, a middle-aged couple, have been married for 7 years and have a daughter. They are expecting their second child, and Ella wants to experience the intimate, personal experience of childbirth. They appoint a trained nurse-midwife who is equipped with medical equipment to assist them during childbirth. Which of the following methods is Noah and Ella most likely to use?
-The picture below is showing three typical animal cell structures at A B and C  that interconnect the two cells in some way. The proper scientific name for the cell structure at  letter "A"  which prevents liquids and other materials from seeping between cell 1 and cell 2  is a ___________________   ( two words no caps; single not pleural)                cell 1                                                           cell 2  ions  going through pores at "C" Plasma Membrane             Space between cells          EC Matrix of adjacent cells
-The compression (weight-bearing) strength of bone matrix is due to the presence of
-This question carries 5 points extra credit. Complete the missing condition expressions in the code block below to print the following pattern: ***** **** *** ** *The following is the same program as the one with blanks.The condition 1, condition 2 and condition 3 are the blanks that you will fill in the second program.for (int i = 0; i < condition1; i++) { for (int j = 0; j < condition2; j++) { System.out.print(" "); } for (int j = 0; j < condition3; j++) { System.out.print("*"); } System.out.println();}   for (int i = 0; i < [condition1]; i++) { for (int j = 0; j < [condition2]; j++) { System.out.print(" "); } for (int j = 0; j < [condition3]; j++) { System.out.print("*"); } System.out.println();}
-Officers' use of discretion when addressing traffic violations may consist of
-Self-handicapping is form of ________________.
-What is considered Sexual Contact?
-Paralegals are not permitted to run a law firm's timekeeping and billing system.
-Which organism does not carry out photosynthesis?
-A nurse is instructing a 21 year old about Self breast exams. What is the best time to perform a breast self-exam?
-The epiglottis shunts food into the:
-Describe the real balances effect impact when there are increases for the average price of goods.
+Which of the following is likely to be the most informative source if you were interested in a company's business plan or strategy?
+One element of an ethos-based appeal is the speaker's moral character.
+Identify the structure at "A" (entire structure circled in green)
+An 87 year old female presents with septic shock secondary to MRSA bacteremia, and is started on Vancomycin. Which of the following is a potential complication to monitor for related to the treatment?
+4. A population of ladybugs contains 400 individuals that are homozygous recessive for non-spotted color pattern. If the population contains 1000 individuals, what is the frequency of the dominant allele?
+When an animal has a severe reaction to an antigen after the second exposure to that antigen, what type of hypersensitivity reaction is this? Food allergies are an example of this.
+What is the spectrophotometer used for in the laboratory? In other words, what does it measure, and how is this useful to scientists?
+Enzymes produced by the pancreas can travel through which ducts to enter the small intestine:
+A pendulum has a period of 1.65 seconds on Venus. What is its acceleration on Earth? The acceleration due to gravity on Venus is 8.87 m/s2.
+Conduct a one-way ANOVA in R using the function aov for this data set. What is the F-ratio? HINT: Convert depth to a factor prior to conducting the ANOVA using the code Depth=as.factor(iron$Depth).
+E-commerce allows companes and individuals to conduct business through
+A healthcare provider prescribes 1200 mL of NS to be infused in 6 hours. The infusion set is calibrated for a drop factor of 15 gtts/mL. What is the drip rate (gtts/min) for this infusion?
+When Miriam noticed that a group of Asian women in the cafeteria had an increased loudness or pitch to their speech, she assumed that they must be arguing. Which of the following is she demonstrating?
+A child diagnosed with leukemia is receiving allopurinol as part of the treatment plan.  The parents ask why their child is receiving this medication.  What information should the nurse provide?
+The loose and pliable overlapping skin around the nail is the:
+What is the most important factor in the diffusion of oxygen into pulmonary capillaries?
+Manufacturing Corporation orders twelve safety videos from Productions, Inc., which delivers the videos. This is most likely
+What is a Works Cited page?
+Which of the following are Evaluation and Management (E&M) descriptors?
+This is an extra "upload question". ONLY use this if a previous question was missing or faulty. If you do upload an answer here, please number it clearly and according to the relevant question number.

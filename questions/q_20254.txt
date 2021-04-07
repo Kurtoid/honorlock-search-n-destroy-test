@@ -1,0 +1,20 @@
+Fill in the blank to build a two-dimensional list of the data in the csv file data = []with open('nums.csv', 'r', newline='') as in_file:    _______________________    for row in num_reader:        data.append(row)
+Acclimation to high altitude conditions results in _______ than normal Hb saturation levels because less _____ is available.
+Identify all of the nucleophilic centers in the molecule below
+Which option shows the correct ranking of decreasing ability to hydrolysis?
+The San Andreas fault zone in California is an example of ________.
+Breathing.
+__________ have little or no industrialization and the lowest standards of living, shortest life expectancies, and highest rates of mortality.
+6.  The normal communication or opening between the left & right atria in the fetus is the:
+Viruses that infect bacteria are called
+The intervertebral disc joint is called a
+A patient which demonstrates 90 deg of shoulder flexion during Goniometric measurements, but then is able to reach overhead to grab the lat bar in the clinic, is said to have an inconsistency with:
+Which is the epidemiological significance of foot and mouth disease (FMD) presentation in different animal species:
+A study of the amount of time it takes a mechanic to rebuild the transmission for a 1992 Chevrolet Cavalier shows that the mean is 8.4 hours and the standard deviation is 1.8 hours. If 40 mechanics are randomly selected, find the probability that their mean rebuild time exceeds 7.7 hours.
+How many minutes is this quadrangle?
+This Python function will select one item out of a list such as ["apple", "banana", "cherry", "grape", "melon", "orange"].
+Kyle is playing his Nintendo Switch in the living room and loses the game. He screams and throws his shoes across the room, and his mother takes the console away from him for the rest of the afternoon. When Kyle loses the game on future days, he doesn't scream and throw his shoes. What punishment procedure did his mother use to eliminate screaming and shoe throwing?
+The forearm joint is the
+Which statement is not true about the Uniform Athlete Agent Act?
+Which characteristic is ONLY representative of smooth muscle?
+A common contrast agent used for MRI examinations is
