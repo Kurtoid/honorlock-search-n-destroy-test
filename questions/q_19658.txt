@@ -1,20 +1,20 @@
-Which ground-state atom has an electron configuration described by the following orbital diagram?
-3. Name three key types of uncertainty of a business organization.
-Market failure means that the economy is definitely producing:
-An adult male who is 6'11" tall has a diagnosis of acromegaly. The man is explaining to a curious but sympathetic coworker exactly what accounts for his extraordinary height. Which explanation demonstrates a sound understanding of his health problem?
-54. Which formula is used to convert keratometer readings from diopters to millimeters?
-An internal summary is a type of _____.
-Here is a figure showing major trunk cavities and other structures. What does "E" represent?
-What section of the gastrointestinal tract of the chicken functions as the glandular stomach?
-What do registers do in a conventional processor?
-Which of the following did Roosevelt do in 1940?
-Calculate the percent composition of Na in Na2CO3. Please keep 3 significant figures. (Write the number before %, for example, if you get 95.5%, write 95.5 as the answer)
-The experiences that the African Americans had was starkly different than that of most European emigrants. While state officials openly recruited white Europeans in the 1870s, blacks residents would be decidedly mixed, dealing with a state that was one of the most racist in the country.  Is this statement true or false?
-The extra energy needed to destabilize existing chemical bonds and initiate a chemical reaction is called what?
-How do we classify the movement of some bacteria towards an oxygen source?
-If a problem can be solved immediately without recursion, then the recursive function
-What are reasons why equipment deteriorates?
-What shape of cell would Bacillus anthracis be?
-How many bones are in the upper extremity
-Nurse managers know that Theory X emphasizes:
-The reactions of photosynthesis are divided into two categories:
+Which hemodynamic parameter would be most decreased when hypovolemia is present?
+(30 minutes) On a 2degC day, winds at 16 m/s blow parallel to the outer surface of a glass window that is 1.2-m long and 1.5-m high. If the window surface is at 22degC, determine a. Total heat transfer rate from the window surface b. Heat transfer rate per unit area at the trailing edge Air properties: k = 0.024 W/m-K, n = 1.32 x 10-5 m2/s, Pr = 0.73
+You need to administer prochlorperazine (Compazine) 10 mg IM to a nauseated patient. You have on hand Compazine 5 mg/mL. How many ml would you administer per dose? _______ mL(s).
+Delays and suspension of work that do not incurr in liquidated damages can be
+Bacteria gain resistance to trimethoprim mainly by which of the following mechanisms?
+RBCs carry a protein complex known as hemoglobin which allows them to carry both O2 and CO2
+A patient is to have a Heparin IV bolus at 80 U / kg. The patient weight is 187 lb. What is the dose that would be prescribed?
+What is a primary safety limitation of I-joists that are made of engineered wood?  (208)  A. They are unsafe to use in residential occupancies.  B. The flanges are unable to resist common bending stresses.  C. They have the possibility of swift collapse under fire conditions.  D. The bottom flange is narrower which causes them to be weaker than solid wood I-joists.
+Which of the following events occurs in response to glucagon binding to its receptor?
+A typographic specification in which the first line of a paragraph is aligned with the left margin, and the remaining lines are all indented by a consistent amount. This specification is used for numbered or bulleted lists of information or for style.
+As we age basal metabolic rate declines. What contributes to this decline?a. changes in hormonesb. loss of muscle massc. proliferation of adipocytesd. age related increase in appetitee. a and b only
+The stupa form originated from the shape of mounds created to bury the ashes from the great Buddha upon his passing
+The United States has experienced a boom in building prisons and implementing longer sentences for drug crimes and crimes of violence. This illustrates the United States tendency toward which of the following as a purpose of punishment?
+Which of the following is true about strategic planning?
+Which philosophical position had 3 components of service: recreation therapy, leisure education and recreation participation?
+Parte 1: !A escuchar!  Escucha la siguiente grabacion sobre las costumbres y las fiestas en hipanoamerica  y  luego indica si las afirmaciones son ciertas o falsas.       2 of 5.  Cuando te invitan a una fiesta en un pais hispanoamericano, es muy importante llegar a tiempo.
+List 3 factors that may cause individual differences in language acquisition forms and ages.
+In which musical era are meter changes and increased use of syncopation more standard?
+For this exam, you will be exploring weekly aggregated values of the DOW index from the beginning of 2010 through the end of 2020. Please use the provided starter script to begin, additionally I have included a script containing a few helper functions that may prove useful. It is entirely optional to use them, though they may prove helpful. Additionally, you may refer to any course notes or example code. Please read the open-book policy document to better understand what it allowed and not allowed during this exam. All analysis should be done on the "train" data except for comparing ARIMA forecasts in question 2. MT Starter Code.R   Midterm Helper Code.R   Additional reminder to watch the time carefully and make sure you submit before it closes. Data: DJI.csv   Question 1: Data Exploration (25 Points)  Produce time series and ACF plots for the original series as well as the first and second differences. What assumptions (if any) does each level of differencing appear to violate, and which seems closest to stationary? Comment if any features stand out. Fit a third order parametric polynomial (cubed) and a splines model on the first difference of the data. Extract the residuals of each model and use graphical analysis as well as fit performance measurements (MAPE, Precision Measure, and MSE) to assess the fits. Now fit a third order parametric polynomial, but also include a second order harmonic component. Assess the fit in the same way as in 1(B) above; does the quality of the fit seem to be improved? What do the results seem to indicate?    Question 2: ARIMA Modelling and Forecasting (45 Points)  On each level of differencing, now build the PACF plots. When considered along with the plots from before, what (if anything) can you say about the potential order of the ARIMA model? Using the iterative AIC minimization process with a maximum order of (4,2,4), determine the non-trivial (at least one coefficient) orders associated with the lowest and second lowest AIC scores. Fit models with both orders and use Box tests and appropriate graphical analysis to assess the quality of the fits. Perform root analysis of both models (graphically or algebraically) and comment on the natures of the processes. Write out the algebraic function associated with the model that has the lowest AIC score, include a model summary for verification purposes. For the same model, forecast ahead 6 points and overlay the values with confidence intervals on top of the plot for the data of the same period. Calculate forecast accuracy metrics PM, MAE, and MAPE and comment on the prediction performance. Does ARIMA seem like a good method of modelling a financial index like the DOW? Why or why not? (To receive full credit, you must reference the results of your analysis as well as underlying theory).    Please upload your full report below when complete. Do not click "submit" until you are done or it will end your test. Please upload in one of the following formats to receive full credit (-5 for incorrect format): PDF, Word, HTML
+Inferences. Provide specific details from the text to justify or rebuke the following statements. Make sure to clearly express if you are supporting or arguing against the statement! Muchas mujeres abandonan sus trabajos porque la fuerza laboral son creados por y privilegian a los hombres.

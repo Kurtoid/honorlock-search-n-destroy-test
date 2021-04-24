@@ -1,20 +1,20 @@
-Writing in terms of your audience's interests and preferences is an example of what?
-A shortage of insulin in the blood will result in:
-Which one of the following is a representative (main-group) element?
-A proportional symbol map where map symbols change in size as the do the values they represent so that different sizes of symbol show different quantities is known as a __________________.
-CS 115 Final Cheat Sheet For Loops For counter As Integer = start To stop  statements Next If Statements If condition Then  statements ElseIf condition Then  statements Else  statements End If Subroutines Sub name (Parameter1Name As Type, Parameter2Name As Type, ...)   statements End Sub Random Dim RandomName  = New Random() RandomName.Next(min, max) Min and Max Math.Min( value1, value2) Math.Max( value1, value2) Shapes g.DrawEllipse(PenColor, x, y, width, height) g.DrawRectangle(PenColor, x, y, width, height) g.FillEllipse(BrushColor, x, y, width, height) g.FillRectangle(BrushColor, x, y, width, height) g.DrawLine(PenColor, x1, y1, x2, y2) Colors Dim name  = New SolidBrush(Color.FromArgb(Alpha, Red, Green, Blue)) Dim name  = New Pen(Color.FromArgb(Alpha, Red, Green, Blue)) While Loops While test statement(s) End While Math     Method name   Description     Math.Abs(value)   absolute value     Math.Ceiling(value)   rounds up     Math.Floor(value)   rounds down     Math.Log10(value)   logarithm, base 10     Math.Max(value1, value2)   larger of two values     Math.Min(value1, value2)   smaller of two values     Math.Pow(base, exp)   base to the exp power     Math.Round(value)   nearest whole number     Math.Sqrt(value)   square root     Math.Sin(value) Math.Cos(value) Math.Tan(value)   sine/cosine/tangent ofan angle in radians       Functions Function name (parameters) As Type statements Return value End Function Strings Dim name As String = "text" Dim name As String = expression String length: name.Length     Method name   Description     IndexOf(str) IndexOf(chr)   index where the start of the passed in string or char first appears in this string   (-1 if not found)     LastIndexOf(str) LastIndexOf(chr)   index where the start of the passed in string or char last appears in this string   (-1 if not found)     Substring(index1, length) Substring(index1)   the characters in this string from index1 (inclusive) to length (exclusive); if length is omitted, grabs till end of string     ToLower()   a new string with all lowercase letters     ToUpper()   a new string with all uppercase letters     Trim()   Removes all leading and trailing white-space characters from the current string.     Split(str) Split(str, delim)   returns an array of strings split on spaces returns an array of strings split on occurrences of the second parameter     Equals(str)   whether two strings contain the same characters     StartsWith(str)   whether one contains other's characters at start     EndsWith(str)   whether one contains other's characters at end     Contains(str)   whether the given string is found within this one     Arrays Dim name(size) As type Dim name() As type = New type(size) {} Array Length: name.Length
-Which of the following statements regarding positive-pressure ventilation is correct?
-Which of the following is a complication of sepsis?
-An elderly client describes the following symptoms; gradual loss of hearing and hearing is more difficult in a crowded room. Conservation is garbled. What chamber of the ear is most likely affected?
-The process by which vesicles are used to move solutes out of a cell describes:
-1.15    Haal EEN voorbeeld van 'n kort oorredende stelling aan. (paragraaf 7).    (1)
-The levels of culture include:
-Which of the following is not a product of the TCA (Kreb's) cycle?
-The balance of trade is also referred to as countertrade.
-What happens if you evaporate salt solution using bunsen burner?
-The oral cavity contains how many quadrants?
-Which directional term means lying face down?
-According to lecture, what is one way people maintain self-enhancing views?
-Describe the overall function of DNA in a cell.  Include in your answer details on the following: Where is DNA located in the cell?  What is the purpose of DNA? How does DNA accomplish this "job" or purpose?
-What are the three pressures driving sustainable MIS infrastructures?
-True or False:  X-rays have a larger frequency than microwaves
+All of these muscles share a common attachment:
+What is the most important force in venous flow?
+At UF, you have to walk to your class starting at Period 8 in rain almost daily. Soon you realize that other students fight this by traversing through surrounding buildings to avoid the outside. The next day, you've come up with a successful path from watching others. Which type of learning was used the most?
+Solve the problem.A lake is stocked with 381 fish of a new variety. The size of the lake, the availability of food, and the number of other fish restrict growth in the lake to a limiting value of 2381. The population of fish in the lake after time t, in months, is given by the function, .  After how many months will the population be 1297?
+Where would you expect a non-invasive species to have self-sustaining populations according to the BAM-heuristic?
+Showing all your work: a) Draw the Lewis structure of xenon difluoride. b) Label the electron geometry and molecular geometry c) Determine if the molecule is polar or non polar. Explain your choice.
+What is an effective annual yield?
+The genetic law of independent assortment states that:
+The nurse will monitor for myopathy (muscle pain) when a patient is taking which class of antilipemic drugs?
+At some point, hundreds of millions of years from now, several major continents will fuse.  Explain how this event may result in a mass extinction.
+Enzymes help speed reactions and are used up in the process.
+When exploring research on siblings of children with special needs all are true but
+Is your chest/stomach dorsal or ventral?
+In planning care for a client with cardiac surgery, which of the following nursing actions should be included in the care plan?
+What hormone is responsible for the formation of platelets?
+Crude sounds are formed into intelligible speech by all of the following except the_________.
+Before performing a capillary puncture, you must wipe the desired site with a prep pad soaked with:
+Use the code below to answer items 22 - 23. Assume all necessary imports.  public static void loopingWithArrays(char option) { int[] firstArrayOfNumbers = {1, 2, 3, 4, 5}; int[] evens = {2, 4}; int[] odds = {1, 3, 5};  switch(option) { case 'a': for (int i = 0; i < firstArrayOfNumbers.length; i++) { System.out.println(firstArrayOfNumbers[i]); }  break; case 'b': int secretValue = 0;  for (int i = 0; i < evens.length; i++) { for (int j = 0; j < firstArrayOfNumbers.length; j++) { if (evens[i] == firstArrayOfNumbers[j]) { secretValue++; } } }  System.out.println(secretValue); break; } }
+You are given two parent plants. One parent plant has red flowers and one parent plant has white flowers. All the offspring of the parents have pink flowers. You cross (self-fertilize) the pink flowers.  What colors do you predict to see in the offspring of the pink flowers?
+Which of the following statements correctly describes the burst of intellectual inquiry known as the Enlightenment?

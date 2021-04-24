@@ -1,0 +1,20 @@
+Choose the actions below that the sternocleidomastoid can perform (you may select more than one).
+The synthesis of fatty acids occurs in the __________.
+What is output? A1 = [0, 3, 2, 0, 7];locations = find_nans(A1);if sum(locations) == 0 fprintf('There are no NaN values')endfunction logical_nans = find_nans(a) logical_nans = isnan(a);end
+(Dr. Woolums) Parvoviruses replicate in rapidly dividing cells because:
+Using a microscope with a resolving power of 0.2 um, a student reports the size of a single bacterial cell.  Which of the following are NOT possible measurements? (select all that apply)
+We learned two types of wavelength selectors that we can use in a spectrophotometer.  Name ( 3 points each) them and briefly describe how they work (3 points each).
+The pituitary gland is encased in a bony structure called the [A], which is part of the [B] bone.
+Calculate the atomic mass of gallium if gallium has 2 naturally occurring isotopes with the following masses and natural abundances:    Ga-69 68.9256 amu 60.11%       Ga-71 70.9247 amu 39.89%
+This transcriptional factor (master gene regulator) turns on genes for the Treg subset.
+Dragon Naturally Speaking(r) is an example of ______ software.
+A student invested $5000 in a bank at 2.5% interest compounded continuously.  How long does it take to have a balance of $7800?  Round your answer to four decimal places.  Show all correct supporting work.
+Acrocyanosis is:
+Which region of the retina is most sensitive to color and fine detail?
+You move a distance of 1200m.  The first 900m at 2.0m/s and then finish at  10.0m/s.  What is your average speed for the total distance?
+What is the source of energy that drives the water cycle?
+The fact that people tend to latch onto quick and easy answers to questions, rather than expending much mental effort, has led researchers to conclude that people are:
+What is one circumstance in which we would get rid of eye meds (or tell an owner to do so)?
+The oxidation of the sugar glucose, C6H12O6, is described by the following equation:C6 H12 O6(s) + 6O2(g) [?] 6CO2(g) + 6H2 O(l) DH = -2816 kJThe metabolism of glucose gives the same products, although the glucose reacts with oxygen in a series of steps inthe body.  How much heat in kilojoules can be produced by the metabolism of 1.0 g of glucose?
+All of the following are strategies for company growth in the cruise industry EXCEPT for which?
+Never, never, never quit is meaning _______ .

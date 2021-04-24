@@ -1,20 +1,20 @@
-Identify the type of bone labelled '3'.
-Complete the main method below so that it reads in a file named FileIn.txt (assume this exists in the same directory where you are running your program). The method should output each line to another file named FileOut.txt, replacing each EVEN line with "This is line X", where X is the line number (starting with 1).  Look closely at the example output for more clarification. Notice that the output file has the SAME number of lines as the input file. HINT: Store each line from the input file into a String variable BEFORE testing if it is an even or odd line number. import java.io.*;import java.util.Scanner;public class FileIO {  public static void main(String[] args) { /* Your implementation here */ }} Example input and output files:     FileIn.txt   FileOut.txt     Hello world and hello once again    Hello This is line 2 and hello This is line 4        Make sure to select the 'Preformatted' style from the dropdown so your code is formatted clearly.  DO NOT USE THE TAB KEY WHEN WRITING CODE AS YOU MAY ACCIDENTALLY SUBMIT YOUR EXAM. USE THE SPACE BAR INSTEAD.
-What does the corpus luteum produce?
-81. A fractured tooth showing evidence of dentin and enamel involvement is termed:
-____________A tooth that has been torn away or dislodged by force .
-Revenue and expense accounts are permanent (real) accounts and should not be closed at the end of the accounting period.
-The combining form that means bone is
-This individual was instrumental in the biomechanics field when he helped settle a horse bet by using a series of cameras to take sequential photos.
-Research suggests that during language arts instruction, children are more highly motivated to participate when they:
-When counseling about genetic screening and diagnostic testing options, the midwife knows that non-invasive perinatal testing (NIPT)/Fetal cell-free DNA testing (cfDNA):
-Choose ONE of the following and write a developed essay.  Discuss the rise and expansion of Islam. Be sure to include how this changed not just western Asia but the whole Mediterranean world.  2. Describe the military expansion of Rome and the reasons for the transition of Rome from republic to empire. 3. Discuss highlights of Hellenistic culture and science.
-What is the mode of movement (locomotion) for this organism?
-While estimates vary, HR and MR DNA are believed to account for only ~40 - 45% of DNA in the cell that accounts for the remaining DNA in the human genome?
-Negative nitrogen balance would be most likely to occur in...
-Use the half-angle formulas to determine the exact value of the given trigonometric expression.
-You discover a novel microorganism and are excited to characterize it. Through several experiments, you discover that the microorganism possesses the following structures:  Lipopolysaccharide Peptidoglycan Type IV pilus Capsule  You conduct more experiments and discover the following characteristics:  Undergoes division in multiple planes Forms cell-to-cell contacts. After approximately 30 minutes, the cells whom it contacted are then able to form cell-to-cell contacts with other cells; you suspect DNA is transmitted during these contacts Possesses a non-chromosomal gene that inactivates silver heavy metals The organism was only isolated from water samples 3 ft below the surface of a fresh water lake (not any higher or any lower)  Based on the information above, answer the following questions (assume that if a structure is not listed then the bacteria does not possess it): 1. Is the organism Gram-positive or Gram-negative? [gram] 2. What would be its most likely morphology? [shape] 3. Is it motile or non-motile? [motile] 4. List one structure that could be considered a virulence factor. [factor] 5. Does it possess a plasmid? Yes or No. [plasmid] 6. If it does possess a plasmid, identify one category of plasmid could this fall under. (If no plasmid, type N/A) [category] 7. Identify one type of horizontal gene transfer this organism could undergo [HGT] 8. What cellular structure allows the organism to remain strictly 3 ft below the surface of the lake? [structure]
-Which of the following structures connects the anterior aspect of the ribs to the sternum?
-Active sleep is to _____ as quiet sleep is to _____.
-Consuelo Jimenez Underwood's use of safety pins and Joyce J. Scott's use of beads blur boundaries by bringing _____ elements into the realm of _____ art.
-Explain the difference between innate and adaptive immunity
+The average North American newborn weighs _____ pounds at birth and ______ his weight by year 1.
+Where are striated muscles located?
+________ is a style in which each syllable of text has one, and only one, note.
+Descriptive analytics:
+Which of the following is not associated with the incremental nature of enamel?
+To minimize the wiggles of a handheld camcorder have the lens  _____________________.
+Most Disorderly Conduct charges are Class A misdemeanors.
+Identification? These are known as the _____________.
+What is the purpose of the positive control in an ELISA test?
+The task that an individual can accomplish only with the assistance of a more experienced person represents the learner's:
+BONUS QUESTION: Solve then write the answer in scientific notation.A particle is observed moving at 7.35 x 10-6 meters per second. Find the distance the particle would travel in  5.86 x 10-7 seconds.
+A surgical technologist has selected the sutures for a procedure based on the surgeon's preference card. The surgeon states he would like additional sutures and his preference card is outdated. Which of the following is the surgical technologist's BEST course of action?
+Last year Rosenberg Corp. had $195,000 of assets, $18,775 of net income, and a debt-to-total-assets ratio of 32%. Now suppose the new CFO convinces the president to increase the debt ratio to 48%. Sales and total assets will not be affected, but interest expenses would increase. However, the CFO believes that better cost controls would be sufficient to offset the higher interest expense and thus keep net income unchanged. By how much would the change in the capital structure improve the ROE?
+The nurse is assessing for stoma prolapse in a client with a colostomy. The nurse would observe which of the following if stoma prolapse occurred?
+Suppose the profit (in dollars) of producing and selling x items is given by P(x) = 2x2+4x{"version":"1.1","math":"P(x) = 2x2+4x"}. Find the instantaneous rate of change (with respect to the number of items produced and sold) when x = 3.
+Given that
+The financial statements of Caleres, Inc. reported the following information (in $million).           2019   2018     Cost of sales   $1,517,397   $1,529,527     Inventories, net   585,764   546,745     LIFO reserve   4,345   4,094       If Caleres had used the FIFO method of inventory costing, 2019 inventory would have been:
+Describe briefly the last time you went shopping. Use the preterite and tell me:  When you went. Where. With whom. What stores did you buy. What clothes did you see. What did you buy. How much it cost. Did you eat anything? Where? How much you spent. What time you returned home. Make sure you use the preterite, and avoid descriptions, or sentences about what people needed or wanted.  (6+6+3= 15 points)
+Which of the following is not a source of gender role socialization?
+Ventilation includes

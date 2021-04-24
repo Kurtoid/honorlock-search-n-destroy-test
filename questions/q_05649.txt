@@ -1,20 +1,20 @@
-Predict the two most likely mechanisms which occur when 2-iodohexane is heated in ethanol.
-A client is seen in the clinic for high fevers, night sweats, and anorexia.  Which assessment finding would indicate that the client could have infective endocarditis (IE)?
-Consider an infection by a pathogen. What are some ways in which the pathogen may harm the host? Please briefly describe at least three ways in which a pathogen may inflict damage on the host, number each 1 through 3, and explain the impact of each in a short paragraph for each.
-Research on socialization has found that sports participation is related to three sets of factors. Which of the following is NOT one of those sets of factors?
-Vandiver, ACS A 75 y/o Caucasian female patient of yours is complaining at the pharmacy counter about taking too many medications. Since having a MI 5 years ago, she has lost weight, stopped smoking, and is doing her best to follow the DASH diet. She would like to stop all of her medications, but knows that she should talk to her doctor first.  BP at pharmacy today: 125/74 mmHg, HR 50 bpm PMH: MI w/ drug-eluting stent x 2 (5 years ago); type 2 diabetes with macroalbuminuria, gout Current medications:ASA 81 mg dailyMetoprolol succinate 50 mg dailyLosartan 50 mg dailyGlipizide 5 mg BIDAllopurinol 300 mg daily Past medications:ClopidogrelMetforminBenazepril  You correctly tell her:
-Colin flips a coin and Rose puts down one, two, or three fingers.  The game is zero-sum and goes like this:      Colin      Heads Tails   Rose 1 (5,-5) (-5,5)    2 (1,-1) (-1,1)    3 (-4,4) (-1,1)    Since Colin is not deciding, consider this a game against nature with Colin being nature.  Find which row would be preferred by LaPlace (the row with the highest row sum), Wald (the row with the highest minimum row entry), or Savage ( the row with the smallest maximum regret where the regret is the difference between an entry and the largest entry in the column.)  Label which is which.
-23.22 CLA 1, 2; Chem 9.3 Mark all that are types of controls for process upsets.
-Which of the following is classified as a flatworm?
-Question 3 (50 pts) A circuit is shown below.  Circuit parameters are as follow: threshold voltage Vth = 1V, kn' = mnCox = 100mA/V2, l=0 (no channel length modulation), VDD = 5V, VSS = -5V, RG = 10MO, RS=1.5kO, RL=20kO.  The 1mA DC current source is ideal. Assume the MOSFET transistor is in the saturation mode. The signal source vi has zero resistance. 1. Perform DC analysis and find the gate voltage VG, source voltage VS, and the required aspect ratio . 2. Draw the small signal model of the complete circuit. 3. Calculate the voltage gain  , the input resistance Rin, and the output resistance Rout as noted in the figure.
-The nurse is educating the son of a client just diagnosed with Creutzfeldt-Jacob disease.  Which of the following statements indicates the family member understands the teaching?
-Foodborne illness is the result of eating contaminated food.
-1(a) This has to be true
-Please explain C4 photosynthesis, using the following terms: HCO3-, PEP carboxylase, mesophyll, Kranz Anatomy, plasmodesmata, malate, separation of pathways in space, water use efficiency (10 points)
-Your diabetic patient suffers from gastroparesis and is prescribed metoclopramide [Reglan]. The purpose of this drug is to:
-A patient has a reported SaO2 of 90%, hemoglobin 15 g%, PaO2 of 61 mmHg, cardiac output of 6 L/min, and CvO2 of 14.2 vol%. What would the C(a-v) O2 equal?
-Ming is hiking around a lake to photograph it from a variety of angles, but she forgot to bring water with her. Soon, she cannot concentrate and goes back to her car to satisfy her thirst. Which of the following factors is most likely influencing Ming's behavior in this situation?
-What is the most visible signal of a sports organization's need for increased promotion?
-Scatter affects an image in what ways?  (Choose all that apply)
-1.2   Choosing the green channel at an international airport means that the tourist leaving the country:   (1)
-The medication most often used to treat syphilis is
+Create a new java file called Q3 in the same project.You have been provided with a text file called rainfall.txt.   Here is a sample                                          2-2-13-3-14- A number of rainfall figures have been recorded in the file. The values have been separated by a hyphen character (-). It is not known how many values were recorded. (Your program should work for any number of values).   Read in the numbers and calculate the total and the average rainfall. If the text file does not exist or cannot be found you need to display a message. You must print out a user-friendly message and the error message if the file cannot be found. The output should look like: There were 24 values. Their total = 3238 and average  = 134.91666666666666                                 (15)
+Diners at a restaurant overhear a woman seated at nearby table vent her frustration about how long it is taking her food to arrive. As her anger builds, the women stands up and yells, "I don't care if others did order before me. Bring my food NOW you incompetent morons!" After observing the woman's behavior, and without considering a variety of potential causes for her actions, the shocked diners quickly conclude she is a hot-tempered, egocentric person. In this example, the attribution made by the diners observing her behavior illustrates:
+According to the map above, which of the following boundaries restrained English settlement in the New World (at least temporarily)?
+Which statement is not true concerning a supercharger?
+A 31-year-old woman with no previous psychiatric history comes to the emergency room stating, "I feel restless.  Everything I look at shimmers.  Sometimes I'm outside my body looking at myself.  I can hear colors.   I think I'm losing my mind."  Vital signs are slightly elevated.  The nurse should suspect which of the following?
+Which of the following are primary sources? (Select all that apply).
+Your student clinical group is teaching clients at an senior community center about preserving the safety and cleanliness of food.   You realize that more teaching is necessary when  you hear the following comment from one of the participants:
+Is the female pelvis on the left or right?
+Complete the sentences using the correct conjugation of the underlined verb. For example:  Juan trabajo a las siete pero(but) yo ___________ a las 10.  (answer:  trabaje) Remember to use accent marks where necessary:      a   e    i    o    u   n     Yo pedi una pizza pero mi hermano ________________ arroz y frijoles
+In Eukaryotes, intron molecules are modified in which region of the cell?
+Which of the following accurately describe mitosis? Select all that apply.
+It is recommended that pregnant women should NOT be reclined during dental appointments. What is the reasoning for this?
+When doing the cactus wall stretch, you should feel it across the front of your _______and in both shoulders.
+46. A nurse is responding in the aftermath of a hurricane. Hundreds of clients demand attention. The nurse will implement which of the following in assessing the priority of these clients?
+Substances that readily dissociate and completely dissolve in solution are called
+Ethnicity and race are the same thing.
+Holism refers to the study of
+What is NOT true for sickle cell disease.
+A high school graduate wants to attend a nursing school that is highly regarded for its program.  Which of the following entities must accredit or approve nursing programs?
+A nerve consists of:

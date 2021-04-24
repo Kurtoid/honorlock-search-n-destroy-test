@@ -1,20 +1,20 @@
-____ on the surface of our immune system cells would recognize ___ on the surface of bacteria.
-Match the ethical system with the person it is most associated with.
-List the two main categories of fats and at least one sub-group for each. (2 points)
-What precipitating factor likely brought about the outbreak of the sores?
-A young man lives in a neighborhood where joining a gang is the norm. His older brothers are in a gang, and he is feeling pressure to join as well.  How would a Transition Person react in this situation?
-When assessing a client's respiratory status, which information is of highest priority for the nurse to obtain?
-Median:
-Client teaching related to SLE would include:
-23) Chemical reactions that produce energy, such as heat, are said to be
-47. Online presentation software has become so effortless that there is little need to practice with it before presenting a real-time online speech.
-Use of body mass index (BMI) is the BEST choice as an assessment of lean body mass versus fat weight.
-Zai Yan Hui Shang ,Gui Bin He Zhu Ren Bei _______Zai Shang Zuo .
-DNA contains the nitrogenous base ________ instead of ________, which is found only in RNA.
-Fill in the blank : The odds of earning more than 50k increase by _____% as age increase by one.
-Match left side to definition on the right
-Indian Culture This religion is the combination of the gods before the invaders and the gods after the invaders.
-Instructions for progestin only oral contraceptive users should include which of the following statements?
-What hormone released from E decreases blood sugar
-Which of the following is true regarding femoral rollback?
-How many kilograms are in 30.4 lb? (1lb = 453.6 g)
+What is the BEST course of action when performing a procedure on a patient who condition causes a strong, unpleasant odor?
+What is the product in the following sequence of reactions?
+Write a JavaFX GUI program with file name LastnameFirstnameExam5.java that meets the following requirements and adheres to the layout included sketch.  Must set the title of the window to be "1331 Exam 5 - YOURNAME", where YOURNAME is replaced with your first and last name. Must include some non-editable text at the top to the window (not the title) with a short phrase of your choosing. Change the text font to either Georgia, Papyrus, Courier New, or Comic Sans MS; it cannot be the default font. Font size should be 12. Must include a plain Button.  The button must toggle the color of the shape between Color.BLACK and your favorite color.  Make sure this color is still visible in the UI (i.e. the color should be dark enough to be seen). You must set the button text to something of your choosing.   Must include one of the following shapes:  Circle, Rectangle, Polygon, Ellipse, or Arc. The shape can be a color of your choosing, but make sure this color is still visible in the UI (i.e. the color should be dark enough to be seen). Must include a select one-of-many button group to control the alignment of the shape displayed. There should be 3 alignment options for Top, Center, and Bottom.  Hint: StackPane has a setAlignment method. You may place this group beside or below the shape.  In order to actually see the alignment change you will need to ensure that your window/stage is large enough. So, you need to set the size of your stage to be large enough to see the change proportional to the the size of your shape. A good ratio is to make the window 3 times the width and height of the Shape. To do this you can use the following methods: stage.setMinWidth(X); and stage.setMinHeight(Y);   Must use a Slider UI control that will control the opacity of the shape.  The Slider's major tick labels should be displayed (setShowTickLabels) The Slider should have a minimum value of 0.0, maximum value of 1.0, and initial value of 1.0 Hint: Opacity is specified as a value between 0.0 (completely transparent) and 1.0 (completely opaque). Another Hint: Look closely at Slider's constructors to find one that allows for configuration of the min/max/init values on creation of the Slider to make your life easier. Yet Another Hint: There are several ways to implement the event handling, we recommend using the setOnMouseReleased method that is available to any Node   You must use at least one of the following children of Pane to control the layout of the Nodes: BorderPane, GridPane, HBox, or VBox. You must implement your event handling at least two of the three ways we taught: named inner class, anonymous inner class, and lambda expression.  For example, at least one handler as an anonymous inner class and at least one handler as a lambda expression. Failure to implement handlers in two different ways will result in the loss of points.   Points may be deducted if your layout deviates greatly from the one shown below. However, you do not need to have a border around the pane containing your shape nor around the shape itself. You may place the one-of-many button group below or beside the Shape.  YOUR SHOULD ONLY SUBMIT A SINGLE JAVA FILE. ENSURE THAT ANY OTHER CLASSES YOU INCLUDE EXIST WITHIN THE SAME FILE. IF YOUR SUBMITTED CODE DOES NOT COMPILE, YOU WILL RECEIVE A ZERO. SAVE, BACKUP, AND TEST OFTEN! The following is an example layout for your UI, but as long as you meet the requirements stated above the layout is flexible:
+There are two types of movement at the elbow joint: flexion/extension and supination/pronation.  Three bones participate in the elbow joint.  Pick either one of the types of movement and write which bones participate in the joint.
+The nurse is caring for a patient with Cushing's syndrome. While looking through their chart the nurse identifies which as the cause of this condition?
+The term for the belief that members of a culture hold about acceptable attitudes, activities, traits, relationships, occupations, and physical appearance for males and females is:
+Which of the following structures is NOT involved in hearing?
+Generally, virus cells are the smallest of all microorganisms and can only be seen with electron microscope.
+Infants born between 34 0/7 and 36 6/7 weeks of gestation are called late-preterm infants because they have many needs similar to those of preterm infants. Because they are more stable than early-preterm infants, they may receive care that is much like that of a full-term baby. The mother-baby or nursery nurse knows that these babies are at increased risk for (Select all that apply):
+The Highest Mountain in Europe is Mont Blanc, which is located in the [x1], a mountain range that extends from France, to Switzerland and Austria.
+Which of the following functions to protect the x-ray tube and the patient from overexposure in the event that the AEC fails to terminate an exposure?
+If an animal drinks treated toilet water, GI upset and oral ulcers can develop.
+Use implicit differentiation to find   for   and evaluate  at the given ordered pair, if:    (a) Find  . (b) What is the value of   at
+Which drug is used most commonly used illicit drug in the United States?
+An ordinary annuity is best defined as:
+When a block exists within another block, the blocks are _________________.
+Neurons carrying information to the brain about cool temperatures on the skin most likely belong to which division of the nervous system?
+____________ muscle exhibits the stress-relaxation response. When stretched, it briefly contracts and then relaxes.
+Which if these factors is most likely related to the development of iron deficiency anemia during infancy?  Select all that apply.
+Which of the following is NOT a function of membrane proteins?

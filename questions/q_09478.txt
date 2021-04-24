@@ -1,20 +1,20 @@
-Chapter 12: Cell Cycle and Mitosis   Use the figure to answer the following question. In the figure, G1 is represented by which numbered part(s) of the cycle?
-Calcium, phosphorus, magnesium and fluoride mainly serve as structural components of:
-Which of the following three organelles contain catabolic enzymes?
-What is one of the famous cave painting sites in Western Europe?
-The fact that people tend to latch onto quick and easy answers to questions, rather than expending much mental effort, has led researchers to conclude that people are:
-1. What are the three variables that determine the level of humidification from a humidifier? 2. Explain how you would change one of these variables to increase the absolute humidity of the gas from the device.
-Who wrote "The Notorious Jumping Frog of Calaveras County"?
-This parasite was recovered from the legs of a chicken. Identify the mite.
-Location of the Calvin cycle
-Here is a table of processes and their associated arrival and running times.    Show the scheduling order for these processes under 3 policies:  (1) First Come First Serve (FCFS),  (2) Shortest-Remaining-Time-First (SRTF),  (3) Round-Robin (RR) with time slice quantum = 1.  Q1. Assume that context switch overhead is 0 and that new RR processes are added to the head of the queue and new FCFS processes are added to the tail of the queue. Please Fill in the running Process number only (for example, "P1",  you should only input 1). FCFS is given to demonstrate how you will need to answer this question.        Time clock   FCFS   SRTF   RR     0 (P1 arrives)   P1   P1    P1     1   P1   P1    P1      2 (P3 arrives)   P1   P[SRTF1]   P[RR1]     3   P1   P[SRTF2]   P[RR2]     4 (P2 arrives)   P1   P[SRTF3]   P[RR3]     5   P3   P[SRTF4]   P[RR4]     6   P2   P[SRTF5]   P[RR5]     7   P2   P[SRTF6]   P[RR6]     8   P2   P2    P2      9   P2   P2    P2      10   P2   P2    P2        Q2.For each process in each schedule above, indicate the queue wait time. Note that wait time is the total time spent waiting in queue (all the time in which the task is not running). Fill in the waiting time, number only (for example, 0, 1 or 2).     Scheduler   Process 1   Process 2   Process 3     FCFS   [F1]   [F2]   [F3]     SRTF   [S1]   [S2]   [S3]     RR   [R1]   [R2]   [R3]     Q3. Which policy is optimal for this example (FCFS, SRTF OR RR)?  Your answer is [Q3]. (You should write either FCFS, SRTF or RR here).
-What type of bonding is likely to occur between two water molecules or strands of DNA? A. covalent B. ionic C. hydrogen D. both hydrogen and covalent E. both hydrogen and ionic
-How often do you take the vitals?
-Which of the following statements describes the function of a chloroplast?
-Within the United States, sporadic mini-outbreaks of diarrheal disease have been associated with ingestion of strawberrires, raspberries, fresh basil and mesclun lettuce leaves.  The most likely causitive agent is:
-This structure in the heart initiates action potentials that stimulate contraction of the heart at constant rate of about 100 beats per minute.
-What should a student who requires accommodations do if he or she does not receive an email from their instructor regarding the paperwork sent from the Office of Services to Student with Disabilities?
-Which of the following is an example of the external conflict?
-Gender stratification through the division of labor is not exclusive to the United States, all societies classify work by gender. When a pattern appears in all societies, it is called a ________.
-________ refers to the beliefs, thoughts, feelings, and attitudes someone holds about a group while ________ refers to actions against a group of people
-What characteristic is NOT typical of Italian Baroque art?
+A person who is convicted of a crime cannot also be sued for damages because that would be double jeopardy.
+Arteries can constrict or dilate as needed because of the smooth muscle found in which layer?
+Suppose a researcher is interested in the relationship between education and income in a population of adults aged 35-45 year old men. Table 3 represents a SRS of adults from the population and their corresponding years of education and annual income.       Years of Education   Annual Income     16   78,864     12   47,697     16   93,613     18   76,463     10   52,364     17   81,634     12   39,631
+Given the data below, calculate the median.  6, 8, 7, 5, 10, 7, 5, 3, 8
+Osteoblasts are stimulated by osteocytes to build bone matrix and therefore they secrete ___________ protein fibers as part of that matrix.
+By avoiding or ignoring problems, passive communicators are likely to agree externally, while disagreeing internally.
+43.  An auditor desired to test credit approval on 10,000 sales invoices processed during the year. The auditor designed a statistical sample that would provide 5% risk of assessing control risk too low (95% confidence) that not more than 7% of the sales invoices lacked approval. The auditor estimated from previous experience that about 3% of the sales invoices lacked approval. A sample of 100 invoices was examined and 5 of them were lacking approval. The auditor then determined the achieved upper precision limit to be 8%. In the evaluation of this sample, the auditor decided to increase the level of the preliminary assessment of control risk because the
+Which statement about rotifers is false?
+As a physician listens to the heart of a human patient, he hears an atypical "lub" sound. Which part of the heart might be malfunctioning?
+Slime molds are Amoebozoans that belong to which supergroup?
+In the event an adverse reaction is significant or life-threatening and has not been reported with the medication before; the Medical Assistant should report it to:
+According to the Central Dogma of molecular biology, DNA is __________ into RNA, which is ___________ into protein.
+When a constant force acts upon an object, the acceleration of the object varies inversely with its mass.  When a certain constant force acts upon an object with a mass of 14 kg, the acceleration of the object is 5 m/s2.   If the same force acts upon another object whose mass is 10 kg, what is this object's acceleration?
+For the following (unbalanced) chemical equation for aerobic respiration, draw arrows from each oxygen atom in the reactants to where those oxygen atoms end up in the products.    C6H12O6     +      O2      +  H2O     -       CO2     +      H2O
+The relaxation response technique is a stress reduction technique that combines elements of relaxation and ________.
+Which country is indicated on the map below?
+When inspecting and lightly palpating the abdomen, the nurse notices a pulsation at the midline.  What is the next priority action?
+Oxygen was introduced into Earth's atmosphere by
+Whenever the net force on an object is zero, it's acceleration
+Which laboratory value change would you expect with gastroschisis?

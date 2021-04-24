@@ -1,0 +1,20 @@
+Sylvester is hired by the defense to help select jurors who would be less likely to convict. This is an example of the following role played by psychologists in the legal system:
+Where should a pulse oximeter be placed on a neonate in the delivery room?
+You are the APN diagnosing your 28y/o female patient with community-acquired pneumonia. The pathogen(s) most likely to be a causative agent for infection in this patient, and thus must be covered is/are:
+The following statement regarding chromosomes fragments is true
+What is the anatomical name for the armpit?
+A company has a beta of 0.50. If the market return is expected to be 12 percent and the risk-free rate is 5 percent, what is the company's required return?
+A nurse is reinforcing discharge teaching with a client who was recently diagnosed with heart failure. Which of the following statements should the nurse include in the teaching?
+Serious complications of oral intubation include all of the following except?
+The physician has ordered 2 liters of fluid to be given.  How many milliliters is this?
+A skull that has rectangular eye orbits, an equilateral triangle shape to the nasal opening, and a rectangular palate (roof of mouth) can be identified as _____________________________.
+Your textbook recommends that when you deliver your first speech, you should make an effort to
+In "The Dream of the Rood," the word Rood means what?
+Which positions could cause increased symptoms of an ulnar neuropathy due to        compression in the cubital tunnel?
+A realtor wanted to find the difference in price of homes in four areas of town. He collected data on 20 homes in each area.  The F test statistic is 2.3. What is the p-value? Round the answer to three decimal places.
+The columns displayed in the results of a SELECT statement will be in the same order as they are stored in the database table.
+Name the structure at the end of pointer A
+The nurse's age is 28. This data is at ordinal level of measurement.
+The pulse oximeter for an asymptomatic client with pneumonia reads 87%. The correct action by the nurse should be to:
+Which of the following update services uses distribution rings to deploy updates in phases?
+The following implementation of thread-safe list has a problem. Identify it and propose a fix. typedef struct __node_t {    int key;    struct __node_t *next;} node_t;mutex_t m = PTHREAD_MUTEX_INITIALIZER;node_t *head = NULL;int List_Insert(int key) {    mutex_lock(&m);    node_t *n = malloc(sizeof(node_t));    if (n == NULL) { return -1; }    //Failed to insert    n->key=key;    n->next=head;    head=n;    mutex_unlock(&m);    return 0;}

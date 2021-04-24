@@ -1,0 +1,20 @@
+BucketSort(A) Input: A - input array of n real numbers uniformly distributed over the range [0.1)   n = length(A) for i = 1 to n do       insert A [ i ] into list B[ floor(nA[i]) ] end for i = 0 to n-1 do       sort list B[i] with insertion sort end concatenate B[0],B[1],. . ., B[n-1] together in order   (a - 12pts) How would you modify the algorithm with n buckets to accommodate real number input from some interval [0,p), p>1, not [0,1)? What line(s) do you modify and what are the new statement(s)?   (b - 12pts) How would you modify the algorithm with n buckets to accommodate real number input from some interval [i,j), not [0,1)? What line(s) do you modify and what are the new statement(s)?
+Which of the following muscles is named for its action?
+Alisha is the manager of Fresh Marketplace, an organic cafe, juice bar, and supermarket. The company has recently been faced with competition from Oriole Organic Supermarket. Alisha meets with her team to get their thoughts on how Fresh Marketplace can become more competitive. They have a limited budget, so she needs to figure out where to best spend the money they have. After the meeting, she weighs their ideas before making a decision. Alisha's leadership style is
+The Gospels were written because of the need for a faithful and authoritative record of the words and deeds of Jesus.
+Dr. Rodriguez conducted a study to see if playing tennis makes people happier than doing statistics. His two-tailed probability was 0.06. If he used a one-tailed alternative hypothesis instead, what would the one-tailed probability be?
+In cardi/o/centesis, cardi/o is a:
+38.  During the audit of internal control over financial reporting, which of the following procedures most likely would not be a procedure applied by the auditor to assess risks of material weaknesses pertaining to an accounting estimate?
+Which of the following eukaryotic RNA polymerases is responsible for transcribing nearly all protein-coding genes?
+Acme Corp recognized employee tenure on the 5th, 10th, 15th, and 20th anniversary of each employee with a profile in the corporate newsletter, an extra week of vacation, and a special gift to the employee's significant other. What manifestation of culture is being used in this example?
+One legacy of World War I was the
+Which method of parenteral medication administration calls for pulling the skin and subcutaneous tissue to the side before inserting the needle at the site?
+The final stage in the product life cycle is ________.
+The PCR
+Which of the following BEST describes ALS- Advanced Life Support?
+Celtic and Norse Culture The name of the writing used in Norse mythology are:
+The payment of Janitorial Service's debt to Business Finance, Inc., is guaranteed by the service's personal property. Business Finance is
+Mass media influences
+What important belief did the Arians hold?
+Which of the following atoms/ions has the smallest radius?
+Name the 5 layers that make up the PS plate.

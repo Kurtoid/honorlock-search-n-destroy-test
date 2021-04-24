@@ -1,20 +1,20 @@
-Prison reform found a great deal of support during the early and mid 1800's in the North and many prisons experienced great changes during the era.
-Deaf children were never an embarrassment to mankind.
-A client with systolic dysfunction has an ejection fraction of 38%.  Which physiologic change should the nurse assess for in this client?
-What is a vaccine usually composed of?
-Which of the following structures originates/attaches at the area marked by the red arrow labeled B?
-According to PTSD research, which variable may be the most important in one's psychological reaction to trauma?
-INSTRUCTIONS     1.   Answer the questions by choosing the correct answer or by typing your answer in the space provided.         2.   No upload of files required         3.   Make sure you answered all the questions before submitting the test.
-Levi weighed 58.6 pounds at his recent annual physical.  The population of boys his age has a mean weight of 44.5 pounds and a standard deviation of 7.76 pounds.  The z-score for Levi's weight is calculated and found to be 1.82.   Interpret Levi's z-score: Levi's weight is 1.82 [s] [ab] the mean weight for all boys his age.
-An "unhappy triad" of the knee involves tearing of the patellar tendon, quadriceps tendon, and medial meniscus?
-Name the three muscles that the arrows are pointing to in the diagram below:
-The nurse is caring for a client admitted with chronic pyelonephritis. The nurse is educating the client on the complications associated with this disease process. Which of the following statements made by the client suggests that the teaching is successful?
-Which is true of Linnaeus's system of classification?
-What is the primary pathology for performing a laryngectomy?
-PFT results reveal that the PEFR increased the most when an aerosolized sympathomimetic drug and an aerosolized anticholinergic drug were inhaled.  Which of the following should the respiratory therapist recommend?
-You can find the kinetic energy of an object with a defined mass after falling a defined distance by using which of the following equation (or equations)?
-Identify a specific hormone secreted by the organ below
-The Big Rip refers to the
-Which patient does the nurse identify that would benefit from a nasogastric tube to low intermittent suction?
-Which of the following is NOT a reason for the lack of democracy in many NASWA countries?
-How many different amino acids are used in the synthesis of body proteins?
+Over time, a low-calcium diet may increase your risk of osteoporosis.
+Result of mitosis is _______ identical cells
+Which of the following is true about fiction?
+A child at home begins to have right lower quadrant pain, fever, and vomiting. The best option would be to give pain medication and if it does not subside then take the child to the hospital.
+Calculate the pH of a solution prepared by dissolving 0.370 mol of formic acid (HCO2H) and 0.230 mol of sodium formate (NaCO2H) in water sufficient to yield 1.00 L of solution. The Ka of formic acid is 1.80
+What country does Polybus rule?
+A type of antigen presenting cell that has long, thin processes to trap and engulf pathogens are
+Understanding consumer decision making is not an external factor to be considered with respects to the marketing mix.
+What is the literal meaning of "Chan" (Zen)?
+Two types of special distillation are _____________ and ___________.
+An MRI is better than radiographs in detecting:
+Code-Reading, Part 1. Please read the code sample carefully before answering the next two questions. You may assume all classes are properly imported. class TestFrame extends JFrame{    JCheckBox checkBox1, checkBox2;    JPanel panel;    public TestFrame(){        Box outerBox = Box.createHorizontalBox();        Box[] innerBoxes = new Box[3];        checkBox1 = new JCheckBox("Check Box 1", true);        checkBox2 = new JCheckBox("Check Box 2", false);        for (int i = 0; i < innerBoxes.length; ++i){            innerBoxes[i]=Box.createVerticalBox();            outerBox.add(innerBoxes[i]);        }        innerBoxes[1].add(Box.createVerticalStrut(30));        innerBoxes[1].add(checkBox1);        panel = new JPanel();        GridLayout layout = new GridLayout(3, 3, 5, 5);        panel.setLayout(layout);        panel.add(new JLabel("Label A"));        panel.add(new JLabel("Label B"));        panel.add(checkBox2);        innerBoxes[2].add(panel);        add(outerBox);        checkBox1.addItemListener(new ItemListener(){            public void itemStateChanged(ItemEvent e){        checkBox2.setSelected(!checkBox1.isSelected());            }        });    }}
+Pets ingest ETS residue by licking their owner's face, hair and clothes. They also ingest ETS from other pets.
+"The degree to which the actual product matches the intended design" would best define
+A business tenant has a percentage lease stating rent payment is the greater of 2% of the business's total gross sales volume or a minimum base rental of $1,000 per month. In the past year, sales totaled $435,000. How much rent did the business pay?
+File size is usually measured in ________________________ (thousands of bytes of data).
+_____ is any positively perceived physical, economic or social consequence that is believed to be limited in availability.
+A car, when going with a speed of V and rounding an unbanked curve with a radius R, is just on the verge of slipping. If its speed is now doubled, what  is the radius of the tightest unbanked curve that it can drive around without skidding?
+I understand that my exam is considered a high-stakes assignment and that my instructor will assign to me a grade of zero if I fail to demonstrate a secure testing environment in any of the ways mentioned in the tutorial during my exam.  I realize that receiving a zero on a high-stakes assignment will result in my probable failure of the course.  Therefore, I will not breach any of the requirements for a secure testing environment during my exam.  These include leaving the view of my webcam so that the proctor cannot see me, consulting another device (detectable by eye-tracking), having another person or person's voice in the room, not demonstrating a secure testing environment during my 360 DEGREE room scan, consulting outside materials of any kind.
+Which of the following is considered pyroclastic debris?

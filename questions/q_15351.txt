@@ -1,20 +1,20 @@
-A sample of radioactive material has an activity 175 mCi. What would be the activity after 7 half-lives?
-What does the "H" in NADH, FADH, and NADPH stand for?
-Simple sugars found in 100% fruit juices are considered to be added sugars.
-True "Claw Hand" is a combination of ___________ and ____________ nerve palsies.
-________________________ is a form of arthritis more common in men and typically affects the joint at the base of the great toe.
-It is ironic that Kabuki was founded by a woman because kabuki dancers were all male. Women were not allowed to dance.
-5. (10 points, 5 minutes) (Program discontinuity and Pipelining) Consider the following instruction sequence: I1: currently in the WB stageI2: currently in the MEM stageI3: currently in the EX stageI4: currently in the ID/RR stageI5: currently in the IF stage   I4 is an add instruction, which when it gets into the EX stage will cause an arithmetic overflow.  The arithmetic exception will be registered in the ETR (exception/trap register) with the unique number 42. The entry in the IVT (interrupt vector table) for 42 is 1000. Assume that the ETR and IVT are available to the IF stage of the pipeline to retrieve the starting address of the exception handler.    List the steps that will be taken by the pipelined processor which will ultimately result in the instructions corresponding to the exception handler entering the pipeline.
-What is licensing?
-Which of the following is NOT a charactersitc of Renaissance Humanism?
-Children literature is an effective tool for teaching young children about disabilities and illness.
-Choose the appropriate verb according to context and conjugate it in the present tense according to the subject.  Model:  El profesor (tener / ser / comer) en la cafeteria los jueves. Answer:  come   Yo (abrir / creer / vender) el libro inmediatamente cuando llego a casa porque debo estudiar.
-Selective media must contain ______________ in order to prevent the growth of some organisms while selecting for others.
-Performing a glute bridge exercise as shown in the figure below involves maintaining contraction of the gluteal muscles (i.e. your buttocks).  Maintaining/keeping the body in this specific position as shown in the figure for an extended period of time will require an:
-Answer the five following short answer discussion questions.  Use examples to illustrate your answers. Please define Epistemology and give examples of the types of questions it seeks to answer.
-Driving defensively is not particularly difficult if we remember to watch out for the other driver and left enough space between ourselves and the car ahead of us.
-Grignard reagents cannot be prepared from alkyl groups with which of the following functional groups?
-Which is not a component of nucleic acids?
-In a conglomerate merger, a firm acquires complementary products through merger and acquisition activities.
-Name the tube-like structure labeled #3 in the picture above
-Tendons connect muscles to bones.
+Select ALL that are functions of the nervous system
+Deficiency of which major mineral is usually associated with muscular spasms, tremors, neuromuscular hyperexcitability, and tachycardia?
+The term for the phenomenon where feelings, ideas, and behaviors spread rapidly through a group of people is called:
+The structural and functional units of the kidney are called
+An order for dopamine 8mcg/kg/min was ordered for a client who weight 187lbs. The IV concentration is 400mg/250mL. How many mL/hr would the client be receiving? Round to the nearest tenth, if needed.  _______ mL/hr
+Boolean Expressions Decision-making on computers are based on statements called boolean expressions.  This can be particularly useful when used to compare the properties of two sprites. For example, you could figure out which one is larger or placed higher up. In the next few puzzles we'll use simple boolean expressions to compare sprite properties. Predict Read the code below. There are some new symbols in it which you haven't been introduced to. Take a guess at what they mean and try to answer the following question.  var sprite1 = createSprite(100, 200);var sprite2 = createSprite(300, 200); // Predict what each command will printconsole.log(sprite1.y == sprite2.y);console.log(sprite1.x > sprite2.x);console.log(sprite1.x < sprite2.y); drawSprites();     Which result will be printed in the console by this program?   a.  true, false, true   b. 0 , 200, 100   c. true, error, true   d. false, true, false
+public class Product {     private String prodId;    private double price;    private int quantity;       public Product(String id, double p, int q)     {        prodId = id;       price = p;       quantity = q;     }       public String toString()     {        String str = new String();       str = "Prod Id: " + prodId + "n";       str = str + "Price: " + price + "n";       str = str + "Quantity: " + quantity;       return str;    }  }     public class BakeryItem extends Product  {      private String itemType;    private int shelfLife; // measured in days    public BakeryItem()    {       // code here    }    public BakeryItem(String id, double p, int q,                                                        String type, int life)    {       // your code here    }       public String toString()    {       // code for the toString method here    }   }       Answer each question in the space provided. Be sure to label each with the appropriate letter.  Write an InvalidShelfLifeException exception class which contains only a parameterized constructor. An exception of this type should be checked. An object of this type is created when the user provides data for shelfLife that is invalid (shelfLife cannot be negative nor greater than 7). (6 pts) Write the body of the parameterized constructor for the BakeryItem class. An InvalidShelfLifeException should be thrown if the shelf life passed to the method is invalid. Are you required to include a throws clause at the end of the method header? Why or why not? (8 pts) Write application code that instantiates a BakeryItem object. Be sure to handle the exception that can be thrown and to declare any necessary variables. (4 pts) Is the toString method in the BakeryItem class and example of overloading or overriding? Explain your answer (2 pts) Is the parameterized constructor in the BakeryItem class and example of overloading or overriding? Explain your answer (2 pts)
+The nurse is preparing a care plan for an assigned patient who has AIDS. Which is the most important goal in the plan of care for all patients with HIV/AIDS?
+Post-polio syndrome is latent weakness in patients who survived the acute virus, it can be characterized by all of the following except?
+What helps form the haustra of the large bowel?
+What is the name for the structure labeled A in the diagram below (outer white layer of eye)?
+You are called for a 3-year-old girl who is not well. Her mother says that the child has been sick for several days but today she has had trouble keeping her daughter awake. You note that the girl's capillary refill time is 4 seconds and she has a skin rash. The MOST important part of your assessment will be to:
+Which DNA repair process will correct any mutations that DNA polymerase proofreading failed to correct?
+Mexico is one of the largest producers of strawberries and avocados. If Mexico can produce 5 pounds of strawberries every hour and 2 pounds of avocados every hour, what is Mexico's opportunity cost of producing 1 pound of strawberries?
+Why is the power separated between all three branches of government?
+The general characteristics shared by low-income countries do not include:
+Give an example of:    First line of defense
+Which of the following is true of Mercury?
+The central dogma of molecular biology states that the information contained within genes flows in which direction?
+A mutation that involves the addition, subtraction, or substitution of a single base is known as:

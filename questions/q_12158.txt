@@ -1,20 +1,20 @@
-The pH of baking soda is approximately 8.3; therefore, baking soda is acidic.
-One of the major roles of the dorsal respiratory group is to:
-Which of the following P waveforms are associated with junctional rhythms? Select all that apply.  No P wave Inverted P wave Shortened PR interval Progressively lengthening P wave 4 different P wave shapes
-Two locations A and B receive rainfall with the same intensity distribution patterns (and maximum 30-minute intensity, I30, values). However, they differ in the total precipitation depth (P). Do you expect both locations to have the same R-factor value (RUSLE2)? Provide appropriate explanations.
-Which of the following would require an extra long six-inch elastic bandage?
-which of the following interactions would you predict to have the highest affinity? (choose best answer)
-Let the function f : N - R be defined recursively as follows:      Initial Condition:  f (0) = 1 Recursive Part:    f (n + 1) = 3 * f (n), for n >= 0 Consider how to prove the following statement about this given function f using induction. f (n) = 3n, for all nonnegative integers n. Select the best response for each question below about how this proof by induction should be done.  Q1. Which is a correct way to prove the Basis Step for this proof?  [Basis] A. For n = 1, f(n) = f(1) = 3*f(0) = 3; also 3n= 31 = 3, so f(n) = 3n for n = 1.B. For n = 0, f(n) = f(0) = 1; also 3n = 30 = 1, so f(n) = 3n for n = 0.C. For n = k+1, f(k+1) = 3(k+1) when f(k) = 3k for some integer k >= 0, so f(n) = 3n for n = k+1.D. For n = k, assume f(k) = 3k for some integer k >= 0, so f(n) = 3n for n = k. Q2.  Which is a correct way to state the Inductive Hypothesis for this proof?  [InductiveHypothesis] A. Prove f(k) = 3k for some integer k >= 0. B. Prove f(k) = 3k for all integers k >= 0. C. Assume f(k) = 3k for some integer k >= 0. D. Assume f(k+1) = 3(k+1) when f(k) = 3k for some integer k >= 0. Q3.  Which is a correct way to complete the Inductive Step for this proof?  [InductiveStep] A. When the inductive hypothesis is true, f(k+1) = 3*f(k) = 3*3k  = 3(k+1). B. f(k+1) = 3*f(k), which confirms the recursive part of the definition. C. When f(k+1) = 3(k+1) = 3*3k; also f(k+1) = 3*f(k), so f(k) = 3k, confirming the induction hypothesis. D. When the inductive hypothesis is true, f(k+1) = 3(k+1) = 3*3k = 3*f(k), which confirms the recursive part of the definition. Q4.  Which is a correct way to state the conclusion for this proof?  [Conclusion] A. By the principle of mathematical induction, f(k) = 3k implies f(k+1) = 3(k+1) for all integers k >= 0. B. By the principle of mathematical induction, f(k) = f(k+1) for all integers k >= 0. C. By the principle of mathematical induction, f(n+1) = 3*f(n) for all integers n >= 0. D. By the principle of mathematical induction, f(n) = 3n for all integers n >= 0.
-The element with A=36 with 20 neutrons is:
-Which of the following is a molecular element?
-Jasmine is a very likable employee. Recently, her boss rated her at the highest level in all areas of performance, even though in some areas her performance did not warrant this judgment. This is an example of a ________ perceptual error.
-In one lab, you made tubes of varying concentrations of protein by performing a serial dilution. You then measured how the absorbance of a sample changed as its concentration changed. In this experiment, what was the independent variable plotted on the graph?
-The marrow cavity contains:
-19. Identify the specific stem that will produce the daughter cell at A.
-In adults, hypersecretion by the thyroid gland causes
-Which of the following factors may impact the decision to resuscitate an infant who is born premature?
-A patient in the emergency department with sudden-onset right-sided weakness is diagnosed with an intracerebral hemorrhage. Which information about the patient is most important to communicate to the health care provider?
-Healthcare claims report data to payers about __________ and __________.
-The authors of Conscious Capitalism argue that over the year's leadership has evolved from a militaristic, to a mercenary, and now to a missionary style. This recent shift to a missionary style is being aided by what?
-The lipid layer that forms the foundation of cell membranes is primarily composed of molecules called __________.
-A(n) ________ is a thick-shelled protective container that protects some prokaryotes from harsh conditions.
+2. A nociceptor is used to detect
+46. The nurse is caring for a 2 year old hospitalized with Nephrotic Syndrome.  The edema has progressed from periorbital to generalized.  The skin appears stretched, and areas of breakdown are noted over the bony prominences.  The child has been receiving Lasix (furosemide) twice daily for several days.  In order to reduce edema, which of the following does the nurse expect to be included in the treatment plan?
+the Japanese did not want to agree to unconditional surrender before the dropping of the atomic bomb
+Which of the following are functions performed by membrane proteins? Choose all that apply.
+According the Adler et al. (2016) article entitled "Getting Rid of Performance Ratings: Genius or Folly? - A Debate," which of the following was NOT a reason that some experts suggest we KEEP performance appraisals?
+During the care of a patient with pink eye, the LPN prepares to provide gentamicin ophthalmic (Garamycin) eye drops. Which of the statements by the LPN is best?
+Wo Men Yi Qian Zai Yi Qi Xue  ______Ri Wen ,Suo Yi Wo Zhi Dao Ta De Ri Wen Hen Hao . Wo Men Yi Qian Zai Yi Qi Xue  ______Ri Wen ,Suo Yi Wo Zhi Dao Ta De Ri Wen Hen Hao .
+The logical data model (LDM) captures the detailed data requirements within the scope of the conceptual data model (CDM).
+A psychologist tells a child a story in which a puppet named Maxi puts a ball in one cupboard and then leaves the room. While she is gone, another puppet moves the ball to another cupboard. Then Maxi comes back. At this point, the psychologist asks the child in which cupboard will Maxi look for the ball. This is an example of:
+Answer only one of the following questions. Indicate your choice.                    A.  Explain the concept of mating types within fungi. How are they different from female and male sexes? B.  List two major taxonomic groups of fungi, describe some key features of each group, and give an example fungus of each group.
+Effective international  environmental policies:
+A bacteriophage infects a bacterial cell, causing the cell's own chromosomal DNA to become fragmented. One of the new bacteriophages being assembled in the cell accidentally scoops up some of the bacterium's chromosomal DNA. This bacteriophage goes on to infect a new bacterium. When it does so, it inserts DNA from the previous cell into the new cell. That DNA becomes integrated into the new cell's genome.  This gene transfer process between bacteria is referred to as:
+This molecule from Bacillus inhibits release of acetylcholine to inhibit muscle contraction causing flaccid paralysis:
+As a percentage how often do women (ages 16-19) masturbate alone?
+The president is the head of state:
+Which nursing diagnosis is expected to be appropriate for a patient who has a positive Romberg test?
+Energy cannot be _________________
+Churchill coined the phrase "Iron Curtain" as a reference to all countries under the influence of the U.S.S.R.
+Which statement correctly describes a lymphatic vessel?
+Identify the true statement for all proportional relationships.

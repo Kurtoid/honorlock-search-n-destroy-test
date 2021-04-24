@@ -1,20 +1,20 @@
-You have an outstanding student loan with required payments of $600 per month for the next four years. The interest rate on the loan is 10% APR (compounded monthly). Now that you realize your best investment is to prepay your student loan, you decide to prepay as much as you can each month. Looking at your budget, you can afford to pay an extra $175 a month in addition to your required monthly payments of $600, or $775 in total each month. How long will it take you to pay off the loan?
-Quotes four lines or longer must be indented in block format.
-A hypothetical example describes an imaginary or fictitious situation.
-When teaching a patient with a family history of hypertension about health promotion, the nurse describes blood pressure screening as which type of prevention?
-Use the information above in questions above to isolate specific pieces from the DNA sample. Remember the probe sequence is:  3' TATACGCGTATA 5' Consider the results shown in the gel below.     Which sample contains Tina's DNA? [tina] Which sample contains Louise's DNA? [louise] Which end is the + end of the gel? [gel] Who helped Gene with the prank? [prank]
-What is the time length at which brain damage is likely to begin to occur?
-When you try to focus on the tip of your nose,
-Name the labelled muscle below that helps the muscle above to adduct the shoulder.
-During an examination of a pregnant woman, the examiner notes that the woman's cervix is soft on its tip. The nurse documents this finding as:
-A ________ is an instrument that is used to record earthquake vibrations.
-Predict the output of the following program.     class First{           int i;           public First(){                     i = 10;           }           public First(int value){                     i *= 3*value;           }           public String toString(){                      return i + "";            }} class Second extends First{           int i = 10;           public Second(int i){                     super(i);                     i += 3;           } } public class MainClass{           public static void main(String[] args){                     First f = new Second(5);                     System.out.println(f.toString());                     System.out.println(f.i);           }}
-The client with mania attempts to hit the nurse. Which is the best response by the nurse?
-Define Beach
-Confucius redefined the term gentleman (or junzi) as which of the following?
-Find the probability.When a single card is drawn from a well-shuffled 52-card deck, find the probability of getting a red 10 or a red 4.
-A client expresses self-doubt about role performance, and talks about being overwhelmed most of the time when encountering life situations. Which of the following nursing diagnosis would address this client's symptom?
-A patient will undergo a transurethral resection of the prostate (TURP). Which preoperative care would the nurse perform?
-In pea plants, the tall phenotype is dominant to the dwarf phenotype. If a heterozygous pea plant is crossed with a homozygous tall pea plant, what is the probability that the offspring will be dwarf in size?
-All of the following were specifically identified in the lecture as areas that need to be addressed in order to create a better work-life balance EXCEPT:
-TOTAL QUESTION 3:   [10]
+Here is the language from class. S -> if E then S else S | print E | begin S LL -> end | ; S LE -> id Create the F# function that processes the S production. You may assume that eat from class exists.
+Answer the multiple-choice questions over this conditional proof. Keep in mind that on the exam, you would have to construct the whole proof on your own. Use the html box in "Bonus" question 1 to write out the steps to the proof so you can refer back to it when answering the multiple-choice questions.   Note: To show indenting, I put "in 1", "in 2", "in 3" (So indenting three times). Then to step out (discharging the assumption), I put "out 3", "out 2", "out 1". That way we don't need to worry about moving lines in or trying to tab.   Line 15 should be this:
+Who was Okuni?
+A nurse has defined the research question as, "How does oral nutritional supplementation during dialysis treatments affect the serum albumin levels of adult patients who have chronic kidney disease Stage 5?" In this question, what is the independent variable?
+The Andes Mountains were formed by
+(Oung Migraine/MS) Which of the following is a contraindication to triptan use in patients with severe migraines?
+From the following list, which two are the biggest contributors to non-interest income?     Fiduciary Activities     Deposit Service Charges     Trading Revenue     Investment Banking     Insurance Commission Fees and Income     Other Non-Interest Income
+During glycolysis, the body
+Which one (or ones) of the following pHs would test negative in the methyl red test and positive in the carb broth test?
+Confederates ______________ . (select ALL that apply)
+Since middle managers focus on a longer time frame, they need less detailed information than top managers, but somewhat more than supervisors who oversee day-to-day operations.
+An architect builds a miniature version of a building for a client to see what the proposed project might look like. This is a type of
+A ________ is a restrictive provision in a bond indenture, providing for the systematic retirement of the bonds prior to their maturity.
+The most widely accepted explanation for chains of volcanoes in the oceans and lines of volcanoes on land is that they formed at:
+Vit D:
+4.10    Kies die korrekte woord tussen hakies.  Neelsie (herken/erken) dat hy ander leerders se werk afskryf.    (1)
+All of the following are normally found in urine EXCEPT:
+What is the molar mass of a pure gaseous compound having a density of 4.95 g/L at -35
+The partial pressure of carbon dioxide is 50 mm Hg in the blood and 40 mm Hg in the alveoli. What happens to the carbon dioxide?
+As props in Do the Right Thing, the garbage can Mookie throws and the fire hydrant used to drench the driver serve a(n) [one] function and have [_____] meaning.

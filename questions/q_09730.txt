@@ -1,20 +1,20 @@
-Use the following data to answer the next six questions.SpencerSound sells music from its retail stores. The Company uses a periodic inventory system. The purchases of the newest MartinMusic CD during the year are shown below. Jan. 1    Beginning inventory          600 units @ $9.00 =$5,400 Apr. 18  Purchase                         500 units @ 9.50 =    4,750 Aug. 11  Purchase                         700 units @ 10.00 =  7,000 Oct. 23   Purchase                         200 units @ 10.25 =  2,050                                                                                       $19,200 Dec. 24 Sale (finally!)                   (1,300) units Dec. 31 Ending Inventory              700 units
-Which Reynolds number represents turbulent flow?
-Which option describes an adversary pretending to be someone else to obtain credit or attempt fraud?
-These inorganic components of bone give the tissue its hardness and persist for years after a person dies.
-Prokaryotes replicate using the mitotic process.
-If an infection is being effectively treated by an antibiotic, which of the following would be true?
-Which statement is associated with civil law?
-Match the description or statement with the correct species concept. Different stages in the same evolving lineage that exist at different points in time yet the later forms become gradually morphologically distinct from earlier forms.
-A dog comes in for dystocia.  The owners opt for a C-section.  Prior to inducing this patient, what can technicians start doing ASAP to help decrease prep time?
-Marco is about to turn 5 years old. He can expect to have a vocabulary of about _____ words.
-Which of the following muscles inserts on bone number 1 ?
-Consider the design of two logic circuits that both have four inputs: A, B, C and D; and one output: X.  Each circuit is implemented using 4-input AND gates (with negated inputs) and an OR gate to generate the output.  For circuit 1, X is defined to be 1 if and only if the unsigned binary representation of A, B, C and D is less than 7.Note A is the most significant bit, then B, then C, and D is the least significant. For circuit 2, X is defined to be 1 if and only if the total number of 1's among A, B, C and D is exactly 2.  Which of the following 4-input gates would be used in the implementation of both circuits?
-On the Excel spreadsheet, there are two matrices (Matrix A and Matrix B) highlighted in yellow on the "Exam2-Q51" tab). Complete the following matrix operations: (1) Calculate [C]=[A]*[B] using "MMULT" function in the designated blue area; (2) Calculate the Determinant of Matrix A using "MDETERM" function in the designated blue area; (3) Get the transpose of Matrix A using a VBA program; (4) On the "Exam2-Q52" tab, calculate [C]=[A]*[B] using a VBA program.   You will need to use "option base 1" in matrix or array VBA programs. The algorithm for the transpose of a matrix [A] is: Transpose matrix AT (j,i) = A (i,j)   The algorithm for matrix multiplication is: For i = 1 to (number)             For j = 1 to (number)                         For k = 1 to (number)                                  C (i,j) = C (i,j) + A (i,k)* B (k,j)                         Next k             Next j Next i Note: The first two sub-questions, (1) and (2), are Excel spreadsheet problems, and no programming is required. The code/formulas should be written such that values in blue change correctly if the values in yellow change and the code is re-executed. Once complete, please type a one-word essay (e.g., "ok") for this question and then upload your combined Excel file at the very end of this exam.
-Which mineral is the most abundant in the body
-The HBR material lists three key risks to traditional project planning that lead to the failure of big projects--"white space", execution, and integration. Briefly describe the method proposed for managing these risks.
-The decade that saw the biggest boom in family related policy was:
-These cells in the immune system present the antigen to the T-Cells to activate the Helper T-cells, thus they are messenger between the Innate Immune System and the Adaptive Immune System.
-In his speech on depression, Dhavan said: "According to materials I located through a Google search, almost 20 million American adults have a depressive illness serious enough to interfere with their jobs and their family life." According to your textbook, did Dhavan make any mistakes in citing his sources?
-Larger molecules are assembled from smaller molecules by-------------------- reaction.
-Ralph Richards's company has been attempting to solve a problem with a contract default by the Dutch government. He has tried conciliation but the two parties did not find any common ground on which they could begin a fruitful negotiation for settlement. What is likely to be the course of action that both the parties will try next?
+The term externalities refers to:
+I decide to conduct a(n) _____, which amounts to a semi-structured interview with a group of people, because I want to hear people discuss a topic, even though this may be hard to manage.
+Strip lashes are called
+What is the balanced equation for the titration of acetic acid with NaOH.
+Linearize the following o.d.e. around
+Which is the greatest advantage of monitoring intracranial pressure (ICP) with an intraventricular catheter (IVC)?
+Disease processes known for excess mucus production are:      Chronic bronchitis   Emphysema   Cystic fibrosis   Pulmonary fibrosis
+Rank the following events chronologically, from the earliest (1) to the latest (4).
+An astronomical unit is the distance between...?
+A condition ______ is a particular event that must occur in order for a party's duty to arise.
+80. A new contact lens wearer mentions occasional blurring at their first follow up visit.  What is the most likely cause?
+Pontiac fever is a milder form of Legionellosis; neither form is contagious.
+Which of the following are considered sweat glands?
+Your friendly finance professor's rule-of-thumb suggestion for how much of your income you should be devoting to long-term investing (for retirement) is:
+This is the primary occupation of children:
+A merry-go-round is initially at rest.  A child of mass 35 kg runs tangentially to the merry-go-round with a speed of 1.07 m/s and jumps on to the edge of it.  If the radius of the merry-go-round is 1.3 m and the angular speed of the merry-go-round and child is 0.3 rad/s right after the child jumps on, what is the mass of the merry-go-round?  Model the merry-go-round as a solid disk; answer in kg.
+(This is a fill-in-the-blanks question.)The earth emits energy in the  _______ portion of the spectrum.
+When one increases the magnification on a light microscope, the field of view [fieldofview].
+What change will be caused by addition of a small amount of HCl to a solution containing fluoride ions and hydrogen fluoride?
+When listening to heart sounds, we hear two "noises" that correspond to one contraction or beat.  The first sound is the lubb and the second the dupp.  The second sound heard corresponds to the closing of the atrioventricular (AV) valves.

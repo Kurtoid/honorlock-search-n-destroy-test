@@ -1,20 +1,20 @@
-Convert 27.1 inches to centimeters. Given 1 in = 2.54 cm.
-A nurse is caring for a laboring woman who is in transition.  Which of the following signs/symptoms would indicate that the woman is progressing into the second stage of labor?  Select all that apply.
-A student purchases bottled drinks and canned drinks for a party. She purchased a total of 40 drinks for the party at a total cost of $58.05. If bottled drinks each cost $1.95 and canned drinks each cost $0.90, how many of each type of drink did she purchase?
-You have files Candy.java, JollyRancher.java, and a driver class named Driver.java. Fill in the correct visibility modifiers so that the comments in the class JollyRancher and Driver's main method are upheld.  public class Candy {    1  void isSour() { /*compiles*/ }    2  void munch() { /*compiles*/ }    3  void yummy() { /*compiles*/ } }  ----- in a separate file in a different package/directory ----- public class JollyRancher extends Candy {   public void sweet() { isSour(); // compiles munch(); // doesn't compile }}  ----- in a separate file in a different package/directory ----- public class Driver { public static void main(String[] args) {        JollyRancher j = new JollyRancher();         j.isSour(); // doesn't compile j.munch(); // doesn't compile        j.yummy(); // compiles  }}    1   : [1]  2   : [2]  3   : [3]
-Neutropenia can be due to:
-Solve for x. Be sure to reduce your answer. Check your solution.x = -5
-Which method of delivery involves a speech being delivered by reading word-for-word from a prepared text?
-The endocrine system covers and protects the body.
-What is Prepositional Singular of istoriia Rossii?
-Three experimental set-ups were required for you to study catalase activity.  Two were controls. What was one of the other conditions that you set up, other than "Catalase + substrate?"
-Which of the following statements represents a slippery slope fallacy?
-A patient is suffering from tendonitis of the knee. The nurse is reviewing the patient's medication administration record and recognizes that which adjuvant medication is most appropriate for this type of pain?
-The pipe cleaners are traveling through what space? Be specific. *Do not list the side (left or right)*
-Part A. Fill-in-the-Blank/Multiple Choice type questions (31 pts)- Questions 1-14 These can be answered in a letter, a single word or a short phrase.  The number of points are provided for each question- most are 2 points.
-The home care nurse is caring for a patient who has severe Chronic Obstructive Pulmonary Disease (COPD) and uses home oxygen therapy. The patient increased the oxygen flowmeter from 2L/min to 5L/min and reports to the nurse feeling much better. The patient's pulse oximetry is 98%. What is the best action of the nurse?
-sciolto
-Before beginning this exam, I am acknowledging here that I understand the importance of academic integrity. I agree to neither give nor receive any help on this exam from anyone. I understand that using outside sources  of any kind on this exam is an academic misconduct violation. I also understand that discussing or sharing any part of this exam is an academic misconduct violation. I agree to only use a scientific calculator on this exam. It is important to me to be a person of integrity and that means that ALL ANSWERS on this exam are my answers.
-At 18-months of age Ben could speak approximately 50 words. However, by 22-months of age, his vocabulary had increased to almost 300 words, most of which were nouns. This can be explained by which of the following?
-Which one of the following is not true regarding a like-kind exchange?
-The lower end of the manubrium joins the body of the sternum to form a palpable prominence called the manubrial notch.
+Based of the examples of restaurants and nail salons, select the types of industries that would be well-suited for a data-driven consumer watchdog story or investigation.
+What is the potential role of pharmacogenetics/genomics in pharmacology?
+A patient received lumbar traction two days ago for relief of radicular symptoms occurring down their left leg to the knee. They returns for their second appointment and report that symptoms are now in bilateral lower extremities to their feet. They also confide that they noticed the start of urinary incontinence yesterday. What is the most appropriate course of action to take and why?
+A positive iodine tests turns ___ due to the presence of _____.
+The Doppler waveform shown is a(an):
+Write .0050% as a decimal
+Which of the following depict events that occur during G1&G2 phases of interphase during the cell cycle?
+Define prerogative and give an example of Jesus claiming a divine prerogative.
+A  51.8-kg bungee jumper jumps off a bridge and undergoes simple harmonic motion. If the period of oscillation is 11.2 s, what is the spring constant (force constant) of the bungee cord?
+1.2.2   Verwys na jou antwoord in 1.2.1 en gee twee redes waarom hierdie manier van leefwyse so belangrik was? (2x1)   (2)
+The outer protective layer of the eye, also known as the white of the eye, is called the:
+The chemical formula of calcium nitrate is: A) Ca3N2 B) Ca(NO3)2 C) CaNO3 D) Ca2NO3 E) Ca(NO2)2        Polyatomic Ions     Cations   Anions     -1   -2   - 3       NH4+      ammonium   OH -        hydroxide NO2 -        nitrite NO3 -        nitrate C2H3O2 -    acetate HCO3 -      hydrogen carbonate (bicarbonate)           HSO3 -      hydrogen sulfite (bisulfite) HSO4 -      hydrogen sulfate (bisulfate) H2PO4 -     dihydrogen phosphate MnO4 -      permanganate ClO4 -        perchlorate ClO3 -        chlorate ClO2 -        chlorite ClO -         hypochlorite CN -         cyanide SCN -       thiocyanate   SO3 2 -      sulfite SO4 2 -      sulfate CO3 2 -      carbonate CrO4 2 -     chromate Cr2O7 2 -    dichromate C2O4 2 -     oxalate HPO4 2 -    hydrogen                phosphate       PO3 3 -       phosphite PO4 3 -       phosphate BO3 3 -       borate AsO4 3 -      arsenate         Prefixes: 1 mono 2 di 3 tri 4 tetra 5 penta 6 hexa 7 hepta 8 octa 9 nona 10 deca
+What is the stoichiometric coefficient for oxygen when the following equation is balanced using the lowest, whole-number coefficients? _____ C H4O (l) + _____ O2(g)  -  _____ CO2(g) + _____ H2O(l)
+What would you say if you wanted to say: that China's population is mainly in the east and south? All the big cities are by the sea or not too far away from it.
+To simplify processing and to control costs, food processors began using __________________.
+Find the exact value of the expression.sin 15deg cos 45deg + cos 15deg sin 45deg
+Which of the following number formatting options adds a dollar symbol and two digits after the decimal point and also lines up the currency symbols and decimal points?
+What usually initiates acute appendicitis?
+Water at 10 C is flowing steadily in a 0.12 cm diameter, 15 m long pipe at an average velocity of 0.9 m/s. Determine the pressure drop for this pipe.
+Find the mean for the given sample data. Unless indicated otherwise, round your answer to one more decimal place than is present in the original data values.The normal monthly precipitation (in inches) for August is listed for 20 different U.S. cities. Find the mean monthly precipitation. 3.5 1.6 2.4 3.7 4.1 3.9 1.0 3.6 4.2 3.4 3.7 2.2 1.5 4.2 3.4 2.7 0.4 3.7 2.0 3.6

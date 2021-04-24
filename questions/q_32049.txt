@@ -1,0 +1,20 @@
+Name the structure identified as #3.
+Fill in the blanks with words from the box. Three words will not be used.   amigos          artista         familia         gemelos         gente muchachos    periodista   programador        novia   1. Mi amigo Guillermo es   _______ Le gustan las computadoras.  2. En mi   _______  hay cuatro personas: mi madre, mi padre, mi hermano y yo.  3. Mi media hermana dibuja muy bien. Es   _______  4. Hay mucha   _______  en el estadio. Hay un partido (game) importante. 5. Mi hermano espera trabajar en la television. Desea ser   _______  6. !Alejandro y Alvaro, los hijos de mi tia, son identicos! Ellos son _______
+Human pathogens fall into the groupA. psychrophiles.B. thermophiles.C. halophiles.D. mesophiles.E. acidophiles.
+Which of the following molecules are chiral? I. cis-1,3-Dibromocyclohexane II. 1-Bromo-1-methylcyclohexane III. trans-1-Bromo-3-methylcyclohexane IV. cis-1-Bromo-3-methylcyclohexane
+13. Using a discount rate of 5%, what is the NPV of the following cash flow stream?     Year   Cash flow     0   -20     1   2     2   4     3   8     4   0     5   16
+A stroke ________.
+During the embryonic stage of prenatal development, how many layers of cells eventually form every part of the human body?
+Which of the following is a hormone that regulates the blood level of calcium?
+The elimination half-life of a drug is also referred to as the?
+Proteins that share 30% sequence identity will be members of the same superfamily.
+Fernando felt (bad, badly) when he learned he didn't get the promotion.
+Photosynthesis is the primary chemical reaction that creates the oxygen found on the earth. Some prokaryotic organisms and some eukaryotic organisms can produce oxygen through photosynthesis. While all eukaryotic cells and many prokaryotic cells also require oxygen, there are many prokaryotic cells that do not. What then created the oxygen in the earth's atmosphere that allowed the earliest eukaryotic organisms to evolve?
+Match the vitamin condition with the correct statement.
+According to the text, today the real power of the Internet for international marketing research is the:
+Predict the output of the following program.     public class MainClass{           public static void main(String[] args){                   boolean[] flags = new boolean[] {false,false};                   try {                             if(flags[1]== true && Integer.parseInt("1.2") >= 1)                                      System.out.println("Hello");                             else if(flags[2])                                      System.out.println(1/0);                    }catch(NumberFormatException e) {                             System.out.println("first");                    }catch(ArithmeticException e) {                             System.out.println("second");                    }catch(IndexOutOfBoundsException e) {                             System.out.println("third");                    }catch(Throwable t) {                             System.out.println("fourth");                    }finally {                             System.out.println("fifth");                    }            }}
+______________ in SONET are analogous to the ________________ of T-carriers.
+Serial ten-fold dilutions are made from a broth culture of Bacillus subtilis in order to determine the number of bacteria in the culture.  Following the dilution series, 0.1 ml of a 1:10,000 (1 x 10-4) dilution is plated, the plate is incubated, and 110 colonies are counted.  Calculate the number of bacteria in the original Bacillus subtilis culture. Don't forget units! Make sure your answer reflects proper scientific notation! Use the ^ to denote an exponent, i.e. 1 x 10-4 would be written as 1 x 10^-4. Note: Don't forget the units. No points without units!
+Is this sexual or asexual reproduction? _______
+When the equation below is balanced, the coefficient of HCl is: AlCl3  +  H2SO4
+In "Letter XXXI," Montagu uses her experiences in Adrianople to critique what in England?

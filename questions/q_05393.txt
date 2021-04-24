@@ -1,20 +1,20 @@
-Rewrite the logarithm using the change of base formula and evaluate using a calculator.  Round your answer to 3 decimal places.  This can be evaluated using a scientific calculator.  A graphing calculator is not required.
-Which of the following hormones would increase after an meal
-Which of these is in the correct hierarchical classification order? (Start with first as the broadest level of classification. You will use all of the choices)
-A CUDA kernel processes an mxn image where m is the vertical or y direction and n is the x or horizontal direction.  Suppose that m=800 and n=600 and we decide to use a grid of 16x16 thread blocks for the calculation with one thread per pixel.  How many warps will experience control divergence?   __global__ void PictureKernel(float* d_Pin, float* d_Pout, int n, int m) {    // Calculate the row # of the d_Pin and d_Pout element to process    int Row = blockIdx.y*blockDim.y + threadIdx.y;    // Calculate the column # of the d_Pin and d_Pout element to process    int Col = blockIdx.x*blockDim.x + threadIdx.x;    // each thread computes one element of d_Pout if in range    if ((Row < m) && (Col < n)) {        d_Pout[Row*n+Col] = 2*d_Pin[Row*n+Col];    }}
-In which step of the scientific method does one develop a statement that sums up what the data says about the hypothesis?
-Money paid upon signing of a contract of sale by the offeror is called earnest money.
-What is the biggest problem with the Roman Church's view concerning their interpretation of Christ's statement that the bread was his body and the wine was his blood?
-A circuit that has only one path for current flow is a _____ circuit.
-According to the video entitled "Violence: An American Tradition," we have accurately identified the root causes of violence and developed effective strategies to significantly reduce the likelihood of continued violence in our society.
-What is a progressive series of changes that ultimately produces a climax community?
-Which of the proposal(s) in the First Atomic Theory are NO LONGER supported?
-A(n) ____ circular reference occurs when a formula in a cell refers to another cell or cells that include a formula that refers back to the original cell.
-. 2x5 - 4x4 + 4x3 - 8x2
-Label as Q-BEN on your paper. (8 min) You must show all your work for this problem on your paper.  You must show starting variables, starting equations, and use one step equation dimensional analysis where applicable.  In addition to showing you work on paper, you must state you final answer(s) here with units.  Failure to do so will result in zero credit regardless of your work on paper.  Calculate the binding energy per nucleon of an P-33 nucleus given that the measured mass is 32.97173 amu. Mass of proton = 1.007825 amu Mass of neutron = 1.008665 amu 1 kg = 6.022 x 1026 amu c = 3.00 x 108 m/s.
-Ramp transfers of more than 30 minutes are an abnormality in the air transport industry.
-Amanda is assigned to a group to take a quiz (which actually doesn't count towards the course grade). For one of the questions, she is certain the correct answer is C, but the rest of her group all says the answer is A. Based on information about the Asch line studies, how would Amanda be likely to respond?
-Which of the following is true about ciliates?
-In which of the following settings would shaming be LEAST effective?
-The nurse cares for a client in the emergency department.  The client's family reports a history of heavy alcohol abuse and consumption of alcohol 24 hours ago.  The client is oriented but is tremulous, weak, and sweaty with some gastrointestinal (GI) symptoms.  The client's BP is 160/110 and temperature of 100.5.  Which is the most likely cause of the symptoms?
-If my cellular device (cell phone) is seen during class exams, what consequence will I receive?
+Which of the following groups make up the "base of the pyramid" in international management?
+Dr. Danvers recently ran a study in which participants' behavior was assessed in a series of different situations. Given what we know from the studies on behavioral consistency referenced in the text, what conclusions will Dr. Danvers likely draw from his study?
+A map showing the spread of Christianity through about AD 400 would have to shade in which of the following places? (Mark all that apply.)
+Which of the following processes happens immediately AFTER the point labelled with the arrow below?
+What is the formula mass of calcium phosphate in grams per mole? [Note: enter the numerical value only.  You may submit your work in Canvas if desired immediately after finishing the exam.]
+What muscle is primarily responsible for inhalation/inspiration?
+The pituitary hormone(s) that stimulate testosterone production in males are:
+What are the 3 major provisions of the Abrahamic Covenant?
+Please do not fail to answer this question because it has a value of 15/100 points.   You receive a call from Fritz-Marvin Charles, a bank recruiter, to go to Metropolitan Bank of Miami, Florida, for an interview for a full-time position in their Commercial Banking Division. During the meeting with Eddy Batista, Executive Vice President-Human Resources, and Francine Ma, Executive Vice President-Commercial Banking Division, you disclose the fact that you are an FIU Finance Major expecting to graduate by December 2020.   Based on the conversation, you are asked by both of them who will make the hiring decision to explain, summarize and support in detail, within 15 minutes, what you have learned to date in the Commercial Banking and Financial Services course you are currently taking. In addition to briefly discussing some of the ten (10) chapters learned to date, they would also like to know very current news articles published during the last two weeks. These articles are vital for them to understand that you are up-to-date regarding issues directly or indirectly affecting global banking, especially those related to COVID-19 and its effect on commercial banking and other financial services. The bank does not have the staff nor the time to train anyone without some basic knowledge. Also, justify how the bank will benefit from hiring you. You have 15 minutes to express in written form what you have learned to date and to convince them to hire you. In answering the question, use the phrase "I have learned" only once. Do not keep repeating it while writing your essay.  Please watch your monitor clock and do not exceed the time allotted. Save frequently and leave blank spaces between paragraphs.  Each paragraph should not exceed five (5) lines. You should write about 350 words during these 15 minutes.
+When firms in a perfectly competitive market are earning an economic profit, in the long run
+A muscle that hold the origin in place is called:
+Calculate Gdeg for the following process at 25 oC. The Ksp of AB2 is 1.7 x 10-6.  AB2(s)  A2+(aq) + 2B-(aq) [?]Go = -RT ln K              R = 8.314 J/mol K
+Which of the following is the key term when defining Reliability?
+Many people compare the emotions they feel after a divorce to
+Electrocautery is effective in vessels that are __________ in diameter.
+You feel overwhelmed with the number of e-mails you receive daily. What is an effective work habit you might implement?
+What is the value of 10 / 3   [ans1] 10 % 3 [ans2] 10 * 2 / 3 + 4 [ans3] 100 - 99 % 98 + 1  [ans4]
+The Second Triumvirate included all of the following EXCEPT
+[MAC] MAC Cosmetics is launching a new line of lipsticks. Before releasing their new products, they decide to conduct a form of exploratory market research. They sit down with 30 women individually, asking each a series of questions that feed off that participant's responses to earlier questions. Which type of exploratory research method is MAC Cosmetics using?
+Refer to the diagram above. Which fields, if any, are identical (in all instances where they appear)? If necessary, assume the system is operating in pipe mode. Choose all that apply.

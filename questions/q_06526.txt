@@ -1,20 +1,20 @@
-Which police force in Germany is made up of plain clothes police, who handle serious crime investigations and situations that require developing a case against a suspect?
-Which are signs and symptoms of musculoskeletal trauma? Select all that apply.
-All of the following are considered DME EXCEPT:
-Which of the following is used to express ownership and interests in land?
-You are treating a 40 year old female with a diagnosis of adhesive capsulitis of the right shoulder. She is complaining of acute pain and limited range of motion. You begin mobilization to reduce pain and at least maintain the joint motion. Which of the following grades of mobilization would be best implemented at this stage of treatment?
-In Steinbeck's "The Chrysanthemums," why is Elisa devastated at the end of the story?
-In which U.S. City does the play Water by the Spoonful take place?
-Compare and contrast items from our vocabulary, restaurants and mercados from the following items. Make 3 sentences in Spanish using the descriptive phrases provided or your own ideas:  A. 1 example of ma's/menos  + que ,  B. 1 example of tan/tanto + como C. 1 superlative construction.    elementos: La hamburguesa/ el sandwich de pollo                           descriptivos: sabroso, malo/bueno, fresco, mejor/peor, rico Walmart/ Aldi el pavo/ el jamon la sopa de tomate/ la sopa de cebolla  ensalada de verduras Chick fil a/ Zaxby's  los mariscos/ la carne las papas fritas/los chips
-25. Read the source code of the following two concurrent processes. How many times does process A execute its entire while-loop body?     semaphore S1 = 1; semaphore S2 = 0; unsigned int accumulator = 0;      unsigned int count = 1;     Process A while (true) {        wait(S2);        accumulator = accumulator + count*3;        signal(S1);      }    Process B while (true) {        if (count == 5) break;         wait(S1);         count = count + 2;         signal(S2);      } wait(S1); printf("accumulator=%d n", accumulator);
-Why do waves expend so much energy on a rocky headland?
-Which of the following is required on the Nutrition Facts label?
-Region 2 in the schematic below has a gradient of increasing osmolality. How does this gradient affect reabsorption from the nephron?
-Examples of adaptation to climate change impacts include
-Identify the specific cell at letter C.
-What part of the Affordable Care Act did Texas choose to reject?
-Early abortion usually occurs before 12 weeks. It is typically caused by:
-Which scientist developed the modern mechanism to explain how evolution occurs?
-When studying human anatomy, what did William Harvey discover?
-The first step in dealing with a gang problem is to
-When a solid is heated, it emits electromagnetic radiation known as ________________.  An example of such radiation is the burner of an electric stove top turning bright red.
+How does a CD8 T-cell recognize a host cell that is infected and needs eliminating?
+Part II  Simple Choice Questionsmultiple choice - choose one best answer or short fill-in-blank (follow instructions) 2 points each, 10 questions [20 points max] Partial credit is possible if more than one fill-in-blank on a given question.  After viewing this information, select next and then select okin the message box that appears since there is no answer to be entered.
+Which tissue contains sparse cells which secrete a substance that determines the function of the tissue?
+The largest of the salivary glands is(are) the
+__________________is the genetic material for all cellular organisms and some viruses.
+Identify body region/landmark labeled "C".
+Persons who participate in the interview process with potential job candidates might  include ____.
+Your family owns a little but well-regarded BBQ restaurant in Birmingham. In particular, it is known to offer the best smoked brisket outside of Texas. Its superior reputation acts as what?
+Which of the follwoing terms indiates a scan commonly  used for brain activity and tumor  detection?
+Read the following statements A, B and C, and answer the question that follows:A. If y=fx*gx, then dydx=f'x*g'xB. If y = x+1x2+2x+3x+4, then d6ydx6=0C. If f'c and g'c are zero and hx=fxgx, then h'c=0.Which of the following is true?{"version":"1.1","math":"Read the following statements A, B and C, and answer the question that follows:A. If y=fx*gx, then dydx=f'x*g'xB. If y = x+1x2+2x+3x+4, then d6ydx6=0C. If f'c and g'c are zero and hx=fxgx, then h'c=0.Which of the following is true?"}
+What is the arrow pointing to in the below image?
+Which assessment question should the nurse ask if stress urinary incontinence is suspected?
+If a patient comes in from a nursing home with pneumonia that has already been diagnosed this is known as _______________________________.
+A major portion of fresh water is trapped in _______.
+In-person presentation is a communication channel with high channel richness.
+Drug M causes 4 units of response.  Drug C causes 12 units of response.  When administered together, a patient experiences 24 units of response.  This is an example of a(n) ____________ interaction.
+Which of the following processes is used by white blood cells when engulfing can consuming bacteria?
+Seminole Company uses the direct write-off method of accounting for uncollectible accounts. On May 3, the Seminole Company wrote off the $2,000 uncollectible account of its customer, A. Hopkins. On July 10, Seminole received a check for the full amount of $2,000 from Hopkins. On July 10, the entry or entries Seminole makes to record the recovery of the bad debt is:
+The main character of a story is always the hero or heroine.
+With certain exceptions, Class E airspace extends upward from either 700 feet or 1,200 feet AGL to, but does not include,

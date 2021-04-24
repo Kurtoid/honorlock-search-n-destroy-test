@@ -1,0 +1,20 @@
+Oxygen is a by-product of photosynthesis. How is it produced?
+In a use case, which of these would NOT be an actor?
+Hydrobromic acid dissolves solid iron according to this unbalanced reaction: Fe(s) +   HBr(aq) -   FeBr2(aq) +   H2(g) Balance the reaction and calculate the mass in grams of how much HBr would be needed to dissolve 6.2 g of pure iron?
+The triangular trade connected
+Which of the following would most accurately describe the effect on the accounting equation when recording direct labor?
+Match the facial muscle with their correct corresponding letter in the diagram above:
+To ensure that both joints are included on an AP projection of the tibia and fibula on an adult, the technologist should:
+We should be especially skeptical of allegedly recovered memories in the following cases, EXCEPT:
+All of the following statements about electromagnetic radiation are true EXCEPT:
+A(n) _____ is made up of members from different departments within an organization.
+During middle childhood, the typical child gains approximately how many pounds per year?
+Recrystallization during metamorphism causes grains to grow longer in the ________.
+The nurse is preparing to administer 50 mg of medication as prescribed by the doctor. The medication is supplied as 100 mg/2 mL. How many mL will the nurse administer. _____ mL. Write the number only. _______ mL.
+If the transcript's sequence is -CUAAGGGCU-, what is the sequence of the DNA template?
+White-box testing:  Consider the problem of making n cents change with quarters, dimes, nickels, and pennies using the least total number of coins. Assume that the supply of each denomination is large enough to satisfy every request for change. Suppose that for a given currency, the array C[0,...,r1] represents the values of the denominations of coins, where C[0] > C[1] > ... > C[r1], and r is the number of types of denominations. For example, for US coins, you have quarters, dimes, nickels, and pennies, and thus C = [25, 10, 5, 1] Let the array N[0,...,r1] be the output. It represents the number of coins for the corresponding denominations to be dispensed. If you had to make change for n=41, then the array N =[1,1,1,1]. The following code implements a greedy algorithm for making change. 0.    r = 4; 1.    C = {25, 10, 5, 1}; 2.    N = {0, 0, 0, 0}; 3.    read (n); 4a.  for (i = 0;             4b. i= C[i]) { 6.                      N[i] = N[i] + 1; 7.                      n = n - C[i]; 8.         } 9. }     Draw a control-flow graph of the above program. Label the nodes so that it is clear what statement(s) each node represents. Label the edges in a branch with True or False annotations. [15 points]   Consider a test input where n = 0. Identify from the control-flow graph which nodes and edges are executed and list them. [5 points]   Write additional test inputs to cover the remaining nodes and edges. For each test input, list only the new nodes and edges that are covered with each test. If you feel that a certain edge cannot be covered (i.e., the edge is infeasible), please provide an explanation. [5 points]
+The Great Depression was caused by multiple factors. Which of the following was NOT a factor in the depression?
+Find the equation in slope-intercept form of the line satisfying the conditions. Use the math editor ("Insert Math Equation" as needed on the toolbar) to enter your final answer. Show all work on your paper.m = -9, passes through (-5, 6)
+A pseudoaneurysm is most commonly the result of___
+What two subjects would Aristotle not teach anyone under the age of 28, and why?
+Solve the problem. Round to the nearest hundredth.953 is what percent of 1754?

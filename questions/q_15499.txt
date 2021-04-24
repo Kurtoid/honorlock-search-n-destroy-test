@@ -1,20 +1,20 @@
-Drug and Anesthesia Calculations Your patient is an 2 yo hound mix named Blue. She weighs 56.3 lbs.  She presents to your clinic for a spay procedure. You want to be ready to go once your Dr. arrives, so you go ahead and calculate multiple protocols.  Please calculate your patient's dose  volume (in mL) to draw up in your syringe.  Indicate whether each drug is controlled with a "yes" or "no".  Assume you have access to 20, 10, 6, 3 cc and 1 cc syringes.  (2 pts each)     *Do not include units in your answers (units are displayed after the blanks).                                                   Drug   Dose   Conc.   mL to draw up   Controlled?     Acepromazine   0.03 mg/kg   10 mg/ml     [aceml] ml      [acec]     Buprenorphine   0.015 mg/kg   0.3 mg/mL     [bupml] ml     [bupc]     Dexmedetomidine   0.02 mg/kg   5 mg/ml     [dexml] ml    [dexc]    Ketamine   Ket/midazolam combo: 1 mL/20 lbs Combined (50:50 by vol.)    100 mg/mL     [ketml] ml     [ketc]     Midazolam     Ket/midazolam combo: 1 mL/20 lbs Combined (50:50 by vol.)    5 mg/mL     [midml] ml     [midc]     Carprofen   4.4 mg/kg   50 mg/mL     [carml] ml     [carc]     Propofol   5 mg/kg   10 mg/mL     [propml] ml     [propc]     Penicillin G-BP   30,000 U/kg   300,000 U/mL     [penml] ml     [penc]     Telazol   0.1 ml/10 lbs   100 mg/ml     [telml] ml     [telc]     Atropine   0.02 mg/ml   0.54 mg/mL     [atroml] ml     [atroc]     Calculate your patient's fluid needs and drip rates.  Assume a rate of 5ml/kg/hr. Make sure to include your units. Select the most appropriate choice. (2 pts each)     Total Volume/Hour   Micro Drip Rate (60 drops/ml)   Macro 1 Drip Rate (15 drops/mL)   Macro 2 Drip Rate (10 drops/mL)      [hourlyrate] ml     [micro] drops/ [micro2] sec     [macro15] drops/ [macro152]sec     [macro10] drops/ [macro102]sec       Drip set choice? [dripsetchoice]   (fill in the blank with either MICRO, MACRO1, or MACRO2 Calculate your patient's induction/recovery and maintenance O2 flow rates and reservoir bag size. Circle your final answer.  Assume you are using rebreathing tubes and have 0.5 L, 1 L, 2 L, and 3 L bags available.     Induction/Recovery (4 pts)     [IR] L/min     Maintenance (4 pts)     [M] L/min     Bag Size (2 pts)     [bag] L
-The SOS Company rented equipment for 6 years. The lease was classified as a capital lease. The annual rental cost is $6000. SOS's annual interest cost is 11.0 percent. What is the journal entry to record the lease?  (single correct answer)
-The basic functional subunits of a myofibril are ___________________.
-Which of the following guidelines would improve both blood glucose control and risk of heart disease in a client with diabetes?
-35.  The ________ of a phospholipid molecule will seek water, whereas the ________ of the molecules will avoid water.
-Which of the following structures connects the small intestine to the large intestine?
-What is the medical term indicating a congenital absence of part or all of the ear?
-A _________ is a lasting, general evaluation of people, objects, advertisements, or issues.
-Accidents have multiple causes and this is called the ______________________
-11. Ms. Abbey just found out that she is pregnant. She is 5'4 (1.63m) and states that her usual body weight (UBW) before pregnancy is 130lbs (59.0 kg). How much weight should she gain over the course of her pregnancy?
-The submandibular salivary gland:
-8.) A nurse is observing a laboring patient on an external fetal monitor. You have determined she is in her first stage of labor. On the current evaluation of the strips the nurse notes variable decelerations in FHR. Which is the best interpretation of this finding?
-Each hemoglobin molecule can transport two molecules of oxygen.
-_____  There may be hundreds of items which must be priced.
-37. Population density is BEST defined as:
-What is NOT a key attribute for ideal or "good" product-market segments?
-Which of the following are characteristics of culture?
-19. The radioulnar joint is what type of joint?
-Production of the thyroid hormones (T3 and T4) requires which of the following dietary ingredients?
-The only part of cellular respiration that directly consumes ________ is the electron transport chain.
+Phenylethyl Alcohol  Agar  [1]  selective due to the addition of [2] , and it [3] differential due to the addition of [4]. PEA inhibits [5].
+Describe what symptoms a patient will likely present with when their ABIs are 0.78?
+In terms of professional status, many feel teaching:
+posible
+Match the terms below with the line of code where the item is found (indicated by line number in comment). #include                      //1 void myFunction(int a, int b);    //2 int main(){                                    //3      myFunction(3, 5);                  //4      return 0;                                 //5 }                                                    //6 void myFunction(int a, int b)     //7 {     printf("%dn", a * b);               //8 }                                                    //9
+Merritt College is located in
+A subthreshold stimulus will
+Select the Lewis structure for barium oxide
+An allele W for white wool is dominant over allele w for black wool. The population is in H-W equilibrium.  If the genotype frequency of white wool is .91, calculate the percentage of individuals homozygous for the dominant trait.
+_____________teeth are perceived to be more rounded and translucent
+The Central Limit Theorem states that as the sample size increases, the distribution of the sample ________ approaches the normal distribution.
+To express time, use a ___________ to connect a figure and a word.
+Which of the following is a reason for the rapid growth of the private security sector in the U. S.?
+4. The color in the corals of coral reefs results from ________.
+Which of the following "examines ethical systems to appraise their logical foundations and internal consistency"?
+True or False: In studying AVNRT, the presence of an echo beat will indicate that the next shorter coupling interval is likely to induce the tachycardia.
+Identify the tissue pictured in the slide
+Below are the results from the following question from the New Balance survey. Question: What is most important to you when selecting new cross-training shoes?        Answer   Response Count   %     Price   75   15%     Brand   205   41%     Comfort    110   22%     Style   75   15%     Durability    35   7%     Total   500   100%      What is the central tendency for this question?
+When water is heated, bubbles form in the water. Is this evidence of a chemical reaction? Why?
+Bismarck's main aim in forming the Triple Alliance was to isolate __________ diplomatically.

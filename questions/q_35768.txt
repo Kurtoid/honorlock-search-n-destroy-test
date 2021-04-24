@@ -1,0 +1,20 @@
+A nurse has been working with a family at the community health center and is alert to signs of family violence.  Which of the following would the nurse be most concerned about?
+The Korean War began when ____________ tried to unite both Koreas under communist rule.
+The following grammar represents calculations of logical expressions, where '|', '&', and '!' represents logical OR ( "||" in C), logical AND ("&&" in C), and logical NOT ("!" in C) operations, respectively. Likewise, 'T' and 'F' represents true and false logical values, respectively. calc -> calc lexp ';' | elexp -> lexp '|' lexp | lexp '&' lexp | '!' lexp | '(' lexp ')' | 'T' | 'F' As in C, assume the following operator precedence and associativity:    Name Logic Operator Precedence Associativity   logical not ! 3 right   logical and & 2 left   logical or | 1 left      Write a complete YACC (BISON) specification that calculates the value of a logical expression associated with the grammar above. Use extra nonterminals and productions to enforce the specified associativity and precedence. For each calculation, print "True" or "False" on a separate line.
+Vraag 1 Kies die regte antwoord
+There are three main types of membrane receptors EXCEPT!
+Which organelle is the primary site of ATP synthesis (recharging) in eukaryotic cells?
+Bonus Question (10')   Find the general solution of the system of two linear ODEs
+Skeletal muscle develops from multinucleated cells called
+A woman who has blood type B, has a daughter who is type O. Which of the following is the possible genotype for the mother?
+This trial in Dayton Tennessee occurred when a teacher taught the theory of evolution.
+When you use a _____ select statement, you manually type the statement in the text box.
+?Que hace Lola? Ella ___.
+RNA viruses require an RNA-dependent RNA polymerase to replicate.  Where does the mRNA to code for this polymerase come from?
+The factors that cause variations in estimation are location and time only.
+On cytology, benign neoplasia is often hard to distinguish from _______________, which is a non-neoplastic enlargement of tissues caused by hormonal or antigenic stimulation.
+Suppose you record the price of a house (measured in dollars) and its living space (measured in square feet) for 100 randomly selected houses in Auburn. Your sample contains houses with living spaces ranging from 750 to 3500 square feet. A scatterplot indicates a linear relationship between the two variables. Suppose that the coefficient of determination is 0.78 and the prediction equation is as follows: price = 45000 + 110 space. (a) What would it mean for price and space  if these variables had a negative association? (b) Interpret the coefficient of determination in context. (c) Predict the price of a house in Auburn that has 5000 square feet living space. Comment on the appropriateness to use the prediction equation for this case. (d) What would be the value of the correlation coefficient? Is it an appropriate measure of the strength of the relationship between price and space? (e) Interpret the slope of the prediction equation in context.
+Several digestive enzymes are secreted as zymogens rather than active enzymes.  Why?
+Functional systems are sometimes called functional silos, which means business processes supported by functional systems ____________.
+15.  As discussed in class, cultural competence is an extremely important element in the human services profession. Define cultural competence.  Provide two (2) ways a human service professional can strengthen his/her cultural competence.  Select one article that was discussed in class listed below.  Provide a brief summary of the article.  Explain how cultural competence was or was not implemented in the article selected.    Articles:  Christoffersen, J. (2012, January, 24). East Haven, Connecticut officers arrested, deny  allegations of Hispanic abuse against undocumented immigrants. Latino Politics Florido, M. (2014, January 22). Challenges for Asian American LGBT students. NASPA.
+Time management is an inherent skill that few people can master.

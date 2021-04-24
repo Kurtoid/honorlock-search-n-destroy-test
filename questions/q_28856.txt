@@ -1,20 +1,20 @@
-CIS 376 Exam 2 For this exam, we will build on the example of the grocery list from the class textbook. You can download this file here: grocery_list_js.zip . The exam is broken down in to four steps. Part 1 (10 pts) Simply submit the working class assignment with the correct file structure and properly linked. In the example.html file, you will need to link to the example.css and the example.js file. If you are not able to accomplish any of the other steps, you will at least get 10 points for submitting the linked files back to me. An image of the working page is below.  Part 2 (40 pts) Add a transparent X on each of the items that will be used to remove grocery items from the list. Details:  Theimage is located at: http://www.iconsdb.com/icons/download/black/x-mark-3-24.png Link the image as a background image for a  tag inserted in each list item Style (using the example.css file) and position the  tag with a class and make it 30% (0.3) transparent - NOTE: You must use flex positioning for the layout, any other positioning will lose points   Part 3 (30 pts) Make the X completely opaque when the mouse moves over it. Details:  Use CSS with transitions to fade changes in transparency for the X icons so that when the mouse moves over the X, it is completely visible - Also, change the mouse icon to a hand NOTE: This can be done other ways, but use the transition CSS to change the transparency and not javascript   Part 4 (20 pts) Make the grocery list item disappear from the list when the X is clicked. Details:  Use javascript do something when the X is clicked (create the click event) Use javascript to remove (not hide) the list item from the page  This is a little tricky because the item you want to remove is the parent item of the  that was clicked. Use will need to determine how to select and remove the parent element of the one clicked.      Compress your example.html, example.css and example.js (fine if blank) into a single zip file and upload it to this exam question upload box.
-What is the order of the following data after 3 iterations (i.e. passes) of an ascending (i.e. least-to-greatest) selection sort algorithm?  [78, 4, 57, 5, 20, 45, 86, 54]
-According to Travis and Western's chapter on Poverty, Violence. and Black Incarceration, the correctional philosophy which viewed the time in prison as a time for more punishment was called:
-A plasma membrane can be found in all types of cells
-An elderly  client arrives at the clinic with reports of abdominal pain, nausea, and vomiting for three days. The client states they have only been able to keep down a small amount of water. The health care provider prescribes a urinalysis. Which value for the specific gravity would be consistent with her symptoms?
-The set of observable traits of an organism is known as its:
-In certain instances, it is desirable for specimens to be inoculated directly onto culture media. Specimens for this pathogen can be placed onto a commercial transport system called a JEMBEC system. What pathogen is this?
-Which tumor, as seen in the images below, most closely resembles an ameloblastoma with ameloblast-like epithelial cells surrounding areas that look like stellate reticulum? (A indicates amorphous material, C indicates calcifications, E indicates epithelial cells)       (Study Guide Week 8 Question 7.
-Factors that can affect the quality of dental radiographs include:
-Use the Adjusted Trial Balance for Lion Consulting. On the Balance Sheet, what would is the book value of the store equipment?
-In a simple circular-flow diagram, households buy goods and services with the income they get from
-The organism observed here is
-The client who is taking prescribed lithium carbonate is exhibiting signs of diarrhea, blurred vision, frequent urination, and an unsteady gait. Which serum lithium level would the nurse expect for this client?
-Orange Inc. offers a discount on an extended warranty on its oPhone when the warranty is purchased at the time the oPhone is purchased. The warranty normally has a price of $154, but Orange offers it for $112 when purchased along with an oPhone. Orange anticipates a 60% chance that a customer will purchase the extended warranty along with the oPhone. Assume Orange sells to 1,000 oPhones with the extended warranty discount offer. What is the total stand-alone selling price that Orange would use for the extended warranty discount option for purposes of allocating revenue among the performance obligations in those 1,000 oPhone contracts?
-Which of the following is the most common cause of Diabetes Insipidus?
-Name the 4 phases of perceptual training for the traditional approach.
-For this question, answer it on your work paper. In the box below, type "complete" when finished. Make sure to show all of your work. Suppose Kc= 2.18x104 at 587 degC for this reaction: 6 A(g) +  B (s)    =    C (g) +  3 D (g) a) (6 pts) What is Kp for the same reaction at 587 degC? b) (4 pts) What is Kp at 587 degC for the reaction 3 C (g) +  9 D (g)    =    18 A (g) +  3 B (s)
-Lila Harrison is the sole employee of ABC Grocers. Her gross pay for the week was $400. She had deductions of $50 for federal income tax, $24.80 for social security tax, and $5.80 for Medicare tax. The journal entry to record the payroll includes a
-In order or one to be successful at a given agency, one must know and respect the _______. This can include understanding hierarchies, knowing how the pecking order works, and recognizing how opposing points of view will be handled.
-Before a cell divides, it duplicates DNA in a copying process called
+Your patient's ABI reading was 0.72.  This indicates   ___________________________.
+The planet Jupiter is about 300 times as massive as Earth, yet on its surface you would weigh only about 3 times as much because
+Which type of diabetes is caused by an autoimmune disease?
+While performing an antibody screen, a test reaction is observed that is suspected to be rouleaux. A saline replacement test is done and the reaction remains. What is the best interpretation?
+You need to make a serial dilution of a protein solution as shown in the image below.  The initial concentration of tube 1 is 100 mg/mL.  Tubes 2-7 already contain 1 mL of water before the transfer from the previous tube. What will be the concentration in tube #3?  Show units!
+Microwave ovens are becoming increasingly popular with people who like to cook their own food, freeze it, and later reheat it without additional preparation.
+Which of the following is an effective strategy to use when delivering culturally diverse nutrition counseling?
+Suppose that you try to pick up an object and discover that it is much heavier than you expected.  Which process must occur in the muscle to increase tension so you can pick up the object?
+Which trisomy is common in live births, stillbirths, and spontaneous abortions?
+Statements such as, "Money talks," "That's my car; isn't she beautiful," and "The wind moaned and screeched," are all examples of
+Immediately following a liver biopsy, the patient becomes dyspneic, the pulse increases to 100, and no breath sounds can be heard on the affected side. What should the nurse suspect?
+It is recommended for patients to whiten their teeth when they have restoration in the smile zone.
+The primary function of platelets is
+What are the two starting materials of photosynthesis?
+Extra Credit:  Optional.  No penalty for trying.  UP to 5 points. What does Sic Transit Gloria Mundi mean?
+In this figure, which is older? The granite or the shale?
+In the nephron where is sodium primarily reabsorbed?
+How many weeks interval should a functional cysts be followed up at?
+Here is a sample of three insects collected from turfgrass. List the common name for each of the specimens. 1. [a]           2. [b] 3. [c]     4. [d]
+How is information in the RNA used to make proteins?

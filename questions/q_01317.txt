@@ -1,20 +1,20 @@
-An animal cell is placed into a solution and the cell shrinks. Which of the following is true regarding the solution?
-There are 92 naturally occurring elements. Which of the following elements are considered the most common elements in biomolecules?
-If your audience is expecting to hear from you, and the bad news is not a surprise, what organizational approach will benefit the message?
-The mass of Pluto is 1.46 x 1022 kg and its mean radius is 1.185 x 103 km. What is the acceleration due to gravity at the surface of Pluto?
-An animal cell lacking carbohydrates on the external surface of its plasma membrane would likely be impaired in which function?
-The primer used for DNA replication
-Blood vessels enter and exit from the ________ of the heart.
-To succeed in this course, you have to make sure all assignments and assessments in [blank1] are done in a timely manner.
-Typically, the best place to hold a negotiation is at:
-Describe the 4 stages of perception/social information processing.
-Which layer of the epidermis is made of dead and keratinized cells?
-16.  Which event could lead the patient with a history of seizures to develop status epilepticus?
-The classification of a gland that secretes its' products in vesicles.
-What is the pH of a 1.00 M solution of a weak base that has an ionization constant of  8.8x10-3?
-17. The previous balance on Marsha Brady's account is $75.00. The charges for today's visit were $80.00. Ms. Brady made a payment by personal check of $65.00. The new balance on the account is:
-Use the data from the following method of initial rates experiment to determine the rate law of the reaction, C + D  3B.    Trial  [C] M [D] M Initial Rate (M/s)   1 0.250 0.100 0.036   2 0.750 0.100 0.108   3 0.250 0.200 0.144
-Match the descriptor on the left with the best disorder on the right
-Which radiation treatment technique could be used after breast-conserving surgery?  Brachytherapy one example: Mammosite Supine intact breast irradiation Prone intact breast irradiation Partial breast irradiation to the tumor bed cavity Chestwall tangents with a S/C and PAB field
-Alcohol is considered a ________ because it ________.
-Please answer any five of these questions. I will only grade the first five if you answer more than 5   Describe superior vena cava syndrome - what causes it?
+Connecting your computers or devices to the ________ immediately exposes them to attack.
+Project managers can reduce resistance to change by involving employees in the project plan. In the systems development parts of a project, this is referred to as __________.
+As you link workbooks, the cell reference inserted by Excel each time you click a cell in a workbook results in a(n) ____ cell reference.
+The benefits of physical activity during pregnancy include all of the following except:
+Shore spacing depends on the working load of the shores and the strength of the _____________.
+Use the following code for items 43 - 47. Note that the toString method in Planet references the instance variable name directly. public class SpaceObject {  43  String name;  public SpaceObject(String nameIn) { name = nameIn; }  public String toString() { return "The name of this object is " + name;  } }public class Planet  44  SpaceObject { public Planet(String nameIn) {  45  (nameIn); }  public String toString() { return "The name of this planet is " + name; } }
+In dogs who have ingested grapes, the kidneys can begin to shutdown within....
+The following is one of Kepler's Laws: The line joining a planet to the Sun sweeps out equal areas in equal times.
+A child who cannot take someone else's perspective would be characterized as
+T/F: You should assess an unresponsive person's respirations and pulse rate at separate times.
+During the Renaissance, which of the following generally took precedence in the arts?
+The client with end-stage kidney disease has calcium carbonate (Tums) ordered with meals.  Which of the following statements made by the client understands their treatment plan?
+On March 1, 2020, Peggy's Cafe acquired equipment for $360,000. The estimated life of the equipment is 4 years or 42,500 hours. The estimated residual value is $20,000. What is the depreciation for 2020, if Peggy's Cafe uses the asset 14,100 hours and uses activity-based depreciation method?
+To calculate the labor force participation rate, you only need to know the
+Is the molecule below best classified as aromatic, non-aromatic, or antiaromatic? Explain completely using the two criteria for aromaticity.
+Using IEEE 802.11n channel bonding, the channel size can be increased to 40 MHz.
+Let     be a linear transformation and let
+What is the typical volume of blood for an average adult?
+Testing Instructions and Policies:  A form of government-issued photo ID is required to take the exam. You've been given 2 hours to complete the exam. This is a closed-book exam. Nothing should be in your work space during the exam except a writing utensil, eraser, 6 blank sheets of paper, and a scientific calculator (only TI-30Xa, *TI-30XIIs (recommended), Casio fx-260, Casio fx-300MS may be used). Your room scan in Honorlock must show that your work space satisfies all the above requirements given in step 3. Show your calculator and 6 blank pages of scrap paper front and back to your Webcam before you begin the exam. Websites can't be opened during the exam. Electronic devices can't be used during the exam. No restroom breaks are allowed during the exam. For possible partial credit (full credit will not be given) on any question marked incorrect on the exam, students can submit their worked out solutions to Test 4 Partial Credit Assignment in Canvas by no later than fifteen minutes after the exam has been submitted in Honorlock. Work not uploaded within fifteen minutes after you've submitted the exam in Honorlock will not be accepted.  If any of the testing policies given above or in the syllabus are violated, a score of zero will be given on the exam.
+Given the graph of y=f(x) below,   (a) as

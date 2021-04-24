@@ -1,20 +1,20 @@
-During severe stress, a pediatric body's metabolic rate rises profoundly, thus becoming hypermetabolic. This response to stress involves most metabolic pathways, with accelerated metabolism of the patient's Select all that apply
-List 2 differences between plant and animal cells.
-The features on the PCB surface that allow the automated assembly equipment to locate the circuit pattern accurately are called:
-All of the following are TRUE of a low carbohydrate diet, EXCEPT:
-Which one of the following is not a result of the positive touch of massage?
-In total joint arthroplasty implants, the predominant material used for low friction inserts for bearing surfaces  is  . . .
-Selective Medium will only allow some organisms to survive.
-The requiements for non-metallic sheathed cables "fished" inside a finished wall between access points are found in the .30(B) section of Article __________.
-The wars fought between France and England during the rule of King William and Queen Anne:
-Which organ traps older erythrocytes so they will be removed from circulation?
-This junction type acts as channels allowing adjacent cells to communicate and share substances is called
-What is the result when 518.882 is added to 840.929?
-One method for sketching a(n) ____________________ is to first construct a right angle (square corner).
-Cardiac muscle cells are interconnected to form a network spiral or circular bundles.
-(10 Extra Credit) What is the output of the following program? public class Main {    public static void main(String args[]) {        int arr[][] = new int[4][];        arr[0] = new int[1];        arr[1] = new int[2];        arr[2] = new int[3];        arr[3] = new int[4];        int i, j, k = 0;        for (i = 0; i < 4; i++) {            for (j = 0; j < i + 1; j++) {                arr[i][j] = k;                k++;            }        }        for (i = 0; i < 4; i++) {            for (j = 0; j < i + 1; j++) {                System.out.print(" " + arr[i][j]);                k++;            }            System.out.println();        }    }}
-Jared wants to be a professional singer/songwriter. He performs at open-mike nights, competes in karaoke competitions, and spends the majority of his free time writing and rehearsing.  Jared is responding to his ______.
-Which of the following represents the knowledge representation area for artificial intelligence?
-The nurse is identifying outcomes for a patient with a Fluid Volume Deficit. Which outcome should the nurse use to guide the patient's care?
-The Sepoy Mutiny was partially driven by the British Army
-Choose the correctly spelled term for the physician who specializes in diseases of the blood.
+The mechanism of photophosphorylation is most similar to which of the following processes?
+Which of the following groups of cells is least radiosensitive?
+Over time, the movement of people on Earth has steadily increased. This has altered the course of human evolution by increasing
+Compare and contrast type I and type II Ostertagiasis in cattle using the following characteristics: a) environmental influences (2 points) b) disease severity (1 point) c) presentation/signalment (2 points) d) seasonality within different climates (2 points) **make sure you mention if you are talking about type I or type II as you generate your responses and are discussing points specific to one or the other.
+What is the purpose of the Pap test?
+All of the following are Constitutional symptoms EXCEPT:
+Research suggests that which parental approach may lead to more emotional suppression in children and to lower satisfaction for all members of a family?
+What is diagnostic microbiology?
+What will happen to dye crystals initially placed at the bottom of a beaker of water if left over a long period of time?
+Eli Whitney, in the ________, provided the foundations for ________ in operations management.
+Which is not a function of the heart?
+Name two benefits of a Repeat Analysis Program.
+What is the value of k for this reaction?
+All of the following are true about the importance of water, an inorganic compound, in the body EXCEPT that __________.
+Which structures can be found in the anterior mediastinum?  (1)
+It is generally conceded that the backbone of the police department is the
+All bacteria are called pathogens.
+Jasmine is a social psychologist. Her knowledge and skills might be most relevant for the legal system in which one of these cases?
+Proof A.   1. (R > ~E) > (M > A) 2. (R > O) v A 3. ~A > (O > ~E)  4. ~A                    / ~M
+As the recessive allele frequency increases, the probability of detection also increases.

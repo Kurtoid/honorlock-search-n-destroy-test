@@ -1,20 +1,20 @@
-For the following multiple choice question, indicate the best answer by selecting the corresponding circle.  What is an API endpoint?
-Which is a halogen?
-Only neurons and muscle cells, which are excitable cells show membrane potential.
-(c) Give the value of the SS(Model).  Show work.
-How many molecules are there in 192 g of citric acid, C6H8O7?
-Russian electrical stimulation can be delivered in the modes of co-contraction, reciprocal, and normal.
-Brad Pitt is ______ famous Hollywood actor.
-NUTRITION FACTS for: Susie's Game Day Nature Bar    Calories:     242  * based on a 2,000 calorie diet                                                         % Daily Value*                                                   % Daily Value*    Total Fat 18 g                                       28% Vitamin A                                                0%   Saturated fat: 2 g                                  10% Vitamin C                                                0%    Trans fat: 0 g                                           0% Calcium  30 mg                                       3%    Cholesterol  0 mg                                  0% Iron      1 mg                                            6%    Zinc                                                        10%    Total Carbohydrate 16 g                       8% Sodium  2 mg       Dietary Fiber 2 g                                     8%  Potassium 107 mg    Sugars 11 g  Protein 7 g    In one serving of food, how many calories are contributed by polyunsaturated fat? (Give your response as a whole number of calories.)
-Researchers collected some data to measure the distance between Earth and the Sun.  The distance variable in this study is [a] variable.   Suppose the researchers also collected data on stars using "Stellar classification" - The seven main types are M, K, G, F, A, B and O. This is a classification based on temperature: M stars are the coldest stars and O stars are the hottest. The variable "Stellar classification" would be [b] variable.
-21. A patient with a hip fracture is having difficulty defecating into a bedpan while lying in bed. Which action by the nurse would assist the patient in having a successful bowel movement?
-Identify structure 36.
-Adult cow: This is an image of a liver with a fluke infestation.  Upon migration of this fluke, proliferation of which bacterium results in development of bacillary hemoglobinuria?
-13.  Percy Shelley is responsible for Mary Shelley's creation of Frankenstein.
-For the above image , what of the following is the probable projection and body position?
-The most important impressionist composer we studied in class was
-Please briefly describe the signal pathways and biological consequences of TNFR1 and TNFR2 signaling.
-In which era was this work created?
-Identify which type of sorting algorithm is being employed below:   To sort an array A[0..N-1]:   for (int last = N -1; last >= 1; last --) {   // Move the largest entry in A[0...last] to A[last]   for (int index = 0; index  A[index+1])         {             int temp = A[index];              A[index] = A[index+1];             A[index + 1] = temp;         }   } }
-A company has total fixed costs of $8,000, sales price per unit of $10 and variable cost per unit of $5.  What is the margin of safety percentage if sales are expected to be 2,200?
-Which of the following is characteristic of osteoarthritis?
+The least common multiplier of two integers (LCM) is the smallest integer that both numbers will divide into exactly. For example the LCM of 12 and 30 is 60. Devise an algorithm to determine the LCM of any pair of integers. Draw a flowchart to clearly indicate the logical flow of your algorithm. You should assume the two integers are assigned at the beginning of the program and the answer is printed at the end. The flowchart need not include any function calls. Draw the flowchart by hand including the correct symbols and linkages for all the components: start, stop, statements, loops, and conditionals. After you have finished the test, first make sure upload all your .py and .txt files are uploaded. Then get your phone, scan the drawing, and upload it. You are not allowed to change ANY of your files after you take out your phone.
+A 16-year-old boy is concerned with his acne. Which of the following would best explain to this teen why acne develops?
+Consistent with the direct effects hypothesis of social support, Shelly Gable and her colleagues have documented a  process called capitalization.  This refers to
+The most commonly notifiable sexually transmitted disease (STD) in the United States is
+Which part of the process of slide preparation typically comes immediately after fixation?
+Regarding physiologic testing: Describe normal vs. abnormal PVR waveforms (4 points). Describe normal vs. abnormal CW Doppler waveforms (4 points).
+The following shows one of sheet metal forming processes. (a) What is this called? (b) List at least two advantages of this process.
+List three monosaccharides
+Refer to the following graph to answer the next five questions.  Based on the graph, which point is equilibrium for AD_1 and SRAS_1?
+Phineas Gage was a famous case study in which a normally polite and well-mannered man was transformed into an abrasive and unpredictable individual following a traumatic head injury. Phineas Gage's personality seemed to have been altered dramatically, causing him to be much more impulsive and rude. From these symptoms, which part of Phineas Gage's brain was damaged?
+MATCH THE FOLLOWING TERMS RELATING TO THE LOCATION AND DIRECTION WITH THEIR MEANINGS: PROXIMAL
+Polychaete worms
+Choose the BEST answer.  The following is true with regards to "dead reckoning"
+Philosophers such as Hobbes, Locke, and Rousseau maintained that justice and the state are created through a social contract; this philosophy is called:
+Briefly explain why not all traits have a heritability.
+Installation and use of a pen/trap device requires:
+A company buys a piece of equipment for $48,000.  The equipment has a useful life of ten years.  No residual value is expected at the end of the useful life.  Using the double-declining balance method, what is the company's depreciation expense in the first year of the equipment's useful life?
+The intention or knowledge of wrongdoing that constitutes part of a crime, as opposed to the action or conduct of the accused.
+The Supreme Court in Washington v. Glucksberg, held that Washington's ban on physician assisted suicide was a violation of the individual's right to liberty under the Fourteenth Amendment.
+What is Step 4?

@@ -1,20 +1,20 @@
-. Which of the following is NOT an example of intellectual property?
-Without adequate oxygen, the body's cells:
-The next few questions will be about citing a book.  The name of the book is Reading About America. The authors are Jason Adams and Rashida Smith. It was published by Norton in 1999.  When citing the two authors parenthetically, which is correct?
-21. A woman who has three kids can have a separate style of communication with all three kids and still be a successful communicator.
-Some people say that life today is better than it was 50 years ago. What is your opinion? Be sure to support your opinion with examples, reasons and explanations. Your answer should be at least 300-350 words.
-Before undergoing the transgender process, transgender individuals usually experience gender dysphoria because
-On December 31, 2020, Johnson Co. is in financial difficulty and cannot pay a note due that day. It is a $3,600,000 note with $360,000 accrued interest payable to the lender. The lender agrees to accept from Johnson a tract of land that has a fair value of $1,740,000, an original cost of $1,500,000. The lender also forgives the accrued interest (i.e., the lender  will not collect the $360,000 accrued interests), extends the maturity date to December 31, 2023, reduces the face amount of the note to $1,500,000, and reduces the interest rate to 6%, with interest payable at the end of each year. Johnson should recognize a gain on the restructure of the debt of (NOT including the gain or loss on the transfer of the land)
-Encephalopathy may be caused by:
-All animals have to drink water.
-Unlike Medieval music, music of the Renaissance is very polyphonic.
-The database that stores DNA profiles is:
-2. Don't you like Accounting?
-Which of the following elements is part of the fire triangle?
-Imagine that a researcher found the more students exercised, and the more energy they need. Thus, the correlation between exercise and energy requirement is_______.
-Round your answer to the nearest tenth. Include appropriate labeling with each numerical answer. Examples of appropriate labeling of numerical answers are tablets, capsules, mL, mL/h, gtt/min, mcg/kg/h, mcg/kg/min, mcg/min, units/min, mg/min, and units.Nesiritide is ordered to infuse at 0.01 mcg/kg/min for a patient with congestive heart failure. The nesiritide is available in a 1.5 mg/250 mL D5W concentration. How many milliliters per hour should the nesiritide infuse for an 80-kg patient? ________________
-Problem 8 (15 pts)  A survey asked 100 students if they are taking Mathematics, English, or a foreign language in school.  Based on the survey, they found that 61 students took Mathematics, 50 students took English, 42 students took a foreign language, 30 students took both Mathematics and English, 20 students took both Mathematics and a foreign language, 15 students took both English and a foreign language, and 12 students took all three. How many students are taking a foreign language class but not a class in Mathematics nor English? (Hint, use a three way Venn Diagram to find this)
-Production of bilirubin occurs in the __________, and conjugation of bilirubin to glucuronide occurs in the _____________.
-Which of the following is a guideline for creating an effective informative speech?
-Evaluating proposals objectively according to their merits helps to avoid reactive devaluation.
-Please choose the part of the plot structure that this event is most likely to fit into; only one is correct. Introduction to the setting and characters of the work.
+For each of the following questions, indicate what will be printed to the Python shell when the code is executed. If the code produces a runtime error, type "Runtime Error". Do not include quotes around strings when they are printed.  def fromMeToYou():    myList = ["roses", "red", 3, "violets", 4]    for index in range(len(myList)):        if type(myList[index]) == int:            myList[index] += 2        else:            myList[index] = myList[index][0]    print(myList)print(fromMeToYou())
+Which of the following in-text citations is correct?
+We have a record of Beethoven's struggle with his musical material because he did what?
+Convert the hexadecimal number 9EB2 to an 16-bit binary number.
+Choose one of the following to answer:   a. What is span of control?  Briefly present three factors that may affect what is a manageable span of control at a given supervisory level (indicate, holding other factors constant, whether or not increases in the given factor presented tends to increase or decrease what constitutes a manageable span of control at a given supervisory level). OR b. Present a hypothetical, realistic organizational performance/effectiveness issue in either a public sector or nonprofit agency where some aspect emphasized by the Classical Administrative Management perspective plus providing for some form of worker participation (in the spirit of Human Relations/Human Resources) might both help address the situation.  Explain your answer. (Note: you may use a scenario presented in the Modules if it is relevant to this question).
+From which body region would you expect to isolate Clostridium, Bacteroides, and other anaerobic genera?
+On a motion for a new trial, in addition to serving and filing a notice of motion and supporting affidavit, the moving party shall serve and file
+In addition to its effects in milk production, prolactin plays a role in
+A synergist is
+Which of the following hormones will DECREASE blood pressure?
+What condition is due to when pressure builds up in anterior chamber of the eye; causes peripheral blindness
+What is another name for remnant radiation?
+The test most commonly used to distinguish a colony of Staphylococcus from Streptococcus is:
+How does a theatrical performance differ from a filmed performance?
+What quality gives rise to tonotopy along the cochlea?
+IN AN  ECCENTRIC CONTRACTION THE MUSCLE LENGTH  ________________
+Each triplet of bases in a gene corresponds to
+The type of magnification used on an ultrasound system that creates a smaller field of view being rewritten into memory, with a smaller pixel size maintained, is known as ___ magnification.
+I understand that I am to do my own work for this quiz. I CAN access content on d2L and use my notes but I CANNOT search for any outside information during the quiz. I understand that my phone must be off during the quiz and I must stay in front of the camera the whole time.
+With too little carbohydrate flowing to the brain, the body shifts to a mode of metabolism in which it uses fat products, known as ketone bodies, for energy in place of some of its glucose. This is known as ketosis.

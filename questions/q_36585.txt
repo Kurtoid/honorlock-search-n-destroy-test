@@ -1,0 +1,20 @@
+Lactose, Maltose and Sucrose are all three
+What is the asymptotic time complexity of this function?     let rec what1 xs =        if List.length xs = 0 then "even"        elif List.length xs = 1 then "odd"        elif List.length xs = 2 then "even"        else what1 (List.tail (List.tail xs))
+Prokaryotic and eukaryotic cells are roughly the same size and complexity.
+For a process where q=20 kJ and w=15kJ in a system, which of the following statements is true?
+A sample of H2 gas was expanded from 1.0 L to 2.0 L at the same pressure. The initial temperature is 5.0 degC. What is the final temperature? (K = degC + 273.15)
+What best describes a converging circuit?
+________________________ is a form of arthritis more common in men and typically affects the joint at the base of the great toe.
+A variation of a gene is called a(n) _______.
+How many Standard Streams are there?
+Le Chatlier's principle is usable only with reactions that are.....
+Which body composition method also assesses bone density?
+The average American laborer in the late 19th, early 20th centuries faced unsafe working conditions, low pay, and long hours.  In spite of these problems, most laborers did not join the few labor unions that existed at that time.   Identify THREE reasons why most American laborers chose not to join a labor union in the late 19th, early 20th centuries.
+mylyvn
+A severe iodide deficiency during early pregnancy may result in an infant afflicted with __________.
+"The Last Duchess"What aspects of the Duke's personality are revealed in his keeping the painting behind a curtain? What aspects are revealed in his being the only one allowed to draw the curtain?
+Which chamber of the heart receives oxygenated blood from the pulmonary circulation?
+In the part of the renal medulla closest to the cortex, the osmolality of the interstitial fluid is ~300 mOsm.  Deeper into the medulla, the osmolality of the interstitial fluid is ~1200 mOsm.  This medullary osmotic gradient allows the kidneys
+Which of the following would tend to increase your speech anxiety?
+In which site do lymphocytes become immunocompetent?
+A drug that binds to the tubulin heterodimer in a plant cell and prevents the cell from assembling a mitotic spindle would most likely cause which of following?

@@ -1,0 +1,20 @@
+Which image (1 or 2) matches the positioning of the patient seen above?  What is the name for the view seen in the positioning of the patient?
+Which of the following is a deep vein of the forearm?
+Consider the following table that represents part of the memory of a 16-bit address space that has an addressability of 2 bytes (like LC-3):    ADDRESS CONTENTS   ... ...   0x0C10 0101 0010 0111 1011   0x0C0F 0000 1000 1100 1101   0x0C0E 1010 0101 0000 1101   0x0C0D 0110 1010 0001 1111   0x0C0C 0111 0000 0101 0100   0x0C0B 0000 1100 0000 1101   ... ...    The table above shows the addresses in hex (base 16) and the contents at the corresponding address in binary (base 2). A.) Interpret the contents at address 0x0C0C as two ASCII characters. [ascii] B.) Interpret the contents at the same address as A.) above as an unsigned integer. [unsigned] C.) Interpret the contents at address 0x0C0E as an LC-3 instruction to determine the operation.(Enter either ADD, JMP, LDR, or OTHER if it is not one of the first 3) [instr1] Recall that a "pointer" is a memory location that stores an address. We call it a pointer since the address it stores "points" to another memory location. D.) Interpret the contents at address 0x0C0B as a pointer.(Enter hex like the following example: 0x2A3F) [ptrvalue] E.) What are the contents of the memory location that the pointer above is pointing to?(Enter hex like the following example: 0x2A3F) [ptevalue]   REFERENCE: Partial Table of Hex to ASCII Characters:  20 sp 30 0 40 @ 50 P 60 ` 70 p 21 ! 31 1 41 A 51 Q 61 a 71 q 22 " 32 2 42 B 52 R 62 b 72 r 23 # 33 3 43 C 53 S 63 c 73 s 24 $ 34 4 44 D 54 T 64 d 74 t Table of LC-3 Opcodes in Hex:  ADD 0x1 JMP 0xC LDR 0x6
+Antigenic variation contributes to a bacteria's evasiveness by
+The covariance matrix of the l-step ahead forecast error converges to the covariance matrix of yt as l increases.
+Which of the following is TRUE about group polarization? After a discussion, a group _____________________________.
+The term rhabdomyolysis is defined as ______________ of striated muscle.
+Letter E on the radiograph below is pointing to what joint?
+Adult sponge bodies are aggregations of one cell type.
+Identify the section plane (cut) in this image.
+Which of the following places is the LEAST likely to have a dense human population?
+For this quiz, the following information is provided:  Periodic Table  Ions to Know  Solubility Rules   Formatting instructions for answers typed into quiz textboxes:   If subscripts or superscripts are needed, use the subscript, T2 or superscript, T2 buttons.  If the wrong one is displayed in the menu bar, click the down arrow next to it to choose the other one. Click on the button to turn it on, then click on it again to turn it off.   For numbers in scientific notation, you can use E or the superscript button, T2.  So, either 1.5E9 or 1.5x109. If you need to make a textbox larger, grab and drag the dotted triangle just outside the bottom right corner.
+Which of the following is an assumption of neoclassical economics?
+A 113 kg block sits on a horizontal floor.  The coefficient of static friction between the block and the floor is 0.37 and the kinetic coefficient of friction is 0.25.  What is the minimum force acting parallel to the floor necessary to start the block moving?
+Which of the following groups is an intended user of managerial accounting information?
+A cosmetics company is expanding its marketing presence by placing stores within a national department store chain. The cosmetics company hires its own store managers who are responsible for generating sales. The company pays rent per square foot to the department store. For the purpose of assessing the managers' performance, each cosmetics store would most appropriately be considered a(n)
+When done effectively, _________ is what really makes learning "stick."
+A _________ is an integer value used for signaling among processes.
+True or False?: A significant amount of motion occurs at the carpometacarpal joints of the wrist.
+In the early days of x-ray usage:

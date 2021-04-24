@@ -1,20 +1,20 @@
-What type of clouds will be formed if very stable moist air is forced up slope?
-IgG antibodies can cross the placenta.
-2.4   We have famous monuments in my town.   (1)
-Briefly explain whether and how advertisements using a sex appeal can be effective with men, how varying degrees result in different outcomes of persuasion, and the differences in effects on women versus men with the use of sex appeal in ads.
-The process by which a stimulus increases the likelihood that the preceding behavior will be repeated is called:
-Antigenic ________ is a major change in virus antigens due to gene reassortment in which two or more different strains of a virus combine to form a new subtype.
-Will Martin are looking at company's health care options and trying to determine what their taxable will be if they sign up for the qualified cafeteria plan offered by the company, which will allow them to deduct the health care contributions pre-tax.  Will is single with 4 exemptions earning $1,850 per semimonthly payroll.  His employee contribution to health care that is subject to the cafeteria plan is $160.00. What is Will's taxable income if he declines to participate in the cafeteria plan and what is Will's taxable income if he participates in the cafeteria plan?
-Cranial neuropore typically closes by day _____.  Failure to close may result in_____.
-Which of the following is an example of a programmed decision?
-Code-Reading, Part 1. Please read the code sample carefully before answering the next two questions. You may assume all classes are properly imported. class TestFrame extends JFrame{    JCheckBox checkBox1, checkBox2;    JPanel panel;    public TestFrame(){        Box outerBox = Box.createHorizontalBox();        Box[] innerBoxes = new Box[3];        checkBox1 = new JCheckBox("Check Box 1", true);        checkBox2 = new JCheckBox("Check Box 2", false);        for (int i = 0; i < innerBoxes.length; ++i){            innerBoxes[i]=Box.createVerticalBox();            outerBox.add(innerBoxes[i]);        }        innerBoxes[1].add(Box.createVerticalStrut(30));        innerBoxes[1].add(checkBox1);        panel = new JPanel();        GridLayout layout = new GridLayout(3, 3, 5, 5);        panel.setLayout(layout);        panel.add(new JLabel("Label A"));        panel.add(new JLabel("Label B"));        panel.add(checkBox2);        innerBoxes[2].add(panel);        add(outerBox);        checkBox1.addItemListener(new ItemListener(){            public void itemStateChanged(ItemEvent e){        checkBox2.setSelected(!checkBox1.isSelected());            }        });    }}
-In the context of the history of American business, which of the following statements is true of the industrial revolution?
-Name structure labeled "B".
-The client has been diagnosed with severe liver failure secondary to sepsis. The nurse knows that the client is at an increased risk for developing which of the following? (Select all that apply)
-4. Who is considered the "father" of behaviorism?
-The Council of Trent, influenced by the music of ____________, decided to retain polyphony in the Mass.
-Which of these has the greatest entropy?
-Based on the below figure, which of these experimental treatments would increase the rate of sucrose transport into a plant cell? 1H pump.png
-In the diagram to the left of this tall building the forces shown represent Gravity Loads.
-The concept that contemporary researchers term "credibility," Aristotle termed
-(               ) involves the contractor working with the owner (or through the owner's architect-engineer) to arrive at a mutually acceptable price for the construction of the project. It often involves negotiations back and forth on materials used, sizes, finishes, and other items which affect the price of the project.
+By the 10th week of life, _____________ is controlled by the hypothalamus and controls the two gonadotropins___________ and _________.
+A woman is at her first prenatal visit and is angered at being tested for chlamydia and gonorrhea as she's been married for two years.  The nurse's best response is
+A nurse is providing an educational session on the risk factors of cancer to the women in a local community. The nurse is discussing potential carcinogens that place the women at higher risk. Which option would not be included in the discussion?
+In ECDM, (lower/higher) _________ machining voltage results in better machining quality.
+The ratio level is the weakest level of measurement.
+A pregnancy test is done on a client's first prenatal visit. The nurse knows that the presence of which of the following hormones could indicate pregnancy?
+Matt has an IQ of 65 and cannot do schoolwork. He lives on the streets, survives by begging, is usually dirty, and is always hungry. He would MOST likely be diagnosed with:
+Pain is a sense associated with the conscious awareness of  _____.
+A compound with the molecular formula C6H12O6{"version":"1.1","math":"C6H12O6"} is most likely a
+Match the number with the correct term
+Virulence factors can include:
+Probationers have general conditions of probation that they must meet. Which of the following conditions is NOT a general condition of probation?
+Aubrey wants to rent out her apartment. She puts an ad in the newspaper and says everyone can apply for a rental application except for mentally ill people. Has Aubrey violated the Fair Housing Act with her ad?
+STOP!!! If you are turning in your paper work (recommended!), scan your work PRIOR to submitting your test and exiting Honorlock. I MUST be able to see you scan your work while still on camera. If possible, upload the work to the Canvas dropbox prior to closing Honorlock as well (by using the Canvas Student app on your device). If that is not possible, make sure the upload is completed within five minutes of your test submission.
+Benefit plans, including health insurance, life insurance, and fringe benefits such as membership in company athletic or health clubs after retirement, should be considered in the retirement planning process.
+___________helps the motility in sperm and the ability of the sperm to penetrate the egg.
+Which statement by the client indicates that he has an accurate understanding of home self-care of his tracheostomy?
+Which characteristics correctly describe a proton?
+In determining whether a person is an employee or an independent contractor the courts look at the following factors
+Define     A. Inter B. Intra

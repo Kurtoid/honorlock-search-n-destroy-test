@@ -1,0 +1,20 @@
+Identify region "B"
+First, design on scratch paper the logic circuit corresponding to the following logic expression: X = NOT(NOT(B) OR C OR D) AND (D AND NOT(C) AND A) Do not simplify the expression and only use the following gates (with at most 2 inputs):  Now that you have implemented the logic circuit for the expression, examine the parts below showing the four inputs A - D to the expression, logic gates (some already connected) with their inputs I0 - I9 and outputs O0 - O4, and the output X of the expression:  Your task for this question is to wire up all of the parts above to implement the logic circuit for the expression guided by your design. Select from the dropdown boxes the appropriate wire connections, but be careful since order matters. For example, if the input for I0 , I1 , I2 is chosen to be A, O1, C then this ordering means that I0 is connected to A, I1 is connected to O1, and I2 is connected to C. What is the input for I0 , I1 , I2? [r1]What is the input for I3 , I4? [r2]What is the input for I5 , I6? [r3]What is the input for I7 , I8? [r4]What is the input for I9? [r5]What is connected to X? [r6]
+81. Of all the medications that can be given for PPH, the primary one that is given first, especially if there is an IV, is: _________________________.
+Case Analysis Scenario for questions 6 - 9 is  Astor Lodge and Suites, Inc.   What five specific recommendations would you propose Kelly Elizabeth? To complete this question, list five specific recommendations and then justify each recommendation with comprehensive details (two to three sentences for each recommendation). (Please type clearly and include as much supporting detail as possible).
+Under the ASBPA's Rules of Professional Conduct, which of the following would not be considered an attest service?
+In how many hours does it take for the diaphragm to lose 50% of the contractile proteins (atrophy) when there is no activity?
+Cow's milk should be introduced at _________ of age.
+For each statement below , indicate which type of muscle (Fast twitch or Slow twitch) best matches the statement.
+Polyoxins are used to treat _________ because it targets chitin synthesis.
+From an information economics perspective, which of the following was discussed in class as Nucleon's worst option for Phase I/II manufacturing?
+No puedo creer _______ dices, porque es una locura.
+For Avian influenza virus, a member of the Orthomyxoviridae, indicate INCORRECT statement
+The pentose phosphate pathway produces all of the following except:
+Most people are good listeners.
+ID LAYER indicated by the arrow.
+You obtained four sample results for the bacterial transformation experiment. Consider the image below and select the plate that correctly matches the image result, as shown below.
+Effective retail training programs should include all of the following except:
+The wall of the trachea is supported by 16 to 20 C-shaped hyaline cartilages.  Adjacent cartilages are connect by ________ to allow for elongation during inspiration.
+Production of a grainy, reticulated image that cannot be corrected in digital post processing is the result of:
+Treatment modalities for the management of a patient in cardiogenic shock include all of the following except:

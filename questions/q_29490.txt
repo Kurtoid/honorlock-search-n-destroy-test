@@ -1,0 +1,20 @@
+Which of the following is not a digestive function?
+Cholesterol is an important part of human cell membranes and necessary to make some hormones.
+One of the reasons for why women outlive men is that:
+On the borders of France, Napoleon created kingdoms ruled by either his family members or trusted generals while Napoleon himself
+In science, when a hypothesis or group of hypotheses supported by repeated experimental evidence holds true through time, it can be developed into a ________.  It is not a guess. It is not static. It is tentative and dynamic and can be adjusted when new, compelling evidence is discovered. It is typically an overarching explanation that best fits all of the available information or evidence.
+"Prices and wages should be determined by the marketplace." The author of this statement would most probably support
+If the central ray of the x-ray beam is not centered on the film sensor, a partial image will result on the film sensor, which is called a(n):
+Malfunction of ____________ cells in the stomach could lead to anemia induced by a vitamin B12 deficiency.
+Complete the code (indicated by keyword "TODO") to simulate the collision between the two balls using a posteriori methods. (copy/past is allowed now) int sx1 = 1;int sy1 = -1;int sx2 = -1;int sy2 = -1;int radius = 10;int x1, y1, x2, y2;color c1 = color(152, 45, 70);color c2 = color(50, 112, 225);void setup(){   size(200, 200);   background(180);    x1 = radius;   y1 = height - radius;   x2 = width - radius;   y2 = height - radius;    smooth();   noStroke();}void draw(){   background(180);    // TODO: move two balls using posteriori method          fill(c1);    ellipse(x1, y1, radius, radius);   fill(c2);    ellipse(x2, y2, radius, radius);}
+Work-Adjustment Theories usually focus on:
+How many significant figures does the number 10.00 have?
+Guglielmo Marconi is credited with creating FM radio.
+Given database schema: Faculty (fid, name, tenured, dname, salary)Department (dname, phone_number, number_of_faculty)Course (fid, dname, semester, cname) Write a trigger in SQL for the following statement: When a faculty is inserted into or deleted from the Faculty table, adjust the number of faculty in the Department table.
+What organelle contains the chromosomes?
+38. Which nerve has motor fibers that transmit impulses to muscles associated with speech, swallowing and the heart?
+Which of the following is true regarding the radiographic examination of the breast?1. Imaging the posterior breast tissue is critical.2. Use adequate compression to produce a uniform breast thickness.3. Perform positioning of the breast consistently so that lesions can be accurately localized.
+Name the cell shown.
+We discussed in class that the ratio of TDN: CP should be greater than 7 for using non-protein nitrogen in the diet. Please explain why?
+The term used for the process of ingestion and digestion by cells of solid substances, e.g., other cells, bacteria, or foreign particles is:
+What is meant by "working memory"?

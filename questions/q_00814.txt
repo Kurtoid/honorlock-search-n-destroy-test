@@ -1,20 +1,20 @@
-In the figure shown below, the work done by a conservative force along the path AB is 15 J, and the work done by the conservative force along BC is -5 J. What is the work done by the force along the path CDA?
-Ideally, the distal tip of a properly positioned endotracheal tube (in an adult man) should be positioned approximately how far above the carina?
-Which of the following provided most of the money raised by the Continental Congress for the Revolution?
-Which is the best test for diagnosing of Dirofilaria immitis (canine heartworm)?
-Refer to the image below.  In the blank area below the image, type the following:   A: bone marking name B: bone marking name C: bone marking name You MUST type "A, B, C... etc" before each individual answer to get full credit.  For bone marking names, you do NOT need to give the name of the bone that the marking is on; you only need to give the name of the bone marking itself.  You do need to give full names, however, to get full points.  For example, "olecranon" will only get you partial credit; "olecranon fossa" will get you full credit. Do your best with spelling.  Words spelled poorly will not receive full credit if instructor cannot identify the term based on how it is spelled.  Ignore the black lines that are not associated with a letter.  Each name is worth 2 points.
-What is the total fluid intake in mL/kg/day of a preterm infant weighing 1.2 kg receiving only IV fluid at a rate of 6 mL/hr?
-2.4   What is a mantle plume?   (2)
-Write a function called shoppingList() that takes in a dictionary representing items in your fridge and a list of strings representing your shopping list. Each key in the dictionary is a vegetable (str) and its value is the quantity of that vegetable that you already have (int). The function should return a new list that contains all the items from your shopping list that are not already in your fridge or that have a quantity of 3 or less.  Note: You must use try/except for this question  Example Output #1:  >>> fridge = {"carrots": 10 , "beet": 5, "potato": 6}>>> myList = ["broccoli", "beet", "spring onions", "pea"]>>> shoppingList(fridge, shoppingList)["broccoli", "spring onions", "pea"]  Example Output #2: >>> fridge = {"broccoli": 3 , "carrots": 2, "brussels sprouts": 5, "potato": 4}>>> myList = ["onions", "brussels sprouts", "potato", "beet", "pea", "broccoli"]>>> shoppingList(fridge, shoppingList)["onions", "beet", "pea", "broccoli"]
-Which of the hormones below is responsible for facultative water reabsorption?
-The _____ is also known as the "law of unintended consequences" and states that it is impossible to change one variable in an integrated system without influencing others.
-Which chemical is used in acid etchant?
-Use the Limit Comparison Test to determine whether the series is convergent or divergent by filling in the blanks.
-The force that blood places on the inside wall of a blood vessel:
-These maple leaves all came from the same tree. What best explains why they are different colors, sizes, and shapes.
-Linking events to a story nucleus is....
-A client suffered a left-sided CVA. He cries easily and has started cursing at staff members and family. His wife tells the nurse, "My father had a stroke and he never acts like my husband acted - cursing and crying." The nurse's best response would be:
-Which of the following is an example of a closed serial motor skill?
-Early identification and treatment of reading disorders is possible. What is the strongest predictor of a reading disorder at age 5?
-Given the following characteristics, which group of plants is described?Nontracheophytes producing spores, thallus covered with pores for gas exchange, surface tissues lack cuticle, sperm swim to fertilize egg
-Which two cell organelles are thought to have evolved in eukaryotic cells, according to the endosymbiotic theory?
+When assessing a patient with a head injury, the nurse recognizes an early indication of increased intracranial pressure by which symptom?
+Find the number of zeros of f(x) = x8 + 5.It has   zeros.
+1. Discuss how the concept of markedness is related to the idea that certain identities "go together". Use at least 2 examples to illustrate your point(s).
+What type of energy is used when performing a "transmyocardial revascularization"?
+In order to tape an extremity which of the following positions would be ideal?
+Prepare a table that calculates and summarizes the expense AND ending liability associated with the SARs for each of the four years.
+A firm is considering two independent projects A and B. The firm, which has a 12% cost of capital, has estimated the cash flows from each project as shown in the following table:       Year   A   B     0   -$600   -$800     1   700   0     2   150   100     3   150   1,500        Calculate the NPV of each project, and assess its acceptability. Show all work. Calculate the IRR for each project, and assess its acceptability. Show all work. What is the cross-over rate? What is your recommendation to the firm? (Please be specific and use the cross-over rate in your answer).
+The graph of the function  is given in the figure. Answer the following questions:  Evaluate
+Bonus Which of these muscles produces lateral rotation at the hip?
+Children who can count successfully orally, but do not understand that the last word stated is the amount of the set are not demonstrating what principle?
+Which of the following tissues is characterized by the fewest embedded capillaries?
+Marx's end goal is a _________________ society where "class distinctions have disappeared and all production has been concentrated in the hands of a vast association of the whole nation."
+When we speak of descent through such cultural backgrounds as Irish, Italian American, Russian, Jewish, and Serbian we are actually discussing
+In a two-slit experiment, the slit separation is 3.80 x 10-5 m. The interference pattern is recorded on a flat screen-like detector that is 2.00 m away from the slits. If the seventh bright fringe on the detector is 10.0 cm away from the central fringe, what is the wavelength of the light passing through the slits?
+Which statement about bacteria is TRUE?
+The inventory cost flow assumption that is least likely to math the physical flow of inventory for most companies is:
+It is legal to assign a variable of a parent class to a variable of one of its declared subclasses.
+The patient was admitted to the hospital with SVT. The heart rate has come down to 120 bpm from 200 bpm.  The MD orders the patient to receive Cardizem at 5 mg/h and titrate to keep the heart rate below 120.  The 25 mg Cardizem is mixed in 100 ml of NS.  The nurse should set the pump to run at
+I understand that once I begin the quiz, I CANNOT access any websites or other applications  (except the Excel file linked from WITHIN this exam), either on the computer from which I am working or a secondary device. I also understand that I CANNOT communicate with anyone else, either in person, via text or other electronic communications. Violation of any of the above will result in a minimum 20 point penalty, up to forfeiture of ALL points earned.
+If an individual decides to perform a closed chain exercise such as standing up out of chair. The person would dorsiflex his or her foot as they perform the exercise. What joint allows for this motion to occur? Based on the concave on convex surface rule, describe which of these segments are fixed along with which one is moving. Be sure to list the movement direction of the given segment as well. (5pts)

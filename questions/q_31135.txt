@@ -1,0 +1,20 @@
+3.10   Gee die meervoud van die onderstreepte woorde:   As julle jul liggaam [antw1] oefen en julle program [antw2] volg, gaan julle gespierde lyf [antw3] kry.   (3)
+A custom lithography shop has 5 machines that can complete the average order in 2 days. Customers arrive at a rate of about 1.5 per day.  The machines break down at a rate of about once every 10 days.  The shop employs one tech to fix the machines and he can repair one in about a day. On average how many machines are operating at any given time in the shop (most nearly)?
+Identify the indicated structure  in BLUE (include right or left). I
+The nurse teaches a patient about vaccines. The nurse would evaluate the patient as understanding the presented information if the patient states that a vaccine provides which of these types of immunity?
+When does hyperventilation usually occur?
+This is an extra "upload question". ONLY use this if a previous question was missing or faulty. If you do upload an answer here, please number it clearly and according to the relevant question number.
+Which of the following was a major religious center for the Christian Church?
+What physiological phenomenon associates erythroblastosis fetalis with HDFN?
+A bicycle is traveling north at 5.0 m/s. The mass of the wheel, 2.0 kg, is uniformly distributed along the rim, which has a radius of 20 cm. What are the magnitude and direction of the angular momentum of the wheel about its axle?
+Extend the interp function for function application of iszero to a number. Be sure to handle the case when it is not applied to a number. let rec interp = function| NUM n -> NUM n| ERROR s -> ERROR s| BOOL b -> BOOL b| APP (e1, e2) ->     match (interp e1, interp e2) with    | (ERROR s, _) -> ERROR s    | (_, ERROR s) -> ERROR s
+Epithelial cells are the source of 80-90% of all cancers.
+Mitosis results in the formation of which of the following?
+A client has a radium implant in place for cervical cancer. The nurse enters the room and notes that the implant is on the floor. What is the nurse's action?
+From the picture of the leaf, what does A represent?
+For which of the following dosage ranges would a dosage discrepancy be the most significant?
+Which type of reticulocytes are counted in the cat?
+Which of the following is associated with the "flight-or-fight" reaction?
+On July 1 the Fisher Shoe Store paid $24,000 to Acme Realty for 6 months rent beginning July 1. Prepaid Rent was increased for the full amount. If financial statements are prepared on July 31, the adjustment to be made by the Fisher Shoe Store is:
+Wich of the answer choices below does not describe a function of the bones?
+The pH value

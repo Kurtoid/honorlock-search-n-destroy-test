@@ -1,20 +1,20 @@
-Name the Orientation Specialist you will be working with during this summer.
-Elevated levels of alpha-fetoprotein (AFP) in non-pregnant adults may be seen in some cases of:
-A word, concept, or idea that causes the listener to react emotionally is called:
-A person standing near a railroad track hears a tone from an approaching train at 850.4 Hz.  The train is moving at 5.76 m/s and the speed of sound is 344 m/s.  What pitch (in Hz) will he hear after the train passes him by?
-What component of the SSD architecture/design make it effective for detecting tumors of varying sizes in medical images of tissue samples? a.  feature extraction combined with logistic regression b.  a system of CNNs that include a generator and a discriminator c. incorporating multi-layer information in a single forward pass d. All of the above
-V = 12 V C1 = 4 pF C2 = 1 pF C3 = 4 pF C4 = 1 pF    Sort the capacitors according to the amount of charge on them, from highest to lowest. [4 points]  Find the equivalent capacitance of the circuit. [6 points]
-Which of the following countries is NOT divided into territories controlled by different rebel and government factions?
-A pen register is used to:
-The coiled tube atop each of the testes that provided for storge, transit, and maturation of sperm is(are) the
-This common mushroom belongs to the phylum ________________________.
-A 7-year-old client is brought to the E.R. He's tachypneic and afebrile and has a respiratory rate of 36 breaths/minute and a nonproductive cough. He recently had a cold. From his history, the client may have which of the following?
-What is "typicality?" (1) Define what typicality is (1 pt) (2) Briefly describe the 3 ways we can measure typicality effects in Cognitive Psychology (1 pt each; 3 pts total)
-A medical assistant who is rude to a patient after having a fight with a co-worker is using which defense mechanism?
-A patient with end-stage cirrhosis develops severe vomiting.  This patient is at risk for what complications?
-Identify and describe one of earth's orbital parameters that varies over time and identify how it impacts climate.
-Name the red structure [structure].
-Use the following data to answer problems.                 10, 12, 15, 18, 18, 21, 24, 24, 26, 27, 28, 30, 34, 39, 51, 58   a. Determine the lower and upper quartiles. Lower quartile is [lower] Upper quartile is [upper] b. Identify any outliers. List of outliers in data [outliers]
-What term describes the period when all four valves of the heart are briefly closed, ventricular pressure is building, but is not yet great enough to open a valve?
-Choose the number sequence that shows the correct sentence order. I am going with him to eat after class, do you want to go? 1 Yi Hou  2 Chi Fan  3 Xia Ke  4 Yi Qi Qu  5 Ni Qu Bu Qu  6 Wo Gen Ta
-The Judiciary Act of 1789 established which kind of legal system?
+Pancytosis is a prominent feature of which of the following disorders?
+Acceptable feed conversion (i.e. pounds of feed to produce a pound of body weight gain or kilogram of feed per kilogram of body weight) for commercial broilers today is:
+In a reverse fault, the:
+When a parent punishes his or her child too harshly and then claims that it is "for the child's best interests," the parent is using ________.
+A teenager arrives by private car. He is alert and ambulatory, but this shirt and pants are covered with blood. He and his hysterical friends are yelling and trying to explain that that they were goofing around and he got poked in the abdomen with a stick. Which of the following comments should be given first consideration?
+Given database schema: Faculty (fid, name, tenured, dname, salary)Department (dname, phone_number, number_of_faculty)Course (fid, dname, semester, cname) Write a trigger (one trigger command) in SQL for the following statement: When a new record is inserted into Faculty, if the department does not exist in the Department table, then insert a record into Department with the same department name and the phone number equal to null. Additionally, when a record is deleted from Faculty, if the faculty member is tenured, then raise an error (use RAISE_APPLICATION_ERROR(-10000, 'error')).
+When can the TDLR inspector inspect
+The concept known as "connect" means relating a text to something you have read, seen, heard, or experienced.
+The nurse is reviewing client medications and lab values. Which client is most likely to be taking potassium supplement?
+Automatic External Defibrillators (AEDs) can be vital in a health fitness club setting in order to save lives. One example of this is the survival rate from a cardiac event when an AED is utilized. If an AED is used within the first five (5) minutes of collapse, what is the estimated survival rate from a cardiac event?
+You have sealed the open chest wound of a 40-year-old male who was stabbed in the anterior chest. Your reassessment reveals that he is experiencing increasing respiratory distress and tachycardia, and is developing cyanosis. You should:
+Andrew Jackson led American troops into Florida in 1818:
+Which of the following physical features is highlighted on the map below?
+Generalist Social Work Practice addresses the person within their environment.
+The ____________ is a single infinitive phrase that states precisely what a speaker hopes to accomplish in her or his speech.
+The following image most likely represents
+Which element has the greatest magnitude of electron affinity?
+An adult patient with ARDS is being ventilated with VC-CMV. The settings are: f = 14 breaths/min; VT = 375 mL; PEEP = 16 cm H2O; and FIO2 = 0.8. The patient's ABG values are: pH = 7.40; PaCO2 = 56 mm Hg; PaO2 = 48 mm Hg; and SaO2 = 83%; the mean airway pressure is 18 cm H2O. The patient's physician decides on a trial of HFOV. What initial ventilator settings should be used?
+A reserve requirement of 10% means a bank with $1000 in deposits has ___________ held as reserves.
+H = 1.0 g/mol        N = 14.0 g/mol          S = 32.1 g/mol Calculate the %N in (NH4)2S when the molar mass of the compound is 68.1 g/mol.

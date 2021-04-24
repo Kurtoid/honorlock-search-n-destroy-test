@@ -1,20 +1,20 @@
-3.1   Rewrite the following sentence in the future tense. These campaigns are aimed at encouraging members of the public to avoid using plastic straws.         (2)
-Which of the following is NOT considered a key characteristic of a core capability:
-Which of the following statements about olfactory stimuli is incorrect?
-What is another name for an employee evaluation?
-What system uses motive gas to make a solid particulate substance flow like a liquid?
-3. PAC Learning (20 points)    Consider the hypothesis class Hs2 "symmetric, depth two decision trees over n boolean variables". Each hypothesis in Hs2 is a decision tree of depth two (i.e., a tree with four leaves, all distance two from the root) where the left and right child of the root must be the same variable. The example to the right should help you visualize Hs2. Assume that there are only two classes. (a) As a function of n, how many syntactically distinct trees are there in Hs2? Two trees are syntactically distinct if they "look" different, even if they compute the same function. Explain your answer. (b) Give a bound for the number of examples needed in the PAC model to learn any target concept in Hs2 for some error e and confidence d. (c) As a function of n, how many semantically distinct trees are there in Hs2? Two trees are semantically distinct only if they compute different functions. Explain your answer. (d) Now give a tighter bound for the number of examples needed to learn any target concept in Hs2. Feel free to use latex-like style equations or describe the equation in words. For example, use delta for d and epsilon for e. Clearly mark your answers with (a), (b), (c) and (d).
-Which country launched Sputnik into outer space?
-Using the provided list, write in the one appropriate morphological feature for each letter. List: ANTENNA | COMPOUND EYE | HAMMULA | MANDIBLE | OCELLUS | PROBOSCIS | SPIRACLE | STINGER      A [A] B [B] C [C] D [D] E [E]
-(a) Let    . Find  . (b) Let  . Find  .
-What is the name of the process occurring in step 1 in the diagram above?
-An organic dye that absorbs blue light has a smaller HOMO/LUMO band gap than one that absorbs green light.
-Directions: Work all the problems below and upload your solutions, including your R code, in a single html file just like you have been doing in your homework. If you cannot generate the html file then do the best you can by uploading a single file that contains your work (Rmd file, text file, ... ). I cannot accept a late submission. The data sets needed are already available in R and don't need to be imported. Each of the problems below is worth 10 points. You may use your notes (written or stored on your computer) for this exam.  Problem 1. The data set faithful provides measurements of the waiting time (waiting) and duration of the eruption (eruptions) for the Old Faithful geyser in Yellowstone National Park. a) Plot the variable waiting (measured in minutes) against the variable eruptions (measured in minutes). Also calculate the least squares regression line and include this line in your scatterplot. b) Interpret the slope. c) Use the prediction equation to predict the waiting time when the time of the last eruption is 3 minutes. d) Calculate the coefficient of determination for this regression and interpret it. Problem 2. The data set chickwts contains measurements made to compare the effectiveness of various feed supplements on the growth rate of chickens. Compare the distributions of the weights for the different feed types using density plots. Which feed type would you recommend? Explain. Problem 3. Visualize the relationship between the ambient carbon dioxide concentrations (conc) and carbon dioxide uptake rates (uptake) in the data set CO2 with a scatterplot where you color the printing character according to the levels of the factor Treatment. Problem 4. The function below generates a random number. Random.number
-A free-living soil ameba may contaminate contact lens solutions and cause amebic keratitis. What is the genus name of one common causative agent of amebic keratitis?
-Straight line assimilation argues that some ethnic groups will resist assimilation into the American mainstream.
-The title of the paper should be
-_______________involves rethinking the meaning of emotionally charged events in ways that alter their emotional impact.
-Will you opt in or out if you have taken an accounting course with the past year or two at York Tech?
-When using a Tofflemire matrix retainer, the diagonal slot should face:
-What is Bunraku?
-Ping-Pong Diplomacy is associated with which president?
+The client with AIDS asks the nurse why so many medications are prescribed. What is the best response by the nurse?
+(copy :   a    e     i    o     u     n    ?    n    ! .....y un gran (48. arbol / aguila / bandera)  ______________ de Navidad en la sala de la casa.  _______ x
+What are the names of two credit rating firms and why might it not be wise to buy securities with AAA ratings?
+How many moles of Au atoms are present in one ounce of pure gold? [1 oz = 28.4 g]
+By answering true to this question, you are certifying that you have maintained the standards of FSU's Academic Honor Policy. You further state that you have destroyed all of your scratch paper and deleted Excel files prior to submitting this exam. Failure to do so will result in grade penalties.
+Solve the problem.There are 8 horses in a race. In how many ways can the first three positions of the order of the finish occur? (Assume there are no ties.)
+In Lecture 20, which of the following areas was NOT identified by the Stanford Graduate School of Business as one of the key trends that are driving the business of sports (i.e. Linked Facilities)?
+In order to sue, a plaintiff must have a stake in the case. This stake is referred to as ____________.
+A member's promotional efforts that imply the ability to influence an official body (e.g., a tax court or regulatory body) would be deemed false, misleading or deceptive acts.
+The charge nurse of a medical-surgical unit is assigning care responsibilities for the oncoming shift.  A client is awaiting admission to the unit from the recovery room following thoracic surgery.  To which of the following staff members should the charge nurse assign and delegate care of this client?
+The term___________________highlights the fact that components of our environment can it make it harder for us to establish healthy dietary and physical activity patterns-thus increasing the likelihood  of obesity and unhealthy body composition.
+Allowed charges are:
+When collecting hydrogen gas above water at 755.0 mmHg, 50.0 degC, what is the actual pressure for the hydrogen gas? (Calculate with correct significant figures)
+El esposo de mi hermano es mi [dropdown1].
+The OFCCP __________.
+Which of the following statements about the United States labor force is true?
+What are the irreducible representations for the hydrogen atoms' 1s orbitals in BH3 ?
+__________: inflammation of mucous membrane of nose.
+What is the joint classification and type of movement for the costotransverse joint?
+The nurse teaches a client prescribed sildanifil (Viagra), a phosphodiesterase type 5 inhibitor (PDE-5 inhibitor) for erectile dysfunction. Which statement by the client indicates understanding?

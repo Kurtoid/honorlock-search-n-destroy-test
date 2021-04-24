@@ -1,20 +1,20 @@
-Blanca often gets bored in her chemistry class because the professor never varies his pitch when speaking.  Which word would best describe Blanca's professor?
-24. You have taken out a $360,000 fixed-rate mortgage loan (the monthly payment is a constant, and is made at the end of each month), and the loan term is 15 years. The annual interest rate is 8%. Calculate the monthly payment for this mortgage loan.
-This section is provided to ask any questions about Exam #2
-In which stage of normal bone healing is there bridging of the fracture site, and cartilage and immature bone provide support?
-Sigmund Freud suggested that people who are dominated by their ________ might be narcissistic and impulsive.
-Which is the number one cause of UTIs?
-Which muscle in the image above is circed and has the number 6?
-This type of muscle tissue is capable of regenerating via satellite cells:
-At the end of the first month of operations for Jackson's Catering Service, the business had the following accounts: Cash, $20,500; Prepaid Rent, $500; Equipment, $7,500 and Accounts Payable $4,000. By the end of the month, Jackson's had earned $33,800 of Revenues, and used $1,940 of Utilities Expenses, $4,300 of Rent Expense and $3,680 of Salaries Expenses. Net income to be reported by the company for this first month is
-First aid administered by a licensed medical provider is:
-Which of the following is a freely moveable joint?
-Glucose enters cells via:
-Boa constrictors and pythons lack external limbs but their skeletons reveal bones of tiny hindlimbs. What structure is represented in this example?
-As CO2 dissolves into the ocean water, the pH
-From the Honorlock Student Information, these are important items: Pick all that apply:
-The nurse's age is 30. This data is at nominal level of measurement
-Which of the following is not a common form of data mining analysis?
-A visual aid is hardly effective if it cannot be _________________ by all learners.
-In the 1920s and 1930s, ultranationalists in Japan
-Complete the main method below so that it reads in a file named FileIn.txt (assume this exists in the same directory where you are running your program). The method should output each line to another file named FileOut.txt, replacing each EVEN line with "Line X was an even line", where X is the line number (starting with 1). Look closely at the example output for more clarification. Notice that the output file has the SAME number of lines as the input file. HINT: Store each line from the input file into a String variable BEFORE testing if it is an even or odd line number. import java.io.*;import java.util.Scanner;public class FileIO {  public static void main(String[] args) { /* Your implementation here */ }} Example input and output files:     FileIn.txt   FileOut.txt     Here is  some texteven more   HereLine 2 was an even linesome textLine 4 was an even line       Make sure to select the 'Preformatted' style from the dropdown so your code is formatted clearly.  DO NOT USE THE TAB KEY WHEN WRITING CODE AS YOU MAY ACCIDENTALLY SUBMIT YOUR EXAM. USE THE SPACE BAR INSTEAD.
+(i) List the four (4) major polysaccharide molecules we discussed in class, (ii) where they can found (specifically),(iii) AND describe a function or purpose of each.
+Name the part of the stomach labelled # 17.
+The ______ consists of the visceral and parietal layers.
+The Institute of Medicine's 2000 report recommended population-based health promotion efforts that do which of the following?
+Set up an integral in cylindrical coordinates for the volume of the solid region within the sphere
+What is Cranial Nerve X?
+An auditor knew that the purpose of her audit was to render reasonable assurance on financial statements that were to be used for the application for a loan; the auditor did not know the identity of the bank that would eventually give the loan. Under the Restatement of Torts (forseen user) approach to liability, the auditor is generally liable to the bank which subsequently grants the loan for :
+What are the "courts of general jurisdiction for serious crimes in England," called?
+Identify (gray) Blood Vessel at pointer
+At work, you are accountable to
+Which of the following items do not result in a debit (increase) to pension expense?
+People often pay more attention to other people and less to the environment when making attributions, especially under stress, causing them to rely on a(n):
+Recent studies regarding long term cell phone usage strongly suggest that brain development for children under 5 years old can be affected by long term exposure to the low level radiation they emit.  The same study showed that cognitive function decreased in males exposed to the rays at all ages.  The study, published in the Journal Nature, has been widely accepted across the scientific community.  The Telecommunications Act authorizes the FCC to "oversee the marketing and labeling requirements for all cellular products sold in the United States."  Intense political pressure by telecommunications giants has kept the issue of the agenda of federal government agencies.   On January 2, 2008, after learning of the studies, Mothers Against Cell Phones (MACP) filed a legislative rulemaking petition with the Federal Communications Commission (FCC) requesting that they require a warning label on cell phone packaging that informs consumers of the risks posed to infants and toddlers.  As of January 22, 2012, the FCC had not acted on the petition. If the FCC denies the petition without explanation then the petitioner:
+Many Americans in the late nineteenth century believed that the __________ race was superior and other races, like that of the __________, were inferior.
+Which of the following is used for renal flow studies, glomerular filtration rate and aerosol lung imaging?
+The economic transformation that Western Europe experienced in the decades following the Second World War was, for the Eastern bloc,
+In the domain Archaea the clade with the following characteristics: obligate anaerobes; produce all atmospheric methane gas (CH4) by reducing CO2 and oxidizing H2O is __________.
+53.  Rates of cell production and cell death are approximately equal during the ______________ phase of growth.
+Your patient is a 24-year-old male with a history of type I diabetes. You were called to his place of employment because he was behaving bizarrely. On your arrival he is confused and combative with a blood glucose level of 41 mg/dL. Due to poor vasculature and the patient's combativeness, you have not been able to start an IV. Which of the following is the best course of action?
+For all propositions p and q, the expression ! (

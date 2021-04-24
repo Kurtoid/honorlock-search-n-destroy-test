@@ -1,20 +1,20 @@
-Robert, a coder in the Health Information Department, worked a total of 42 hours one week and 38 hours the following week for a total of 80 hours.  If the facility uses a 14 day work week, Robert is eligible for overtime according to the Fair Labor Standards Act.
-1. (30 points): The road handling of a car is being tested on a circular track (radius  m). One of the tracking cameras that has been set up to monitor the car during the test is located at position , where
-The lights ON a lighting position count:
-The genome of human papillomaviruses consists of:
-The 2017 FTC Staff Report on Cross-Device Tracking focused on the following:
-The supply chain begins with______________ and ends with_________________.
-If in your informative speech on the Hope diamond you explained the size, shape, weight, and color of the diamond, you would be using an example of a _______.
-Adherence to rules and regulations is also known as:
-In one sentence, write a possible theme of  "I Stand Here Ironing." (hint: Mom deliberates her mothering.) For full credit, do not use cliches, do not use comma splices, and do not use two sentences. Punctuate and capitalize correctly.
-Studies show that when prompted to discuss a scene, people in Japan discuss relationships between objects and people in the United States describe the largest object.
-Which of the statements below are correct: I) The biggest beneficiaries from a merger are usually the acquiring company's shareholders, because upon announcement their stock price rises substantially. II) The target company's shareholders benefit from a merger offer, because usually the acquiring firm has to compete against other firms to buy them out, which drives up the premium the target firm has to be paid. III) Mergers waves are more likely to occur during economic expansions.
-Tendons connect _________ to _______________
-A nurse is caring for a client admitted with acute respiratory failure and a history of Cystic Fibrosis. The nurse assesses the client coughing up a large amount of thick yellow mucus.  Which complication is the nurse most concerned about in this client?
-In the body's lever systems, the ____ act as the lever/load.
-Which of the following became a standard feature of French Gothic facades?
-Before ATP is split into ADP and Pi, it holds what type of energy?
-A 21-year-old G1P0 was admitted four hours ago in labor and she is now requesting an epidural. Which nursing action should the nurse prioritize for this client?
-What would be appropriate study design and the justification for the selection
-Although Mark was interested in fashion as a child, teasing from others led Mark to drop this interest in favor of pursuing sports. Mark's change in interests to avoid disapproval best illustrates ___________.
-Find the limit representation of f'x{"version":"1.1","math":"f'x"} if fx=x4-3x+6{"version":"1.1","math":"fx=x4-3x+6"}. Do not simplify.  (There is not much work to be shown for this problem on your scratch paper.)
+Find the solutions to the following quadratic equation using the quadratic formula.  Show all work on paper.
+Which of the following defining characteristics is consistent with fluid volume deficit?
+Order: Methylprednisolone 40mg, intravenously, once, for status asthmatics  Child's weight: 15 kg  Safe dose: Initial 2mg/kg once. Max 60mg/dose.    a) What is the safe dose (mg/dose) for this child?  b) Is the ordered dose safe for this child?
+Regardless of type, all levers follow the same basic principle: effort farther than load from fulcrum = mechanical advantage; effort nearer than load to fulcrum = mechanical disadvantage.
+Which atomic orbital corresponds to this set of quantum numbers in a ground state atom of boron?                         (2, 1, -1,  1/2 )  Data sheet and Periodic Table
+Masami is a member of a group that raises money for a homeless shelter. She feels that the group spends too much time arguing the merits of different fundraisers and needs to make a decision. She calls for a vote at today's meeting. Masami has taken on the role of
+What is the correct form of the verb to fill the blank Q:1. Answer with the letter next to the correct answer from the column on the right.
+A nurse is caring for a client who has chronic renal disease. Epoetin alfa therapy, and Sevelmer carbonate are on the medication list.  The nurse should instruct the client to increase dietary consumption of:
+Identify three physical assessments used to determine blood donor eligibility?
+The ability of an instrument to increase the actual size of the specimen is:
+Why would a request from Adjoa, during your meeting, to deposit PS3,000 in cash in your client account pending further instructions, be a cause for concern?
+For Sartre free will is ...
+Name this structure. What types of fibers is it comprised of?
+Translocation occurs as the ribosome moves down the tRNA strand.
+On a separate sheet of paper, draw the Lewis dot structure for (ClO3)-1. After completing the exam, upload your picture in the Unit 2 Exam pictures.
+The Alien and Sedition Acts can be traced to which presidency?
+All of the following are highly structured techniques used by groups to conduct business except.
+Which statement is incorrect about hydrologic conditions in the Budyko Curve below?
+Which of the following is not true concerning lipids?
+A CUDA kernel processes an mxn image where m is the vertical or y direction and n is the x or horizontal direction.  Suppose that m=800 and n=600 and we decide to use a grid of 16x16 thread blocks for the calculation with one thread per pixel.  How many warps will experience control divergence?   __global__ void PictureKernel(float* d_Pin, float* d_Pout, int n, int m) {    // Calculate the row # of the d_Pin and d_Pout element to process    int Row = blockIdx.y*blockDim.y + threadIdx.y;    // Calculate the column # of the d_Pin and d_Pout element to process    int Col = blockIdx.x*blockDim.x + threadIdx.x;    // each thread computes one element of d_Pout if in range    if ((Row < m) && (Col < n)) {        d_Pout[Row*n+Col] = 2*d_Pin[Row*n+Col];    }}

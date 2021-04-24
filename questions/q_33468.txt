@@ -1,0 +1,20 @@
+Name one National Patient Safety Goal:
+Consider an M/M/s queuing model. Customer arrivals follow a Poisson distribution and the arrival rate is 15 customers per hour. The service time follows an exponential distribution and the service rate is 4 customers per hour. With three servers, this system will be flooded by customers.
+Most states voluntarily observe international law most of the time because
+In an experiment that looks at the effects of caffeine on alertness in class, one group of students gets caffeinated coffee, another group of students gets water, and a final group of students gets decaffeinated coffee (but thinks it's caffeinated). This last (decaf) group would be the
+Complete the main method below so that it reads in a file named FileIn.txt (assume this exists in the same directory where you are running your program). The method should output each line to another file named FileOut.txt, replacing each ODD line with "This was an odd line X", where X is the line number (starting with 1). Look closely at the example output for more clarification. Notice that the output file has the SAME number of lines as the input file. HINT: Store each line from the input file into a String variable BEFORE testing if it is an even or odd line number. import java.io.*;import java.util.Scanner;public class FileIO {  public static void main(String[] args) { /* Your implementation here */ }} Example input and output files:     FileIn.txt   FileOut.txt     Here is  some texteven more   This was an odd line 1isThis was an odd line 3even more       Make sure to select the 'Preformatted' style from the dropdown so your code is formatted clearly.  DO NOT USE THE TAB KEY WHEN WRITING CODE AS YOU MAY ACCIDENTALLY SUBMIT YOUR EXAM. USE THE SPACE BAR INSTEAD.
+Woodrow Wilson's decision to invade Mexico in 1916 came after the murder of several Americans by
+Muscles are strung across joints and can therefore move them. The insertion of a muscle ________.
+_____ refers to a team strategy that entails simultaneously emphasizing internal team building and achieving external visibility.
+Match the tissue type with the best description
+Which of the following statements about the effects of abused opiates on synaptic transmission is false?
+Find the three currents I1, I2, and I3  in the figure above, and clearly indicate their direction. Note that you'll assume a direction for each current in order to solve the problem, and if you find a negative current, that means the direction was opposite what you assumed.
+Membranes consist of
+Which of the following is true about the way we should eat to achieve good nutritional status?
+Match the vocabulary word to the correct Tier.
+Retinoblastoma falls into one of two groups, familial and sporadic.   1. Explain the difference in the formation of each. 2. Which of the two has a greater likelihood of subsequent cancer formation and why?
+In the election of 1892, what political party championed the interests of rural Americans in the South and the West?
+Blood flow through, for example, an artery is not audible when:
+Electrophilic addition reactions of conjugated dienes that occur at high temperatures and/or long reaction times (reversible conditions) are said to be under
+Inside the cell, where does the process of glycolysis take place?
+In 2014, the average age that a woman gives birth for the first time in the United States is:

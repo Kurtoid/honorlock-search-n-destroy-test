@@ -1,20 +1,20 @@
-This question can earn you 10 extra points as extra-credit. Write pseudocode/code for implementing the Breadth First Search Algorithm of a graph, G that takes a source vertex S as input (8). Also, state the Big O complexity of the traversal in the worst case (2).
-Which is not a knee flexor?
-Water boils at 212oF or ________oC.
-Athletes performing in bright sunlight often smear black eye grease under their eyes to reduce glare. Does eye grease work? In one study, 8 student subjects took a test of sensitivity to contrast after a fixed time facing into bright sun, both with and without eye grease. Measurements for the increase in sensitivity to contrast were obtained for the 8 subjects.  A positive value indicates they were more sensitive to contrast when using black eye grease (the desired outcome) and a negative value indicates they were less sensitive.  A value of zero indicates there was no difference in sensitivity to contrast when using the black eye grease.  A 95% confidence interval for the mean increase in sensitivity for the sample was
-Part 3: Bonus question; you don't have to answer but if you do and the answer is correct 5 points added to your final score. There are two parts to this question; answer both parts to get full credit.    1. What is the "rule of 70" equation for population doubling time?  Define each factor or variable.   2.  Assume the per capita growth rate for a population is 2%; how many years will pass by the time the population doubles.
-In Amy Chua's book "The Battle Hymn of the Tiger Mother," her problem in parenting her daughter Lulu is
-How long should the technician wait before reading a skinfold gauge?
-A client expresses self-doubt about role performance, and talks about being overwhelmed most of time. Which of the following nursing diagnosis would address this client's symptom?
-Which organization develops plans for the recovery of endangered or threatened organisms and is in charge of the Endangered Species Act?
-A woman who notices an involuntary loss of urine following a coughing episode is most likely experiencing which of the following types of incontinence?
-Which of the following is true of the hydroxyl groups in 2-Methyl-1,2-propanediol?
-Consider the discrete probability distribution to the right when answering the following question.  Find the probability that x equals 4.   Round to the nearest hundredth.
-7.  In this problem, you will design a mixed-logic circuit diagram and some input and output circuits. a)  Draw the mixed-logic circuit diagram to directly implement (i.e., do NOT simplify) the below equation using parts from one single chip. Use the minimum number of gates from this single chip. (This should be a circuit diagram, not a layout diagram.) Choose the optimal (best) activation-levels for A and B. Label the pin numbers on your circuit diagram. B must be active-low, i.e., B(L).
-You own a bond with a 5% yearly coupon and the market interest rate is 4%.  If the market interest rate stays at 4% during the coming year, the expression (coupon + next year's price - this year's price) / this year's price will equal which of the following?
-With the invention of photography in the nineteenth century, what were artists and scientists finally able to do?
-What assay was used in Lab #6 to measure the concentration of the protein in the well plates?
-What does Ravi Shankar say is the highest aim of music?
-Name the blue spherical structures in the center of these human cheek cells. What term is given to cells that have one.
-A cat owner went swimming to a public pool during the hot days. After a week, he began experiencing stomach cramps, nausea, vomiting, dehydration, and weight loss. Which of the following parasites could be responsible?
-The balance in the prepaid rent account before adjustment at the end of the year is $32,000, which represents four months' rent paid on December 1. The adjusting entry required on December 31 is
+BONUS: Give one (1) specific example of an executory contract. (Make up a contract.)
+A(n) __________ is a visual aid that summarizes a large block of information, usually in list form.
+Hierdie is 'n ekstra opsie vir die oplaai van leers. Gebruik dit slegs as 'n vorige leeroplaai ontbreek of foutief was. As u 'n leer hier oplaai, moet u dit duidelik benoem of genommer wees volgens die betrokke vraag. Hierdie is NIE vir u om al u geskrewe antwoorde op te laai nie.
+Using words, write the time in a complete sentence. Indicate if it's morning, afternoon or evening. It's 7:45 p.m.
+The needle for performing a spinal tap (lumbar puncture) is inserted in?
+__________ can be thought of as a kind of "social glue" that refers to the degree of camaraderie and trust within the group.
+V. Essay. Acabas de tener una experiencia horrible en con una aerolinea. Escribe una carta (letter) sobre tu experiencia y tus quejas a la gerente (manager) de la compania Write 10-12 sentences with 7+ words in each sentence. Use the preterite and imperfect when appropriate. Use a variety of verbs.
+public int mystery(int x, int y){    if (x >= y)        return x - y;    else        return x + y;} Based on the code in the accompanying figure, what would be the output of the following statement?System.out.println(mystery(8,7));
+Which adverse effect of lisinopril (Prinivil) should be reported to the healthcare provider? Correct Answer: cough
+Archaea are a distinct group of organisms that are about the size and shape of bacteria. Although they lack a nucleus or any other organelle, they produce enzymes similar to those produced by animal cells. Which cell type are they?
+If you finish your test early, ______________.
+Which one of the following approaches to leadership suggests successful leadership requires a unique combination of leaders, followers, and leadership circumstances?
+Which of the following would be a reasonable synthesis of 2-butanol?
+In plant tissue culture, rooting media would have large amount of which plant growth regulator?
+The figure above shows the changes in succession of an intertidal rock community, after everything had been scraped off. The results suggest that acorn barnacles and macroalgae _______ little brown barnacle growth while acorn barnacles _____ growth of macroalgae
+The child is visiting the clinic for a pre-sports-participation physical. Which should be included as part of the patient education to prevent musculoskeletal injury during participation?
+The three parts of an RBRVS fee are:
+The most common conformal treatment ports for soft tissue sarcomas is
+The Corbit Corp. sold merchandise for $10,000 cash. The cost of the goods sold was $7,590. What would be the journal entries to record this transaction?
+For the following questions, please use this multiple choice blocks.  Just put the letter of the answer you choose, don't over think this:  It does not matter if there are two A's, if either A is right, put A. a.  Stratum Granulosum                 a. Stratum Lacerum b.  Stratum Corneum                     b. Stratum Melanin c.  Stratum Leviosa                        c. Reticular d.  Stratum Basale                         d. Papillary e.  Stratum Spinosum                   e. Hypodermis  Layer of skin which PRODUCES melanin (contains melanocytes) [1] Layer of skin containing Pacinian corpuscles (lower layer of the dermis) [2] Layer of skin responsible for defending mitotic cells from UV radiation (where melanin does its job, not where it is made) [3] Layer of skin containing specialized white blood cells which are active in immunity (Langerhans cells found in the last layer of living epidermis) [4] Layer of dead cells forming a barrier on the outer surface of the skin. [5] Layer of the epidermis where you would find cells containing lamellated granules [6] Layer of the epidermis where you would expect to find mitosis occurring most actively [7] What layer of the epidermis would you inspect to determine if a skin sample is thick skin (vs being thin skin, which layer is most different?) [8]
