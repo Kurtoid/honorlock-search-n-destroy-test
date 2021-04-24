@@ -1,20 +1,20 @@
-The physician thinks a teenager is having clinical manifestations of irritable bowel syndrome. Which of the following complaints would support this diagnosis?
-In order for a human population to be sustainable, its actual numbers must be ________.
-Which of the following is a factor that can affect germicidal activity?
-Suppose an operations manager for a hand sanitizer factory will present an overview of the manufacturing process at the new employee orientation. Which of the following tools of process analysis and design will best help an operations manager to illustrate the direction of material movement for production within the facility?
-Given the following pandas DataFrame named basketball,     Division Rank Wins Losses   Baylor South 1 22 2   Houston Midwest 2 24 3   Gonzaga West 1 26 0   UCLA East 11 18 9   GaTech Midwest 9 17 8    What is printed by the following code? basketball = basketball.groupby('Division').sum() basketball = basketball.loc[:,'Wins'] print(basketball.max())
-If humans had been present to build house structures during the Carboniferous period, which plant types would have been possible building materials?
-19. The nurse is monitoring the client's laboratory values because of the large doses of diuretics the patient is receiving for heart failure. Which lab value should the nurse report immediately to the physician?
-The journal entry to close expense accounts includes
-Dr. Cook encourages her students to wonder, probe, analyze, question, and reflect rather than learn facts by rote memorization. She values
-Roughly what percentage of people with Borderline Personality Disorder report having been sexually abused?
-Why do developing nations impose few or no restrictions on logging?   A) Local residents use most of the timber, and the government does not want to impose restrictions on its citizens. B) They do not want to hinder economic development. C) Most timber is extracted by local corporations that support the government. D) There is an infinite supply of timber because wood is a renewable resource. E) No ancient forests remain in developing nations.
-The normal adult has how many teeth?
-Why do insertions and deletions in coding regions of genes often have more drastic phenotypic effects than base substitutions do?
-You make a dialysis bag like you did in lab 2. The bag contains a 30% sucrose solution and has a volume of 23mL. You place the bag in a sucrose solution of unknown concentration. After 2 hours, you measure the bag again and it is now 26mL. What is the concentration of sucrose in the unknown solution?
-Which of the following groups of bacteria require or will use oxygen for respiration  i. obligate aerobes ii. facultative anaerobes iii. obligate anaerobes iv. microaerophile v. aerotolerant anaerobe
-Trucking is an industry that publishes high list prices and then discounts them heavily.  Most carriers will discount their list prices by at least __________.
-SECTION A: COMPULSORY      QUESTION 1.1: MULTIPLE CHOICE     1.1   Four options are provided as possible answers to the following questions. Choose the most correct answer.          1.1.1   ABSA Bank operates in the _______ sector.   (2)
-The nurse notices that a patient's palpebral fissure are not symmetric. On examination, the nurse may find that damage has occurred to which cranial nerve?
-Classify the alkene labeled II by the number of carbon substituents bonded to the double bond.
-Please identify what type of error the following sentence includes: The warehouse is filled to capacity.
+What factors should be considered as priorities when taking the history of a patient with a neurologic problem?  Select all that apply
+Oxygenated blood is carried in the umbilical ______.
+Which of the following causes compulsive buying?
+In Yosemite National Park, strong bedrock influences the formation of what types of hillslopes?
+Compare and contrast the mucosa layer of the stomach and the small intestine.
+An athlete with a dynamic strength index of .75 should be trained accordingly
+Which of the following regarding the electron transport chain (ETC) is FALSE?
+Can Green's Theorem be used to evaluate
+Complete the sentence with SINCE or FOR. __________ 2018, the team has won three cups.
+Consider the following problem: A 1.36 kg glass dish is heated from 25oC to 200oC. How much heat did the dish absorb if the specific heat of glass is 0.840 J/goC? Which of the following formulas is most useful for solving this problem?
+A signal is received after compression has a dynamic range of 125 dB. The receiver compressed the signal by 25 dB. What was the initial dynamic range of the signal?
+EXTRA CREDIT:  List the 4 types of beta lactam antibiotics (1pt) Name 1 cephalosporin antibiotic, per generation (1pt)
+The neuromuscular junction uses __________ as its neurotransmitter.
+Write a sophisticated microbiology related question AND ANSWER IT on a recent class topic that was NOT COVERED in this exam. It can be either multiple choice, true/false, or short essay question/answer format.
+Protopectin refers to nonmethylated galacturonic acid polymers found in immature fruit.  This type of pectin cannot form a gel when combined with sugar and acid.
+A franchise organization is an example of a(n) ________ vertical marketing system.
+An element is any substance that contains one type of
+A slower and more focused way of eating in which people focus on the awareness of why, what, and how much they are eating is known as:
+Family members are encouraging your client to "tough it out" rather than run the risk of becoming addicted to narcotics. The client is stoically abiding by the family's wishes. Priority nursing interventions for this client should target which dimension of pain?
+Name one property of the genetic code and explain the meaning.

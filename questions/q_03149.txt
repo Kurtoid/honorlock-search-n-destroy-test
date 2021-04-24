@@ -1,20 +1,20 @@
-You are the CEO of a hotel chain and you want to analyze the factors that affect the profit margin (measured in 10,000s of dollars) of the different hotel locations. A sample of 30 hotel locations were used to perform the following multiple regression analysis. Use a level of significance of 5%. Y = PROFIT = profit of the hotel (in 10,000s of dollars)ROOMS10 = number of competing rooms within a 3 mile radius (in 10s of rooms)POOL= 1 if the hotel has a pool and 0 otherwiseNO POOL = 1 if the hotel does not have a pool and 0 otherwise (NO POOL is OMITTED category)OFFICE1000 = Amount of office space in the surrounding area (in 1000s of square feet)ENROLL1000 = College and university enrollment in the area (in 1000s of students)INC1000 = household income in the area (in 1000s of dollars)DIST = distance from the hotel to the downtown area (in miles) Minitab gave the following output:    Predictor            Coef    SE Coef       T       P   Constant            30.33      13.22    2.29   0.031   Rooms10          -0.00481    0.03702   -0.13   0.898   Pool                3.135      5.177    0.61   0.551   Office1000       0.024207   0.008368            0.008   Enroll1000         0.7042     0.2897    2.43   0.023   Inc1000           -0.1690     0.3315   -0.51   0.615   Dist              -0.1519     0.3495   -0.43   0.668    What is the alternative hypothesis for the test of the slope/coefficient on "OFFICE1000"?
-Barron Enterprises has the following information about its truck fleet miles and operating costs:         Year       Miles       Operating Costs       2016   400,000   $256,000      2017   480,000   280,000     2018   560,000   320,000       What is the best estimate of total costs using the high-low method if the expected fleet mileage for 2018 is 500,000 miles?
-Use Table 20.1 to determine which redox reaction(s) occur spontaneously in the forward direction. (Select all that apply)
-How many treatment conditions would you have for a two-factor, independent-measures research study if there are 2 levels of factor A, and 4 levels of factor B?
-Which of the following amendments to the Constitution discusses the, "right to keep and bear arms."
-Which type of performance space was originally built into hillsides in Greece?
-INSTRUCTIONS: Rewrite each exact quote as reported speech. Pay special attention to the sequence of tenses.   Ex: Jim said, "I will study for the test."     Jim said that he would study for the test.        Gary said, "I must sell my old car."
-The alternative pathway for complement activation is initiated by
-Beethoven's works became the standard against which subsequent composers of the Romantic era measured their worth.
-Prior to giving a second dose of Nitroglycerine (Nitrostat), the nurse should assess the client for which of the following responses?
-In what direction should the bevel be inserted into the skin?
-What is glucose?
-The bone shown in the image is considered a __________ bone
-Suppose you want to find the reaction enthalpy, DHrxn for the reaction,    X2 + O2  --> 2XO         DHrxn = ???  kJ where X is an imaginary element, by adding some combination of the reactions below.  You are not going to actually add the enthalpies for these reactions, but rather determine the multiplier for each reaction that will make them add to the reaction above.  If you use a reactions as written enter a "1"; if you need twice a reaction then enter a "2"; if you need to reverse a reaction, enter "-1".  If you do not use a reaction, enter a "0", etc. The only accepted answers are "0,  1/2, -1/2, 1, -1, 2, or -2". Enter one of these answers in each blank corresponding to each reaction in order. 1)  X2 + 2O2 --> 2XO2                       DH = 50 2)  2XO + O2 -->  2XO2                    DH = -100 3)  XO2  + X2   -->  X2O + XO         DH = -50
-The complications of chronic uncontrolled hypertension include: (Select all that apply)
-TOTAL SECTION B: 20
-If a daughter expresses an X-linked recessive gene, she inherited the trait from
-Which of the following is a proton pump inhibitor?
-Part 1: Which of the following statements is correct in describing the terms monohybrid cross and dihybrid cross? A. A monohybrid cross involves a single parent, whereas a dihybrid cross involves two parents. B. A dihybrid cross involves organisms that are heterozygous for two characters that are being studied, and a monohybrid cross involves organisms that are heterozygous for only one character being studied. C. A monohybrid cross is performed for one generation, whereas a dihybrid cross is performed for two generations. D. A monohybrid cross results in a 9:3:3:1 ratio, whereas a dihybrid cross gives a 3:1 ratio.   Part 2 (Extra Credit +2) : In a dihybrid cross between the P generation a homozygous dominate pea plant (YYRR) with a homozygous recessive pea plant (yyrr) what would be the phenotypic ratio for the F2 offspring?
-On April 12, Targareyan Enterprises agrees to accept a 60-day, 10%, $4,500 note from Lannister, Ltd. to extend the due date on an overdue account. What is the journal entry needed to record the transaction by Lannister, Inc.?
+An evaluation of whether a proposed logistics program meets the channel members' service standards requires that the channel manager:
+In the video Don't Panic, Hans Rosling talks about the relationship between income and lifespan. In 1800 all countries were:
+David never stopped to consider the possible consequences of a long-term, permanent, disability. So David did not include disability income insurance in his personal risk management program. David is dealing with the risk of disability through
+Identify region "G"
+The nurse is performing discharge teaching for a client being being discharged after valve replacement surgery.  Which of the client's statements about their warfarin therapy indicates that teaching has been effective?
+The majority of blood is plasma.
+The grapevine is:
+This stele is significant as both a work of ancient Mesopotamian art and as
+What is the first food additive in the U.S that can be used to prevent goiter?
+Write a composition. Your composition should be a total of 30-35 sentences. Your composition should be divided in 5 paragraphs. Your paragraphs should contain ONLY what we've learned in class. Do not 'google'. If there is anything in your writing that looks 'googled' or written/translated by a native speaker, you will receive a zero on the final exam. This is up to the discretion of the professor. Don't worry about accent marks. You won't lose points because of them. Just worry about the special n with the squiggly line. n I. Talk about yourself II. Your classes III. Your family- Talk about some of your family members IV. Talk about your city, what you do in your city, your hobbies. V.  Talk about your plans for the upcoming break.  What are you (you and your family/friends) going to do? (the verb 'ir' + a + infinitive)  What do you want to do? (querer + infinitive)  What do you prefer to do or where do you prefer to go?  (preferir + infinitive).  I realize a lot of plans have been ruined by COVID-19.  Write as if your plans were not ruined.  n
+We might choose to use a linked list over an array list when we will not require frequent ____. I    random access II   inserting new elements III  removing of elements
+Read the passage The Black Theater Movement (Links to an external site.), and then answer the following question(s).Why is the NEC important?
+Which of the following occurs during metaphase of mitosis?
+The three basic categories of manufacturing costs are direct materials, direct labor, and work in process.
+If the grid lines run parallel to the laser scan lines, you would see:
+Understanding population dynamics can help us ________________ (pick all that apply).
+What is the foundation for most persuasive business messages?
+NSC-68, a proposal of Truman's National Security Council, called for
+2. (10 pts) Find the equation of the plan that contains the line
+A function has a slope of -3.  The the point (1, 7) is on the line, what will the y-value equal when x = 5? The y-value will be:

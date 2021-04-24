@@ -1,20 +1,20 @@
-Name the two types of vascular tissue in plants.    [vascular1] [vascular2]
-Spongy bone contains
-The  2 string problem we discussed in class required the use of information for problem-solving, which is also known as:
-Based on your conclusions from the previous question, which of the following reactions does Lexin inhibit?
-The integration of phage DNA into host DNA occurs in much the same fashion as seen in transformation, transduction, or conjugation.
-Which of the following is a product of glycolysis?
-Yo [verb] (viajar) a Espana el verano que viene si puedo teletrabajar.
-A single base substitution caused the amino acid sequence Met-His-Glu-Cys to be changed to Met-His. Which of the following describes the type of mutation that caused this change?
-Fluvial depositional systems consist of river associated deposits and are generally classified as meander channel systems or braided stream systems.
-The peppered moth illustrates ___________________________ selection.
-4. What kind of force will create foliation in metamorphic rocks?
-Which measure is used to calculate the average temperature outside over the course of a week?
-The following questions are essay questions. The answer to each question should be explained fully, and as clearly as possible, in full sentences with logical structure.  Partial credit will be given for correct reasoning but answers with no reasoning will not receive any credit. Please choose 3 out of the 4 to complete - in the one you are choosing not to do, just enter the word BLANK.
-Warr Company is considering a project that has the following cash flow data. What is the project's IRR? Note that a project's projected IRR can be less than the WACC or negative, in both cases it will be rejected.      Year 0 1 2 3 4   Cash flows -$825 $400 $400 $400 $400
-What is an example of Labels used in clinical conversation to describe the Clinician?
-Which type of wavelike muscle contractions moves material through the digestive system; from one area to the next?
-The nurse cares for a 75-year-old client diagnosed with Dementia and Rheumatoid Arthritis.  These conditions are possibly associated with which aging theory?
-You are caring for a patient that recently had a gastrectomy, you explain to the client that they will need long term medication therapy with which replacement?
-What does a recombination frequency of 25% indicate?
-Select an expression to complete the program segment below, which displays an error message and terminates normally if the String variable accountNumber does not contain an integer value. try {  int number = Integer.parseInt(accountNumber); } catch ( ________________________ ) {  System.out.println("Account number is not an integer value"); }
+What is the function of enteric sensory neurons?
+List one action of the muscle that you identified in Q47.
+Which of the following is NOT TRUE concerning the structure of DNA?
+Some joints become synostoses by replacing ________ with ________.
+For Wilson the most important of the 14 points called for:
+Which of these dazzling rooms would you find at the Palace of Versailles?
+Which range-of-motion exercise is being performed when the nurse touches the client's thumb to the small fifth finger on the same hand?
+(MA) Which of the following are features of the U.S. industrial relations system that distinguish it from other systems in the world?
+Which portion of the heart is responsible for pumping blood into the ascending aorta?
+This is Question D. Please write your solution complete with your full name and Question D at the top. When you have submitted the auto-graded portion of the exam, upload your solution to the Question D assignment in the Exam 2 module within 15 minutes.  Consider the algorithm below, which computes the maximum element of an array A.  max(A,n), where n [?] N+ and A = [a0...an-1] is an integer array (1) i - 0 (2) m - a0 (3) while i < n-1 do (4)     if m < ai+1 then m - ai+1 (5)     i - i+1 (6) end (7) return m {output is the maximum value of the array A}  (a) (5 points.) Prove that m = max(a0...ai) is loop invariants. (b) (3 points.) Use the loop invariant m = max(a0...ai) (proven in part (a)) and the loop invariant i <= n-1 to show that max is partially correct. (Note that you do not need to prove that i <= n-1 is a loop invariant.) (c) (2 points.) Find the number of times the if condition in line (4) is tested for an array of length n.
+Oil is secreted by _________.
+What is the proper response to the nurse's observation that the patient's closed system enteral feeding has 150 mL of formula remaining and the infusion order rate is for 50 mL/hour?
+Which of the following are likely to cause secondary hypercholesterolemia?  Select all that apply.
+Freckles are caused by a dominant allele. A man has freckles and one of his parents have freckles. What is the man's genotype?
+A planet has a mass that is 5.50 times the mass of the Earth. It has a radius 2.25 times larger than Earth's radius. The planet's orbit is 16 times greater than the Earth's orbit. The time it takes the planet to orbit it's star is 36 of our years. (a) What is the mass of this planet's star compared to our star. Your answer should be a number multiplied by MS{"version":"1.1","math":"MS"} where MS{"version":"1.1","math":"MS"} is the mass of Earth's Sun, e.g.12.4MS{"version":"1.1","math":"12.4MS"} or0.124MS{"version":"1.1","math":"0.124MS"}. (11 points) (b) A person on the surface of Earth has a potential energy of 4.53x109{"version":"1.1","math":"4.53x109"} J or -4.53 GJ. What is the potential energy this person would have on the surface of this planet? You should not assume the near Earth approximation for potential energy is valid. (11 points)
+A patient with an acute attack of gout is treated with colchicine and a non-steroidal anti-inflammatory drug.  The nurse recognizes the importance of patient teaching about avoidance of foods high in purines as well as the need for periodic determination of
+5.  A patient is brought to the ED by ambulance after a motor vehicle accident in which the patient received blunt trauma to the chest. The patient is in acute respiratory failure, is intubated, and is transferred to the ICU. What parameters of care should the trauma nurse monitor most closely?  (Select all that apply, place in capitals, alphabetical order, and no commas or spaces. Ex: WXZ.) A. Coping B. Level of consciousness C. Oral intake  D. Arterial blood gases E. Vital signs
+Mi ......................... i film romantici.
+Which of the following should NOT be found in normal urine
+Your patient has a history of heart disease with angina for which he takes nitroglycerin as needed.  He just had a treadmill cardiac stress test.  What information from the stress test would be essential to have available when prescribing an aerobic conditioning program for this patient?

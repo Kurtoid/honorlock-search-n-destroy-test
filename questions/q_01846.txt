@@ -1,20 +1,20 @@
-List the letter(s) of any and all of the terms listed below that pertain to the function indicated. Some questions may have more than one answer. Those that require more than one answer must be answered fully to receive credit. Multiple answers should be listed in the following format: letter comma space.   Works on the basis of thermionic emission. A. Cesium Iodide        D.  Zinc cadmium sulfide                   G.   Cesium Antimony     B. Photocathode        E.  Electrostatic focusing lenses   H.   Anode                       C. Electron Gun            F.    Deflection Coils                              I.   Electromagnetic Steering Coils
-Learning is traditionally divided into three categories: associative, nonassociative, and ___.
-37.  A pregnant woman is in her third trimester. She asks the nurse to explain how she can tell true labor from false labor. The nurse would tell her that true labor contractions:
-Mateo was in the lab observing different reactions of different sugars with amino acids. Which of the following amino acid and monosaccharide combinations would produce an N-glycosidic bond?
-According to the Supreme Court, criminal defendants have a constitutional right to represent themselves at trial. This is known as what type of defense?
-A 38-year-old male who recently completed radiation treatment and chemotherapy for Hodgkin's lymphoma presents to an urgent care clinic with complaints of severe fatigue, shortness of breath and bruising. The following results are reported from a complete blood count: WBC: 2200 cells/ml3 Hgb: 6.2 g/dL Hct: 18.4% Platelet: 76,200  plt/uL What actions are indicated to address physical and laboratory findings?
-AFDELING B TOTAAL    [50]              TOTAAL     [75]
-_____________________ is an amount calculated by an institutional financial aid office, using federal regulations, that includes the total cost of tuition and fees, room and board, books and supplies, transportation, and other expenses.
-A gerontological  nurse who works in a public health setting has funding for initiatives.  Which of the following prevention and health promotion initiatives is likely to result in significant health benefits for the older adults who participate?   (Select all that apply)
-What is the barometric pressure reading from the aneroid barometer shown below?   [1] mb (to the nearest whole number) [2] in (to the nearest 10th)
-When labeling a peel-pouch, write on the _______side of the package.
-In classical Athens, male homosexuality
-For the following statement, one or more of the answers given is correct (shown as 1-4) Which of the following would play a role in fracture repair: 1. fibrocartilaginous callus                 2. hematoma                       3.    osteoblasts                  4. dendritic cells
-The nurse is caring for clients on a psychiatric pediatric unit. Which action by the nurse is reportable to the state board of nursing?
-INSTRUCTIONS: Complete each sentence. Use the modal and the continuous form of the verb in parentheses.   Ex: Hang up the phone. Your friend might be trying (might / try) to call you right now.        I saw Anna in the cafeteria. She ____________________ (could / wait) for you there.
-Use the factor-label method to solve the following stoichiometry problem.   Given the following equation: 1 C3H8  +  5 O2    3 CO2  +  4 H2O If 15.3 moles of water is produced from this reaction, what mass of CO2 is produced? To receive full credit:  You must use the factor unit method and the math equation editor in the tool bar to insert the stoichiometric calculation.  Show your work (conversion factors/and units) by using the equation editor() in the toolbar.  If necessary, use the the three vertical dots to expand the toolbar. Within the equation editor, use   to insert conversion factors. Be sure to include proper units and the final answer!  Or, show your work on a separate sheet of paper and submit in the Unit 2 Exam pictures dropbox after completing the Exam.
-What is the charge of X in the ionic compound XCrO4? Remember the notation of charge is 1+, 2+, 3+, 4+, 5+,... or 1-, 2-, 3-, 4-, 5-,..... [R1]
-Insert the missing code in the following code fragment. This fragment is intended to read an input file named dataIn.txt and write to an output file named dataOut.txt. public static void main(String[] args) throws FileNotFoundException {  String inputFileName = "dataIn.txt";  String outputFileName = "dataOut.txt";  File inputFile = new File(inputFileName);  Scanner in = _________;  PrintWriter outFile = new PrintWriter("dataOut.txt");  . . . }
-Describe the triangle.
-Listen to the audio. Answer the question in complete sentences in Spanish. You must give 2 specific examples in your response.
+*When does ovulation occur in a 28 day uterine cycle?
+What hardware device can be inserted into a network to allow an administrator to monitor traffic?
+The author of "Reputation Rules" believes that reputation management within companies should be the responsibility of ______.
+Lipophilic hormones (select all that apply)
+[Ans1], produced by the pentose phosphate pathway, can exit the pathway to be used for [ans2] biosynthesis.
+Muscle or nerve cells may exit the cell cycle and reside in a non-dividing state called:
+During the DFP what valve is closed and what valve is opened?
+At least _________________ soil surface must be covered by crop residue to reduce soil loss by erosion in a no-till operation.
+When iron(III) chloride is placed in water it becomes a hexaaqua acid.  Write a balanced chemical equation for the first acid dissociation.
+If MPC = 0.80,  when G decreases by 100 and T decreases by 100, then the IS curve for any given interest rate:
+When something desirable is taken away from a subject's environment or experience in response to their behavior, it is called _____
+In the election of 1872, the nominee of the Democratic Party and the Liberal Republican Party was
+Which of the following is true of phloem?
+As an individual consumes more of a particular commodity, the total level of utility derived from that consumption usually
+In eukaryotic organisms, what RNA modification is important for mRNA stability?
+Which word MOST NEARLY matches the antonyms:economize; save; store; conserve
+Marlene stands on the edge of a 3 m diameter  250 kg merry -go-round that is spinning at 15 rpm.  If Marlene steps off the merry-go-round in the same direction it is spinning find (a) her tangential speed as she steps off and (b) angular speed of the merry-go-round.  Assume Marlene's mass is 35 kg.
+Answer the question in a complete sentence with a direct object pronoun. example: ?Tu confirmas la reservacion?                                         Si, la confirmo a    e     i      o     u    n ?Tu visitas a tus amigos los fines de semana?
+Which ancient Greek thinker asked for a "firm and immovable" point with which he could move the world?
+Predict the output of the following C program:     #include  int main(){          printf("%d %o %x", 0121, 0X121, 121);}

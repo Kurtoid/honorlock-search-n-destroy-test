@@ -1,20 +1,20 @@
-*Identify the arrhythmia shown in B. .
-A patient with a spinal cord injury is in autonomic dysreflexia.  Which action holds the highest priority?
-Mala in se means:
-Which of the following diagnostic studies is key in the diagnosis of primary hypertension?
-Classify the triangle by it's ANGLES (acute, obtuse, right) and its SIDES (scalene, isosceles, equilateral)
-Analyze the following code and indicate, for each line, whether autoboxing, unboxing, or neither occurs when the assignment operator is evaluated: boolean b = new Boolean(true); //   1   occursBoolean a = b; //   2   occurs   1   : [1]   2   : [2]
-Suppose that . Find the following limit.
-A gift for you: The correct answer is "A"
-Chinese and Japanese children tend to underestimate their school abilities, while U.S. children tend to overestimate their academic abilities. These under-estimates and over-estimates tend to be ___ to actual achievement scores.
-I (want / always)_______________to travel. That's why I was delighted to go abroad with them.
-120/80____ Calculate the mean pressure shown above.
-Emerald Printing Company projected the following information for next year:      Selling price per unit $    60.00   Contribution margin per unit $    45.00   Total fixed costs $150,000   Tax rate 30%      What is the break-even point in dollars?
-For a chemical reaction to be spontaneous at all temperatures, which conditions must be met?
-A world-class sprinter will have a much higher percentage of ________ muscle fibers than a world class long-distance runner
-A client is to receive 0.25 mg of morphine sulfate per minute. The infusion has 500 mL with 250 mg morphine. Calculate the flow rate in milliliters per hour. Round to the nearest whole number and answer with a number only.
-______The nurse providing preoperative teaching to the gastrectomy client, is aware of optimal nutritional goals when she expresses the following to the client and family:
-Use a graphing calculator to solve the equation. Round your answer to two decimal places.e2x = x + 3
-The electron configuration for calcium is :
-The approximate dates of the Romantic period in music are
-Members of this group are characterized by highly modified mitochondria (e.g kinetoplasts, mitosomes, hydrogenosomes).
+The estimated proportion of genetic versus environmental contribution to the development of stuttering is 50% genetic and 50% environment.
+Immigration has become a polarizing topic in the United States for the past several years. Specifically, Latinx refugees have been migrating into the US seeking asylum and better lives from their own countries where they face kidnapping, human trafficking, and murder. Recently, Latinx children have been crossing the U.S./Mexico border in droves, yet the United States government has been under fire for not finding appropriate accommodation for these refugees or for not deporting them in a timely manner after they arrive.  Make an argument for your view on Latinx undocumented immigrants coming into the U.S. State your position followed by convincing reasons. Finally, what action can the U.S. take to begin unpacking this tough issue?
+Match the following terms associated with pathological conditions of the male reproductive system with their definitions.
+A nurse is receiving her annual performance appraisal. To evaluate the nurse's performance, the manager considers feedback about the nurse's performance from the nurse's peers, subordinates, and patients. This type of evaluation is a:
+In the late 800s CE, Tang emperor Emperor Wuzong wrote: "The public temples and private chapels have reached boundless numbers, all with soaring towers and elegant ornamentation sufficient to outshine the imperial palace itself."  What religion is Emperor Wuzong criticizing in this quotation?
+Given: myList = [3, 7, 10, 5] What would the following code segment print to the screen? for each in myList:      print(each, end = ' ')
+What is the minimum number of samples required for friable surfacing material if the total HA sampling area is less than 900 square feet?
+22.  The largest wine producing area in Argentina is the Mendoza region.
+In the multiple choice problems, "NOTA" means "None Of The Above". 1a.  (4 pts) For power method, which of the following statements is true: (A)  Power method can be used to find all eigenvalues of a given matrix. (B)  Power method can be used to find complex eigenvalues for a real valued matrix. (C)  Power method is suited for finding the eigenvalue with the largest magnitude of a sparse matrix.  (D) Power method cannot be used to find negative eigenvalues because the norm is always positive. (E) NOTA.   1b. (4pts) Which of the following statement regarding numerical integration is true: (A) Composite trapezoidal rule of integration is 2nd order accurate and the integration is exact only for a polynomial of degree 1 or less. (B) In deriving Simpson's 1/3 rule, since the underlying function is approximated by a polynomial of degree 2, Simpson's 1/3 rule is thus 3rd order accurate. (C)  Romberg method is not recommended because it is computationally too intensive. (D) NOTA   1c. (4pts) Which of the following statements about linear regression is NOT true: (A)  It can only fit the data using the function in the form of y=a+bx. It cannot be used for any nonlinear functions. (B)  The standard error of the estimate for a linear regression is given by for n data points in which Sr is the sum of squares of the residuals with respect to the regression line. (C) If the coefficient of determination r2 equals to 1 for the given n data points, all data go through the same straight line. (D) NOTA   1d. (2pts) True or False: Linear dependence among 4 vectors of the same dimension means that at least one of the vectors can be represented by a linear combination of the other 3 vectors. 1e. (2pts) True or False:  For a given set of data, Lagrange method and Newton's divided difference method will give identical polynomial if the degree of polynomial is the same. 1f. (2pts) True or False: Simpson's 3/8 rule is more accurate than Simpson's 1/3 rule because the 3/8 rule results from the use of a 3rd order interpolating polynomial to approximate the underlying function while the 1/3 rule results from the use of a 2nd order polynomial. 1g. (2pts) True or False: "Spline" method uses piecewise low-order polynomials to perform interpolation.      (10 pts) For three vectors u, v, & w given below, determine if they are linearly dependent:                          u=(1, 2, 3)                         v=(4, 5, 6)                         w=(7, 8, 9).    For the matrix A given below,   A=
+Which of the following is NOT considered as a bacterial virulence factor?
+When calculating cattle Yield Grades, what determines the preliminary yield grade (PYG)?
+The Arab spring was remarkable because
+The management at Climate Action Development needs to recruit campaign managers for its Renewable Energy Project. They are looking for candidates who are assertive, extroverted, and who can tackle challenges head-on. Which of the following deep-level characteristics should they focus on to best help them recruit the right candidate for the job?
+This artwork would be classified as Impressionist.
+Alterations in the structure and function of the glomerular _____________ are responsible for protein and blood cell leakage into the filtrate that occurs in many forms of glomerular disease.
+You learn from the prosecution that Mr. Curran pleaded guilty to the lesser charge under the City By-law, 2017-301, section 64(3)-Drive in a manner to obstruct traffic.  Should you ask the prosecution for the same resolution for your client, Ms. Lee?
+The character or quality of a musical sound is called
+A fasiculation is defined as
+All of the following were produced in experiments on primitive Earth conditions conducted by Miller-Urey and others, except for:
+You need to control access to a network through a Cisco router. Which of the following authentication services should you use?

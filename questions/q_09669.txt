@@ -1,20 +1,20 @@
-Problem 2 (20 points). You are asked to recommend a specific way a sender  can send a large file  to a receiver  with his secret-public key pair, without interaction. I.e., you cannot use interactive key exchange protocols. The receiver's public key is assumed to be authentic. The sender doesn't have her own key pair. In addition to the strongest security you are asked to pay attention to efficiency of your suggested scheme. 1) Describe what  does to send  and what  does to get . To do so, use the known schemes and their algorithms as building blocks. E.g., if you use AES-CBC$ as a building block, do not define it, just refer to its algorithms. 2) Specify what security level your scheme provide, under which assumptions, and why. You can refer to the known notions of security and the results we studied in class. It is OK to rely on the random oracle model if needed.
-Describe, giving a specific example, how interacting socially with other group members can have a negative impact on a primates' health?
-________ says that nations should accumulate financial wealth, usually in the form of gold, by encouraging exports and discouraging imports.
-Match the following types of differentiation to their matching example/methods of employing that type of differentiation.
-Which medication is the antidote when administrating magnesium sulfate  to a maternity parent?
-_____ are the primary asset of savings institutions.
-In Barbauld's poem The Caterpillar, how does the poet view the caterpillar?
-A Disney animated movie is a computational artifact.
-In Wright's Neo-Marxist view, groups are stratified based on:
-Light functions as both a particle and a wave, depending on how the experiment is conducted and how observations are made. Matter was found to have wavelike character in what experiment with electrons?
-A database record is a grouping of characters into a word, a group of words, or a complete number.
-1.1.9   Muslim guests would not eat the following dish from a menu:   (1)
-During photosynthesis, oxygen is produced by:
-Unequal sharing of neighboring atoms' electrons occurs within __________________; whereas equal sharing of electrons occurs within __________________.
-Smooth muscles in the dermis, that, when contracted, produce "goose bumps" are called:
-The mass murder of European Jews and other groups systematically carried out by the Nazis during WWII
-The interest rate on a loan expressed in terms of the purchasing power of a dollar is the
-When experimenters ask children to judge whether two complex pictures are the same, preschool children tend to use a haphazard comparison strategy, not examining all of the details before making a judgment, exhibiting a lack of:
-A nurse caring for a patient with bacterial meningitis should expect to apply which precautions?
-The final electron acceptor of the electron transport chain in the process of passing electrons is _____ .
+Which of the following cyber incidences will limit user access to the electronic services offered by a company?
+The motile, feeding stage of protozoa is called the ________.
+The function f : N [?] N defined by f(n) = 3n2(log n) is O(n2).
+Which of the following structural components of the plasma membrane prevents passage of water soluble materials:
+Action potentials for the sense of sight are different from action potentials for the sense of hearing.
+Use the parametric equations given to:Find the rectangular equation of the curve.Graph the curve and show its orientation. x = cos t, y = 3 sin t; 0 <= t <= 2p
+I will remember to submit my hand/scratch work to the appropriate assignment now.  I agree to destroy the work after I do so.  If I want to review my work, I can review my submission through Canvas.
+Write the correct form of the nouns in the parenthesis En la universidad hay veinte __________  _______ (salon) de clases.
+Both photosynthesis and biologically induced carbonate precipitation can help remove CO2 from the atmosphere.
+__________ are short term regulators of appetite, whereas __________ is a long-term regulator.
+Which of the following has the primary role of digesting disaccharides to monosaccharides?
+Which of the following statements is most true about the class of antidepressants used as first line to treat depression?
+Liam y yo (conocer/saber) hablar ingles, aleman, y espanol.
+Translate the following statement into an inequality. Select ALL that apply. The number of people at the math party was no more than 20.
+Patrick witnesses someone in front of him trip while walking to class. Patrick assumes the person is clumsy, not considering that the sidewalk was uneven in that area.  Which of the following best explains Patrick's conclusion?
+A jury needs to agree upon a verdict before they can be released from duty. As the jury is deliberating, they become increasingly motivated to come to a consensus quickly and easily, without regard for the nuance of the case. What does this best describe?
+Which of the following terms describes the adopter category of late majority?
+In which of the following ways is exercise effective in reducing risk of cardiovascular disease?
+We measure beliefs along a ______ continuum.
+A new company to produce state-of-the-art car stereo systems is being considered by Jagger Enterprises. The sales price would be set at 1.5 times the variable cost per unit; the VC/unit is estimated to be $2.50; and fixed costs are estimated at $120,000. What sales volume would be required in order to break even, i.e., to have an EBIT of zero for the stereo business?

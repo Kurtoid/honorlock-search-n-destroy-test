@@ -1,20 +1,20 @@
-Identify the term used to describe "difficult breathing."
-The difference between nominal and real is
-A client with peripheral venous disease (PVD) is sitting in a chair has +1 edema and purple colored feet. What action should the nurse take.
-Treasury shares plus outstanding shares equal
-Which of the following is the smallest structure?
-Using the Parkland formula, the fluid needed for a person weighing 140 pounds with a 25% burn would be _____ mL.
-Complete the main method below so that it reads in a file named FileIn.txt (assume this exists in the same directory where you are running your program). The method should output each line to another file named FileOut.txt, replacing each EVEN line with "This is line X", where X is the line number (starting with 1).  Look closely at the example output for more clarification. Notice that the output file has the SAME number of lines as the input file. HINT: Store each line from the input file into a String variable BEFORE testing if it is an even or odd line number. import java.io.*;import java.util.Scanner;public class FileIO {  public static void main(String[] args) { /* Your implementation here */ }} Example input and output files:     FileIn.txt   FileOut.txt     Hello world and hello once again    Hello This is line 2 and hello This is line 4        Make sure to select the 'Preformatted' style from the dropdown so your code is formatted clearly.  DO NOT USE THE TAB KEY WHEN WRITING CODE AS YOU MAY ACCIDENTALLY SUBMIT YOUR EXAM. USE THE SPACE BAR INSTEAD.
-Select the correct chromosomal abnormality in Turner's syndrome:
-The xanthine of choice to treat apnea of prematurity is:
-What is the primary purpose of assistive technology?
-A partially completed ANOVA table for a completely randomized design is shown here.    Source df SS MS F   Treatments 5 16.9 ---- ----   Error ---- ---- ----    Total 41 45.2 X      What is the number of treatments in the experiment?
-In holocrine glands
-3.1.2   Give one example of how Fungi plays an important role in the balance of the environment.   (1)
-Which of the following will result from increased aldosterone levels?
-We begin life as a single cell called a:
-Barry set himself a goal of bowling at least one game above 250 (out of 300 possible) before the end of the season. This is a ________ goal.
-Montelukast (Singulair) is a leukotriene receptor antagonist that is approved for the treatment of seasonal and perennial allergic rhinitis. It is generally well tolerated however, there are post-marketing reports of sleep disturbances and psychiatric symptoms (thoughts of suicide). (Study Guide Week 8)
-Which of the following health issues associated with obesity affects adults only?    a.  hypertension    b.  type 2 diabetes    c.  sleep apnea    d.  joint problems    e.  all can be complications of obesity in children
-A soap disclosing solution is commonly used to sample insect pests in turfgrass. Name a pest that would sampled using this method.
-What was the ECL "tiny lights flashing" referring to?
+Malaria is a result of infection caused by _____.
+What is a barrier to taking effective notes in class?
+What are the procedures that ensure billable services are recorded and reported for payment called?
+The prevalence of social media activity during the Arab String or the Umbrella Movement is testament to the importance of ______.
+Which of the following types of glia is responsible for establishing your blood brain barrier?
+Which of the following positions/projection(s) best demonstrates the spinal apophyseal joints?   1. Lateral C-spine2. Lateral T-spine3. Oblique L-spine
+How many courses (i.e. rows) of 8x8x16 CMU blocks are needed to build an 14' high masonry wall?
+Mike recently prepared a last will and testament in which he left all his assets to his girlfriend, Shannon. Mike and Shannon broke up last night and now Mike wants to leave all his worldly possessions to his best friend, Gerry. What can Mike do to prevent Shannon from receiving any of his assets?
+Internal, stable, and global explanations of one's own failures are indicative of
+African American Latinx have highest representation among persons who self-identify as
+Consider the following code snippet: Vehicle aVehicle = new Auto(4,"gasoline"); String s = aVehicle.toString(); Assume that the Auto class inherits from the Vehicle class, and neither class has an implementation of the toString() method. Which of the following statements is correct?
+After providing care, a nurse charts in the patient's record. Which entry will the nurse document?
+Measurement mechanisms should include a clear definition of:
+The coiled tubes identified in the image are called _________________.
+In &Delta;ABC{math:&Delta;ABC}  a = 1.2, c = 1.3, and B = 60deg. Find b. (Round to the nearest hundredth.)
+A process that absorbs heat is a(n) ____.
+Where in the brain are we most likely to see evidence of damaged tissue and diesase in someone with Alzheimer's disease?
+An older client is hospitalized for cellulitis. The client wakes up in the middle of the night very confused. The nurse reorients the client to the surroundings and gets the client to return to sleep. The nurse reviews the client's hospital records and considers the source of the client's confusion? Which of the following is the most likely source?
+How did Strock and Hicks compare agriculture runoff on Nettiewyynt Farm?
+The emergency department nurse is providing care to a 3-year-old child who has suffered a major accident. The parents ask the nurse, "Is our child going to be okay?" What is the most effective communication response at this time?

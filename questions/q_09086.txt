@@ -1,20 +1,20 @@
-During which stage of the cycle of adaptive change would you expect to find a climax community?
-In Group 5A, the element having the smallest atomic radius is
-tuus
-In Richard Wright's "The Man Who Saw the Flood," the main character is Noah who lived through the flood in the Bible.
-75.  The nurse is aware that infants of mothers with diabetes are at higher risk for developing:
-Where would a coral reef most likely be found?
-How does Kotter recommend that leaders communicate the vision to stakeholders?
-A child of mass 40 kg sits in a canoe of mass 60 kg, which is at rest in a lake.  The child dives off the front of the canoe with speed 1.5 m/s relative to the canoe.  What is the speed of the canoe relative to the water?  Assume the canoe moves frictionlessly on the lake.
-Over the entire six years that students attend an Ohio elementary school, they are absent, on average, 28 days due to influenza. Assume that the standard deviation over this time period is s = 9 days. Upon graduation from elementary school, a random sample of 36 students is taken and asked how many days of school they missed due to influenza. The probability that the sample mean is more than 30 school days is _______.
-Based on hierarchical levels of biological organization, which of these choices represents the broadest level?
-Identify the following bones:  A group of bones [a] B specific bone [b]
-Which of the following etiologies is the primary pathogen for progressive atrophic rhinitis (PAR)?
-The nurse is assessing a client who had a severe head injury and had been in a coma for six weeks and receiving tube feedings. Which of the findings would be could be consistent with this diagnosis?
-Three particles are placed in the xy plane. A 30-g particle is located at (3, 4) m, and a 40-g particle is located at (-2, -2) m. Where must a 20-g particle be placed so that the center of mass of the three-particle system is at the origin?
-The Congressional/Military Reconstruction Act of 1867 required before a state could be readmitted to the Union, that it:
-A patient with emphysema presents to the emergency department with difficulty breathing, bluish skin and mucous membranes.  What is the correct terminology for this manifestation?
-Which of the following might be considered a search under the Fourth Amendment?
-Which of the following would NOT be recorded on a valuable property record?
-Which vocal cord are involved with speech?
-Of the molecules below, only ________ is nonpolar.  (Chapter 9)
+When implementing decision trees in Caret using the "rpart" method, what does the "cp"  or complexity parameter control?
+Amanda is a 20-year-old college student who lives on campus. Her roommate brought her into your emergency room, because Amanda is not acting like herself. She was previously healthy, very involved in campus politics, and a 4.0 GPA student. About 2 weeks ago, she started not feeling well. She had bad nasal congestion, and was diagnosed with a sinus infection. However, she decided against taking antibiotics because she did not believe they were good for her. She started getting very high fevers, which Amanda told her roommate were good because they were killing the infection. Yesterday, she started complaining of a stiff neck, and today she seems especially lethargic with a fever of 105 degrees. Her roommate was scared, so she forced her into her car and has driven her to your ICU.  What is the most likely diagnosis for Amanda?
+Duchenne muscular dystrophy is a serious condition caused by a recessive allele of a gene on the human X chromosome. The patients have muscles that weaken over time because they have absent or decreased dystrophin, a muscle protein. They rarely live past their twenties. How likely is it for a woman to have this condition?
+The chancre is a painless, circular, purplish ulcer associated with:
+Choose the smallest integer d such that f(x) = (x2log(x) + 7x)(x3 + log(x5+1)) is  O(xd) .
+The insurance company's options for settling a collision loss to a covered auto under the PAP include which of the following?I.Pay the loss in money.II.Repair or replace the damaged auto.
+____________ stores genetic info, directs cell activities, is passed down from parent to offspring, and contains instructions for making copies of itself (replication).
+A parent says, "My son and I argue constantly since he started using drugs. When I talk to him about not using drugs, he tells me to stay out of his business." What is the nurse's first most appropriate action?
+The meaning of the medical term otoscopy is:
+A home health nurse visits a patient with stage 2 Alzheimer's disease who lives at home with a spouse.  In order to meed the needs of the spouse, the nurse suggests
+Who did what? Match each person with the correct answer.
+A speech pathologist wants to investigate speech development in boys and girls.  She gathers information from the parents of a simple random sample of 12 boys and 14 girls.  The boys began talking at a mean age of 1.33 years with a standard deviation of 0.12 years.  The girls began talking at a mean age of 1.23 years with a standard deviation of 0.15 years. a)  (4 points) Determine the parameter(s). b)  (4 points) What test should the speech pathologist use to determine a confidence interval?  Explain your reasoning. c)   (4 points) For the speech pathologist to use the test in part b, what assumptions must she make about the data collected?  d)  (20 points) Determine and interpret the 95% confidence interval.
+Maximum long-wave radiative flux from the atmosphere to the surface occurs ____________.
+A sample of a gas occupies 1.40 x 103 mL at 25degC and 760 mmHg. What volume will it occupy at the same temperature and 380 mmHg?
+A physician orders intubation and mechanical ventilation in the SIMV mode for a 200-lb ideal body weight (IBW) adult man with normal lungs.  Which of the following initial ventilator settings would you recommend?
+Titin is most closely assoicated with:
+1 x=12 while [ $x -lt 9 ]3 do4  name=$( cat ~/storms | sed -n $x"p" )5  echo "" >> /etc/httpd/conf/$name.conf6  echo " ServerName $name.storms.fiu.edu >> /etc/httpd/conf/$name.conf7  echo " DocumentRoot /var/www/$name/" >> /etc/httpd/conf/$name.conf8  echo " " >> /etc/httpd/conf/$name.conf9  x=$(( $x + 1))10 done
+In the equation HI + H2O (r) H3O+ + I-, HI is a strong acid and I- is a
+Which of the following statements describes one of the differences between tunicates and other chordates?
+Which instruction should the nurse provide for a patient prescribed nitrofurantoin (Macrodantin) to treat a urinary tract infection?

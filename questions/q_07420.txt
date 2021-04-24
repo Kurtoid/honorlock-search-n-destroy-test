@@ -1,20 +1,20 @@
-How many stars are there  in our solar system?
-Which organ system includes the spleen and the tonsils?
-Effective listening can be personally rewarding because it can:
-Define: Codominance
-At the instant
-Which fact about cystic fibrosis (CF) should a nurse consider when formulating a plan of care for a child with the diagnosis?
-Top-down design consists of multiple iterations of the following steps.  Break the problem into a few big parts. Figure out how to fit the parts together. Take a big-pricture view of the problem.  What is the right order of these steps in each iteration?
-The smallest unit of life is the ______________.
-Many processes in the biogeochemical cycles we've discussed are directly affected by pH. Discuss three examples of the importance of pH in the C, N, P, or S cycles. Be sure to include relevant chemical reactions (do not have to be balanced) and a discussion of the implications for cycling of the particular element under high and low pH conditions. (600 words) or  Describe the chemical and biological processes which contribute to phosphorus stability in soils and sediments and the development and implications of these processes during terrestrial ecosystem development. (600 words)
-A true breeding pea plant with round and green seeds was crossed to a true breeding plant with wrinkled and yellow seeds. Round and yellow seeds are the dominant traits. The F1 plants were allowed to self fertilize. What are the following probabilities:    Five F2 plants in the following order: two have round, yellow seeds, one has round, green seeds and two have wrinkled, green seeds
-Given a non-empty Binary Search Tree (BST) and a target value, write a program in pseudocode or C++ code to find the 3rd largest element in BST in O(n) time where n denotes the number of nodes in the tree. The function prototype is given as following: int thirdLargest(TreeNode* root)  We have defined the following C++ TreeNode class for you: class TreeNode {public:   int val;   TreeNode *left;   TreeNode *right;   TreeNode() : val(0), left(nullptr), right(nullptr) {}   TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}   TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}};  Example: Given the following BST   Your method should return 9 as it is the 3rd largest element in the above BST.
-Catabolism refers to those chemical reactions that
-Mitochondria are often called "the powerhouse of the cell" because they--
-Given a fixed amount of gas held at constant pressure, calculate the volume it would occupy if a 2.00 L sample were cooled from 60.0oC to 30.0oC.
-An employer can use a simple cafeteria plan until it has 200 employees.
-If a small cut or nick occurs, what should the cosmetologist or barber apply
-Determine the domain and range of the function. Domain is [a]  Range is [b]
-The most frequently used device in restorative dentistry is the:
-Where is the world's second largest continental ice sheet?
-Which of the following describes a motor tract? Select all that apply. (Learning Objective 7, page 25)
+All of the following are anatomic alterations of the lungs that may be found with the chronic stage of interstitial lung disease (ILD) except?
+Which molecule has polar bonds but is overall nonpolar?  Data sheet and Periodic Table
+Justin is a practicing Industrial psychologist. He is most likely to be found engaging in which of the following activities?
+The currents of water (containing food) that pass through a sponge are maintained by
+The case of People v. Olivo established the principle that:
+Select all answers that highlight what nonvascular plant lack as compared with vascular plants
+Which species requires the drawing of resonance structures?
+________ is not taking part in physical activity on a regular basis
+Molar entropies have units of _____.
+The president who won the election of 1912.
+Solve for x. log (7x + 1) - log (x-2) = 1 x =
+What do film badges, optically stimulated luminescence (OSL) dosimeters, pocket ionizationchambers, and thermoluminescent dosimeters (TLDs) have in common?
+On Time Manufacturing allocates its support department costs to its operating/production departments.  The following data is provided about the level of services support departments provide to each other and to the operating departments.  On Time Manufacturing management has decided to allocate Plant Maintenance costs on the basis of labor hours used by the departments and Data Processing costs on the basis of computer time used (in hours) by the departments.      Support Dept. Support Dept. Prod. Dept. Prod. Dept.    Plant Maintenance Data Processing Machining Capping   Budgeted manufacturing overhead/indirect costs $650,000 $175,000     Plant Maintenance labor hours used 0 3,136 7,056 5,544   Computer time used (in hours)  560 0 4,032 1,008      How much total cost (in dollars) will be allocated from Plant Maintenance to Capping using the step-down method assuming Data Processing is the first department in the step-down sequence? Round percentages to two decimal places (e.g., 15.445% would be 15.45% or .1545) and round dollar amounts to the nearest whole dollar.
+When one species looks like another harmful or palatable organism to avoid becoming predation, this is known as ___.  An example is the monarch and viceroy butterflies.
+Measuring the present socially responsible activities of an organization to assess performance in those areas is known as a/an ________.
+Write the name of the organ numbered 1.
+Which of the following best describes the attitude of most psychologists today toward Freud?
+The urinary sediment(pH5)  of a patient reveals crystals of a yellowish-hue, many of which are barrel shaped in appearance.  These crystals are most likely:
+In gluconeogenesis, _________and ________ are converted to glucose.
+Which of the following can be caused or created due to the greenhouse effect? (multiple answers possible)

@@ -1,20 +1,20 @@
-19. With reference to your own country, explain one way that you have freedom as a citizen. (2)
-A relatively high concentration of H+ for ATP synthesis would be found in the:
-Which of the following conditions on a patient with no sight may benefit from an opaque tinted lens with an opaque black pupil?
-Identify the layer "B" & "C"
-What is the main reason for the health care price inflation in the United States, according to Sade?
-Define: Samara
-Which of the following is a special binding substance that enhances immunogenicity and prolongs antigen retention at the injection site?
-As a group, _________________ are acquired first.
-Consider this graph    Write an equation for the line shown. [a] Write an equation for a line perpendicular to the given line. [b]
-This is the best assessment for a patient who is a 'coper' after a complete ACL tear who would like to return to sports.
-The EMT shows that he can accurately differentiate placenta previa from abruptio placentae when he states:
-When displaying home goods or hardline goods, whether they are small or large, it is important to do what?
-How many cubic inches are in 1.00 liter? (1 in = 2.54 cm)
-This step of wound healing reduces blood clots, bacteria, foreign and necrotic material and usually generates 7-8 psi.
-Few people want to be unemployed but good jobs are hard to find.
-For many patients and staff members, discussing the subject of money owed is touchy and uncomfortable. Which of the following statements would not be considered a professional way to discuss collections?
-7.5 Which of the following is the transfer of heat energy through the circulation or movement of a fluid?
-Organs can be donated after death
-People living under stressful conditions tend to get sick more often than they would otherwise. Which of the following describes how researchers in psychoneuroimmunology explain this phenomenon?
-You observe the following organism. If 1 unit of the ocular micrometer = 1 um, what is the diameter of this organism?
+Write a JavaFX GUI program with file name LastnameFirstnameExam5.java that meets the following requirements and adheres to the layout included sketch.  Must set the title of the window to be "1331 Exam 5 - YOURNAME", where YOURNAME is replaced with your first and last name. Must include some non-editable text at the top to the window (not the title) with a short phrase of your choosing. Change the text font to either Georgia, Papyrus, Courier New, or Comic Sans MS; it cannot be the default font. Font size should be 12. Must include a plain Button.  The button must toggle the color of the short phrase between Color.BLACK and your favorite color.  Make sure this color is still visible in the UI (i.e. the color should be dark enough to be seen). You must set the button text to something of your choosing.   Must include one of the following shapes:  Circle, Rectangle, Polygon, Ellipse, or Arc. The shape can be a color of your choosing, but make sure this color is still visible in the UI (i.e. the color should be dark enough to be seen). Must include a select one-of-many button group to control the alignment of the shape displayed. There should be 3 alignment options for Left, Center, and Right.  Hint: StackPane has a setAlignment method. You may place this group beside or below the shape.  In order to actually see the alignment change you will need to ensure that your window/stage is large enough. So, you need to set the size of your stage to be large enough to see the change proportional to the the size of your shape. A good ratio is to make the window 3 times the width and height of the Shape. To do this you can use the following methods: stage.setMinWidth(X); and stage.setMinHeight(Y);   Must use a Spinner UI control that will control the opacity of the shape.  The Spinner should have a minimum value of 0.0, maximum value of 1.0, initial value of 1.0, and a step amount (i.e. amount to step by) of 0.05 Hint: Opacity is specified as a value between 0.0 (completely transparent) and 1.0 (completely opaque). Another Hint: Look closely at Spinner's constructors to find one that allows for configuration of the min/max/init/step values on creation of the Spinner to make your life easier. Yet Another Hint: There are several ways to implement the event handling, we recommend using the setOnMouseClick method that is available to any Node   You must use at least one of the following children of Pane to control the layout of the Nodes: BorderPane, GridPane, HBox, or VBox. You must implement your event handling at least two of the three ways we taught: named inner class, anonymous inner class, and lambda expression.  For example, at least one handler as an anonymous inner class and at least one handler as a lambda expression. Failure to implement handlers in two different ways will result in the loss of points.   Points may be deducted if your layout deviates greatly from the one shown below. However, you do not need to have a border around the pane containing your shape nor around the shape itself. You may place the one-of-many button group below or beside the Shape.  YOUR SHOULD ONLY SUBMIT A SINGLE JAVA FILE. ENSURE THAT ANY OTHER CLASSES YOU INCLUDE EXIST WITHIN THE SAME FILE. IF YOUR SUBMITTED CODE DOES NOT COMPILE, YOU WILL RECEIVE A ZERO. SAVE, BACKUP, AND TEST OFTEN! The following is an example layout for your UI, but as long as you meet the requirements stated above the layout is flexible:
+The medical term for whhen air accumulates under the skin is:
+The main cause of mortality and morbidity in Ghana is:
+____________ occurs when a company places active or semi-passive RFID tags on expensive products or assets to gather data on the items location with little or no manual intervention.
+During the surprise Tet Offensive, the Vietcong did all of the following EXCEPT
+What is the main form of photosynthetic life in the limnetic zone?
+Of the following client needs, which need takes priority in the nurse's delivery of care?
+Deformity of the distal interphalangeal joints with osteoarthritis is known as:
+Which of the following lateral load resisting systems is most efficient for the design of a 1,000 foot tall building with a slenderness ratio H/width each direction = 10?
+According to the Declaration of Independence, inalienable rights come from _________.
+When there is high inflation, people
+Which of the following statements is incorrect with respect to determining current E & P?
+A woman loses a small amount of urine involuntarily every time she sneezes
+Draw the Lewis Structure of H2S. What is the electron domain geometry of H2S?
+Laryngotracheobronchitis (croup) most commonly occurs in:
+COVID-19 is considered to be a(n):
+Consider the region enclosed by the curve  ,
+Parents hope that (his or her /   their) children will be well liked.
+Which letter is pointing to the deltoid?
+Halogens are activators that act as ortho, para directors for benzenes.

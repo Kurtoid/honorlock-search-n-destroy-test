@@ -1,20 +1,20 @@
-This is not a test question but a reminder: Also remember that the exam is over at 11:55 am and no additional work can be completed in the exam tab at that time even if your time left indicates you have more time.   If needed, I will manually close your exam after 11:55 am.  You should then upload your scratch paper work to the exam 2 work folder in the assignment tab (any work submitted after 12:05 pm will not be considered)
-Why does the application of US require some type of coupling medium?
-Recall the 4 laws of radiation, select the answer that does not belong?
-Which of the following might occur if a patient being ventilated in a volume control mode develops a significant drop in lung compliance?              increased PIP premature ventilator cycling increased Pplat decreased ventilator rates
-The abbreviation CC stands for:
-The female equality movement suffered a political defeat with the:
-Which of the following is authority given to the Federal Insurance Office created by the Dodd-Frank Act?
-Use the example below to solve the exercise that follows. Example:Solve the compound inequality and write the answer in interval notation.        -1<= 2x-3
-The fuel value of propane is 50.3 kJ/g.  If a full barbecue grill tank holds [x] kg, how much heat results from the complete combustion of all the propane?   q= ________________ kJ.   Report value in kJ units and to 6 sig.figs.
-If chlorophyll a is blocked from absorbing light, what would be the effect on the ability of the plant to do photosynthesis?
-Which of the following is NOT a function of indirect motor pathways in the spinal cord?
-In the anteroposterior (AP) oblique projection for the sacroiliac (SI) joints, the joint space is best visualized when the patient is rotated _____ to the place of the image receptor.
-You use the logical ____ operator to reverse the meaning of a Boolean expression.
-The degree to which results of an experiment can be applied to real-life situations is known as
-Which of the following statements is true regarding return of premium term insurance?
-What will be returned when the following SQL statement is executed? SELECT driver_no, count(*) as num_deliveries  FROM deliveries  WHERE state = 'MA'  GROUP BY driver_no;
-A soil contains O, A, E, B, and C master horizons. The O, A, E, and B horizons are considered ____?
-How would you determine whether a metabolic reaction might require coupling to ATP hydrolysis?
-As microscope magnification increases, the field of view decreases.
-The two ways to check the accuracy of your perceptions are __________.
+In vertebrates (except for the jawless fishes), the embryonic ____ is replaced by tissues that form a vertebral column.
+Knowing the strengths and weaknesses of the parents in your group can help you communicate effectively and plan ways to extend the care program into the home.
+An oxytocin infusing is delivering at 100mL/hr per IV pump. The concentration is oxytocin 20 units in 1000 mL of NS. How many units of oxytocin is the patient receiving per hour?
+The nurse educator is developing activities for advanced cognitive learning. Which of the following activities would provide students with the HIGHEST level of learning?
+7.  Ethan and Rebecca are riding on a merry-go-round. Ethan rides on a horse at the outer rim of the circular platform, twice as far from the center of the circular platform as Rebecca, who rides on an inner horse. When the merry-go-round is rotating at a constant angular speed, describe Ethan's tangential speed.
+4.  A product sells by word of mouth.  The company that produces the product has noticed that revenue from sales is given by   ,       where x is the number of nits produced and sold.  If the revenue keeps changing at a rate of $800 per month, how fast is the rate of sales       changing when 1800 units have been made and sold? (Round your answer to the nearest dollar per month.)
+The Notre Dame Mass by Guillaume de Machaut was
+Find all real solutions to the equation.x1/2 = 3
+An antagonist to the soleus is [muscle]
+Traditional Police organization is best described as;
+Write the correct abbreviation for cardiovascular:
+What is essential in the restoration and continuation of photosynthetic productivity in the ocean?
+____________ has been called the "social death penalty."
+A client is admitted to the emergency department with acute signs and symptoms of urolithiasis. What is the nurse's priority action?
+What are the 2 most common second messengers in the cell signaling pathway?
+Which code represents a data grid?
+Which of the following is NOT a muscle of facial expression?
+Solve the problemAlternate optimal solutions exist when the ________.
+Which trait IS NOT CONSIDERED in the classification of Biological Agents and the designation of Biosafety level safety precautions?
+Which input value causes "Goodbye" to be output next?  int x;cin >> x;while (x >= 0) { // Do something cin >> x;}cout

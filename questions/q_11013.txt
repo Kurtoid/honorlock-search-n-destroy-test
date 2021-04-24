@@ -1,20 +1,20 @@
-Find the minimum point of the objective function f = x - 2y using the graph below.
-Which structure is labeled "D"?
-A woman at 40 weeks of gestation calls the OB triage nurse to report a trickle of fluid from her vagina. What action by the nurse is most appropriate?
-All of the following foods are good sources of bioavailable calcium except:
-Activated cells of humoral immnunity are called __________ .
-Which of the following statements about blood types is correct?
-The "crowding-out" critique is based on the idea that
-Which of the following is true about trichophyton?
-The largest portion of the Supreme Court's caseload comes from
-Prokaryotes divide through ___________________.
-The examination of the data, information, and other forms of evidence, including the needs of target populations, which will guide the development and promotion of a new product or service is called:
-Determine if each statement is true or false.  The most general antiderivative of  is  .   [A] The most general antiderivative of    is
-An astronaut is in equilibrium when he is positioned 465 km from the center of asteroid A and 287 km from the center of asteroid B, along the straight line joining the centers of the asteroids. What is the ratio of the masses MA/MB of the asteroids, assuming gravitational forces due to other celestial bodies are negligible?
-You estimate a Fama-French 3 factor regression on a stock and get the following coefficient estimates, which are all statistically significant: alpha = 0.3 Rm - Rf = 1 HML = -0.5 SMB = 0.5 What best describes the  stock's characteristics?
-Based on Dr. Silbiger's presentation, why is knowing the patient's BMI important? Give two reasons.
-According to the "competitive exclusion" principle, ___________________________.
-The prefrontal cortex comprises about ...
-Chloramphenicol is an antibiotic that targets prokaryotic (70S) ribosomes but not eukaryotic (80S) ribosomes.  Which of these questions stems from this observation plus an understanding of eukaryotic origins?
-The easiest way to prevent Smurf attack, is to ignore ICMP echo requests sent to broadcast or default gateway addresses in your network.
-The case study about the Aurora movie theater mass shooting illustrates which complications about the criminal justice system:
+Given , the 2x2 gradient of the cost with respect to the convolutional layer , and , the 3x3 output activations of the previous layer, perform the backward pass and return , the gradient of the cost with respect to the weights  . Note that we want the resulting value at [2,1] (indexing starts at 1) of the gradient .  Note: The kernel was applied with no padding and stride=1    x11 = [x11] x12 = [x12] x13 = [x13]   x21 = [x21] x22 = [x22] x23 = [x23]   x31 = [x31] x32 = [x32] x33 = [x33]         dh11 = [dh11] dh12 = [dh12]   dh21 = [dh21] dh22 = [dh22]
+The three phases of a twitch in skeletal muscle are, in order:
+For an investment in minority passive equity securities, the receipt of a cash dividend would be reported as :
+45-- What type of reaction is seen in tube "C"? 46- Name the bacteria in tube "E?         A              B            C            D              E
+An example of an intervention taken on the tertiary prevention level of care is:
+A nurse reads the laboratory report for a patient and notes that the patient has hyponatremia. What physical assessment would be made?
+The probabilistic distribution of data is symmetric, while the non-probabilistic data distributions are asymmetric.
+Pangri wanted a new cell phone. Her parents told her she didn't need a new cell phone because her old phone still worked, even though it lacked many common smartphone features. Pangri became angry and shouted at her parents, "Technological determinism is part of this society and I need a new phone!" What was she referring to?
+A right to a nonconforming use of land cannot be lost through abandonment.
+The method of weaning a patient from mechanical ventilation that has the most success is:          I. Spontaneous Breathing Trials using PS/CPAP          II. Reduce Pressure Support levels by 2cmH20 at a time          III. SIMV mode with Pressure Support
+These types of muscle have peripherally located nucleii:
+Melatonin is important because it regulates
+What is the technical term for lice?
+In the previous problem, compute the cost of equity for XYZ. Please enter your answer using decimal notation, i.e. not as a percentage. For example, a cost of capital of 21.5% should be entered as 0.215.
+T or F: Resistance training should not be performed by prepubescent children under any circumstances.
+Select the best response for the nurse to a question from another health professional regarding the difference between a diagnosis in DSM-V and a nursing diagnosis.
+Which of the following are true regarding medication errors? "Select All that Apply" a. Administering the wrong amount of the right drug is a medication error.b. Wrong documentation of time on a patient's medication record is an error.c. Writing an incident report on a LPN for a medication error is used to penalize the nurse.d. Medication error reporting is not an important issue as long as the client is fine.e. The incident report must be filled out as a legal requirement.
+Label this Question Q-Balance (6 min.) Balance the following reaction in acidic medium: (Hint:  Big coefficients are ok) SO3-2 (aq)  + MnO4-1 (aq) - SO4-2 (aq)  + Mn+2 (aq)   (acidic soln) Show all work in detailed steps on your paper.   Place the overall sum of the charge found on the left hand side of the balanced equation here.
+Pedigree 2 Assuming 100% penetrance, what is the most likely mode of inheritance shown for this pedigree?
+Which of the following moves fluid from the glomerulus to the glomerular capsule?

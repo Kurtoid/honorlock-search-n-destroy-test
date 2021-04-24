@@ -1,20 +1,20 @@
-Determine if the two sets are equal, equivalent, both, or neither.  You do not have to show work for this problem. A = {1, 2, 3, 4, 5} B = {red, green, yellow, black, orange}
-_____ limitations result when a system that was designed for a specific hardware configuration becomes obsolete when new hardware is introduced.
-The nurse can help provide a therapeutic environment for an elderly patient by
-Based off of what you learned in Lesson 8, which is the most effective way of measuring violent crime?
-Salary you could have earned while you were on non-paid leave.
-Match the branch of microbiology with the description:
-Compound/Cluster Pier:
-The timely arrival of the French navy off the coast of Yorktown gave Washington's forces the reinforcement they needed to defeat Cornwallis's British army.
-Consider the permutations method from the textbook, which is intended to return all permutations of the word passed in as a parameter. Which line contains the recursive call in the permutations method? public static ArrayList permutations(String word) {  ArrayList result = new ArrayList();  if (word.length() == 0) // line #1  {  result.add(word); // line #2  return result; // line #3  }  else  {  for (int i = 0; i < word.length(); i++) // line #4  {  String shorter = word.substring(0, i) + word(substring(i + 1); // line #5  ArrayList shorterPermutations = permutations(shorter); // line #6  for (String s : shorterPermutations) // line #7  {  result.add(word.charAt(i) + s); // line #8  }  }  return result; // line #9  } }
-9. This character has both strengths and weaknesses.
-A nurse neglected to create outcomes in the plan of care for each of the patients admitted during the shift. Which is the most important reason for the nurse to create these goals?
-[term1][term2][term3] are measures/metrics that quantify management objectives along with the particular target threshold, measured on some periodic base. "Number of the product design changes" is an example of these (3 words, 3 points overall).
-How many molecules of PGAL (3-C) are used to produce one glucose molecule?
-The structure of "Brian had 6 duck decoys. At a recent auction, Brian won some more decoys. If Brian now has 15 duck decoys, how many did he win at the auction?" is
-In which section of a primary research article would you be most likely to find the following sentence: Past research suggests that academic major can be an indicator of environmental values (e.g., Ewert & Baker, 2001), and this study found that students who majored in environmental studies, humanities, and art had higher levels of environmentally responsible behaviors.
-13.]  Find the value of the logarithm. Simplify if possible  (4pt)
-The content theory of motivation which revolves around satisfaction and dissatisfaction is called:
-Having large areas of white space on a wall is an acceptable merchandising technique.
-Which of the following fishing techniques is most damaging to ocean bottom ecosystems?
-A client is admitted with a diagnosis of possible aortic aneurysm.  In assessing this client, it is most important to monitor the client's:
+Clinical indications for performing routine calcaneus projections would be:
+Which of the following is considered to be one of the extraneous variables that affect the rate of diffusion of an object?
+Which assessment findings would indicate a suspected pulmonary embolism?
+What size Foley catheter is usually used for adult patients?
+In the Pendulum periods experiment the following data is collected and the graph  period squared vs the length of the pendulum is plotted, as shown below.  What is the experimental value of the acceleration due to gravity in this experiment?
+A retrospective study uses data from the past in cases where it may be unethical to perform an experiment e.g. consumption of alcohol and effect on newborn babies.
+In rabbits having spots is recessive.  A male without spots is crossed with a female with spots. Some of their offspring have spots. What are genotypes of the parents? What are the genotypes of the offspring with spots? Before you click submit, you must show the front and back of your scrap paper to the webcam again. Do not exit the test without showing your scrap paper.  Do not hold the paper too close to the webcam!
+Find the area of the region that lies inside one petal for the function:
+Chromosomes contain genetic material. How many chromosomes make up a haploid set?
+In the image below, the middle tube is [result1] for acid and [result2] for gas.
+(3 points) Chylomicrons are absorbed in the small intestines for transport through the lymphatic system by structures called  _______       .
+When you link data between two worksheets, the worksheet containing the original data is referred to as the _____ worksheet and the worksheet containing the link is referred to as the _____ worksheet.
+Streptococcus pneumonia infection occurs in people with a variety of specific host factors including age (primarily children and elderly) and depressed cough reflex. There is a vaccine for prevention, and it can be treated with antibiotics.
+Identify this muscle that keep the structure that you identified in Q51 taut.
+What serves as an immediate (at the very beginning of the exercise) energy source during high intensity exercise?
+A join in which rows that do not have matching values in common columns are still included in the result table is called a(n):
+All of the following are phases of the growth curve except:
+High-deductible health insurance is required with which of the following?
+The distinct line that runs along the sides is called the ___________ line.
+If a cell with 40 chromosomes divides and resulting cells have 40 chromosomes each and are genetically identical, this process corresponds to

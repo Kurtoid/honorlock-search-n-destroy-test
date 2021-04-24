@@ -1,20 +1,20 @@
-Complete the following problems on your own paper. Please use a separate sheet of paper for each problem. You must show your work in order to receive full credit. Correct answers without justification will only receive partial credit. (You do not have to show every step of computation, but I should be able to follow the thought process you used in completing the problem. No notes, calculators, or electronic devices may be used on this quiz. There are 30 possible points on this quiz. Problem 1. (10 points) A spring has a natural length of 2 feet. A 10-pound force is required to stretch the spring to a total length of 3 feet. How much work is required to stretch the spring from its natural length to a length of 5 feet? (Don't forget to include units in your solution.) Problem 2. (10 points) Use the disk/washer method to set up an integral for the volume of the solid obtained by rotating about the -axis the region under the curve  from  to  .  Problem 3. (10 points) Use the cylindrical shell method to set up an integral for the volume of the solid obtained by rotating about the -axis the region under the curve  from  to . Hint: Although this is the same solid of revolution as in Problem 2, I recommend drawing a new picture; this may help prevent error. Problem 4. (0 points) You just set up an integral for the volume of the solid obtained by rotating about the -axis the region under the curve  from  to , using two different methods. If time allows, evaluate the integrals for each problem to verify that both methods gave the same solution. When you are finished, please keep in mind that you should remain in the Zoom session until you have successfully uploaded your quiz to Gradescope.
-If a property has an assessed value of $120,000, a market value of $140,000, a taxable value of $95,000, and has taxes of $1,900 per year, what is the effective tax rate?
-Which of the following theories/principles BEST explains why we see the bystander effect?
-Follow these instructions:  1. Show the camera your phone.  2. Get up and put your phone behind you, somewhere out of your reach. Did you do step 1 and 2?
-You completely forgot about a paper you were supposed to write for class.  You've never been in that situation before, but you want to explain the situation to your instructor, so you think about what you want to say before going to her office hours. This kind of message is called a _______.
-In public health we conflate, or combine race and ethnicity, so when we say racial/ethnic health disparities, we mainly mean health disparities stemming from social disadvantage and racism rather than inequitable outcomes resulting from biological differences.
-All of the following are examples of quantitative data EXCEPT ________.
-For each of the following independent cases (4a, 4b, and 4c), prepare the journal entry that was made to record the admission of Ye into the partnership:
-Chapter 21    Which of the following images above shows what we would expect to see during metaphase?
-Which of the following cell types would have a high response to radiation (radiosensitive)?
-Hershey and Blanchard expanded the contingency approach to leadership by incorporating concern for people and concern for production in their leadership model.
-The function represents the rate of flow of money in dollars per year. Assume a 10-year period and find the present value.f(x) = 1000e-0.04x at 5% compounded continuously
-What is a trace element?
-(Dr. Passler) You examine a 3-year-old castrated male alpaca. The alpaca seems to have trouble walking, and you suspect meningeal worm. Which one of the following statements is CORRECT concerning meningeal worm in alpacas?
-The number of sub levels in a magnesium atom is
-This region on the DNA is where the DNA opens and transcription starts.
-Who wrote "A Rose for Emily"?
-Which assessment finding in a patient who has just returned from having a thyroidectomy should be immediately reported to the health care provider?
-The nurse is caring for a patient who has experienced an optic nerve injury after a trauma. Which condition does the nurse recognize is associated with this type of injury?
-What is the base SI unit of period, T?
+In red bone marrow newly formed blood cells enter the circulation. You would most likely expect to see ________capillaries in red bone marrow.
+What type of a reaction occurs when a sodium hydroxide solution is mixed with an acetic acid solution?
+ID the passageway (opening) at end of pointer.
+There are several useful screening tools to aid the crisis worker in identifying alcohol abuse. These do not include
+How many waffles can be made from 1 dozen eggs, assuming you have enough of all other ingredients? Given: 2 cups flour + 3 eggs + 1 tbs oil - 4 waffles
+Latoya has created a model with six predictors (x1, x2, x3, x4, x5 , x6). She has 100 observations. She found the following ANOVA table.      DF Sum of Squares Mean Sq F p-value   x1     0.002   x2     0.003   x3     0.004   x4   401  0.65   x5   300  0.26   x6   254  0.25   Residuals  [SSEfull]       She would like to remove the last three variables (x4, x5, x6) all at one time, so she ran the model with only the first three variables  (x1, x2, x3).      DF Sum of Squares Mean Sq F p-value   x1     0.001   x2     0.002   x3     0.75   Residuals  [SSEr]       Find the F test statistic to determine if she can remove all three variables.  Round your answer to one decimal place.
+The formation of kink is observed in ________ fatty acids.
+The nurse reviews the health record of a 15-month-old child. The child has received the immunizations described below. Which vaccines will the nurse recommend for the child at this time? Select all that apply.                         3 doses of DTaP (last dose at age 6 months)                        2 doses of Inactivated Polio (last dose at 4 months)                        4 doses of Hib vaccine (last dose at 12 months)                        3 doses of Hepatitis B (last dose at age 6 months)                        1 doses of MMR (last dose at age 12 months)                        3 doses of Pneumococcal (last dose at 6 months)                        3 doses of Rotavirus (last dose age 6 months)
+I took a drug that inhibited the increase in mitochondrial number and content following long term aerobic exercise training.  How would this drug affect my adaptation to the exercise and why?
+The Budget Deficit for 2019 could have been eliminated by increasing taxes by:
+A researcher wanted to know which chemoattractant (cAMP or folate) Dictyostelium discoideum cells preferred. He found that overall, a significantly higher number of cells we're attracted to cAMP compared to folate. What can you conclude about the physiological state of the cells?
+If 300 mA has been selected for a particular exposure, what exposure time should be selected to produce 18 mAs?
+The orthopedic physician orders pin care.  As the nurse of the client with skeletal traction you would:
+A 70-year-old male presents to his primary care provider reporting loss of vision.  He reports that he has HTN and smokes cigarettes.  Which of the following disorders is most likely causing his visual loss?
+Over the period 2011-2016, most correlations between the U.S. stock index and stock-index portfolios of other countries were
+A client scheduled for magnetic resonance imaging (MRI) has arrived at the radiology department. The nurse who prepares the client for the MRI should prioritize what action?
+Answer either increase, decrease, or not affected,  for each question:
+Type in the number of sig figs in your answer here.
+Consider the definition of the Measurable interface and the code snippet defining the Inventory class: public interface Measurable {  double getMeasure(); }  public class Inventory implements Measurable {  . . .  double getMeasure()  {  return onHandCount;  } } What is wrong with this code?
+Which of the following examples demonstrate the nurse acting as a client advocate (choose all that apply)?

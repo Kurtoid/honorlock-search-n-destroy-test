@@ -1,20 +1,20 @@
-Manuel y yo _________________[have]___ muchos primos. Nuestra familia es grande.
-At the end of the pointer:
-How many lumbar vertebra are there?
-Agriculture still remains as the major source of their livelihood in Sub Saharan Africa.
-Which option is the greatest risk factor for the development of burnout?
-A repurchase agreement is most comparable to a:
-Steven has the dominant tongue rolling phenotype but he does not know his genotype. His wife has the recessive non-tongue rolling trait. If their son cannot roll his tongue this means ________.
-Given that time to complete taxes is normally distributed with a population mean of 4.2 hours and a population standard deviation of 1.2 hours.  Find the upper and lower bounds of the middle 70% of data. ( [a], [b] )    round to 3 decimal places as needed.   On your scratch paper, draw the picture of this scenario.  Include (mu,:bounds,:and:areas.)This is worth 6 points.
-A new nursing assistant asks the nurse how best to approach a hearing-impaired older adult. Which of the following approaches should the nurse recommend?
-A graph of drug concentration in the blood versus time after delivery to the body is call the _______________ curve.
-What was the elongation temperature of the PCR reaction?
-Which of these patients has the highest priority care needs?
-________ make(s) up more than half the volume of the brain.
-The photosynthetic cells in the interior of a leaf are what kind of cells?
-The following question(s) refer to the generalized life cycle for land plants shown in the figure. Each number within a circle represents a specific plant or plant part, and each number in a box refers to a biological process.Meiosis is most likely to be represented by which number?
-In human DNA replication, which histones most likely dissociate completely from the DNA and reassemble randomly from the local pool to restore proper modifications?
-ALGEBRA Find mA in ABC if mB = 38 and mC = 38.
-Modify the data file according to the instructions below. Upload your finished work to Canvas using the link. The Farm Fresh Market wants an easier way to keep track of the shelf life of fresh vegetables. Perform the following tasks to help them:  Open the data file associated with this test in Canvas. Save the workbook using the file name Farm Fresh Market Complete. Apply the Dividend theme to the worksheet. Format the data as a table using the style Blue-Gray, Table Style Medium 5. Adjust column widths so that all column headings are fully visible. Enter the following numeric data in the Sell By Date column, rows 3 through 15:    Sell By Date   10/10/2020   10/18/2020   10/13/2020   10/15/2020   10/12/2020   10/25/2020   10/16/2020   10/25/2020   10/13/2020   10/25/2020   10/16/2020   10/23/2020   10/22/2020     Create three new calculated columns: Shelf Life, Days Left and Grade. The formula for calculating the Shelf Life is = [Sell By Date] - [Stock Date]. The formula for calculating the Days Left is = [Sell By Date] - currentDate. (Hint: currentDate is a named cell.) The Grade column will require you to create a lookup table, shown below. Type the heading Grade Table four columns to the right of cell H1; apply the same font style, font size and background color as in cell A1 to the heading. Underneath the Grade Table heading, enter the subheadings and data from the table below. For the Days Left and Grade subheadings, apply the same font style and background color as in cell A1; apply font size 11. Merge and center as appropriate. No lines or borders are needed.    Grade Table   Days Left Grade   0 F   3 D   7 C   9 B   14 A     Use the VLOOKUP function to fill in the values for the Grade column of the data table. Use the Grade Table for the lookup values. The numbers in the Days Left column represent the minimum number of additional days the product may be left on the shelf for each grade. Add conditional formatting to the Product ID and Grade columns so that the product ID and letter grade of produce with a grade of "D" are formatted with a bold font, color Plum, Accent 2 (column 6, row 1), surrounded by a solid border, color Plum, Accent 2 (column 6, row 1), no fill. Create an output area. Enter the heading Output Area in cell J10; apply the same font style, font size and background color as in cell A1. Merge and center cells J10 through L10. Starting in cell J11 and going down, fill in the following labels: Grade A Count, Grade C Count, Grade F Count, Vegetable Count and Fruit Count. Use the COUNTIF function to fill in the appropriate counts in cells L11 through L15. Create a treemap:  Sort the table by Type and then select the range B2:D15. Insert a treemap chart and apply the second chart style. Remove the legend. Move the chart to a new worksheet, named Treemap Chart. Change the font size of the chart title to 32 and type Farm Fresh Market Stock Dates as the new title. Change the font size of the data labels to 18. Apply the Banner label option to the data series. Display the Category name and Value data labels and separate the labels by placing Value on a new line. Save the workbook.   Protect the worksheet Farm Fresh Market and lock cells for editing so that only the data in the following columns of the table can be edited: Product ID, Type, Produce, Stock Date and Sell By Date. Do not use a password to protect the worksheet. Save the workbook. Farm Fresh Market has decided to change the product ID numbers to make them easier to read and remember in the future.  Create a new worksheet named Product ID. Copy the Product ID column data from the Farm Fresh Market worksheet into the same cells on the new worksheet and adjust the column width to best fit. In cell B3, use the TEXT function to convert the product numbers to text with a hyphen between the fourth and fifth digits. (Use Excel's function help if necessary.) For example, "369718" should convert to "3697-18." Copy the TEXT function from B3 to the cells below so that all product numbers are converted.   Save the workbook and upload it to Canvas.
-Which type of long-distance call is made without the help of an operator?
-Demographic patient information may be obtained in all of the following ways EXCEPT:
+What is an indicator of a country's economic development?
+What motion is being demonstrated in the image above?
+Determine the empirical formula for a compound that contains C, H and O.  It contains 52.14% C and 34.73% O by mass.
+Adrenaline helps the body to _________.
+What is the primary reason the cardiac surgery patient may need inotropic support for 12-24 hours after cardiopulmonary bypass?
+Transcribe the new version of the tumor suppressor gene following viral integration and excision.
+Women can pass HIV to their babies during pregnancy, delivery, through breast-feeding, or pre-mastication.
+The Federal Register is a publication of which branch of government
+When caring for a patient who has had a stroke, a priority is reduction of ICP. What patient position is most consistent with this goal?
+What instrument would be used to cut the cornea when performing a keratoplasty?
+This blood test measures the kidney function via testing for the level of nitorogenous wastes that have built up in the blood
+Patient A undergoes a barium enema procedure, which involves:
+Confirmation of correct plasmid assembly can be determined by
+A common site to place a tracheostomy tube is through the ligament that connects the cricoid cartilage to the __________ cartilage.
+Which of the following is NOT a function of the small intestine?
+Jay Blumler and another colleague Denis McQuail (1969) found that there was a need either to ________ or to ________ others.
+In order to determine taxable gain on a residence, the
+From smallest to largest, which is the correct order of size?
+A frontal section separates the body into:
+Based on the object data in the spatial frequency domain, the letter A corresponds to what type of data?
