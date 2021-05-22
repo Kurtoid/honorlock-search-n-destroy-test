@@ -6,4 +6,4 @@ Questions are randomly selected and loaded as you scroll. Click on a question to
 
 The purpose is to demonstrate how few questions are original.
 
-Hello Honorlock. Special mention to phishlabs.
+Hello Honorlock
