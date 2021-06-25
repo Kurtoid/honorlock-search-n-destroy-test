@@ -1,0 +1,20 @@
+Solve the problem.Two dice are rolled. What is the probability of having both faces the same (doubles) or a total of 4 or 10? Round to the nearest hundredth.
+QUESTION 1.4         Informal businesses are...   [1]
+Alternators of small kilovolt-ampere rating are generally _____-cooled.
+What is a pilot study? (Choose the right answer)
+from PIL import Image from numpy import *import ___________        #blank 1 def __________________________():    #blank 2    answer=random.choice([1,2,3,4])    if answer==1:        result=[0,0,0]    if answer==2:        result=[150,0,0]    if answer==3:        result=[0,150,0]    if answer==4:        result=[0,0,150]    return result     pic=Image.open('dog.jpg') ______________________________ #blank 3________=pixels.shape                  #blank 4theChoice = makeChoice()for row in range(dims[ 0 ]):    for col in range(dims[ 1 ]):        if pixels[row,col,0]==255 and pixels[row,col,1]==255 and pixels[row,col,2]==255:            pixels[row,col,0]=theChoice[ 0 ]            pixels[row,col,1]=theChoice[ 1 ]            pixels[row,col,2]=theChoice[ 2 ] newImage=Image.fromarray(___________________)    #blank 5newImage.save("fixedPicture.jpg")   What goes in blank 1? [blank1] What goes in blank 2? [blank2] What instruction goes in blank 3?[blank3] What goes in blank 4?[blank4] What goes in blank 5?[blank5]
+The sense of taste is known as gustation.
+Which of the following is an example of selection-based communication
+While hiking at high altitude your body responds to the low atmospheric pressure and the difficulty to circulate more oxygen with an increase in the production of red blood cells, stimulated by the hormone erythropoietin. Which of the following are involved in the production of EPO?
+Concrete domes are insulated using:
+The mother of a newborn African American infant asks the nursery nurse, "Why did you give my baby a vitamin K injection?" Which statement is the nurse's best response?
+MOAs are established to
+Note:  The segment is written in the format - Seq# (dataLength), Ack#, Flags Event 0: Host A receives a TCP segment from Host B, i.e. B -> A. Event 1: Host A sent a valid response to Host B , i.e. A -> B.    The TCP segment has the following parameters: Seq#: 7000 (0), Ack# 9000, Flags: SYN, ACK Event 2: Host A received a  valid response from Host B, i.e. B -> A. What would be the most plausible TCP segment in Event 2?  (Pick the best answer)
+Which supervision strategy focuses on the supervisory review of financial conglomerates?
+3.4   Die kosprys van 'n item wat verkoop word vir R600 met 'n winsopslag van 50% op die kosprys is R400 / R300.   (1)
+The Outsiders is told from which point of view?
+Solve the system of nonlinear equations.  Make sure to write your solutions as (x, y) order pairs.
+A pH higher than 7 indicates that the solution is acidic (has more hydrogen ions than hydroxide ions). CH 6
+Which is true of salamanders?
+A 5-month-old infant who has a 3-day history of cough and rhinorrhea has developed an audible expiratory wheezes and increased coughing. Infant has been afebrile and feeding well.  The infant's immunizations are up-to-date. The physical exam reveals a respiratory rate of 50 breaths per minute, coarse expiratory wheezing, oxygen saturation is 96% on room air and no retractions. What is the recommended treatment for this infant?
+Cells specialized for absorption, such as in the small intestine are likely to show an abundance of

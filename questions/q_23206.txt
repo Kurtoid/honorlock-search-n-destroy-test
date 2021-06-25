@@ -1,0 +1,20 @@
+Consider the following code fragment. If b equals zero (i.e., an arithmetic exception occurs in calculating the division), what will be the output? try{   double result = a / b;   System.out.print("Try ");}catch (ArithmeticException exception){   System.out.print("Catch ");}finally{    System.out.print("Finally ");}System.out.print("Main");
+Please confirm that you have completed your exam with proctoring and submit. This step stops the proctoring and ends the current attempt.  (you will submit the exam each for each time you access the Capsim exam)
+A tax revolt in the late 1970s was kicked off thanks to conservative retired California businessman Howard Jarvis.  He promoted low taxes, especially property taxes and this led to the creation of UOT or ____________________.
+Name the indicated structure at the indentation.
+Discuss the origin of humans. How long have Homo sapiens been on the planet?
+The nurse checks the laboratory report on a client who recently had a spinal tap. The presence of which of the following cerebral spinal fluid (CFS) contents should be of concern to the nurse
+What is the share of national income earned by the top 1% earners in the U.S.?
+Place stress in perspective. Don't sweat the small stuff and put your circumstances into perspective.
+Consider the following reaction at equilibrium: 2SO2 (g) + O2 (g) = 2SO3 (g)
+The school of thought that bases its focus on the greatest good for the greatest number of people:
+The gonad of the female reproductive system is the _________.
+What was the process velocity for this system?  A computer repair technician begins work at 6am.  Three computers arrive at her repair station at 6am.   She finishes fixing the first computer at 9amThe second computer at 10amThe third computer at 4pm.   Each computer leaves the facility as soon as it is completed. (Choose the closest answer)
+Gertie wants to buy a smartwatch by making an electronic payment. She is not willing to divulge her financial information, and her only bank account is not linked to any online payment service. Which of the following most aligns to what Gertie feels comfortable doing?
+Selective binding and ink-jet imaging make it possible for magazines to offer
+A middle-aged patient tells the nurse, "My mother died 4 months ago, and I just can't get over it. I'm not sure it is normal to still think about her every day." Which nursing diagnosis is most appropriate?
+This is produced when electrons are accepted by oxygen during cellular respiration
+You are interested in performing blue and white screening. You plate cells containing a vector with no insert in the presence of ampicillin and IPTG (no X-gal). Which of the following would you expect to observe?
+______ protects the lining of the digestive tract from gastric juices and digestive enzymes.
+A group of firms with a formal agreement to collude is:
+la bandiera (flag) americana: rosso, _______, blu

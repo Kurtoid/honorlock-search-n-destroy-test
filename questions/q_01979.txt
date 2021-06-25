@@ -1,20 +1,20 @@
-It is required that you keep this NOW Assessment running until you have completed and submitted your answer document to Dropbox. Submit to Dropbox  Following your submission, answer this question and exit this assessment.  I have submitted my workbook to Dropbox
-The person who assumes a leadership role in a small group because of her or his ability, personality, or talkativeness is termed a(n)
-Give the specific name of the tissue above
-A stool culture has the following results:* XLD agar: many red colonies with black centers; few yellow colonies* BAP: mixed floraThe technologist should now:
-If the labor cost for a crew composed of two laborers is $40/MH, what would be the daily cost rate of the same crew? (hint: assume a standard 40 hours per week work schedule)
-What condition is necessary in order for a binary star system to appear as an eclipsing binary?
-It is possible for a system to operate in a way that entropy is destroyed.
-The Out of Africa Model proposes:
-Which of the following solutions is the most acidic?   Equations: pH = -log [H3O+] pOH = -log [OH-] pH + pOH = 14.00 Kw = 1.00 x 10-14 at 25oC Kw = Ka x Kb = [H3O+] [OH-] pKa = -log Ka pH = pKa + log
-The interest rate charged in the federal funds market; the interest rate banks charge one another for overnight borrowing
-Which of the following features are common to nearly all vertebrae (maybe 1 or 2 exceptions) located in cervical, thoracic, AND lumbar regions?  (2)
-Which microscope objective should be used when scanning a fecal flotation slide for the presence of parasite stages?
-The Cold War (1947-1989) was a bi-polar moment in world politics. The United States and the Soviet Union divided the world in two according to their political ideologies in their quest for power, and this affected Latin American countries. Please answer the following question taking into account the context of the Cold War. Provide as much detail as possible to answer the question.  Use the case of Nicaragua and explain how the U.S. policy of containment played out in this country during the Cold War. Explain how Nicaraguan leaders ultimately resolved their country's conflict.
-Of the four sets of challenging behaviors listed below, select the behaviors that should indicate to a team that a functional behavioral assessment needs to be conducted.
-In a neutralization reaction, __________.
-A gomphosis is
-John Brown's raid
-In nucleophilic acyl substitution:
-The change in sperm motility associated with hyperactivation may--
-A random sample of 300 circuits generated 13 defectives. Use the data to test H0: p=0.05  vs.  H1: p< 0.05. Find the value of the test-statistic for this test. Round answer to 2 decimal places
+Match the following terms from this unit's lessons with their correct definition.
+According to Cattell, being able to quickly see connections between two pieces of information would be indicative of what type of intelligence?
+MISCELLANEOUS Please select the word proper word to fill in the blank for the following sentence:   _____ counsel will be arguing tomorrow?
+For a normal weight adult, is more body energy stored as liver glycogen or as body fat?
+As the electron transport carriers shuttle electrons, they actively pump _____ into the outer membrane compartment setting up a concentration gradient called the proton motive force.
+Enzymes used by sperm cells to penetrate an ovum during fertilization are located in the
+A jar contains 20 red  marbles, 30 green  marbles, and 10 blue marbles. If a marble is selected at  random, find the probability that the marble is green.     (Type an integer or a simplified fraction.  When typing a fraction, use the "/" symbol as the fraction bar.)
+Which of the following is a general trend in the periodic table for the atomic radius of the elements?
+23. Which PCR step synthesizes complimentary DNA strands?
+Question 7 c Given the following cdf F(X) = a(x3-8)   2
+All of the following are good approaches for obtaining the highest velocity in an aortic prosthesis except:
+An adaptive advantage of having a three-chambered heart, as found in amphibians, over the two-chambered heart of fish is that _____.
+Transcription of the DNA triplet sequence ATC yields a _______ codon on pre-mRNA.
+The Burgess Shale is significant because it contains mostly soft-bodied fossils.
+A fixed annuity might be a good choice when
+What is the identifier/key for entity type E3?
+Semaphores [Lisonbee, Conrad] Consider the following partially implemented code:   #define NUM_THREADS 10 semaphore S = 2;int data[5], index = 0; void runner(void* param) {    wait(&S); //LINE 1     data[index] += 5;    printf("%dn", data[index]);    index = ++index % 5;     signal(&S); //LINE 2    pthread_exit(0);} int main() {    pthread_t threads[NUM_THREADS];    for (int i = 0; i < NUM_THREADS; i++) {        pthread_create(threads[i], NULL, runner, NULL);    }    for (int i = 0; i < NUM_THREADS; i++) {        pthread_join(threads[i], NULL);    }    return 0;}   The provided code uses a semaphore in attempt to guard the critical section between 'LINE 1' and 'LINE 2', as indicated in comments. In the current form, the critical section is not properly guarded by the semaphore. Without using an additional mutex lock or semaphore, show how you could change the code to properly guard the critical section. Indicate which lines of code you would change to fix the issue and describe what impact the fix may have on multi-threading the program. Justify your change(s) with reasoning as to why they would work.
+Suppose that a hypothesis test with significance level a=0.01{"version":"1.1","math":"a=0.01"} results in a P-value of P=0.26{"version":"1.1","math":"P=0.26"}. Select all of the true statements about the conclusion below.
+69. Which of the following statements is not true in regards to glaucoma?
+All of the following instruments could be used for hemostasis EXCEPT:

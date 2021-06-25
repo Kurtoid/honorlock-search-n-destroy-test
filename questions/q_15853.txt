@@ -1,0 +1,20 @@
+The second-order reaction 2 Mn(CO)5 - Mn2(CO)10, has a rate constant equal to 3.0 x 109 M-1 s-1 at 25degC. If the initial concentration of Mn(CO)5 is 4.0 x 10-5 M, how long will it take for 90.% of the reactant to disappear?
+Consider the JavaFX code below. How will the interface appear when the code is run?   public void start(Stage primaryStage) {    // Create a border pane    BorderPane pane = new BorderPane();    Button b1 = new Button("J");    Button b2 = new Button("K");    Button b3 = new Button("L");    Button b4 = new Button("M");    pane.setTop(b1);    pane.setRight(b2);    pane.setBottom(b3);    pane.setLeft(b4);    VBox vBox = new VBox(15);    vBox.setPadding(new Insets(15, 5, 5, 5));    Label[] labels = {new Label("physics"), new Label("math"),                                      new Label("chemistry")};    for (Label label: labels) {          vBox.getChildren().add(label);    }    pane.setCenter(vBox);        // Create a scene and place it in the stage    Scene scene = new Scene(pane);    primaryStage.setTitle("ShowBorderPane"); // Set the stage title    primaryStage.setScene(scene); // Place the scene in the stage    primaryStage.show(); // Display the stage  }
+The reduction in sensitivity of a receptor from constant exposure to a stimulus is known as _________.
+The nurse is caring for a client with major burns covering 36% of the body.  The urinary drain bag contains 75 ml dark brown urine over last 3 hours. What should the nurse do?
+Suppose G is a simple graph with two connected components G1 and G2. What is the chromatic number kh(G)?
+In a family court dispositional hearing for potential child removal, parents are not permitted representation by an attorney.
+Which of the following retirement plans would be most effective in encouraging early retirement?
+Which of the following is NOT a reason why high-performance is desired?
+The name often applies to the time period in U.S. history between 1870 and 1900; it was a time of large increases in wealth for some as well as poverty and harsh living conditions for others, both caused by industrialization; it was also a name of a novel about the late 1800s written by Mark Twain:
+Image #6  Lateral Ankle  Positioning:    There is inadequate flexion of ankle CR is directed posterior to the proper point Critical joint spaces are narrowed Anatomy is aligned to the light field
+The above picture represents a ___________ valve.
+Earthworms are monoecious (hermaphroditic), meaning _______________.
+Individuals with psychiatric disabilities make up the largest and fastest growing subgroup of SSDI/SSI beneficiaries.
+Bilateral hematoma of pinna is reported with code(s) _____.
+3.4   Lomlisa uzokwenzani ngenkinga abhekane nayo?   (1)
+In how may hours can a rapid read steam biologic indicator be read?
+Use one of the following verbs in the correct form for the sentence below. Verbs: machen, schmecken, sprechen, sollen, dauern, sein, mogen, sitzen, schreiben, bezahlen, bringen, fahren Es _________ Sonja sehr gut.
+True or False. Select A if True. Select B if False. When using a fluid filled pressure monitoring system the stopcock determines which way fluid movement will flow.
+Myosin is characterized by all of the following, EXCEPT
+What special information is required when labeling a non-blood specimen?

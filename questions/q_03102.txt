@@ -1,20 +1,20 @@
-Which hormone(s) is released by heart muscle in response to excessive chamber volume?
-Consider the tasks below to answer the following three questions.     First Arrival Deadline Period Execution Time   T1 0 3 3 1   T2 1 5 5 2   T3 3 7 7 3    (a) Test whether the tasks are schedulable on a single processor using Earliest Deadline First (EDF) scheduling by applying necessary test. Based on the necessary test, predict if EDF can find a schedule (without violation). (b) Schedule the above tasks using Earliest Deadline First (EDF) up to 20 time steps. Use * to indicate subsequent task arrivals. If a task violates its deadline, only abandon that task at the time it violates the deadline, show the violation using 'X' mark, and proceed with the next highest priority one. In other words, the 'X' mark should be at the same position of * symbol, if violation happens. If the priority of a currently executing task is the same as the priority of a newly arrived task, continue to execute the current task. If the priorities of two tasks are the same and both are ready to execute, then always choose the one with the smaller execution time. The deadline and period values are relative to the arrival time. For example, if a task arrives in time step 2 with a deadline of 8, its actual deadline is timestep 10. Also, if a task arrives in time step 2 with a period of 8, it arrives next in timestep 10. Please prepare the schedule in any scratch paper and enter your answer in the following format (the numbers given below are random numbers for illustrative purposes only) showing all the arrival times, all violations (if any), as well as the actual schedules up to 20 time steps. T1 arrives at time 0, 11, 39, 73, 81 T2 arrives at time 1, 23, 45, 99 T3 arrives at time 3, 55, 75 T1 is scheduled during 0-1, 11-17, 81-99 T2 is scheduled during 1-55, 45-111 T3 is scheduled during 3-9, 55-77, 99 - 100 Schedule violation for T1 at time 34 Schedule violation for T2 at time 57, 43 (c) Based on the schedule above, comment on your prediction. For example, if you predicted no violation based on necessary test in (a), but there is task deadline violation in (b), justify the rationale (e.g., prediction is wrong because ...., or scheduling is wrong because ...).
-Changing the shape of the lens to correctly focus light on the retina is called
-The figure shows a 2000 kg cable car descending a high hill. A counterweight of mass 1800 kg on the other side of the hill aids the brakes in controlling the cable car's speed. How much braking force does the cable car need to descend at constant speed? Ignore frictional forces.
-***When answering the questions, place the letter your answer pertains to in front of your answer. Please note there are 2 parts to this question*** A. Describe the differences in entropion and ectropion. B.  Which one will ALWAYS have to be surgically corrected?
-Each time a treatment is provided by the occupational therapy practitioner, a notation is made of what occurred. What type of note does this describe?
-Agents that block reabsorption of sodium in distal tubule are
-Viruses can be detected directly or indirectly in which of the following ways?
-The right side of the brain is always the representational hemisphere.
-Which of the following processes involves the transfer of heat between an animal and an object in its environment that the animal is touching?
-The oldest trail in Canada is the _________ Trail in southern Ontario, which runs along the Niagara Escarpment from Niagara Falls in the south to Tobermory in the north on the Bruce Peninsula
-For the following question, determine whether the behavior is shared by all athletes or unique to athletes who exhibit normal or disordered eating Behavior:  Obsessively controls energy (calorie) intake
-Which gas is typically higher in the soil than in the atmosphere?
-Number 6 in the above image is a/the
-The treatment of sinusitis may include
-The reticular formation is a web of __________ scattered throughout the __________.
-Which of the following reflects a nutritional substance the human body can manufacture from other substances?
-NADH and FADH2 donate their electrons to protein complex I of the electron transport chain (ETC).
-A criteria for drug offenses is
-HAART (Highly Active Antiretroviral Therapy) involves a minimum of how many drugs:
+What are the root(s) of the quadratic equation whose related function is graphed below?
+What is the minimum number of calories a male should eat on a daily basis?
+Exercise: Write the logarithmic expression as a single logarithm (condense), and simplify as much as possible.      2log3k-5log3m+log3(n+3){"version":"1.1","math":"2log3k-5log3m+log3(n+3)"} Use the Graphical equation editor to show your work.
+Ecchymosis is the bluish/purple discoloration of the skin, due to bleeding
+The coordinating conjunctions are and, but, or, nor, for, so, and yet. Which answer below has the correct comma placement?
+Better classroom managers spend little to no time on rules and procedures at the beginning of the year.
+In which of the following stages is the B-cell found?
+According to Erikson, the psychosocial  stage of industry vs. inferiority should be achieved by which age group?
+Which of the following statements is TRUE concerning feedback mechanisms?
+Which is an example of positive feedback?
+Nishant Kumar has been hired by American Manufacturing as a staff accountant in the internal audit department. He has been asked to thoroughly document the existing accounting information system in preparation for making recommendations for improvements. He decides to begin by meeting with the information technology staff in order to develop an understanding of the computer programs used by the system. The documentation tool that he should employ for this purpose is a
+Ovulation occurs in response to surges in which of the following?
+A solenoid is wound with 470 turns on a form 4.0 cm in diameter and 50 cm long. The windings carry a current in the sense that is shown in the figure. The current produces a magnetic field, of magnitude 4.5 mT, near the center of the solenoid. Find the current in the solenoid windings.
+The resting cell membrane of cardiac muscle cells favors the movement of __________ ions.
+When diagramming an atom, how many electrons can fit in each of the shells beyond the innermost shell?
+Which of the following is true of forgiveness?
+A person with Anorexia Nervosa takes in enormous amounts of food without gaining weight
+Which of the following is/are NOT a phase of the project approach?
+Please answer question 6 part (a).
+Which tab would you go to in order to create a new viewport?

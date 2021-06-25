@@ -1,0 +1,20 @@
+Problem 7 For coding problems write the code to have no compile, simulation, or synthesis errors. Declare all variables. Write your code in Verilog or System Verilog. a) Write a full adder module named FA that adds single bit input A and B and carry in C and places this in output S. The carry out should be named Cout.  Remember that S = A AB AC, and Cout is 1 if any two of A, B, and C are 1.     b) Using this full adder module you just wrote, write a ripple adder module named FA4 that adds AA and BB which are 4 bit numbers, with carry in Cin. The result should go in 4 bit output Sum, with carry out Cout which is 1 bit. Include an overflow calculation and an overflow output OF. Overflow occurs when the carry in to the last bit and the carry out from it are different.
+What is the most prevalent bacterial STD in the United States?
+Multipolar neurons have a distinctive dendrite, cell body and axon.
+Define the following term in two to three sentences Biodiesel
+P sues D in federal court under federal question jurisdiction, alleging that D violated P's federal civil rights by discriminating against her because of her sexual orientation. D files a 12(b)(6) motion to dismiss P's complaint for failure to state a claim upon which relief can be granted, pointing out that, under the federal civil rights statute, sexual orientation is not a protected classification. The trial court grants the motion, dismissing P's suit without clarifying whether it is with or without prejudice. P then files a second lawsuit in state court, alleging once again that D violated P's federal civil rights and also her state civil rights by discriminating against her because of her sexual orientation. Both P's federal and state civil rights counts are based substantially on the same events as P's original lawsuit. The state civil rights statute relied upon in P's second lawsuit explicitly prohibits discrimination based on sexual orientation. Which of the following is true?
+The structures below shown at A are called a/an [_____A______]  and serves for [_____B______].
+Which of the following is not a nitrogenous base in RNA?
+Protein bars are an excellent source of quick energy for athletes.
+Ruptured disks in the cervical region of the spine often produce pain and weakness in the arms and neck.
+The nurse observes the following rhythm on the patient's monitor. The patient is symptomatic. The nurse knows the proper treatment to be:
+Why is water particularly effective as a solvent?
+What kind of information can be used as supportive material in your main points?
+Muscle relaxation occurs when __________
+According to the text, there are limits to how much money you can save, and your ability to earn more money is practically unlimited.
+Which of the following is an example of a commensalism?
+Match the following ECM molecules to their structure and function.
+pH 7 has a balanced level of H+ and OH-.
+(Use all correct answers) The site of lymphocyte maturation is _______ and the site of lymphocyte activation is _________.
+Determine the value of  for which the series
+Use the following information to answer the questions 11, 12, and 13 below:  Fabricate an implant for tissue repair for one of the two tissue choices:  Tendons or Peripheral Nerves. Using all of the knowledge you have learned in this course, describe a step-by-step experimental procedure for fabricating, testing, and analyzing the results, plus ethical considerations. Include all of the underlined bulleted points and at least two other bulleted points in your response for each category.  If your additional choices are similar to the required topics, you must describe something different.  For example, in the testing and analysis portion, if you choose "method of analysis" it must be something different from the quantification method you already wrote about.  You will be graded on how well you address each category, and how well your response is organized and thought out. Be specific with each choice, and explain why you chose each one.

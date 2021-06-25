@@ -1,0 +1,20 @@
+Consider the following program: class Node { int v; Node next; Node(int v) { this.v = v; }}class List { Node head; }static void main() { List list = new List(); //h1 for (int i = 0; i < 10; i++) add(list, i); Node child = new Node(2); // h2 child.next = list.head.next;}static void add(List this, int v) { Node n = new Node(v); // h3 Node prev = null; Node curr = this.head; while (curr != null && curr.v
+On your way to work, you hit and kill a pedestrian because you were texting while driving. Which type of mens rea most likely exists in this situation?
+Some people oppose ecosystem restoration because it provides developers/destroyers with what they call a "redemptive opportunity."  Explain what they mean and why they see this as a problem.
+When GDP growth declines, investment spending typically ______ and consumption spending typically ______.
+"Rectatif" What do Twyla and Roberta continue to disagree on each time they reconnect?
+A and B are independent events. P(A) = .30, P(B) = .50. Find P(A|B).
+Which of the following would increase the gap in wages between skilled and unskilled workers?
+X definitions are used to assign a meaning to a new term or to assign a new or special meaning to a familiar term
+The national debt represents a/an ___ for the federal government, and it represents a/an ___ for bondholders.
+The competitive exclusion principle says that:
+The nurse is providing care to a patient with benign prostatic hyperplasia (BPH). Which drug classification should the nurse include in the patient's plan of care?
+The following causal filter is excited by white noise of zero mean and unit variance    The relation among the variance of the signals is  s2y = s2x + s2q
+Which of the following parts of the nervous system is responsible for the "fight or flight" response experienced in response to a stressor?
+When organizations have bad news, it's public relations job to
+Sputnik led to:
+In Florida, Kyle represents Hugo in a personal injury (torts) case. The case is settled for $565,000 before the defendant files an answer to the complaint. Kyle and Hugo had a contingency fee arrangement, which stated that if the case settled before an answer was filed then Kyle was entitled to 40% of the recovery. Is this fee arrangement permissible (lawful and ethical)?
+In the figure below, the arrow is pointing to
+Consider the lipids in bacterial and Archaea membranes. Which statement is true?
+If an in-flight emergency requires immediate action, the pilot in command may
+Use the advertisement to answer the following questions  Apple 13 Inch MacBook Pro Touch Bar  Retina display 6MB shared L3 cache 2.0GHz quad-core i5 1TB SSD Storage 16GB of 3733MHz LPDDR4X on board memory Intel Iris Plus Graphics 720p FaceTime HD camera Office 365 1 Tb Cloud storage

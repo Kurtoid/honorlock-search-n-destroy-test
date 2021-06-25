@@ -1,0 +1,20 @@
+Bile salts
+Which of the following is a sign of dysphagia (difficulty swallowing)?
+Consider the following LC-3 program that prompts for and echoes an inputted character (note the starting address): ; PROGRAM MODULE .ORIG x3250 LD R1, NEGlf LOOP LEA R0, PROMPT TRAP x22 LD R0, CHARqm TRAP x21 TRAP x20 ADD R2, R0, R1 BRz DONE TRAP x21 BRnzp LOOP DONE TRAP x25 .END Also consider the following additional LC-3 code that provides data for the program above: ; DATA MODULE .ORIG x3270 CHARqm .FILL x003F PROMPT .STRINGZ "input" NEGlf .FILL xFFF6 .END Complete the symbol table below for the code above. Enter the addresses as 4-digit hex values in LC-3 format like the following: x01F3       SYMBOL       ADDRESS      LOOP [loop]   DONE [done]   CHARqm [charqm]   PROMPT [prompt]   NEGlf [neglf]    LC-3 does not have a linker so assembling just the program module above will result in undefined symbol errors since some labels are external (i.e., they're defined in the data module). A linker is able to complete machine code for instructions that reference external symbols by calculating the correct PC offset using the information in the symbol table. What machine code would a linker create for the LD R0, CHARqm  instruction in the program above?Enter the machine code as 4-digit hex values in LC-3 format like the following: x01F3 [mc]
+To improve one's vocabulary, one can
+Question 3 If you have any questions related to the course where can you get help?
+Which of the following graphical symbols represents a minimum cardinality of one and a maximum cardinality of one?
+This is a 10-point extra credit opportunity. For problem #8 (regression equation problem), is the effect of per capital cigarette consumption significant? Note that Sy/x = 5.23?
+Galileo believed in a ________ view of the universe.
+What spotting pattern is shown on the horse in this picture?
+3.1             You are applying for a design position at an advertising company. Discuss the following in essay format: *       Under which category out of the four design areas does Graphic Design fall? *       Your field of specialization *       Describe how your ideal workplace will look *       Explain what basic equipment you would need in your studio / workspace           (10)
+BONUS: What is the name of your LECTURE instructor?  Do not write my name, Cain, unless I am your lecture instructor in addition to being your lab instructor.
+You are planning a summer vacation in Europe and do not want it to be spoiled by rainfall.  Which of the following locations best suits your desire for a rain-free summer?
+Which of the following is considered an internal audience for a public relations activity?
+Milk that can remain on supermarket shelves, free of microbial growth, for many years have been processed by which of the following methods?
+How should you transport a patient who has just had a syncopal episode and is now alert but weak?
+Which statement is TRUE
+An issue of preferred stock is paying an annual dividend of $1.50. The growth rate for the firm's common stock is 5%. What is the preferred stock price if the required rate of return is 7%?
+Amyloid plaques that form outside the neuron in the brains of people with Alzheimer's Disease cause cell death because
+Eloise and her family watched Forks Over Knives, a documentary on the dangers of the Western diet. As a result, Eloise suggests that they try eliminating meat at dinner one night a week in order to incorporate more plant foods. Her grandmother insists there is no need to change their diet and dismisses the data from the documentary as "fake news". Which of the following could be involved in Eloise being more willing than her grandmother to consider the data and make a change?
+23. Calculate the change internal energy (DE) for a system that is giving off 65.0 kJ of heat and is performing 855 J of work on the surroundings.

@@ -1,20 +1,20 @@
-Which of the following does NOT represent a characteristic of a synthesized contingency analysis?
-Whooping cough is caused by Yersinia pestis
-When playing an instrument such as a trumpet, the muscle used to purse the lips and blow forcefully is the:
-The following table shows the total cost of a service call by Reliable Heating and Air Conditioning, based on the number of hours the service person is at the customer's location.       Hours   Total Cost     0   $75     1   $125     2   $175     3   $225       A. How much was charged after 0 hours? What does this represent? B. What are the independent and dependent variables?C. Write a formula for the total amount charged for a service call that lasts x hours.
-Complete the sentence with SINCE or FOR. ___________ the past few weeks, all the players have been sick with the flu.
-Please consider the character John. First identify the work in which he appears, and then explain his significance to that work and role in that work.
-What would be the molecular geometry for the ICl4-1 ion?
-In the image below, shaded in shapes represent people affected by a genetic condition.  Which of the following best describes the inheritance of this trait?
-An advantage of Sr89 over Sm153 for palliative treatment, is that Sr89 can be imaged.
-The target organ for thyrotropin-releasing hormone is the thyroid gland
-Lippert discusses several "age-related" gait problems seen typically in older adults.  Name three.
-Products that have been started but are only partially complete at the end of the accounting period are known as
-8  A woman in labor, 8 cm dilated with spontaneous rupture of membranes 18 hours ago.  The nurse notices clear amniotic fluid draining from the vagina  with a slight odor.  What should the nurse's primary action be at this time?
-You want to loosen a stuck bolt and the torque required is 48 Nm.  You attach a wrench that has a handle 20 cm long.  The force you must apply to this wrench is:
-A strict Social Darwinist would object to all the following except:
-Each year Emperor penguins migrate across Antarctica to their breeding grounds 50 miles away from the sea (and food).  For over 2 months the male emperor penguins care for and incubate the eggs while the females return to the sea to feed.  During this time, the male penguin can lose up to 50% of its biomass (by dry weight).  Where did the majority of this biomass go?
-John Donne   In "Song: Sweetest love, I do not go," what does Donne say happens to him when his wife sighs and cries?
-How would you label this Gram stain pertaining to [Gramreaction], [morphology], and [arrangement].
-Who took over the Russian Communist Party after Lenin died?
-The Inter-American Court sits in ______
+Which of the following reasons best explains why nirvana is typically described in negative terms, rather than positive ones (i.e., no illusion, no fear, no suffering)?
+If the DNA sequence is ATTCCG, the mRNA transcript would be
+Neoclassical compositions are characterized by _____________.
+McCarthy classified marketing activities into the four Ps of the marketing mix. These four Ps stand for ________.
+Die Traditionellen Medien Ursula hat viele Freunde! Sie ruft oft die Freunde am Telefon an.    anrufen = to call Was macht sie hier?
+Which of the following statements is TRUE regarding false positive test results?
+Which of the above shown variable types is brightest?
+Short Answer: List 4 factors from the textbook or lecture that can control observational learning. (1pt each)
+Rods and cones synapse directly with________, which then synapse directly with _____________:
+Consider the following generated IR. First detect the basic blocks in the IR and then generate the control flow graph as per the algorithms discussed in the class. Show the basic blocks generated using the following format:  Name of the basic block(start with B0 and use B1, B2 and so on.) : {Statement numbers that belong to the basic block}, e.g. B0 = {1, 2, 3, 4}   Show the generated CFG with the basic blocks. List the basic block edges present through an ordered list such as shown in the following example. B3 : { B3, B4, B5} means there is a directed edge from basic block B3 to each of the other basic blocks B3, B4 and B5 (briefly, there is an edge from B3 to B3, an edge from B3 to B4 and finally one from B3 to B5).  Perform the liveness analysis and write down the IN and OUT sets for each basic block using the following format: for example, IN[B1] = {a, b, c} OUT [B1] = {d} where B1 is the name of the basic block and a, b, c is the list of variables live at its entry; in a similar way, out set for B1 is shown where variable d is live at its exit.     Find out webs for each variable. Write your solution in the following format: for example, W1(x) = {1, 2, 3} forms a web for x in the above example where 1, 2, and 3 are the corresponding instructions, W(var) = {list all the instructions in the corresponding d-u and u-d chains corresponding to that web}.  Pick one of the webs, and show which other webs it interferes with.   IR (with statement  numbers): label 0:     a1 = a2;  b1  = b2;  t1 = i * 4;  if ( a1 < b1) go to label1   t2 = a1 * t1;  i = i + 1;  b2 = b1;  goto  label 2;    label 1:          9. t2 = b1 * t1;        10. i = i - 1;         11. a2 = a1;         12. if (a2 < 10) go to label 3; label 2:          13. a1 = a1 + a2;           14. b1 = b1 + b2;           15. i = i * 2;           16. go to label 0; label 3:           17. t1 = t2;           18. t2 = t2 + 2;           19. a1 = a2           20. b1 = b2;           21. return;
+How do astronomers believe an irregular galaxy forms?
+You find an organism; it has longitudinal muscles using whiplike motion, and it has a pseudocoelom. Which phyla does it belong to?
+What's the length of the test tube shown below?
+Span of control refers to:
+Matching questions: Match the Cranial Nerve with the function.
+In which terrestrial biome is biodiversity the greatest?
+What is the unit of resolution used to express the amount of detail present on an image ?
+Mrs. Peters suffers an acute bronchospasms and receives epinephrine for an allergic reaction. This drug enhances the normal physiologic function to stimulate bronchodilation. No new function was developed as a result. Mrs. Peters' epinephrine has a(n) ____ effect.
+Children who are given food when they are not hungry or are bundled up when they are not cold are most likely to:
+What of the following statements are true according to Scott MacKenzie (Chapter 2)? (Note: This question isn't asking whether the following ideas are correctly attributed to MacKenzie rather than someone else; it's asking whether these are correct representations of things MacKenzie said.)

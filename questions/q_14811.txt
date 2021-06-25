@@ -1,0 +1,20 @@
+Assume: a_list = [[1, 2, 3], [4, 5, 6], [7, 8, 9], [10, 11, 12]] What is the output from executing len(a_list[0])?
+In Texas, an employer cannot discriminate on the basis of any of the following except:
+When acids and bases react the product other than water is a
+If the assets of a company increased by $200,000 during the year and its equity decreased by $70,000 during the year, then the change in liabilities of the company during the year must have been:
+Although a research study is typically conducted with a relatively small group of participants known as a _________, most researchers hope to generalize their results to a much larger group known as a  _________.
+An atom of which of the following elements has the smallest first ionization energy?
+What is the tone and mood of this passage?Finally, one of the girls pointed to the grass and giggled. "Meow!" A cat sat on the edge of the field and licked its paw. They did indeed have company. The girls ran over to the cat and pet his belly. They laughed and the cat sauntered back to the field.
+Which of the following special senses is relayed directly to the cerebral cortex without going to the thalamus?
+As forages mature does the nutrient quality
+The gene pool refers to all of the genetic information within a
+When settings are changed from one mA station to another, the most that linearity may vary is ________%:
+In chapter 5 the author states that Satan has a 2-pronged strategy: first he tempts us to rebel against God, and then he __________ us for rebelling against God.
+The SystemC code below describes an asynchronous read/write RAM module. A write to memory happens when the write enable (we) and chip select (cs) signals are high, while a read happens when the output enable (oe) and cs signals are high, and the we signal is low. Implement the read_mem() function below so that the RAM works as intended.    #include "systemc.h"    #define DATA_WIDTH 8  #define RAM_DEPTH 1000    SC_MODULE (ram_sp_ar_aw) {     sc_in address ;     sc_in cs;     sc_in we;     sc_in oe;     sc_in data_in ;     sc_out data_out;       //-----------Internal variables-------------------     sc_uint  mem [RAM_DEPTH];       // Write Operation     void write_mem () {       if (cs.read() && we.read()) {         mem[address.read()] = data_in.read();       }     }       // Read Operation     void read_mem () {             }       SC_CTOR(ram_sp_ar_aw) {       SC_METHOD (read_mem);         sensitive
+As defined by Merriam-Webster, _____ is "Forms of electronic communication (such as Web sites) through which people create online communities to share information, ideas, personal messages, etc."
+89. Insulin therapy and oral antihyperglycemic agents can cause hypoglycemia, thus, glucose monitoring and carbohydrate counting should be part of the medical and lifestyle management of diabetes.
+Identify this structure associated with taste
+The blood vessel at the end of the arrow is the renal artery.
+Appeals are less important at the juvenile level because most sentences of confinement are so short that the juvenile may be released before the appellate review process is completed.
+Hyperglobulinemia can be caused by:
+10. A man would be most likely to wear a Norfolk jacket

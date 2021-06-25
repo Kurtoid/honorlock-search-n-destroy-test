@@ -1,20 +1,20 @@
-Match each of the clam structures labeled below with its corresponding function.
-Which of the following is used to mark the beginning of the Cambrian period?
-What is the order of increasing base strength for the following salts? (weaker < stronger)     I sodium ethoxide    II potassium formate    III sodium benzoate    IV sodium dichloroacetate
-On the Excel spreadsheet, there are two matrices (Matrix A and Matrix B) highlighted in yellow on the "Exam2-Q51" tab). Complete the following matrix operations: (1) Calculate [C]=[A]*[B] using "MMULT" function in the designated blue area; (2) Calculate the Determinant of Matrix A using "MDETERM" function in the designated blue area; (3) Get the transpose of Matrix A using a VBA program; (4) On the "Exam2-Q52" tab, calculate [C]=[A]*[B] using a VBA program.   You will need to use "option base 1" in matrix or array VBA programs. The algorithm for the transpose of a matrix [A] is: Transpose matrix AT (j,i) = A (i,j)   The algorithm for matrix multiplication is: For i = 1 to (number)             For j = 1 to (number)                         For k = 1 to (number)                                  C (i,j) = C (i,j) + A (i,k)* B (k,j)                         Next k             Next j Next i Note: The first two sub-questions, (1) and (2), are Excel spreadsheet problems, and no programming is required. The code/formulas should be written such that values in blue change correctly if the values in yellow change and the code is re-executed. Once complete, please type a one-word essay (e.g., "ok") for this question and then upload your combined Excel file at the very end of this exam.
-Which of the following diseases is the only one that can be treated with a vaccination following the initial exposure?
-Which of the following factors is a leading cause for an individual to become homelessness?
-In what story does one of the brothers say, ". . . Brother Francis says that everything sings of the glory of God.  Why, even our juggling"?
-Part One. Vocabulary. Which number is indivisible?
-Describe how Hitler came to power.  I'm looking for his background, political activities in the 1930s, all the way to his Chancellorship in 1933.
-Which of the following is a function of the parasympathetic division?
-Which of the following is NOT a function of a neuron?
-An experiment investigated whether cell phone use changes drivers' reaction times.  College students were randomly allocated to a cell phone group or a control group.  The experiment measures subjects' response times (in milliseconds) in a driving simulation.  For the cell phone group, the sample mean time was 585.2, the sample standard deviation was 89.6, and the sample size was 32.  For the control group, the sample mean time was 533.7, the sample standard deviation was 65.3, and the sample size was 32. The null hypothesis is that the mean reaction times are equal. Which is the appropriate alternative hypothesis for this investigation?
-A woman in labor is complaining of intense back pain with each contraction.  The nurse caring for her concludes that the fetus is likely in which of the following positions?
-Enveloped viruses carry surface receptors called
-Which of the following modalities is the most commonly used to diagnose Paget-Schrotter Syndrome?
-Which of the following involves using a drug on several hundred or several thousand ill patients in exactly the same way as it will be used once it is on the market?
-10 Point Bonus: Why don't retirees mind being called seniors?
-Ingredients that are beneficial to dry skin are:
-21) What is the economic order quantity?
-Name these Vessels #29:
+What should be done with long hair, scarves and baggy sleeves?
+According to the UCR/NIBRS Program, larceny-theft is the most frequently reported major crime.
+What is the primary function of eosinophils?
+Frogs and toads are closely related and feed on similar prey but at different times of day.  What is most likely causing this resource partitioning?
+When more than one ion species (e.g., Na+ and K+) is present on both sides of the membrane, the chemical driving force acting on K+ will include
+The structure labelled with the number "9" is called the _______
+James Henry Hammond
+Find   for     defined implicitly by
+Fever and urticaria may indicate a transfusion reaction in patients receiving whole blood. This reaction is typically due to
+Determine the sample size required to estimate the mean score on a standardized test within 4 points of the true mean with 95% confidence. Assume that s = 14 based on earlier studies.  (Hint:  the sample size will be greater than 30, but that is not the answer.)
+2.2.3 (a)   Calculate the difference in the weight of the left testis between the rats in Group 1 and Group 3. Show all your calculations, and round off to two decimal places.   (2)
+The term apoptosis is synonymous with:
+In the module 13 reading "Is Global Aging a Major Problem?", the three broad categories of challenges of an aging population DO NOT include:
+To become a peer tutor with ACE/Tutoring Services, a student must: (Select all that apply.)
+A plane dividing the body into right and left pieces that does not fall on the midline is called what?
+1.2.5   Die oortuigings, praktyke en waardes van 'n spesifieke groep mense wat ook verhoudings beinvloed.   (1)
+33. A pregnant patient's amniotic sac spontaneously breaks as evidenced by a gush of clear fluid with a contraction.  Which is most appropriate for the RN to do first?
+Which muscle does NOT attach to the coracoid process?
+This photo of stained bone represents ____________________________________________.
+Which is a unicellular exocrine gland?

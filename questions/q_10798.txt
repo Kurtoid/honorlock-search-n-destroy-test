@@ -1,20 +1,20 @@
-Surfactant ________________ by ________________.
-Which property of water is responsible for mild winters in Tallahassee?
-Question 4: Model Comparison and Prediction (4a) 3pts - Compare the AICs and BICs of model2, model3, and model4. Which model is preferred based on these criteria and why? (4b) 5pts - Using model2, model3, and model4, give a binary classification to each of the test rows in dataTest, with 1 indicating an NBA rookie lasting at least 5 years in the league. Use 0.5 as your classification threshold. (4b.1) For each model, what is the classification error rate over these data points? (4b.2) Which model has the highest predictive power? (4c) 4pts - Refit model2 on dataFull, and call it model5. Then, perform 10-fold cross validation and leave one out cross validation with model5 to compare classification error rates. How do these two classification error rates compare to the model2 classification error rate from 4b? Apply your knowledge of cross validation to explain your results. (4d) 3pts - Using the same predicting variables as in model4, build a random forest model. Call it model_rf. Hint: Convert target_5yrs to a factor. (4d.1) What is the benefit of a random forest over a decision tree?(4d.2) Using model_rf, give a binary classification to each of the test rows in dataTest, with 1 indicating an NBA rookie lasting at least 5 years in the league. Use 0.5 as your classification threshold. What is the classification error rate over these data points? (4d.3) How does the model_rf classification error rate compare to the model2, model3, and model4 classification error rates obtained in (4b.1)?
-Evidence suggests that people who abuse cocaine also abuse other substances. Name 3 examples of brain changes that are different in humans or animals that used cocaine alone vs. those who used cocaine+alcohol. 12 pts.
-When performing PNF pattern for scapular anterior shoulder elevation, an appropriate verbal cue to give the patient would be:
-APA is the most common style for
-In the diagnostic radiology energy range (which includes mammography) fro 23 to 150 kVp, which of the following tissues possesses the greatest ability to absorb radiant energy through the process of photoelectric absorption?
-Every year, Green Corporation purchases 15,000 units of Part X from Purple Corporation at a cost of $40 per unit.  Green Corporation is considering making Part X instead.  Green Corporation believes that if it made Part X it would incur the following per unit costs: $8 in direct materials, $14 in direct labor, and $11 in variable manufacturing overhead.  In addition, if Green Corporation were to make the part, it would also have to hire a supervisor that would be paid $70,000 annually.  Furthermore, the portion of the factory that would be used to make Part X is currently being rented and is generating $20,000 in rental income annually.  What would be the effect on profitability of making Part X instead of continuing to buy Part X?
-With the help of technology, the number of alternatives to be considered in decisions today is decreasing.
-True or False: All primary oocytes develop before birth
-Solve the following quadratic equation:  6x2 - 13x - 5 = 0
-Watch the video as you transcribe these 25 words, phrases, and sentences.     Oh my goodness ocean atmosphere a pair of parakeets Don't do it! She's anxious. The Jungle Book Are you sure? King Kong vs Godzilla The Birds by Alfred Hitchcock a fat cat peeling onions Bring Nelly home. International you big bully Don't make mama mad. Frankenstein's Monster Marilyn Monroe passion fruit her dance recital beach chairs our mortgage payment the RED socks, not blue chicken chimichanga Have you gotten your vaccine? I'm getting it next week.
-The nurse identifies the nursing diagnosis Diarrhea related to stress for a patient. Which nursing intervention should be included in the nursing care plan to help the patient relieve the cause of the diarrhea?
-Beethoven was a happy and well adjusted member of society.
-The leisure education model shown below is based on principles of _____________ and ______________ that are valued across the world.
-The lag of about a week in the production of Ab's (other than just IgM's) by plasma cells is due to:
-Which finding indicates to the nurse that lactulose is effective for an older adult who has advanced cirrhosis?
-50) Urea is ________.
-The area of highest visual acuity which is a small depression on the retina is called a:
-The nursing is caring for an HIV client who is receiving zidovudine. The nurse knows she must abruptly stop therapy in which of the following circumstances?
+Which functional class of membrane proteins is responsible for gluing themselves to one another?
+A 30 yr old female is in the office c/o palpitations and some light-headedness for the past 6 months. These are random episodes, no definable pattern. The NP notices a mid-systolic click w/a late systolic murmur heard best in the apical area during auscultation of the chest. You would suspect:
+Consider the following reaction at 1150 K. Which of the following changes will NOT increase the production of SO2? 2SO3(g)  2SO2(g) + O2(g)                   DH = 198 kJ/mol
+Choose the correct sentence. The others are fragment errors.
+The structure labeled "M" is called
+With the feed running, adjust the ____________________ so that the reel stops when the feed stops.
+Muscle must be able to generate graded responses in terms of force output.  This can be accomplished through
+Who is likely to be a victim of stalking?
+Which of the following is true regarding the medial collateral ligament?
+How do sociologists refer to behaviors performed by one or a few people that cause a social problem.
+Instrument No. 14 _______
+5.1   Bhala imibala EMIBILI ezitholakala endabeni engenhla.   (4)
+Which of the following are reasons to set the backup timer with AEC ?
+Katy is in the audience for a speech. She is using peripheral processing. According to the Elaboration Likelihood Model, Katy will pay attention to:
+Stimulation of the reticular formation results in ____.
+Which of the following statements concerning accuracy and precision is/are correct?      1. It is possible for a series of measurements to be both precise and inaccurate.     2. Accuracy is a measure of how close multiple measurements are to each other.     3. The more significant figures in a measurement the more accurate the measurement.
+Choose all that apply: "Norwegian Vikings did all of the following:"
+The lacunae of bone contain:
+4.19    Kies die VERLEDE DEELWOORD . Die (gebrande/brandende) brood smaak nie lekker nie.    (1)
+Find the area bounded by

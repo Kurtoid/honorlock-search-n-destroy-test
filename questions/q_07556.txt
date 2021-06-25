@@ -1,20 +1,20 @@
-A user can set the security and privacy settings on what is displayed in the Message Bar from the ________ within the options menu.
-An electron moves towards the top of the screen with speed 5 m/s into a uniform magnetic field B = 5 T pointing out of the screen. What magnitude and direction of an electric field would be needed so that the net force on the electron is 0 N?
-The committee has done (its their) appointed work.
-"Coming out," classically, refers to
-Use the information in the ABC Analysis Table above. What should be the value in the cell marked as "II"?
-What is a paradigm shift?
-A young woman was a victim of an assault while jogging in a park. She completes a series of crisis counseling sessions with a mental health nurse. At the final session, which statement by the client suggests that the goals of crisis intervention have been met?
-Which is NOT true of Nodes of Ranvier (myelin sheath gaps):
-Which dimension of the Big Five model refers to an individual's propensity to defer to others?
-Select the correct statement
-Non -vascular plants are called?
-Write a JavaFX GUI program with file name LastnameFirstnameExam5.java that meets the following requirements and adheres to the layout included sketch.  Must set the title of the window to be "1331 Exam 5 - YOURNAME", where YOURNAME is replaced with your first and last name. Must include some non-editable text at the top to the window (not the title) with a short phrase of your choosing. Change the text font to either Georgia, Papyrus, Courier New, or Comic Sans MS; it cannot be the default font. Font size should be 12. Must include one of the following shapes:  Circle, Rectangle, Polygon, Ellipse, or Arc. The shape can be a color of your choosing, but make sure this color is still visible in the UI (i.e. the color should be dark enough to be seen). Must include a plain Button.  The button must toggle the color of the shape between Color.BLACK and your favorite color.  Make sure this color is still visible in the UI (i.e. the color should be dark enough to be seen). You must set the button text to something of your choosing.   Must include a select one-of-many button group to control the alignment of the shape displayed. There should be 3 alignment options for Top, Center, and Bottom.  Hint: StackPane has a setAlignment method. You may place this group beside or below the shape.  In order to actually see the alignment change you will need to ensure that your window/stage is large enough. So, you need to set the size of your stage to be large enough to see the change proportional to the the size of your shape. A good ratio is to make the window 3 times the width and height of the Shape. To do this you can use the following methods: stage.setMinWidth(X); and stage.setMinHeight(Y);   Must use a Spinner UI control that will control the opacity of the shape.  The Spinner should have a minimum value of 0.0, maximum value of 1.0, initial value of 1.0, and a step amount (i.e. amount to step by) of 0.05 Hint: Opacity is specified as a value between 0.0 (completely transparent) and 1.0 (completely opaque). Another Hint: Look closely at Spinner's constructors to find one that allows for configuration of the min/max/init/step values on creation of the Spinner to make your life easier. Yet Another Hint: There are several ways to implement the event handling, we recommend using the setOnMouseClick method that is available to any Node   You must use at least one of the following children of Pane to control the layout of the Nodes: BorderPane, GridPane, HBox, or VBox. You must implement your event handling at least two of the three ways we taught: named inner class, anonymous inner class, and lambda expression.  For example, at least one handler as an anonymous inner class and at least one handler as a lambda expression. Failure to implement handlers in two different ways will result in the loss of points.   Points may be deducted if your layout deviates greatly from the one shown below. However, you do not need to have a border around the pane containing your shape nor around the shape itself. You may place the one-of-many button group below or beside the Shape.  YOUR SHOULD ONLY SUBMIT A SINGLE JAVA FILE. ENSURE THAT ANY OTHER CLASSES YOU INCLUDE EXIST WITHIN THE SAME FILE. IF YOUR SUBMITTED CODE DOES NOT COMPILE, YOU WILL RECEIVE A ZERO. SAVE, BACKUP, AND TEST OFTEN! The following is an example layout for your UI, but as long as you meet the requirements stated above the layout is flexible:
-Myasthenia gravis, an autoimmune disease, is characterized by muscle weakness caused by antibody-mediated destruction of:
-6.  Differentiate implicitly (isolate ) to find the slope of the curve at the given point.
-A sign and symptom of acute inflammation include?
-A solute is the dissolved matter in a solution.
-An individual would purchase ______ insurance to protect his or her business from tort liability to third parties.
-According to the Rig Veda, which group offered animal sacrifices to the gods?
-Silver n' Gold Inc. recently introduced a new control philosophy in which all employees have access to the same information that owners have, such as what money is coming in and where it is going. This is an example of which of the following?
-The body's natural cooling mechanism, in which sweat is converted to a gas, is called:
+Johnny fractured the lower third of his right tibia in a skiing accident. The soft tissues in the area were severely damaged and their surgical removal was necessary. After prolonged immobilization, it was found that Johnny was healing very poorly. The explanation offered by the orthopedic surgeon was that vascularization of the fracture site was still inadequate and good healing was absolutely dependent upon an adequate blood supply. Describe how a long bone receives its blood supply and trace the path of nutrient delivery to the osteocytes.
+Which of the following are complete proteins?
+Jacob Williams, from Home Depot, mentioned he uses two of the investment criteria to determine if HD should or should not accept a real estate project.  What were they?
+Jane is caught shoplifting from Walmart. She claims that she is not really a criminal because Walmart is so large and can afford the small loss form the item she took. Jane is using the ________ technique of neutralization.
+This is extra credit. pH 7.36 CO2 44 HCO3 24
+The organisms that wall-off cavities in the lungs for reproduction are
+The test for a ruptured Achilles tendon is the:
+Divide 61,164.35 by 105
+A patient is experiencing pinpoint petechial bruising on her upper torso. Her history revealed frequent nosebleeds during her childhood. Clot-based screening assays are within normal reference ranges, and platelet function assays are abnormal. Based on this information, what appears to be defective in this patient?
+Which type of executive function involves being able to adjust to changing demands?
+Ty says to Rex, who is 23 years old, "Since you quit smoking last month, I promise to pay you $1,000.00."
+What is the empirical formula of a compound consisting of 85.6% C and 14.4% H by mass?
+From an ossification standpoint, the bones of the vertebral column typically ossify starting in the caudal vertebrae and progress to the cranial vertebrae.
+What bacterial pathogen was used in the 1984 terrorism attack by the Rajneeshee religious organization?
+The largest source of anthropogenic greenhouse gases in the United States is _
+Diagnosis of the metabolic syndrome does not include:
+If you have a reaction with a -deltaG you know....
+Levels of Organization: List the levels in order (from the lowest to the highest)   (lowest level) [a] [b] organelle [c] [d]  [e]  [f] (highest level) [g]
+If the number 88300000 is written in scientific notation, it will be in the form
+Breast imaging professionals define the location of lesions in breast tissue using a ____________.

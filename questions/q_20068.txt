@@ -1,0 +1,20 @@
+Assuming that the following class has been defined for representing a tree node and a BST is constructed using the standard insertion algorithm,  class TreeNode {     public:       int val;       TreeNode *left;       TreeNode *right;       TreeNode(int x) : val(x), left(nullptr), right(nullptr) {} }; What does the following function, checkTree() do when a tree's root is passed to this function? bool checkTree(TreeNode* root) {  queue q;  int n = 1;    if(root == nullptr)        return false;    q.push(root);   while (!q.empty())   {      int temp = q.size();            if(temp != n)          return false;            for(int j = 0; j < temp; j++)      {        if (q.front()->left != nullptr)             q.push(q.front()->left);        if (q.front()->right != nullptr)             q.push(q.front()->right);                    q.pop();      }            n *= 2;  }    return true;}
+Las tiendas estan __________ hasta las once de la noche.
+When u/s passes through an attenuating medium:
+In the early 1900s, your great-great-grandfather probably purchased his first automobile. After years of driving a horse and buggy, he got into his new car and drove it into his new garage. The new automobile was an example of
+The movement for the Constitution grew out of
+Find a vector equation for the line between the points (-3,5,-2) and (3,1,2).
+Why did Preston Brooks assault Charles Sumner in the Senate chamber in 1856?
+The difference between a weak stimulus and an intense stimulus is
+The main symptom of Alzheimer's disease is severe and worsening memory loss.
+Challenges with students' use of rulers include all EXCEPT:
+The City of Anniston wants to test its belief that 60% of golfers in Calhoun County play Cane Creek Golf Course at least 3 times a month.  The City wants to be 95% confident in its study's results, wants a maximum error of 7%, and estimates the standard deviation to be 2.79.  What minimum sample size is required? Formulae You Might Need: n = (ZS / E)2   n = (Z2pq) / E2
+If the thyroid gland is unable to produce iodinated thyroglobulin, what is the effect on hormone production?
+Complete the following for the function
+The hormones that maintain the uterine wall during the last 5 to 6 months of pregnancy are
+A nurse is updating the health history of a patient who has been admitted to the hospital with a stroke. What question should the nurse ask the patient's caregiver?
+VRAAG 2      Hierdie jaar gaan Mnr. Khumalo-hulle die "af-wedloop" tydens die Comrades Marathon hardloop.Kyk na die onderstaande tabel en profiel-kaart van die roete wat die afsnypunte van die wedloop aandui en beantwoord die vrae wat daaropvolg.  Indien 'n atleet nie die afsnypunt binnedie gegewe tyd haalnie, moethy/ sy onmiddellik die wedloop beeindig en word dan deur 'n voertuig na die eindstreep geneem.  REGSKLIK OP DIE KNOPPIE OM DIE INLIGTING IN 'N NUWE TAB OOP TE MAAK              2.1   Hoe ver moet die atlete hardloop om die eerste afsnypunt te behaal?   (2)     2.2   Indien daar 24 waterpunte op die roete geplaas is, en die waterpunte ewe ver van mekaar af is, hoe ver sal die waterpunte van mekaar af wees?   (2)     2.3   Waar is die hoogste punt van die roete en hoeveel meter boseespieel is dit?   (2)
+Sociology:
+What is the net gain of ATP from glycolysis?
+Sales associates at Nordstrom are given a "personal" book to keep track of customers' names, telephone numbers, height and weight, likes and dislikes and account numbers to help them become a personal shopper for the customer. In addition, sales associates have an open account to send thank-you notes or flowers to customers. By having a personal book and sending thank-you notes or flowers to customers, Nordstrom's sales associates are showing they care by emphasizing the ________ dimension to influence customer perceptions of Nordstrom's service quality.
+What are Mary Ainsworth's 4 types of attachment?

@@ -1,0 +1,20 @@
+Given a world price of P1, the amount that country A will import is represented by the quantity Q3 minus Q2 (also written as Q3-Q2).
+Retentive incontinence may be caused by:
+4.5   ELODIE   (1)
+Which of the following is a dramatic change in the brain in infants in the first two years of life?
+1.3.5   'n Onafhanklike fasiliteerder wat die doelwit van vryhandel nastreef.   (1)
+Which of the following structures has the R configuration?
+Mr. Rodriguez is your patient who lives with his wife and adult son in a single story house with no steps to enter. He is a 63 year old man who recently had a stroke resulting in some motor deficits of his left lower extremity. He is cognitively intact and has some extensor tone in his left ankle. He has hypertension that is now being controlled with medication. He has no other significant medical issues at this time. When you observe Mr. Rodriguez ambulate, he uses a large based quad cane and requires min assist for balance during left stance due to some instability and his left knee hyperextending. His bilateral upper extremity and right lower extremity strength and ROM are noted to be WFL. His left lower extremity strength is grossly 4-/5 at the hip and knee,  and 1/5 for both DF and PF. PROM is WFL throughout the left lower extremity.  1) Name two possible orthoses you would consider using to improve this patient's functional mobility (1/2 point each for a total of 1 point)):1a)1b) 2) Of the two orthoses you mentioned above (1a and 1b), which one do you think would be the best choice for Mr. Rodriguez and why? (2 points)
+An older patient with cardiogenic shock is cool and clammy. Hemodynamic monitoring indicates a high systemic vascular resistance (SVR). Which intervention should the nurse anticipate?
+Drug traffickers tend to structure their transactions to be below $10,000 to avoid bank reporting requirements.
+The white matter association fibers that are short bundles to connect parts in the SAME hemisphere:
+Draw a neatly labelled process block diagram on scratch paper for a wet milling process that produces 200 proof ethanol from corn grains showing inputs, outputs/products/by-products/co-products. Describe the operations and flow of materials depicted in your flow diagram.
+The base-pairing rules for DNA state that
+Which of the following describes what the main window will look like after the button labeled push me has been pressed one time?  class MainWindow(QWidget):    def __init__(self):        super().__init__()        self.setWindowTitle("Georgia Tech")        box = QVBoxLayout()        mybutton = QPushButton("press here")        mybutton.clicked.connect(self.on_button_clicked)        self.button = QPushButton("push me")        self.button.clicked.connect(lambda x : self.setWindowTitle("Jackets!"))        box.addWidget(self.button)        box.addWidget(mybutton)        self.setLayout(box)    def on_button_clicked(self):        self.button.setText("THWG")if __name__ == '__main__':    app = QApplication(sys.argv)    main = MainWindow()    main.show()    sys.exit(app.exec_())
+Water and oil separate due to ________.
+The cultural influence of African Americans and Native Americans was (and still is) evident in
+What is the effect of anemia (low red blood cell count) on hemoglobin saturation?
+What are the two primary characteristics of defense mechanisms? List and define three and indicate what purpose they serve. Chapter 8
+A ________ correlation means that as one variable increases, the other also increases or that as one variable decreases the other one decreases.
+Extra credit question #7 PCP
+The primary media used to differentiate gram negative rods is: (7.1)

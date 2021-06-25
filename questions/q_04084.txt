@@ -1,20 +1,20 @@
-____________________ is a form of dermatitis that is usually associated with severe itching, redness, blistering, and oozing.
-When a gas is converted directly to a liquid, the change of state is called ________.
-An instrument used to examine the larynx is called a:
-The most significant impact of water intoxication is:
-Write a Python program to 'round up' a bill to donate to charity.  It does not matter if the bill ends in 0.01 to 0.99, the bill will be 'rounded up' to the next dollar  Prompt the user for the bill amount 'Round up' the bill as needed using math functions Print the original bill amount, how much was added to round up, and the final bill amount    The first line should be 'Bill: ' followed by the bill amount as currency right justified in 9 spaces The second line should be 'Round-up: ' followed by the bill amount as currency right justified in 6 spaces The third line should be 'Due: ' followed by the bill amount as currency right justified in 11 spaces  You MUST set the locale properly You MUST use formatting to print the lines with the correct spacing You MUST handle the user entering a non-floating point value via exceptions. Print the error if a non-floating point value has been entered by the user  #!/usr/bin/env python3# TBD - write code here Sample Run #1 (bold, underlined text is what the user types): Bill? 12.31Bill:    $12.31Round-up: $0.69Due:     $13.00 Sample Run #2 (bold, underlined text is what the user types): Bill? not a numbercould not convert string to float: 'not a number' Pay close attention to your indentation when you are entering your answer!  Ch08_to_Ch10_Programs.pdf  Ch11_to_Ch18_Programs.pdf
-Which of the following is NOT one of Schmidt's five leadership precepts?
-The reform-minded Soviet premier who emerged in the mid-1980s was:
-..................................... is the inducer molecule that regulates the promoter in the bacterial transformation procedure.
-Which of the following is a true statement regarding the mechanism of action of diuretic drugs in the newborn kidney?
-Who was the seller of purple cloth?
-Dr. Baker has diagnosed Mr. Johnson with incontinence. This means Mr. Johnson:
-This organism is a member of the class:
-Solve the equation by expressing each side as a power of the same base and then equating exponents.2(3x + 5) =
-A tool to identify factors that may influence but are external to or not under control of the organization is:
-Where should CO2 be more concentrated for it to go into the leaves of a plant?
-For this question you will interpret the vitals of five patients.  In your response, you will state which shock the patient is in, you will describe the treatment, finally you will list the category the shock is in. Example:  (Hypovolemic) (Fluids) (Volume Shock) 1.  37 year old involved in a motor vehicle accident.  The patient has a loss of sensation and motor from the nipple line down.  Vitals: Heart rate 65, Blood pressure 70/30, Lung sound are clear. 2.  67 year old male complaining of chest pain and shortness of breath.  Vitals: Heart rate 130, Blood pressure 60/30, Rales bilaterally. 3.  23 year old female ingested a mango.  Patient is complaining of shortness of breath, hives to her torso.  Vitals: Heart rate 130, Blood pressure 70/30. Lung sounds: wheezing bilaterally. 4. 78 year old male complaining of a tearing sensation in his abdomen.  Vitals Heart rate 140, Blood pressure 70/30.  Lung sounds are clear. I WANT TO KNOW WHAT YOU FEEL IS TEARING IN THIS PATIENT! 5.  70 year old male is lethargic, sitting in the bathroom.  The patients wife advises the patient had been having a difficult time moving his bowels and states he is impacted.  Vitals: Heart rate 30, Blood pressure 70/30.  Lungs are clear.
-When carbon dioxide is pumped into underwater this is known as
-Samantha recently quit her job at the university because she is looking for another job for which she is qualified in a small town. Samantha is
-Emerald Inc. is a manufacturer of cosmetics that focuses on delivering high-quality products to its customers. As Emerald is aware of the side effects of parabens on skin and hair, it uses organic preservatives in its cosmetic products. All the cosmetic products that it manufactures are free of parabens. In this way, the company ensures that the usage of its products does not cause allergy to any of its customers. Which of the following social responsiveness strategies is Emerald using in this scenario?
-A skeletal muscle decreasing in size is called _____contraction.
+Indications for assisted ventilation include which of the following?
+One of the main Sumerian construction materials was sun-dried mud brick.
+Red blood cells carry CO2 back to the lungs.
+A firm's resistance to changes in the status quo is referred to as
+What is the appropriate E/M code(s) for an established patient office visit in which a comprehensive history and expanded problem-focused physical examination were performed and medical decision making was of low complexity
+Carbon, hydrogen, oxygen, and nitrogen are the least abundant elements of living matter.
+Match each innate host defense with its most accurate defense type category.
+When may the most visible or prominent vein NOT be the best choice for insertion.
+When short-term interest rates are expected to fall sharply in the future, the yield curve will
+How many chromosomes will be in each daughter cell?
+Polymers of polysaccharides, fats, and proteins are all synthesized from monomers by
+27. "She had a heart--how shall I say?--too soon made glad" is a quote from what literary work?
+The Caribbean is estimated to be the world's epicenter of biodiversity, as it is the biogeographic region with the highest number of marine species.
+Total protein testing on a patient who underwent a peritoneocentesis reports a serum plasma total protein of 5.0 g/dL and pleural fluid total protein of 4.0 g/dL. What is the fluid to serum total protein ratio?
+Which group of animals is responsible for elephantiasis - the swelling of limbs and extremities?
+Balance the following equation: Ca3(PO4)2(s) + SiO2(s) + C(s) - CaSiO3(s) + CO(g) + P4(s)
+Read the passage Writing a Resume, and then answer the following question(s).How are italics used in the Work Experience paragraph?
+Simplify: 4x2+6x4+5x2+3+7x4
+Tommy has frequent periods of unexplained frustration, is very loud in the classroom, and often seems to ignore his teacher's instructions. Tommy's teacher should first suspect and/or rule out a:
+Which of the following is a likely explanation for why invasive species take over communities into which they have been introduced, for example "THE BOA" in Florida?

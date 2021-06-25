@@ -1,0 +1,20 @@
+3.2.1   Describe three stimuli that the man on the pier is experiencing. State the receptor organ and describe its stimulus.   (3)
+A 53 y/o calls her OB/GYN's office and states she noticed a "bump" midway between her nipple and armpit during her self-breast exam. What is the nurse's next step?
+Baath, C., Engstrom, M., Gunningberg, L., & Athlin, A.M. (2016). Prevention of heel pressure ulcers among older patients - from ambulance care to hospital discharge: A multi-centre randomized controlled trial. Applied Nursing Research, 30, 170-175. If the question does not apply to the study, please mark N/A. Describe how the dependent variable (primary outcome only) was operationalized or measured.
+What substance speeds up chemical reactions between monomers and polymers?
+What is the name of the bridge structure featured as part of a Noh theater stage that represents the connection between the world and the spirit world?
+Equipment that is required in the operating room would be:
+Which formula represents an organic compound?
+A patient is admitted to the hospital with Paget's disease. On admission assessment, which of the following symptoms would the nurse expect to find?
+Melissa stares at a bright red stop sign while stopped in traffic after a snowstorm. When she glances at a nearby snowbank, Melissa sees the image of a green stop sign. Melissa's sensation of the green sign is best explained by:
+We discussed 3 methods to increase workload (or training load) performed by the horse that can be employed in any conditioning program at any phase of conditioning. List TWO (2) of the 3 methods for increasing workload. {2 pts}
+The nurse is closely monitoring a child who is unconscious after a fall and notices that the child suddenly has a fixed and dilated pupil. How should the nurse interpret this?
+James Johnson has inherited a blood condition from his mother. He has a deficiency in the coagulation factor called factor VIII. The medical name of Mr. Johnson's condition is
+The figure below shows the effect of the ear canal on a pressure waveform that travels through it: the 0.5 kHz wave is generated in the sound field (outside the head) at 40 dB SPL, but is measured to be 50 dB SPL at the eardrum. What would be the sound pressure level at the eardrum if the pressure waveform in the sound field was increased to 55 dB SPL? Give your answer in dB SPL.
+Physically, South America is dominated by which two geographic features?
+4 points:  Identify the endocrine organ that produces Releasing and Inhibiting Hormones.  Which endocrine organ is the target of these hormones?
+For each of the calls to the following recursive function below, indicate what value is returned: string mystery3(string s, char ch) { if(s.length() < 1) { return ""; } else if (s.length() < 2) { return "-" + s; } else { char first = s[ 1 ]; if (first == ch && first == s[ 0 ]) { return mystery3(s.substr(1), ch) + "-" + to_string(s.length()); } else { return s[ 0 ] + mystery3(s.substr(1), ch); } } }  mystery3("cat", 'a') [r1] mystery3("mississssipppi", 's') [r3] mystery3("palo alto", 'o') [r5]
+Both roots and rami are subdivisions of spinal nerves. How does a root differ from a ramus?
+Which of the following patient is likely to have Paranoid Personality Disorder?
+assessment_05.pdf
+An organism's genetic makeup is its ________ while its physical appearance is its ________.

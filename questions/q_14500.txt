@@ -1,0 +1,20 @@
+Which of the following patients does NOT have signs of an altered mental status?
+Finding cells when examining various types of tissues under the microscope helped scientists agree on the first principle of cell theory. Which of the following is a principle of cell theory?
+When the pH of the extracellular fluid drops, the
+Janice is a nurse in the critical care department. She has property insurance, but does not have disability insurance through the hospital. She does not know that much about disability, except that a friend of hers told her that she needed to acquire it. Which of the following statements is correct?
+Nominal sizes for the three basic types of pipes are determined by the ____________________ diameter except when the diameter exceeds 12 inches.
+A mother is complaining to the nurse that her 16-year-old son, who plays varsity football, has been "eating too much junk." Which comment by the nurse is the most appropriate?
+Find the derivative.y = 2x2 + 10x + 3ex
+2.4   Elle lit des blogs sur...   (1)
+_____________ is the term used to describe the chemical reaction that occurs when gypsum gives off heat during the initial setting phase.
+Which of the following is the best example of object recognition?
+A nurse is preparing to administer gentamicin, and antibiotic, to a patient.  These antibiotics can damage the kidneys.  Which labs values would indicate decreased kidney function?
+Find the indicated probability.What is the probability that 4 randomly selected people all have different birthdays? Round to four decimal places.
+In class, I suggested that you wake up at roughly the same time each day.  Which of the following offers the correct explanation(s) for why this suggestion is being made?
+An apical pulse is taken with a stethoscope, where?
+Zinc Phosphate is widely used as a luting agent in most dental offices today.
+Select all the compatible transfusions:
+Question 9 b 6 points Given the joint pdf f(x,y) below: f(x,y) = (4/5)xy      0
+If gloves are worn during lab, it is not necessary to wash your hands before leaving the lab.
+Price should reflect your marketing vision.
+The psuedocode of Lamport's bakery algorithm is given below. For each combination of ticket numbers that follows, say if T2 has to wait for T1 before entering its own (T2's) critical section. boolean[n] choosing;int[n] ticket;startThreads();Txvoid main() { int x = threadNumber; while (!done) { choosing[x] = true; ticket[x] = maxValue(ticket) + 1; choosing[x] = false; for (int i = 0; i < n; i++) { if (i == x) continue; while (choosing[i] == true) ; while (ticket[i] != 0 && ticket[i] < ticket[x]) ; if (ticket[i] == ticket[x] && i < x) while (ticket[i] != 0 && ticket[i] == ticket[x]) ; } /* CRITICAL SECTION GOES HERE */ ticket[x] = 0; /* non-critical code */ }}

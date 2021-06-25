@@ -1,20 +1,20 @@
-Part 1: What is the equation for photosynthesis? (4 pts) Part 2: Which component(s) are reducing and what is it reducing to, aka the product? (2 pts)  Part 3: Which component(s) are oxidizing and what is it oxidizing to? (2 pts) Part 4: Chose one answer: Glucose is what type of sugar: monosaccharide, disaccharide, or polysaccharide? (+1 pt)
-Simplify using PEMDAS
-How is salivation controlled?
-Provide the complete term for ROM
-[A] Name the tissue A (on left) [B] Name the tissue B (on right)
-According to the Berlin definition of ARDS what radiologic finding must be present.
-Proteus vulgaris has an MR-VP result of +/-. Which colors correspond to these specific test results (in order of MR/VP)?
-The following table shows the number of cars sold (from one dealership) by the car's manufacturer (the origin of a car) and the type of a car.    Origin of a car Type of a car     Compact Truck Mid-size SUV totals   Foreign 520 180 240 460 1400   Domestic 750 300 350 500 1900   totals 1270 480 590 960 3300    A sold car (from that one dealership) is selected at random.  Find the probability that a randomly selected sold car will be either a truck or a car of a domestic origin.
-Find the equation of the tangent line to the graph of f(x)=xx-4{"version":"1.1","math":"f(x)=xx-4"} at the point (3, -3).
-An arch is a curved structure that is typically supporting the weight of a bridge, roof or wall above it.
-A gastrectomy is a(n):
-Identify the blood vessel marked "A" below:
-A thirteen year old athlete submitted a urine specimen for analysis. The MLS detected ketones and glucose with the dipstick detection method. What could be indicated by this result?
-Of the four quadrants in the Time Use grid, which quadrant should we be most focused on in order to eliminate time stress?
-The nurse is teaching a group of diabetics about angiopathy of diabetes. What is priority information to teach the group?
-What are typical entry-level positions in coaching that may lead to a positions as a college coach?
-Nurse managers are responsible for developing the unit culture supporting innovation and evidence-based care. The nurse manager can facilitate and support EBP work by: (Select all that apply.)
-A. ID the structure. [A] B. ID the structure (not the space). [B]
-Final Dosage: A nurse is about to administer Novolog to a diabetic patient. The doctor's order is a sliding scale, listed below. The nurse takes the patient's blood sugar and the result is 282. How many units would she give her patient? ___________________units      Blood sugar levels Units of insulin
-The diencephalon is located between the cerebellum and the brainstem.
+The nurse is providing care for a client with diabetes mellitus. The nurse obtains a glucose blood level of 55 mg/dL. For which complication does the nurse prepare the client?
+1.9   'n Transkontinentale vlug is ...   (1)
+QUESTION 2 40 Marks     2.1.1   Name TWO types of imperfect markets.   (2)     2.1.2   Explain what goes on behind the demand curve.   (2)             [4]     2.2   Study the graph and answer the questions that follow: RIGHT CLICK ON THE BUTTON TO OPEN THE GRAPH IN A NEW TAB:           2.2.1   Give the definition of demand.   (2)     2.2.2   List FOUR factors that might have caused demand to shift.   (4)     2.2.3   Before the shift in demand, what would the surplus have been at a price of R13? Show ALL calculations.   (2)     2.2.4   What can producers do if there is a surplus in the market?   (2)             [10]     2.3   Study the graph and answer the questions that follow: RIGHT CLICK ON THE BUTTON TO OPEN THE GRAPH IN A NEW TAB:           2.3.1   Explain what is reflected by point A in the graph.   (2)     2.3.2   Explain what is reflected by point D in the graph.   (2)     2.3.3   Discuss TWO internal factors that affect productivity.   (4)     2.3.4   How do we determine allocative efficiency?   (2)             [10]     2.4   Discuss the factors that determine value.   (8)     2.5   Discuss the effects of market failure comprehensively.   (8)             [40]
+Which of the following individuals would most likely experience a barrier when accessing health care?
+The _____________________________ helps control muscle contractions to produce coordinated      movements so that we can maintain equilibrium, move smoothly, and maintain      normal posture.
+Which of the following is Correctly matched?
+A patient recently underwent a thoracotomy and is now receiving IPPB QID. The patient's inspiratory capacity has diminished over the past several days and the patient is becoming increasingly short of breath. Chest radiograph shows left lower lobe radiodensity with a concave upper border. The respiratory therapist would conclude that the patient has developed
+What is the term used to indicate the loss of muscle mass and strength that occurs as we age?
+Vignette #2 Jill is 32 years old, and after years of a mostly sedentary life is determined to get into shape. She decides to take up jogging but cannot decide whether to jog at a moderate pace or very fast pace, and has no idea how long to continue. Jill also wants to learn to monitor her heart rate and pulse. She was a gymnast in high school but can no longer touch her toes. Suggest how Jill should get started by answering these questions. Which component of fitness has Jill lost if she cannot touch her toes?
+What would be your first step to attempt to correct multicollinearity in this case?
+A 75-kg, 50-year-old male patient has Guillain-Barre syndrome. His most recent assessment indicates his FVC is 900 mL and MIP is -16 cm H2O. What plan should the respiratory therapist recommend?
+Invoer is die [answ1] inligting wat op die rekenaar vanaf die [answ2] toestelle ingevoer word.   (2)
+Extra Credit: Which of the following is in the normal range of hematocrits for women?
+A dental hygienist finds an area on the lateral border of the tongue that is suspicious for oral cancer.  The hygienist tells the patient about it and suggests a treatment which she is not qualified to perform and which could potentially cause harm to the patient.  This violates which ethical principle?
+The nurse is caring for a patient post-op from a total hip replacement (posterior approach). What intervention is most important for the nurse to perform when turning the patient from side to side?
+Orthopnea is more likely found in which of the following cases?
+Most men can expect some changes in testosterone levels and possibly in their sexual function in their 40s. Which of the following changes is most likely?
+The prisoner's dilemma game illustrates why the evolution of cooperation is difficult. What can facilitate cooperation in this game?
+Classify the following polynomials by their degree and number of terms.    3.
+Consider the following makefile and the dependencies shown: main: main.o fun1.o fun2.o gcc main.o fun1.o fun2.o -o main main.o: main.c gcc -c main.c fun2.o: fun2.c gcc -c fun2.c fun1.o: fun1.h fun1.c gcc -c fun1.c Also consider the following directory listing: -rw-r----- 1 deppeler deppeler 191 May 3 10:36 Makefile -rw-r----- 1 deppeler deppeler 42 May 3 10:44 fun1.c -rw-r----- 1 deppeler deppeler 30 May 3 10:43 fun1.h -rw-r----- 1 deppeler deppeler 1368 May 3 10:37 fun1.o -rw-r----- 1 deppeler deppeler 36 May 3 10:40 fun2.c -rw-r----- 1 deppeler deppeler 1368 May 3 10:41 fun2.o -rwxr-x--- 1 deppeler deppeler 16576 May 3 10:41 main -rw-r----- 1 deppeler deppeler 73 May 3 10:37 main.c -rw-r----- 1 deppeler deppeler 1616 May 3 10:37 main.o  Which one lists the commands that are executed as a result of entering make on the Linux command line?

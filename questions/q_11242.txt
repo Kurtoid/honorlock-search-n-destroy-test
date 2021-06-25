@@ -1,20 +1,20 @@
-In the blank, type in at least 8 of our "Words of the Day"
-A group of researchers developed a new test method for detection of synthetic marijuana (i.e., K2) in human saliva. A series of validation studies were conducted to measure performance of the test method. The results of the study are reported below.    KNOWN Predictions by Analyst SUM   Positive for K2 Negative for K2   Positive for K2 488 12 500   Negative for K2 119 381 500   SUM 607 393 1000      The researchers measured the performance of their method by calculating its accuracy using the equation shown below:  where TP is true positive, TN is true negative, P is known positive and N is known negative. Calculate the accuracy.
-Suppose that we decide that anything that occurs less than 5% of the time is considered an unusual occurrence. Each of the bonus question will be a dropdown questions with two parts. First choose the correct probability and then state if the probability of that event occurring is usual or unusual.  While the questions will be listed as having 0 points, each question where both parts are answered correctly will be worth 2 points. After all students have taken the exam, I will go back and add whatever bonus points a student earns.
-Why doesn't a negative stain colorize the cells in the smear?
-The authority of the Texas Attorney General in civil cases is  not subordinate to the governor.
-Which of the following is not a characteristic of angiosperms?
-Regarding overhead costs, as volume increases:
-___________ can cause destruction of the ventral horn motor neurons
-Which type of shock might result from a patient undergoing a surgical procedure without surgical asepsis?
-Which of the following factors can affect the accuracy of a density (Hounsfield) measurement in a CT image?
-Fill in the blank by identifying this capability that was defined in the Harvard CoursePack reading: "___________________ is a technology-driven process for processing and analyzing data to make sense from huge quantities of data that businesses collect and obtain from various sources."
-Solve the equation by expressing each side as a power of the same base and then equating exponents.  You must show work.4(3x - 7) = 16
-Calculate the mass in g of MgCl2 required to make 75 mL of a 20% (w/v) MgCl2 solution. Record the correct amount.
-The prefix "post-" means:
-Read the passage Geysers, and then answer the following question(s).How are geysers and hot springs DIFFERENT?
-Danielo ___ el helado para nuestra fiesta y yo ___ una tortal
-Sodium bicarbonate is the common name for what compound?
-In relation to different types of memory, which of the following does not belong with the others?
-The following recurrence relation used to solve a problem is indicative of what type of algorithm? S(i, W) = max( S(i-1, W) , S(i-1, W-wi + vi)
-Why does the US government allow some drug companies to become monopolies?
+A business paid $7,000 to a creditor in payment of an amount owed. The effect of the transaction on the accounting equation was to
+The superficial temporal vein and the ___________ vein form the retromandibular vein:
+4.1.1   What is the function of motor neurons in the body?   (3)                   4.1.2   According to this article, what is the main difference in the symptoms between MND and a stroke?   (2X2) (4)                   4.1.3   Explain why patients who suffer from MND will definitely die from the disease.  (Other than the fact that there is no treatment/cure).   (2)                   4.1.4   Identify two symptoms of early MND.   (2)                   4.1.5   The article above starts with the question : Is rugby linked to motor neuron disease? After having read the article, give your opinion as to the answer to this question.  Substantiate your answer.   (3)                   4.1.6   Would you consider Alzheimers to be a form of MND? Explain your answer in detail.   (4)                4.1.7   Give a brief explanation of the other neuron disease you studied - multiple sclerosis.   (2)
+What is the output for the following statements when a=8, b=10, c=Exam, m=17  print('Our exam is on May %s' %(m)) print('Our exam is from %d to %d' %(a,b)) print('Our %d is at %s' %(c,a))  For the statements in part a that error, how would you fix them? Write a print statement that would print the variable a=12350 as $12,350.00
+A chemist is preparing solutions. She has 30mL of a 2% alcohol solution. How much of a 5% alcohol solution must she add to raise the concentration to 4%? Round to one decimal place. Use units as part of your answer.
+What is thought to happen in a muscle during the response shown in the graph
+Which condition is guaranteed for all of the following altitude limits: MAA, MCA, MRA, MOCA, and MEA? (Non-mountainous area.)
+A hiker was bitten by a tick, and a few weeks later a "bulls - eye" spreading ring appeared at the site. It faded, and over the next 3 years the man experienced recurrent inflammation of a knee. What is the most probable diagnosis?
+A nurse is giving instructions to a patient who will be receiving oral iron supplements. Which instructions will be included in the teaching plan?
+You are given that cos(A)=-1517{"version":"1.1","math":"-1517"}, with A in Quadrant III, and sin(B)=45{"version":"1.1","math":"45"}, with B in Quadrant II. Find sin(A-B). Give your answer as a fraction.
+Consider the following data, where gross domestic product (GDP) values are measured in millions of dollars, to answer the following question:    Year Nominal GDP Real GDP GDP Deflator   2009  $400 100   2010 $661.2  106   2011 700.7 $657    2012  $800.8 120    What is the value of nominal GDP in 2009?
+What does it mean if the cost of carry is positive for a Treasury bond futures contract?
+The observation that some usable energy is lost in every energy conversion is explained by the ___
+When a hurricane enters the coastal zone, the most devastating damage usually results from ________.
+The jaw-thrust maneuver is used to open the airway of patients with suspected:
+Match the numerals with their written equivalents.
+Give the best estimate of the sum when using clustering.   2473 + 2570 + 2509   [clustering]   Give the estimate of the sum by rounding to the nearest hundred. 2473 + 2570 + 2509 [rounding]   Give the estimate of the sum using the leading digit / front end strategy. 2473 + 2570 + 2509 [leading]
+A cell is placed into a 3% dextrose solution. At that concentration, the solution is isotonic to the cell. If the concentration of dextrose in the solution is increased to 5%, the cell is now in a(n):
+What is the last product of blood clotting (coagulation)?
+Rank in order of increasing chemical shift, smallest first?

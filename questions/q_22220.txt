@@ -1,0 +1,20 @@
+76. The force responsible for moving water from the interstitial fluid back into the capillaries is the
+QUESTION 2:  DATABASE         A database containing the prices of computers and computer components was created. Open the 2Price_Price database.         2.1   Open the Data table and make the following changes:             2.1.1   Change the data types for the fields with descriptions to more suitable data types.   (2)         2.1.2   Set the primary key to the most suitable field.   (1)         2.1.3   Change the field size of the Type field to 20.   (1)         2.1.4   Add a validation rule to the Price field to accept products above R2 000 and below R20 000. Add a suitable message to guide the user.   (2)     2.2   Create a query based on the Data Table that displays the Type and Price of all Lenovo products that are available in stock. Save and close the query qry 2_2.   (4)     2.3   Create a report called rprt2_3 based on the Data table.    Display only the Type, Stock Code, Model and Price fields. Group the records according to the Type field. Use a function to determine the number of different types of products at the end of each group. Add a calculation to calculate the total value of the products.  Save and close the report rprt2_3.   (7)         SAVE the 2Price_Price-database Close the 2Price_Price-database Upload 2Price_Price-database                 [17]
+In the paper Chip Multithreading Needs a New OS Scheduler, the authors explore ways for the OS scheduler to use hardware counters to extract information about the types of tasks in the system.  Based on the synthetic workload that is analyzed, which of the following are true when scheduling 2 tasks on the hardware threads of a single core:   Mark all that apply.
+More than half of all Gram-negative infections in the US are caused by enterobacteria.
+Minerals are grouped into mineral classes primarily on a basis of ________.
+Which of the following costs do not vary with the amount of output a firm produces?
+What type of vaccine is used against hepatitis B?
+A man appeared at the emergency room complaining of bloody diarrhea. The doctor who examined him found that the man was intentionally creating the diarrhea through use of laxatives and anticoagulant medication and liked being a patient. The man is MOST likely:
+The mother is NN. The father's serum contains a naturally occurring anti-M. The children of these parents will be (Hint: think about what type the father is)
+Which of the following objects has about the same thickness as Saturn's rings?
+A characteristic sign of plague is
+When patients are given candy in return for chores and self-care as part of a token economy, the hospital is using the principles of:
+To determine credible consequences, the ___________ method is a good tool to use.
+When protein intake is adequate, the body can make _____ from tryptophan.
+When would be the appropriate time for a patient with ADHD to take Adderall XR (extended release amphetamine salts)?
+You're and ER nurse, and a patient comes in with their femur sticking out of the leg.  The best way to describe this fracture is that it is a (n)_______________ fracture.
+21.  Identify the imaginary flat surface for dividing the body  CORONAL         MEDIAN         MIDSAGGITAL          OBLIQUE       PARASAGGITAL          PLANE         SAGGITAL  TRANSVERSE
+Question #3
+Read the poem , "Sadie and Maud," By Gwendolyn Brooks and identify what the theme of the poem is. Poem
+Due process means that government may not act in a manner that is arbitrary, capricious, or unreasonable.

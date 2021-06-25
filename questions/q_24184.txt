@@ -1,0 +1,20 @@
+This is the cheat sheet for this exam, there is no answer required. example syntax of some of the types of statements you may need in the exam separated by a line module prob(input [3:0] in1, input in2, output [3:0] out1, output out2, output reg out3); ... endmodule _____ and A1(out1,in1,in2); ______ // (*) sensitivity list causes the always to execute the statement/block if anything changes always @ (*)    x = 1'b0; ______ always @ (posedge clock or posedge reset)    if (reset)        Q
+Identify the pig organs.  F [F]    Function of F [FunctionF]
+Which of the following is "most" optimal to perform Upper Extremity tasks?
+An insurance company uses a person's age to predict the annual life insurance rate.  Which of the following describes the weakest relationship between these two variables?
+The Unified Process (UP) life cycle has four phases: inception, elaboration, construction, and conversion.
+Which of the following is an example of an assaultive felony with an independent felonious purpose.
+Given the following information prepare all adjustments in journal entry form to convert the Governmental funds to the accrual method in order to prepare Government-Wide financial statements for the year-ended December 31, 2018.  There were $165,000 of Deferred Inflows - property taxes at December 31, 2017. Deferred property tax at December 31, 2018 were $150,000.  Insert a three column table to display your answers.
+In order for hemoglobin to combine reversibly with oxygen, the iron must be (D.2):
+Distance vs displacement biomechanics.docx In this example, which is greater... Distance of AF or Displacement of AF?
+The suffix that means process of recording or radiographic imaging is
+Match the inheritance pattern responsible for the expression of each of the traits below
+Which of the following produces the most ATP per molecule of glucose?
+1.9   Noem TWEE maniere volgens Megan Emmett, in paragraaf 5, hoe paddawyfies hul maats kies. Kies die regte antwoorde:     (2)
+All populations of different species living and interacting within an ecosystem are referred to collectively as a(n) ________.
+Performance appraisals are used most widely as a basis for:
+_-type material is semiconductor material created by doping a region of a crystal w9th atoms of an element that has more electrons in its outer shell.
+Which of the following vendors is more capable of meeting customer requirements:  Vendor X with a sigma level of 2.8 Vendor Y with a sigma level of 3.6
+A base in the first position of an anticodon cannot be a nonstandard base.
+In our country, the principles and ideals guarding our individual liberty and freedom are presented in
+T cells are produced in the red bone marrow and then transferred to the __________ to become immunocompetent.

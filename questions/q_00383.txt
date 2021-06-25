@@ -1,20 +1,20 @@
-Which analysis time is most likely used for the ABR recording?
-Land plants are
-The product of tube current and exposure time is equal to ____.
-Fill in each blank with correct choice within each set of parentheses: In the acronym XPS, the P stands for (photoelectron / proton / power) [1].  This technique irradiates a sample with (hard / soft) [2] X-rays, which knocks off electrons of lower atomic (incident / kinetic / binding) [3] energy. The value that is desired is the binding energy because it is a characteristic of each element, and thus provides chemical information. But it is not directly measured.  It is obtained from the difference between the incident energy, that of the X-ray source, and the kinetic energy, measured from the (drag / velocity / acceleration) [4] of the released electrons that travel through hemispherical metal plates.  The reason this is a surface analysis technique is because the escape depth of the electrons is short, where the electrons lose energy due to (elastic / inelastic) [5] scattering collisions with other matter in their path.  Therefore, only elements in the uppermost one hundred (angstroms / nanometers / microns / millimeters) [6] are seen in the spectrum. Because the peak intensities are not directly related to the electron occupancy of orbitals, (fudge / transition / sensitivity) [7] factors must be used to make the technique semi-quantitative with respect to measuring elemental composition. This leads to the other name of the technique, given the acronym (ECSA / EASC / ESCA / SCEA / AESC) [8].  In high resolution XPS, one can gain information about the bonding environment of that specific element because the binding energies become higher for an atom that has a bonding environment with a (lower / higher) [9] oxidation state. For example, in the case of organic polymers, one can distinguish between an ester and an ether, where the latter functional group will have a (lower / higher) [10] binding energy.  Depth profiling can be done in XPS by varying the (take-on / take-off  / rip-off / scattering) [11] angle to the detector, which in turn varies the escape path length. To get more surface sensitivity (shallowest depth measurement), one should use a (smaller / larger) [12] emission angle (angle between surface and detector).  Very low emission angles are referred to as (phasing / browsing / grazing / skimming) [13] incidence measurements.
-Chapter 20   What is the correct order of the following, according to the Woese system of classification? (From most general to most specific)
-Sports 'N Spokes was founded by the Paralyzed Veterans of America.
-Which type of section view is usually shown at an enlarged scale?  Full Offset Aligned Removed
-A heiferette is a very small framed, immature female bovine.
-We don't find the eggs of garter snakes, rattlesnakes, and copperheads because they retain the eggs internally. Their young appear to be born alive, but actually hatch inside the female. These snakes are ________.A) nulliparousB) viviparousC) oviparousD) ovoviviparousE) placentotrophic
-Which of the following is true for the fission of uranium-235?
-When follicular cells of the thyroid are stimulated to secrete thyroid hormone (TH), they take up TH precursors from the inside of the follicle, transport and enzymatically cleave them within a lysosome, and release TH to the blood.
-When providing a verbal handoff of a sexual assault victim, which of the following sets of information should be included in your report?
-Who is the commander-in-chief of the Greek armies?
-Show exactly what would be printed out when the following segment of code is executed. This code segment will not cause an error. Do not include quotes around strings when they are printed.   def goatStatus(players):    if len(players) == 0:        print("Greatest of all time")    else:        if players[0][4] in "aeiou":            goatStatus(players[1:])            print(players[0])        else:            goatStatus(players[1:])potentialGoats = ["Michael Jordan", "Paul Pierce", "Lebron James", "Larry Bird"]goatStatus(potentialGoats)
-What do these have in common?    69Kr 70Br1- 76Sr2+
-Which of the following provides the best evidence that Earth has evolved over geologic time?
-Which amino acid is thought to stimulate adaptation of intestine after a small bowel resection?
-31. According to your textbook, Edwards (Government in America), which of the following is a responsibility of the State Department?
-Below is the results from a streak onto a nutrient agar plate of a 24 hr culture of Bacillus megaterium diluted 10-5 mL. Using the formula ,calculate the original cell density of the urine in CFU/ml.     Formula  --> Original cell density (OCD) =     CFU                                                                              original volume sample
-Vivaldi wrote concertos mostly for a group of _________ that made up his finest orchestra.
+On a submarine expedition to the ocean bottom, you discover a population of fish that are only female. What type of reproduction does this fish most likely use?
+A liquid is the state of matter that has a definite volume but takes on the shape of its container.
+What does the acronym LAWKI represent?
+The Baroque Period was characterized by:
+All cells, whether procaryotes or eucaryotes, have these features: 1. Nucleus , 2. Ribosomes, 3. DNA, 4. Plasma membranes, 5. Cell wall
+According to the Sarbanes-Oxley Act, CEOs are personally responsible for which of the following?
+When the pelvis is too small to hold the fetus head, this condition is called:
+Find the derivative of y with respect to x, t, or th, as appropriate. Chain rule is required to find the derivative; what was the initial assignment for u?y = ln(cos(ln th))
+If there is a sudden worsening or (acute onset) of MR, which of the following should be considered?
+True or False: The United States guarantees its citizens universal access to healthcare services.
+A blind spot in the retina occurs where
+BONUS - which of the following could result in membrane depolarization?  Assume normal conditions.
+According to Bruce Lewis' essay, what is the principle of retribution? How is it seen in Deuteronomy and Job?
+Which of the following types of cell connections is correctly matched with its function?
+*An embryo that is only one cell is called a:
+Which one of the following is the ankle joint?
+A nurse is preparing to administer amoxicillin 350 mg PO. Available is amoxicillin 250 mg/5 mL. How many mL should the nurse administer? Round to the whole. Numeric answer only please, no label.
+Which of the following describes agile methodology?
+Refer to the diagram above (FIG.3.) Label ____ transports secondary oocyte or fertilized egg to uterus.
+Which statement is the MOST accurate regarding the last three stages of Erikson's psychosocial development theory?

@@ -1,0 +1,20 @@
+The chlorophyll pigments are found in the______
+The sequential approach to concession-making
+Consider the following scenario: you are working at company who has just licensed a new library. One of the methods in that library is a sorting algorithm that the documentation says has "a very fast polynomial run time". Unfortunately, "very fast" isn't a technical term and your boss asks you to perform empirical benchmarking on the algorithm to determine its Big-Oh. Specifically you need to run the algorithm on some inputs, compute the power (or b) of the algorithm's Big-Oh order, and then display the b value. The signature of the sorting algorithm is: public static void entitySorter(Comparable[] a). You may use both the Java math library and the Stopwatch class from lecture. For reference, the API for the Stopwatch class is given below. Assume the Stopwatch is super accurate and will give good values even the time being measured is very small. (Hint: log2(x)=log10(x)/log10(2))    public class Stopwatch Description    public Stopwatch()   creates a stopwatch. starts counting.     public double elapsedTime()   return elapsed time since creation.        import java.math.*; import Stopwatch; //generates an array of random test data of specified size. public static Integer generateData(int size) { //ASSUME ALREADY IMPLEMENTED } public static void methodBenchmarker() { //TODO: write this code! System.out.println("The algorithms power is b=" + b); }
+The value of the expression 17 % 7 is ____.
+In Search of Fellini, Maria Bello and Ksenia Solo, Spotted Cow Entertainment, 2017 The image above depicts a scene from Taron Lexton's film In Search of Fellini. The premise of the film revolves around a sheltered girl who spirals into a love for all of the films created by Italian filmmaker Federico Fellini. What characteristics of his films would she have most likely been drawn to?
+In which part of the European portion of the Eurasia Region would you expect to encounter the best/most productive farmland?
+The nurse cares for a client immediately after a myocardial infarction (MI).  The client's blood pressure is 164/98 mm Hg.  What is the best explanation for this finding?
+Texas must pass a balanced budget every year.
+NaCl is a compound joined together by the transfer of electrons, resulting in a(n) ______________ bond.
+Please, answer each of the following questions and show your work neatly: 1. Find Maximum and Minimum of a function. Problems # 12 2. Find Inflection points. Problem # 10 3. Graph functions. Problem # 32 4. Evaluate Limits using L'Hopital's rule. Problem # 10, 14, 16 5. Find differentials. Problem # 4 6. Compute indefinite integrals. Problem # 16,  7. Compute indefinite integrals using substitution. Problem # 14 8. Evaluate definite integrals. Problem # 8 9. Differentiate integrals. Problem # 20
+Heart rates above 100 beats/min in an adult is termed
+What explains the dramatic acceleration in lengthwise bone growth at puberty?
+What day of the week will your first exam be on?
+Data tables can track the change in an output variable when different values for one or two input variables are changed.  A command on Excel that will do this to allow three input variables to be changed is the ____________  command.
+Ethan is a middle-aged man. His waist circumference measurement of 45 inches places him at a ______ risk for chronic, obesity-related diseases.
+Fill in the blanks with the present tense of the indicated verbs. Yo ___ (poner)
+The receptor
+Represent the following decimal number in binary (8 bits) using two's complement: -42
+recombinant DNA is combination of genetic material from one organism introduced into another organism
+The corpus luteum of the ovary secretes

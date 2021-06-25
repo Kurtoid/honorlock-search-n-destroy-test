@@ -1,0 +1,20 @@
+In late 1994, the U. S. National Marine Fisheries Service closed Georges Bank to commercial fishing.  Why do you think this was done?
+Which of these authors explicitly rejected traditional religious establishments and teachings?
+Which of the following does NOT need oxygen to complete its stage
+Find the mismatched pair.
+Silver Star Company Legend  Xij = number of product i from source j, where i = 1 small 12 oz., 2 medium 16 oz., or 3 large 24 oz.                                                                              j = 1 Plant 1, 2 Plant 2, 3 Plant 3, 4 Supplier Zj = 1 if source j is setup, 0 otherwise; where j = 1 Plant 1, 2 Plant 2, 3 Plant 3, 4 Supplier   MAX 9X11+11X21+15X31+11X12+12X22+16X32+10X13+13X23+17X33+8X14+10X24+12X34-20000Z1 -30000Z2-25000Z3-2000Z4   S.T. 1)  3X11 + 4X21 + 5X31 - 80000Z1 <= 0        Plant 1 capacity (min); Plant 1 setup if used  2)  6X12 + 7X22 + 8X32 - 90000Z2 <= 0        Plant 2 capacity (min); Plant 2 setup if used  3)  6X13 + 5X23 + 4X33 - 80000Z3 <= 0        Plant 3 capacity (min); Plant 3 setup if used  4)  1X14 + 1X24 + 1X34 - 40000Z4 <= 0        Supplier capacity (bottles); Supplier setup if used  5)  1X11 + 1X12 + 1X13 + 1X14 = 18000      Demand for product 1 small 12 oz. bottles 6)  1X21 + 1X22 + 1X23 + 1X24 = 10000      Demand for product 2 medium 16 oz. bottles 7)  1X31 + 1X32 + 1X33 + 1X34 = 12000      Demand for product 3 large 24 oz. bottles 8)  Xij >= 0 for all i,j                                          Non-negativity 9)  Zj =1 or 0 for all j                                       Binary constraints  Using the Silver Star legend, which of the following constraints will ensure that the procurement of small 12 oz. bottles is at most 30% of the total sourcing of small 12 oz. bottles?
+Magnetic resonance imaging creates images using electrons instead of X-rays. Patient care is improved by reducing the time and discomfort a patient experiences being immobile and confined for a conventional CT scan.
+The inside, vascular lining of the uterus is called the:
+While some marketers believe that the Internet will eventually replace traditional forms of advertising, others disagree. Which of the following weaknesses of the Internet would support the marketers who disagree?
+Business analytics is the scientific process of transforming data into insight for making better decisions.
+The medical term meaning inflammation of the lymph nodes is
+A radiologic recording of the bladder is which of the following?
+I know how to use and install more than one Web browser (e.g., Internet Explorer, Firefox, Safari, or Chrome).
+Which of the following is NOT considered to be an innate defense of the urinary system?
+Find the center, the vertices, foci, and eccentricity of the ellipse.
+What effect will the following closing entry have on the retained earnings account?    Service Revenue 22,000          Interest Expense   1,000        Operating Expenses   14,000        Retained Earnings   7,000
+Which of the following refers to login information used to access the PM software?
+A 14 AWG copper cannot be installed on an over-current protective device larger that ___________ amperes when serving a residential general use lighting load and meet NEC requirements
+MNEs' possession and leveraging of certain valuable, rare, hard-to-imitate, and organizationally embedded (VRIO) assets overseas in the context of FDI refer to _____.
+For the circuit below, R1 = 2000 O, R2 = 3000 O, R3 = 4000 O, and emf = 12V; use Kirchoff's Laws to find the following: NOTE: Answer should be in decimals (i.e 3.1x10-6 would be 0.0000031) and include the unit with your answer.   The current through resistor R1 is [I1]. The current through resistor R2 is [I2]. The current through resistor R3 is [I3]. The potential difference between pair VA - VB is [VAB]. The potential difference between pair VA - VC is [VAC]. The potential difference between pair VC - VB is [VCB]. The power in resistor R1 is [P1]. The power in resistor R2 is [P2]. The power in resistor R3 is [P3].
+Which structure is not found in the retroperitoneum?

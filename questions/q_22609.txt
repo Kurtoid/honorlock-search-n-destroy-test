@@ -1,0 +1,20 @@
+A team of astronomers discovers one of the most massive stars ever found. If this star is just settling down in that stage of its life where it will be peacefully converting hydrogen to helium in its core, where will we find it on the H-R diagram?
+If a laboratory fire erupts, immediately
+Which of the following are risk factors for gestational hypertension?  Select all that apply.
+Intramembranous ossification starts out as _______________________.
+Excretion is a process in which ____ is (are) removed from the body.
+Which of the following statements about ethylene (CH2CH2) and polyethylene is true?
+Which of the following describes what the main window will look like after mybutton (the button labeled press here) has been pressed one time?  class MainWindow(QWidget):    def __init__(self):        super().__init__()        self.setWindowTitle("Georgia Tech")        box = QVBoxLayout()        mybutton = QPushButton("press here")        mybutton.clicked.connect(self.on_button_clicked)        self.button = QPushButton("push me")        self.button.clicked.connect(lambda x : self.setWindowTitle("Jackets!"))        box.addWidget(self.button)        box.addWidget(mybutton)        self.setLayout(box)    def on_button_clicked(self):        self.button.setText("THWG")if __name__ == '__main__':    app = QApplication(sys.argv)    main = MainWindow()    main.show()    sys.exit(app.exec_())
+Which letter means "after"?
+Of the following, the most electronegative element is:
+FILM 15 Identify this radiograph:
+The figure below shows the four steps of Koch's postulate. The correct order of the postulates is
+BONUS In the prescribing prism video, the doctor discussed the reason you should do cover test or maddox rod testing WITH and WITHOUT glasses on.  What was the reasoning for doing cover test in all positions of gaze without glasses on?
+Voici des fruits, des fleurs, des feuilles et des branchesEt puis voici mon coeur qui ne bat que pour vous.
+The molecule that delivers amino acids to a ribosome is:
+What are the key characteristics of physical development and health in early adulthood?
+The body's need for water increases on a diet high in
+Identify the preposition in the following sentence: You should go get popcorn before the movie starts.
+When using the income approach to measure GDP, the largest share of GDP generally consists of
+For his Statistic class experiment, researcher J. Gilbert decided to study how parents' income affects children's performance on standardized tests like SAT. He proposed to collect information from a random sample of test takers and examine the relationship between parental income and SAT score. Is this an experiment? If not, what kind of study is it?
+How quickly does social structure tend to change?

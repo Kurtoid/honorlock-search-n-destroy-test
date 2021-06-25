@@ -1,0 +1,20 @@
+Part 2:  You will hear a set of directions, and must choose the correct destination.
+Some IQ tests are standardized to a Normal model, with a mean of 100 and a standard deviation of 16. An IQ score of 70 or below is considered a low score.   (1) What is the z-score for an IQ score of 70? Do not round your final answer.  The z-score for an IQ score of 70 is [z].   (2) About what percent of people would you expect to have IQ scores below 70? Round to the nearest whole percentage.  About [P]% of people would have IQ scores below 70.
+What is this called?
+Which of the following statements best describes what this SELECT statement does?SELECT invoice_number, invoice_date,  CASE     WHEN (SYSDATE() - invoice_date) >= 30 AND (SYSDATE() - invoice_date) < 60      THEN invoice_total    ELSE 0  END AS "30-60",  CASE     WHEN (SYSDATE() - invoice_date) >= 60 AND (SYSDATE() - invoice_date) < 90      THEN invoice_total    ELSE 0  END AS "60-90",  CASE     WHEN (SYSDATE() - invoice_date) > 90 THEN invoice_total    ELSE 0  END AS "Over 90"FROM invoices
+Patients under the influence of nitrous oxide, sedated to the appropriate level, will be found in Anesthesia Stage:
+What word literally means "sky", but is often translated as "heaven", because it refers to a force more powerful than Shang Di?
+67. Why are medications encased in an "enteric coating"?
+Which country did Benito Mussolini plan to include in his "New Roman Empire"?
+All universal life policies have a guaranteed minimum interest rate.
+A baseball is thrown by the center fielder (from shoulder level) to home plate where it is caught (on the fly at an equal shoulder level) by the catcher. At what point is the ball's speed at a minimum? (air resistance is negligible)
+Identifying the answers from among a series of possible answers is which type of recognition?
+You are doing lab work with a new species of beetle. You have isolated lines that breed true for either blue shells and long antenna or green shells and short antenna. Crossing these lines yields F1 progeny with blue shells and long antenna. Crossing F1 progeny with beetles that have green shells and short antenna yields the following progeny:       Blue shell, long antenna   82     Green shell, short antenna   78     Blue shell, short antenna   37     Green shell, long antenna   43     Total   240       Assuming that the genes are linked, what is the map distance between them in m.u.?
+Which structure is highlighted in the figure above with "38"?
+Image #3  Facial Bones  Positioning:    There is evidence of rotation No rotation is present All pertinent anatomy is included CR placement is too anterior
+The stomach secretes _______.
+The primary tool of the Federal Reserve pre-2008 was ___________. The primary tool of the Federal Reserve today is the  _________.
+A light ray passes from a clear plastic block to air. Inside the block, the ray makes an angle of 35deg from the normal to the surface, and it leaves the block in air at 66deg measured again from the normal. What is the index of refraction of the plastic? Take the index of refraction to be 1 for air.
+When purchasing paint for art activities, purchase:
+QUESTION 5 ACCOUNTING EQUATION         5.1  Analyze the following transactions of Violet Traders and show the effect on the       elements of the accounting equation. Show an increase with a (+), a decrease with       a (-), if there is no effect indicate with a 0.   Example: Pay rent with a cheque R1 500.     No   Account debited   Account credited   Assets   Owner's Equity   Liabilities     e.g.    Rent expense   Bank   -1500     -1500                   5.1.1   Cash sales amounting to R1 500 for the week according to the CRR. (profit margin is 25% on cost price)             5.1.2   Receive interest on fixed deposit, R625             5.1.3   Buy R100 stationery. The payment is made via the petty cash.             5.1.4   Receive a loan from FNB of R10 000.   [20]
+Which of the following age groups is not considered at high risk for drowning?

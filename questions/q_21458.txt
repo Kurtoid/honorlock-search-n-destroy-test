@@ -1,0 +1,20 @@
+A 27- year old has a severe kidney obstruction leading to a nephrectomy.  Which of the following would the NP expect to occur?
+Which of these minerals reacts readily to hydrochloric acid (HCl) ?
+BEGIN THE CUMULATIVE SECTION.  Remember, if you see A and B or All of the above as options, always pick one of those options.   If you were a southerner, a historian, and looking to the coming Civil War in 1861 (and of course had access to class lectures), which of the following factors in Northern history might raise concern that the South would be taking on a pretty ferocious enemy?  Why?
+Ron is taught to use a special numbers trick to check his final answer, but he does not demonstrate this skill until his end-of-the-year math test. This is an example of ________.
+It is best to read the essay prompt more than once, in order to be clear on what is being asked.
+Read the passage Who Needs Sleep, and then answer the following question(s).When the author talks about changing school start times, what steps does she take to present the issue fairly?
+Which worm-like animal phylum does not contain parasitic species?
+This philosophy states that the only meaning to life is the one we each make for ourselves through our individual choices.
+Cnidarians have adaptations that assist in movement including,
+The figure above shows the stomach.  Which number identifies the rugae?
+Final settlement of spontaneous generation was accomplished by his use of swan-necked flasks:
+As carbon bonds with atoms of increasingly higher electronegativities, the polarity of the bond
+What components make up a nucleotide?
+Which modality uses the combination of nuclear medicine imaging and computed tomography?
+1.6   Die kind hoef nie lank te soek na die neonboog se punt nie.         1.6.1   Is hierdie stelling waar of onwaar.   (1)
+Periodic Table: periodic table for tests.pdf  download  Formulas and Constants: 2045 most of the equations.pdf
+In the dataset "d_vix", we have the VIX index daily levels. We would like to convert the daily VIX levels to monthly VIX levels by choosing end-of-month data. For example, the second row of the dataset "m_vix" is the VIX level on January 31, 1990, the third row is on February 28, 1990, ... , and the last row is on  May 31, 2016.     Dataset: d_vix    Date VIX md   02JAN1990 0.172 770   03JAN1990 0.182 770   ... ... ...   30MAY2016 0.158 1086   31MAY2016 0.144 1086                Dataset: m_vix    Date VIX md   JAN1990 0.253 770   FEB1990 0.219 771   ... ... ...   APR2016 0.157 1085   MAY2016 0.144 1086                  How would you do this in SAS?   SAS code PROC [BLANK1] data = d_vix out =  m_vix;                 id date                 interval   = month                accumulate = [BLANK3];                var vix; run;
+The retinoblastoma gene (Rb) is located at 13q14. Which of the following is NOT a mechanism that might cause loss of heterozygosity of Rb?
+Solve the problem.Jay drove 320 kilometers at the average rate of 64 kilometers per hour. How long did the trip take? Enter you answer as whole number. Enter only the numeric part of your answer.  [x] hours
+Which evidence for evolution includes impressions of plants and animals pressed into sedimentary rock?

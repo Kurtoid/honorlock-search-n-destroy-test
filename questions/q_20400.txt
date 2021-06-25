@@ -1,0 +1,20 @@
+public class Coffee{    public Coffee () {         System.out.println("COFFEE");     } } public class Latte extends Coffee {    public Latte() {        System.out.println("LATTE");     } } public class Mocha extends Latte {    public Mocha() {    super();        System.out.println("MOCHA");   } } Given the class definitions above, what is printed to the console when the following lines of code are executed? Assume the code compiles and runs (i.e. ignore typos). Latte l = new Latte(); Mocha m = new Mocha();
+In response to the financial crisis, the Fed effectively lowered interest rates to ________ percent.
+Consider a voltaic cell based on the spontaneous reaction: 2Al(s)  +  3Zn2+(aq)
+A service strategy
+A single mutation is NOT enough to turn a normal cell into a cancer cell.
+What is important to assess in a child receiving prednisone to treat nephrotic syndrome?
+If a value if within the 68% confidence interval, this means that 68% of all values fall within _______
+Identify the reducing and oxidizing agents in the balanced redox reaction:                          Cl2(aq)  +  2Br -(aq) -  2Cl -(aq)  +  Br2(aq)
+When latent heat of fusion is added to a solid at the melting temperature what happens?
+A patient presents with a 4/5 MMT lumbar flexion.  Which one of the following exercises would be BEST to address this impairment?
+Evolution can be used to explain all of the following except:
+Which statement by an adolescent indicates an understanding about factors that can trigger migraine headaches?
+The term used to describe noise on the CT image is:
+Vraag 4:  Pas kolom A by kolom B   [5]
+Let's assume the euro/dollar exchange rate is EUR1 = $1.20. According to the law of one price, a camera that retails for $300 in New York should sell for _____ in Germany.
+Which of the following is a mitigating circumstance?
+Whatever the mechanism of entry, the human-to-human transmission of infectious agents is directly related to the:
+A cooperative strategy is an action plan a firm develops to form cooperative relationships with other firms.
+The plateau phase (phase 2) of a myocardial action potential is prolonged by the use of Class IV antiarrhythmic drugs such as Verapamil.
+A ___ is used to record information regarding operation of a boiler during a given period of time.

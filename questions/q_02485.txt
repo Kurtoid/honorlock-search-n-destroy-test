@@ -1,20 +1,20 @@
-Which type of enteral feeding tube is the most physiologic (utilizes normal organ structure & function) for a patient with normal GI function who needs enteral feeding for greater than 1 month?
-DQ5: The prescriber has ordered heparin IV bolus dose of 80 units/kg. The patient weight 56 kg. The pharmacy provides heparin in a concentration of 5000 units/mL in a vial of 10 mL. How many mL of heparin should the nurse up draw in a syringe?  ____________________ mL (if rounding is needed, round to the tenth)
-After excess glucose is converted into glycogen, where is it stored long term?
-(10 pts) An allocation method refers to how disk blocks are allocated for files. Each file occupies a set of blocks on the disk. And only starting location (block #) and length (number of blocks) are required to allocate the files.    (a) (5 pts) What kind of allocation method is being used in the above figure? Describe a disadvantage that this allocation method may have. (b) (5pts) Assume a new allocation request comes for two "blocks", if you are using "best fit" algorithm to find a space for the request, where are the block numbers that you will use? How about "worst fit" and "first fit"?
-The electronic structure of the element having the atomic number 17 is _______.
-What is the particle size distribution from largest to smallest?
-In what year was the first national report on toxic wastes and race in the U.S. (the first study of its magnitude in the U.S.)?
-In digital intraoral radiography, which of the following errors can be corrected without taking a retake?
-If sin(th)=0.65{"version":"1.1","math":"sin(&theta;)=0.65"} and p2<=th<=p,{"version":"1.1","math":"p2<=th<=p,"} find sin(2th){"version":"1.1","math":"sin(2th)"}.
-Which of the following bacteria is Gram +, anaerobic, endospore forming, and produces an exotoxin
-The partial linear search method below is designed to search an array of String objects.  Select the expression that would be needed to complete the method. public static int search(String[] a, String item) {  for(int i = 0; i < a.length; i++)  {  if ( ____________________________ )  {  return i;  }  return -1;  } }
-If it takes you 10 min. to boil an egg to perfection at sea level, how long would it take to boil an egg to your taste in the Carpathian Mountains at elevations of 8,500 ft?
-Which of the following is the correct equation for photosynthesis?
-The ______________________ system structures include the skin, sweat glands, oil glands, hair, and nails.
-Lymph travels through the circulatory system toward the heart.
-Exercise: Given  f(x)=5x+7{"version":"1.1","math":"f(x)=5x+7"},Find the difference quotient   f(x+h)-f(x)h{"version":"1.1","math":"f(x+h)-f(x)h"}.Use the Graphical equation editor to show your work.
-The nurse notes in a patient's medication history that the patient has been taking desmopressin (DDAVP). Based on this finding, the nurse interprets that the patient has which disorder?
-The physician prescribed 0.2 mg of a medication for vertigo. The drug is available as 400 mcg/2 mL. The nurse would give ___mL
-When deciding which medical facility is most appropriate for your patient's needs, it is MOST important to:
-Match the female reproductive structures with their functions.
+Mass spectrometry is used to determine all of the following about a protein EXCEPT
+EXTRA UPLOAD QUESTION
+What is the minimum number of agents that must participate in each REA event?
+64. This organization develops standards for specimen handling and processing...
+What is the primary purpose of the cricoarytenoid joint?
+__________________________ Balance achieved with dissimilar objects that have equal visual weight or equal eye attraction.
+What kind of words are "False Cognates" in another language? For example:  "Je vais au college!" This can be a  false cognate!
+When fully amortizing loans call for equal periodic payments over the life of the loan they are known as:
+Hast du Zeit? Tag!
+PART A: What does the word "zealot" most closely mean as it is used in paragraph 8?
+The scrotum is responsible for which of the following?
+Of the following, which element of the promotional mix offers the most control over its message content?
+Which equation is a parabola with a focus of (2, -5) and a directrix of y = -1?
+If black and white true-breeding mice are mated and the result is all gray offspring, what inheritance pattern would this be indicative of?
+Some positive ways to handle road rage in other drivers, as well as in you are:
+Georges Bizet composed _____________, one of the most popular and frequently performed operas in the world.
+Determine the type of sampling used in each scenario. The instructor takes her sample by gathering data on five randomly selected students from Lake Tahoe Community College Math class. [answer1] A student was interviewing residents how many times they go to the local park. The first house in the neighborhood around the park is chosen and then every 5th house after that was interviewed. [answer2] A local photographer wants to gather data on couples who need a wedding photographer. He randomly selects couples from a wedding expo in a local city. [answer3] There are 50 marbles in a bag, numbered 1 - 50. You randomly select 5 marbles. [answer4]
+Matching-Please match up the letters with the descriptions of cross bridge cycling
+The symbol for carbon is
+Consider the following:A model cell has a 20% solute concentration and is in a 95% water solution.Is the cell hypertonic, hypotonic, or isotonic to the solution it is in?

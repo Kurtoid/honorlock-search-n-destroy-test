@@ -1,0 +1,20 @@
+Question 7 39 Points   Given the LP and its optimal solution max 4x1 + 3x2 + 7x3 st x1 + 2x2 + 3x3 = 0           x1* = 18, x2* = 0, x3* = 0, z* = 72     xB = [x1, s2, e3]   B-inverse = [   1          0          0                         1          1          0                         1          0          -1]   a. How much can the objective function value of x1 change without changing the optimal basis?   b. If the objective function value of x1 becomes 6, what is the optimal solution? x1 =                 x2 =                 x3 =                 z =     c. If the objective function value of x1 becomes 2, which variable becomes basic?  Will the objective function value increase or decrease?    d. Which constraints in the primal problem are binding?    e. Write the dual problem    f. Use the rules of complementary slackness to find the optimal solution to the dual problem.  Give the optimal solution value, the y variable values, and the values of all excess variables.
+A patient with known COPD arrives to the ER in respiratory distress. An arterial blood gas I drawn revealing the following results: pH = 7.22 PaCO2 = 66 mm Hg PaO2 = 77 mm Hg What type of respiratory failure is this patient suffering from?
+When moving the treatment couch anterior, the treatment portal and isocenter will shift
+Which of the following facial and skull landmarks describes the junction of the nose with the upper lip?
+You have measured out all the ingredients for an agar that has a fungicide in it. This is an example of a ____ and ___ media.
+What is the basic purpose of the consumer price index (CPI)?
+Which of the following would be a sign of poor bag-valve-mask ventilations?
+Which personality trait is not associated with appraising a stressor as a challenge?
+For internal hospital transports of mechanically ventilated patients of about _______, manually ventilating the patient with a bag and mask supplied with oxygen should be sufficient.
+Which change in cardiac function is anticipated for a client who is experiencing prolonged bed rest?
+"A Modest Proposal"   Which social class is the target audience for this work? (This is a target in terms of audience of focus and also a target for mockery.)
+5.7   Khetha impendulo elungile: Lenkondlo ikhuluma...   (1)
+Microchimerism is when
+5.5  'N Plakkaat met wenke oor hoe om rekenaars op 'n omgewingsvriendelike manier te gebruik, moet by die e-afvalstoonbank geplaas word.        5.5.1  Wat is die algemene term vir die gebruik van rekenaars op 'n omgewingsvriendelike manier?  (1)     5.5.2  Verduidelik kortliks waarom e-afval nie net in die asblikke gegooi moet word nie.  (1)     5.5.3   Gee TWEE wenke om op die plakkaat te verskyn, hoe om minder papier te gebruik.   (2)
+Given the Fischer projection in the box below, select the example (A-E) that represents it's enantiomer.
+Construct the equation of the regression line.In order for applicants to work for the foreign-service department, they must take a test in the language of the country where they plan to work. The data below shows the relationship between the number of years that applicants have studied a particular language and the grades they received on the proficiency exam. Find the equation of the regression line for the given data.
+Which of the following departments is most likely to be a profit center?
+Which of the following solutions is isotonic
+For the BEQ, the following control lines are set as shown: Branch = 1, MemRead = 0, MemtoReg=x, ALUSrc = 0, RegWrite=0 Please explain why each is set as it is for the BEQ instruction.
+Which of the following structures have +1 as a formal charge on an oxygen atom?

@@ -1,0 +1,20 @@
+Indicate in the box provided what will be printed to the Python shell when the following block of code is executed. The code will not produce an error.  def bridge(lyric):    if lyric == "":        return ""            else:        if (lyric[0].isupper() or lyric[0] in "dr"):            letter = lyric[0].upper()            return bridge(lyric[1:]) + letter        else:            return bridge(lyric[1:])print(bridge("Mind Over Matter"))
+Which of the following epithelia most easily permits diffusion?
+You respond to an explosion at a local fireworks production factory. The explosion rocked the ground several blocks away. There are multiple patients.The mechanism of injury from a blast or explosion can be from three, factors; primary, secondary, and tertiary. The mechanism of injury of a patient who suffers injuries from being struck by material propelled by the blast force is considered
+Prior to the late 18th century, the focus of sea exploration was __________, whereas in the late 18th century, __________ became important.
+The amount of nutrients per calorie in a given food represents how ________ the food is.
+Two gene loci, A and B, assort independently, and alleles A and B are dominant over alleles a and b. What is the probability of producing an AABB offspring from a cross of AABb x AaBb?
+What does it mean when a major is limited access?
+Which of the following is a medical condition that would make it harmful to take a specific drug?
+Under the truth-in-lending law, if any ONE "trigger term" is used in an advertisement for credit, then is it required that all "disclosures" must be made, or one single disclosure related to the "trigger term"?
+Disposal of the concentrate produced by membrane processes represents the major problem that must be dealt with in their application. Which one is the most common disposal method of concentrate?
+Please state the test you will like to retake.  If you choose not to retake a test and are satisfied with your current grade, please state that you are electing not to retake a test.
+Homan's sign is a possible clinical manifestation of which disorder?
+Match the mobile and immobile articulators.
+1. How long is folliculogenesis? 2. What hormone is responsible for the rupture of the mature follicle (ovulation)?
+The nurse is reviewing facts about pharmacology for a review course. The term legend drug refers to which item?
+The Common Core State Standards for Mathematics for Number and Operations for first grade include developing an understanding of whole numbers from 10 to 100.
+Requirements for personnel specifically prepared to serve older people will greatly exceed the current supply.
+What is marsupialization?
+Previous Quiz 7. What hormone is produced by the beta cells of the pancreas that lowers the blood glucose level?
+Throughout this course we have discussed MANY paradoxes and Darwinian puzzles in evolution.  For as many as you can, list them, explain them, tell why they are paradoxes/puzzles, and explain how we resolve these paradoxes/puzzles (with concepts, examples and data).

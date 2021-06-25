@@ -1,20 +1,20 @@
-MSFT historical returns are [r1], [r2], [r3].  What is the expected return?   Type your answer as decimal (i.e. 0.052 and not 5.2%).  Round your answer to the nearest four decimals if needed.
-Which of the following is NOT a risk factor for coronary heart disease?
-Line that creates an illusion of three dimensional space on a two dimensional surface is called a ________line.
-Which of the following is false concerning exotoxins?
-Nmap gives you the following output for a port scan of a vulnerable machine:  Nmap scan report for MY-PC (192.168.3.7) PORT     STATE    SERVICE 21/tcp     open       ftp 22/tcp     open       ssh 23/tcp     open       telnet 80/tcp     open       http 443/tcp   open       https 902/tcp   closed     mysql 5977/tcp closed     writer2.0 8080/tcp open       http-proxy     You know that writer2.0 (an outdated word processing software) has a vulnerability where if you connect to it's TCP port (via a tool like netcat) and send the phrase ??? you can get a root shell (this only works if you connect to the specific TCP port running writer2.0, and that port is open).   On MY-PC, which port can you connect to at the time of scanning and exploit this vulnerability?
-The group of hereditary disorders characterized by dry, thickened, scaly skin is known as ____________________.
-A ________________ is an instrument used to measure carbon dioxide.
-What type of CAD model is used to generate the sliced gcode in MOST slicer programs for additive manufacturing?
-_______________ is making products and environments to be usable by all people, to the greatest extent possible, without the need for adaptation or specialized design. The idea of universal design is to__________ life for everyone by making products, communications, and the built environment more usable by as many people as possible at little or no extra cost.
-Aristotle divided souls into which three types?
-It must be ensured that the input relation to the union operation have the same number of attributes; the number of attributes of a relation is referred to as its _____.
-The junction type that lets neighboring cells exchange small molecules is the
-Dr. M. is a 69-year-old man who had retired four years earlier after a 40-year career as a college professor. He reported experiencing frequent difficulties in hearing, particularly at church, social functions, and plays that he and his spouse attended at the university's theater. Dr. M. had noted being aware of hearing difficulties for some time, including the last several years of his teaching career. The onset of his hearing loss was reportedly gradual and seemed to affect both ears equally.  He was found to possess a mild to moderate sensorineural hearing loss bilaterally. This is his audiogram and he is going to be fit with BTE hearing aids. Dr. M's wife is with him at his appointment to see you for an AR eval. She does not understand the audiogram since she missed his audiological appointment. Explain it to her. Be sure to describe to her what she may be noticing with regards to him missing information or communication breakdowns.
-The leukemia phase of cutaneous T-cell lymphoma, mycosis fungoides, is called __________.
-This enzyme's function is to unwind the double helix, creating the replication fork:
-Human-to-human transmission of plague is most communicable when it is by the
-What are the stages of the Calvin cycle in correct order?
-The reproductive term used to describe when the female is receptive to the male (heat).
-Find the approximate 95% confidence interval for the population mean if the sample mean is 500, sample standard deviation is 40, and the number of observations is 400.  I say approximate because you can use z = 2 to make the computation much easier.
-The next four questions refer to the following images. Image 1 GEORGE CHINNERY, BRITISH ARTIST, THE SCOTTISH PHYSICIAN DR. THOMAS COLLEDGE WITH HIS CHINESE PATIENTS, PAINTED IN CANTON [GUANGZHOU], SOUTHERN CHINA, 1835    Thomas Colledge was a surgeon serving with the British East India Company who also undertook missionary work while stationed in Guangzhou. Image 2 FELIX-JACQUES MOULIN, FRENCH PHOTOGRAPHER, 1856 PHOTOGRAPH OF A FRENCH SCHOOL IN ALGIERS, INCLUDED IN A FRENCH GOVERNMENT PUBLICATION SHOWING SCENES FROM COLONIAL ALGERIA, 1857    The title of the photograph is "French Arab School in Algiers Under the Supervision of the Colonial Arab Bureau; Class Taught By Monsieur Depielle." The writing on the chalkboard reads: "My children, love France, your new homeland. Taken together, the images best demonstrate that British and French imperialism shared which of the following similarities?
+Which of the following is NOT one of the characteristics of Type 1 thinking?
+If a resident with Dementia has problems dressing, you should...
+The platinum rule states that we should: Treat others the way ____.
+Which of the following cranial nerves control eyeball movements?
+A patient has a temporary displacement of two bones causing the bone surfaces to partially lose contact with each other. What treatment does the health care professional prepare the patient for?
+What is the main function of the European Commission?
+Which of these methods is the entry point into a Java application?
+Which of the following does not account for low voter turnout?
+Which federal law finally banned discrimination and/or segregation on the basis of race, sex, ethnicity, or religion?  Which president signed this law?
+Match the following with their example/definition.
+QUESTION 2     Amanzi,a public limited company ,is a water bottling business. Its shareholders have been unhappy with the performance of the business and are threatening to take action at the next Annual General Meeting (AGM).Table 1 shows an extract from the company's latest Income statement. Table 1 :Amanzi Income statement for the year ended 31 December 2020         ($m)     Sales Revenue   ?     Cost of sales   150     Gross Profit   ?     Overheads/expenses   70     Net Profit   10       The accounts of the business also show that the capital employed by Amanzi was $650m.
+The picture below shows the orbit of a planet around the Sun with the planet in different positions. Rank the planet's speed when it is at the different positions in order from fastest to slowest.
+A client's altered body image is evidenced by claims of "feeling fat" even though the client is emaciated. Which is the appropriate outcome criterion for this client's disorder?
+You are moving an elderly patient down the stairs using a stair chair. The patient is alert and very anxious. What should you do prior to moving the patient to prevent her from grabbing the railing and causing you to fall?
+The client has had an enucleation of the left eye.  As the nurse reinforces discharge teaching, she will include which of the following referrals?
+What will happen to the pressure inside of the structure marked "D" if the sheet marked "E" is returned to its original position after it was pulled down?
+A client complains of difficulty sleeping, stating the need to use several pillows and cannot breathe when lying flat. This client has a condition known as what? *
+Which of the following is an indication for joint mobilizations?
+Which disease has the highest potential for transmission through a transfusion?
+The nurse is presenting information to a class of students about adrenergic drugs. Which are effects of drugs that stimulate the sympathetic nervous system? (Select all that apply.)

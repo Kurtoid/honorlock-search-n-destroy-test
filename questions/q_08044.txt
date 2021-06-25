@@ -1,20 +1,20 @@
-Some fat is necessary in our diets
-Sex therapy typically uses ______ techniques in a brief therapy format.
-Instructions The R Markdown file / Jupyter Notebook file includes the questions, the empty code chunk sections for your code, and the text blocks for your responses. Answer the questions below by completing the R Markdown file / Jupyter Notebook file. You must answer the questions using one of these files. You will submit a html file using one of the two files. You may make slight adjustments to get the file to knit/convert but otherwise keep the formatting the same. Once you've finished answering the questions, submit your responses in a single knitted/converted file (just like the homework peer assessments). There are 17 questions divided among 5 sections. The number of points for each question is provided. Partial credit may be given if your code is correct but your conclusion is incorrect or vice versa. Next Steps:  Save the .Rmd/.ipynb file in your R working directory - the same directory where you will download the "nba.csv" data file into. Having both files in the same directory will help in reading the "nba.csv" file. Read the question and create the R code necessary within the code chunk section immediately below each question. Knitting this file will generate the output and insert it into the section below the code chunk. Type your answer to the questions in the text block provided immediately after the response prompt. Once you've finished answering all questions, knit this file and submit the knitted file as HTML on Canvas.  Mock Example Question 5 - 4pts This will be the exam question - each question is already copied from Canvas and inserted into individual text blocks below, you do not need to copy/paste the questions from the online Canvas exam. # Example code chunk area. Enter your code below the comment Mock Response to Question 5: This is the section where you type your written answers to the question. Depending on the question asked, your typed response may be a number, a list of variables, a few sentences, or a combination of these elements. Ready? Let's begin.  Data (right-click the link and select to open in new window/tab)  nba.csv     Submission Templates (right-click the link and select to open in new window/tab)        You may use either the R Markdown or Jupyter Notebook Starter Template:     6414_Final_Part2_Submission_Spring2021.Rmd   6414_Final_Part2_Submission_Spring2021.ipynb
-Calculate the mean for the discrete probability distribution shown here. Round to one decimal place as necessary.    x 2 6 10 15   P(x) 0.4 0.3 0.2 0.1
-The natural and most abundant isotope of N is:
-How should a vaginal foreign body be managed in the prehospital setting?
-A triploid embryo in humans would not survive development. But they do survive in other organisms.   This question has several parts. Be sure to separate you answers. A. Describe two organisms were triploid individuals are seen.   B. How is the phenotype of these organisms a benefit to humans? C. How many chromosomes would a triploid human embryo have?
-Which of the following is true about trichophyton?
-In Dred Scott v. Sandford, the Supreme Court ruled that slaves
-When exercise testing an individual who is obese, all of the following are important considerations EXCEPT:
-Glucose and oxygen are the
-[A] Name the brain structure labeled A [B] Name the brain structure labeled D
-Antoine always pays his bills on time and is never late to work. Although most people like him and find it easy to carry a conversation with him, Antoine prefers solo activities during his free time. With respect to the Big Five, Antoine is ____.
-Choose the ONE BEST answer. The risk factors for developing Schizophrenia in humans include:
-In mitochondria, protons are pumped from the matrix and trapped in the inter-membrane space to be used for ATP synthesis, whereas in chloroplasts, protons are pumped from the __________.
-A client diagnosed with atherosclerosis is taking atorvastatin (Lipitor) to reduce serum cholesterol. What is the optimal serum low density lipoprotein (LDL)?
-Cardiac computed tomographic imaging has not proved successful in the evaluation of the coronary arteries.
-The image above shows the histogram that was selected before exposure.  Does the histogram match the body part that was examined?
-What are the three body segments seen in this SubPhylum of animals?
-Which term describes the new site that is formed when a cancer spreads?
+That I received for my hard work is an example of:
+Many older adults admitted to the hospital for depressive symptoms turn out to have previously undiagnosed
+The A-mode displays:
+Location most closely associated with podocytes and pedicels.
+18.   Clomiphene citrate (Clomid) is given to women trying to conceive because this medication works  by:
+Which of the following therapies is more concerned with removing specific troubling symptoms than providing special insights into the personality of the client?
+Find f(x) and g(x) such that h(x) = (f [?] g)(x).h(x) =
+Questions 7-10 are based on the following scenario: Evilan works on the final layout of the processor design at Processon, a company that designs and manufactures processor chips. After a series of poor investment choices, Evian has decided that his only path to truly luxurious life is a path of crime, so he has inserted a hardware Trojan into Processon's next-generation processor. The hardware Trojan continuously monitors the value of the stack pointer (SP) register, and does nothing unless the value of SP is 0x87654321. However, when SP does equal this value, the Trojan changes the processor's execution mode to Hypervisor mode, which allows full access to everything in the computer system, including memory locations that belong to the operating system and other users' programs. Evilan's plan is to wait for this processor to be deployed in data centers around the world, at which point Evilan will be able to purchase some user-mode execution time on various data-center servers, obtain other users' banking information, and finally buy a tropical island (and a mega-yacht to take him there in style). Evilan is pretty sure that his hardware Trojan will not be discovered during testing (or normal program execution) because the SP register normally points to very high addresses (e.g. 0xFFFFFFF0), and the addresses it normally points to are aligned to a 4-byte word (e.g. 0x87654320 or 0x87654324), so the value of 087654321 is highly unlikely to ever end up in the SP register unless Evilan's code sets it to that value.
+If there is a ___ while a burner is firing, the burner management system shuts down the burner.
+A nurse uses the five rights of delegation when providing care. Which "rights" did the nurse use? (Select all that apply)
+In philosophy, an argument is ...
+At which level of protein structure are interactions between the side chains (R groups) most important?
+Per capita benefit is the amount of resources
+The sample average is a random variable and
+Which muscle is the Frontalis?
+Some specimens that will not be processed immediately can be maintained at refrigerator temperatures for 24 hours. Which of the following specimens should be held at room temperature?
+Microwaves have ________ wavelengths and ________ energies compared to the visual band.
+Homeostasis maintains a constant internal environment within the body.
+The type of transposon that is an ancient parasitic sequence is called
+Photosynthesis and cellular respiration share which of the following:

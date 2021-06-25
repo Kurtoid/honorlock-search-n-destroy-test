@@ -1,0 +1,20 @@
+Please DO NOT USE COMMAs (,) in your answers Consider a file system whose inode structure include 10 direct block pointers, 1 single-level indirect pointer and 2 double indirect pointers. Each block pointer is 4 bytes. Each block is 2 kilobytes.   Answer the following: A. How many blocks can be addressed by the direct pointers: [A] blocks B. How many blocks can be addressed by the single-level pointer: [B] blocks C. How many blocks can be addressed by each of the double-level pointers: [C] blocks  D. What is the maximum size of a file in this file system, rounded to the nearest GB: [D] GB   Note: For your answers in B) and C), you may leave the answer in a form 2^n, where n is an integer.
+In Anderson et al.'s (1994) experiment on retrieval-induced inhibition, participants:
+Consider the following ABG in a patient with COVID-19 disease? PH 7.31 PCO2 53 HCO3 25 Which treatment would the nurse expect to be ordered first?
+Which of these is a buffer system in the body?
+Which of the following list of features describes the molluscs and bivalves but not the annelids?
+Define artery
+Choose a protective mask designed specifically for dusts, mists, and _____ to ensure the mask will be effective in the salon setting.
+What is the main function of the liver in the digestive process? Please explain in details.
+Re-create the possessive adjective chart.
+What is the name of the database that is used to track the controlled substances that a patient is receiving?
+Count the number of morphemes in the following word: Nationalization
+In what way do psychiatrists and clinical psychologists most strongly differ?
+The sense of taste and smell rely on nociceptors.
+A patient having a tube feeding begins vomiting. What action by the nurse is most appropriate first action?
+About ________ of the body's vitamin A stores are found in the liver.
+The gene that makes "penicillinase" could be called an "antibiotic resistance gene" because.... ?
+In DNA replication, the enzyme called __________ connects the Okazaki fragments to each other.
+True or False: There are minor salivary glands embedded in the lining of your lip, cheek, and palate. *There is no image for this question.
+Use the following scenario for questions 8a - 8e Fuel economy estimates for automobiles built one year predicted a mean of 23.8 mpg and a standard deviation of 7.2 mpg for highway driving. Assume that a Normal model/distribution can be applied. Use the 68-95-99.7 Rule to complete the questions below.
+What is the pH of a 0.225 M solution of Ca(OH)2?

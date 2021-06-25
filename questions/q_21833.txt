@@ -1,0 +1,20 @@
+_______ refers to the specific development, pricing, promotion, and distribution of products that do not harm the environment.
+Specific purpose statement is defined as a sentence summarizing the main idea, or claim, which the speech will support.
+Background Imagine you manage a widget factory. You have a CSV file with the following columns:  Widget_name (the name of a widget, a string) Widget_type (the category a widget belongs to, a string) Mfg_cost (the cost to manufacture one widget, a float) Retail_price (the price of one widget, a float) Units_sold_2020 (how many units of the widget were sold in 2020, an integer)  For a given widget, per-unit profit is the retail price of that widget minus the manufacturing cost. Instructions Write a function that takes one argument, a string containing a path to a CSV file like the one described above. Your function should return a Pandas Series object containing the maximum per-unit profit of each widget type. Your analysis should include only widgets for which at least 1000 units were sold in 2020. You can assume Pandas was imported as pd. For full credit, your solution should not use any loops. You may not use any module other than Pandas.
+Match.com and eharmony.com measure identifiable personal characteristics called ________.
+An exocrine gland has two parts
+Infection by which of the following pathogens poses a potential risk to a developing human fetus?
+Dialectic, as practiced by Socrates
+Sperm would travel through the following parts during EJACULATION (some steps may be skipped)
+Which body segment of an arthropod is most posterior and contains most of the internal organs?
+You can have a specific smell even due to simple cold.
+Graph the polynomial function. f(x) = x3 + 6x2 - x - 6
+In the relationship expressed in functional form Y = F(K, L), Y stands for real GDP, K stands for the amount of capital in the economy, and L stands for the amount of labor in the economy. In this case F( ):
+What country threatened war if the US annexed Texas?
+Rehabilitation is part of the plan of care for an older adult client who has a fractured hip, how does the nurse explain rehabilitation planning to the family?
+Learning to write well requires that we focus a lot of time and energy on revision.
+Compare and contrast the income statement and balance sheet. What is important to know about each statement to determine how a company performed during the year?
+Solve the problem.An object is traveling around a circle with a radius of 20 meters. If in 10 seconds a central angle of  radian is swept out, what is the linear speed of the object?
+12.  Which individual below organized the famous Jazz at the Philharmonic concerts and tours?
+What was the family looking for when the accident occurred?
+The nurse is providing discharge teaching instructions for a patient taking cholestyramine. Which statement made by the patient demonstrates a need for further teaching?

@@ -1,0 +1,20 @@
+Write the final contents of each of the vectors after it is passed to the following function: void vectorMystery3(vector& list) { int size = list.size(); for (int i = 1; i < size + 2; i++) { list.push_back(list[ 0 ]); list.erase(list.begin() + i, list.begin() + i + 1); if(i % 2 == 0) { list.insert(list.end() - 1, i); } } }  {2, 4, 6}[v1] {1, 12, 5, 23}[v2] {40, 20, 60, 1, 80, 30}[v3]
+The presence of IgM to T. gondii in an adult is indicative of -
+Which of the following statements about trade in Song China (960 CE - 1279 CE) is false?
+How much is the genetic relationship between full-sibs?
+Above the center of a minus lens, _______ prism is created.  (hint:  make a diagram)
+The Council of Trent 1545-1563 declared
+What effect did the formation of the ozone layer have?
+Which vessels does blood enter after leaving the lungs?
+Because heat and pressure affect the ratio of radioactive parent to stable daughter, ____ rocks generally are difficult to date accurately by radiometric dating.
+What is the main problem with protected areas in Africa?
+Which of the following statements about Medicaid is true?
+Routine urinalysis specimens that cannot be analyzed within 2 hours require:
+What is the formula for the ionic compound formed by calcium and sulfur?
+What is the molarity of a solution containing 3.0 moles of NaCl in 1.5 L of solution?
+Which of the following statements about childhood injuries is true?
+?Van a visitar ellos unos lugares historicos?
+The main gastic protease is called:
+?Como se llama el estudiante? (20 points)
+A/An ____________________ is a benign tumor of the pancreas that causes hypoglycemia.
+A month ago, Carl experienced memory loss regarding his life and personal autobiographical information. He left home and rented an apartment two towns away. Though he used to be employed as a lawyer, he got a job in his new town as a gas station attendant. The other day, one of Carl's friends, Ryan, saw him at the gas station. He ran up to Carl and asked where he had been for the past few weeks. Carl was extremely confused because he did not know who Ryan was, and because he didn't understand why Ryan was calling him "Carl" - he insisted his name was Ian, and had no memory of the events Ryan was telling him about. Carl has never had any other symptoms of abnormal functioning. What disorder does Carl have?

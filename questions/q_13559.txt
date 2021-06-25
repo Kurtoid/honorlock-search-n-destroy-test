@@ -1,0 +1,20 @@
+A nurse is making a home health visit to a patient with breathing disorder. The nurse notes the following medications at the patient's bedside:  Advair diskus, salmeterol MDI, HCTZ, warfarin, and albuterol MDI.  What concerns would the nurse have?
+Motivating operations:
+Consider the execution of an arbitrary flow-insensitive, context-insensitive, field-sensitive pointer analysis (as was presented in the pointer analysis lesson) on the following programs. For each program, select whether the pointer analysis can prove the assertion using a type-based or an allocation-site based heap abstraction. Assume the following class definition for type Node: class Node { int data; Node next; } Program: Node v1 = new Node();Node v2 = new Node();v1.next = v2;v2.next = v1;assert(v1.next != v2.next);  Can prove assertion with type-based heap abstraction? [p3type] Can prove assertion with allocation-site based heap abstraction? [p3alloc]
+When the two gametes that fuse to form a zygote contain different alleles for a given gene, the offspring is
+What is a data artist?
+What is an adaptation to the muscle after long-term aerobic exercise training
+_____ are the leading cause of death in people with diabetes, accounting for 70% of deaths.
+Of the following acids, __________ is not a strong acid.
+2.2   In a brief discussion  of 50 - 100 words, discuss the influence that the Industrial Revolution of the late 1800/ early 1900 had on Design and broader society of that time. How is this relevant to today?   (10)
+Which of the following female reproductive structures is NOT found inside the body?
+Short Stories. Kate Chopin. "The Story of an Hour." Which of the following is NOT a theme from this story?
+The following code produces 4 lines of output. What is the output? Write each line of output as it would appear on the console. For the purposes of this problem, assume that the variables in main are stored at the following memory addresses:  main's a variable is stored at address 0xaa00 main's b variable is stored at address 0xbb00 main's c variable is stored at address 0xcc00 main's d variable is stored at address 0xdd00 main's e variable is stored at address 0xee00  int mystery(int* a, int b, int* c) { (*c)--; b++; *a = (*c + b); printf("%d %d %dn", a, b, *c); return b; } int main() { int a = 3; int b = 10; int c = 50; int* d; d = &a; int* e = &b; mystery(d, c, &b); b = mystery(&c, a, e); printf("%d %d %d %d %dn", a, b, c, d, e); printf("%d %d %d %d %dn", &a, &b, &c, *d, *e); return 0; } Line 1: [l1] Line 2: [l2] Line 3: [l3] Line 4: [l4]
+Which of the following is the metric unit for length?
+The president who threatened to use Federal authority to stop a railroad strike was
+Universal themes are in contrast to culturally specific ideas within a text like Raisin in the Sun.
+Discuss the social learning theory proposed by Albert Bandura and Lev Vygotsky. Hints:  scaffolding, zone of proximal development, sociocultural, human diversity...
+Examining this Academic Search Premier article, what will be the first words of the Works Cited entry?
+Vandiver: OTC Pain Which drug is matched MOST appropriately with a counseling point for that medication?
+MRI is especially good for imaging hard tissue
+Which of the following is not a criteria that must be met before an organization may be designated as a foreign terrorist organization?

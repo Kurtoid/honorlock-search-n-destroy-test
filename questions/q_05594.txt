@@ -1,20 +1,20 @@
-When measuring substrate utilization via indirect calorimetry,
-Emotional intelligence, teamwork, listening, and self-awareness are considered __________________ that are vital for healthcare workers.
-Which of the following projections is best for examination of the maxillary sinus?
-The main purpose of the first-line defenses is to
-Many smaller federal agencies have unlimited law enforcement responsibilities.
-Multiple, well-demarcated cold spots within the liver on a 99mTc sulfur colloid liver scan is consistent with:
-The nurse is describing the process of fetal circulation to a client during a prenatal visit. The nurse should tell the client that fetal circulation consists of which components?
-Write a JavaFX GUI program with file name LastnameFirstnameExam5.java that meets the following requirements and adheres to the layout included sketch.  Must set the title of the window to be "1331 Exam 5 - YOURNAME", where YOURNAME is replaced with your first and last name. Must include some non-editable text at the top to the window (not the title) with a short phrase of your choosing. Change the text font to either Georgia, Papyrus, Courier New, or Comic Sans MS; it cannot be the default font. Font size should be 12. Must include a plain Button.  The button must toggle the color of the short phrase text between Color.BLACK and your favorite color.  Make sure this color is still visible in the UI (i.e. the color should be dark enough to be seen). You must set the button text to something of your choosing.   Must include one of the following shapes:  Circle, Rectangle, Polygon, Ellipse, or Arc. The shape can be any color of your choosing, but make sure this color is still visible in the UI (i.e. the color should be dark enough to be seen). Must include a select one-of-many button group to control the alignment of the shape displayed. There should be 3 alignment options for Top, Center, and Bottom.  Hint: StackPane has a setAlignment method. You may place this group beside or below the shape.  In order to actually see the alignment change you will need to ensure that your window/stage is large enough. So, you need to set the size of your stage to be large enough to see the change proportional to the the size of your shape. A good ratio is to make the window 3 times the width and height of the Shape. To do this you can use the following methods: stage.setMinWidth(X); and stage.setMinHeight(Y);   Must use a Spinner UI control that will control the opacity of the shape.  The Spinner should have a minimum value of 0.0, maximum value of 1.0, initial value of 1.0, and a step amount (i.e. amount to step by) of 0.05 Hint: Opacity is specified as a double value between 0.0 (completely transparent) and 1.0 (completely opaque). Another Hint: Look closely at Spinner's constructors to find one that allows for configuration of the min/max/init/step values on creation of the Spinner to make your life easier. Yet Another Hint: There are several ways to implement the event handling, we recommend using the setOnMouseClick method that is available to any Node   You must use at least one of the following children of Pane to control the layout of the Nodes: BorderPane, GridPane, HBox, or VBox. You must implement your event handling at least two of the three ways we taught: named inner class, anonymous inner class, and lambda expression.  For example, at least one handler as an anonymous inner class and at least one handler as a lambda expressions. Failure to implement handlers in two different ways will result in the loss of points.   Points may be deducted if your layout deviates greatly from the one shown below. However, you do not need to have a border around the button and Pane containing your shape nor around the shape itself. You may place the one-of-many button group below or beside the Shape.  YOUR SHOULD ONLY SUBMIT A SINGLE JAVA FILE. ENSURE THAT ANY OTHER CLASSES YOU INCLUDE EXIST WITHIN THE SAME FILE. IF YOUR SUBMITTED CODE DOES NOT COMPILE, YOU WILL RECEIVE A ZERO. SAVE, BACKUP, AND TEST OFTEN! The following is an example layout for your UI, but as long as you meet the requirements stated above the layout is flexible:
-The maximum amount of air that can be moved into and out during a single respiratory cycle is called
-Read about the dinner at Sonia's house and complete the sentences with reflexive verbs in the preterite tense. OJO: Do not forget the pronoun in front when conjugating. For your reference: a e i o u u n // A E I N O U U // ? ? // ! !  Anoche Sonia les sirvio una cena a sus amigos en su apartamento. Durante la cena, todos sus amigos [word1] (reirse) mucho y [word2] (divertirse). Despues de la cena, Sonia [word3] (despedirse) de sus amigos y [word4] (dormirse) inmediatamente en el sofa.
-Which of the following would be expected to have sp2 hybridization on atom A?
-The suturing technique where a series of stitches is made with a single thread and knotted at each end is called:
-Which of the following is NOT true about a spermatozoa?
-The same communication skills apply to all media types.
-Match the features (A through E) to the proper terms. Note that two boxes refer to to of the features that are ellipse shaped.  The other three refer to the wind pattern.
-The respiratory membrane consists of all of the following except...
-What is the name of the CSF filled spaces deep inside the brain?
-The following image shows the rock cycle. The three different rock types are represented, but the processes that connect the rocks within the cycle are not labeled. What process(s) would be responsible for the transition labeled A?Click to view larger image.
-Which general type of tissue produces contractions?
-BE SPECIFIC!  SPELLING COUNTS!!  LABEL #A-F (A=1; F=6)
+You have isolated a new virus that causes disease in tropical 3rd-world countries.  To learn more about it, you have obtained the following nucleotide content of its genome (% of the genome that is A, C, G, T, and U).    A = 22%,  T = 28%,  G = 22%,   C = 28%,  U = 0% Which of the following is true regarding the genetic makeup of this virus?
+An organization that gets its legitimacy through the participation of average citizens is called a
+When a scientist refers to a model organism, they are referring to ________________________.
+Which statement is true for syntactically correct classes?
+Which of the following drugs can be used to stimulate uterine contractions?
+1.19   A set of rules determines whether an action is ethical or not:   (2)
+Calculate the percent activity remaining for using the following data: initial anterior stomach ROI 59,300 cpm initial posterior stomach ROI 57,900 cpm 30 min anterior stomach ROI 43,200 cpm 30 min posterior stomach ROI 40,800 cpm 30 min decay factor 0.944
+Which of the following statements is not a characteristic of an S Corporation:
+Damage to the visual association area can result in blindness.
+International sales contracts are governed by which of the following?
+12. The five Rs of management are:
+Chapter 17   What happens to plates at divergent margins?
+Cnidarians are named for their cnidocytes, a feature unique to the group. What are cnidocytes?
+Most human pathogenic bacteria are?
+Who among the following is responsible for making business strategies in a large conglomerate?
+Natural resource-seeking firms have compelling reasons to enter culturally and institutionally distant countries. This is a counter example of _____.
+For a process in the ready state, the ______________ keeps increasing
+As we discussed in class, why did the semiconductor company general manager give pencils to his engineers?
+Expansion of the number and types of health services professionals closely follows population trends, advances in research and technology, disease and illness trends, and changes in health care financing and delivery of services.
+Find the number that should be added to complete the square. Write the resulting perfect square trinomial in factored form. x2 - 18x + _____

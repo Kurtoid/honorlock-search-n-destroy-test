@@ -1,0 +1,20 @@
+The patient is being treated for renal failure with peritoneal dialysis. Which one of the following would the nurse identify as a complication from the treatment?
+Why did Jackson veto the Maysville Road Bill?
+The Loblaw Law Firm has issued a ten year bond that pays 12% annual interest on a $1,000 face value.  If the bond currently sells for $1,350, what is its yield to maturity?
+Which reflex would be a monosynaptic reflex?
+Short answer (4 points): What is one imperiled freshwater organism that we observed in this class (2 points)?  What are two major threats to this organism (1 points each)?
+CO2 makes up about ________ percent of the atmosphere.
+Tautomeric shifts are a result of:
+Three weeks after being treated for strep throat, a patient comes into the clinic with signs of acute glomerulonephritis. What symptoms will the nurse most likely find upon assessment of this patient?
+100.  Soft, perforated film that enables air to circulate while the sterile cotton pad absorbs fluid is called a:
+Complete combustion of 1.0 mol of a hydrocarbon containing only carbon and hydrogen results in the following combustion mixture. Determine the empirical formula of the hydrocarbon.
+TV is a popular medium among companies selling mass-consumption products because of:
+A patient in an alcohol rehabilitation center tells you a detailed story about growing up in the mountains of Tennessee. Later, you find out that the person had never even visited Tennessee. A day later you visit the patient again, and the patient does not recognize you. This patient is MOST likely suffering from:
+What word do we use when an animal is only found in one geographic location naturally?
+Recognize all the Antigen presenting cells from the choices (There are multiple answers to this questions, chose 3 answers)
+__________ are paid to process claims for government medical insurance programs.
+Why should organizations align systems and structures to the vision and strategy?
+Which of the following is not one of the common medical record documentation formats discussed in the module content?
+The use of UvrA, UvrB, UvrC, UvrD, DNA Pol I, and ligase are involved in which repair mechanism?
+Caution : Inclusion of unnecessary or unrelated logic or code segment will result in loss of points. Do not use any global variables.  Must implement the specific requirements outlined below. Apart from that, no restriction. State all assumption Assume a customer data file (customer.dat) with fixed length record was created with x number of records using another C program. The first  4 bytes of the data file contains the total number of records (integer value) in the file. The rest of the file will contain the records themselves.  Here is the byte layout of the data file.  Record Count : 4 bytesRecord 1 : 30 bytesRecord 2 : 30 bytesRecord 3 : 30 bytes Record x : 30 bytes Assume the record count will not exceed 100 records. All data and records are valid and written using fwrite operations. The file can contain more records than the record count. The record layout is as followsFirstName : 25 bytes (char data type)Gender : 1 byte (char data type) Age : 4 bytes (int data type) Write a C program that will complete the following operations without any user intervention. a) use of a function only to read customer data (records) from the data file and populate the customer information into variables that will be used in parts b, c, and d  of the program. Do not include any output. This function should be called only once. b) find the average of the ages of all the customer recordsc) generate output to the displayd) generate output to the output file, customer.txt (fresh output every time this program is executed) Sample output (Header, Record detail, Average) to be displayed to the screen and output file. Name Gender Age1. James M 302. Jane F 20 Average Age : 25.0 Do not worry about the spacing of each field or lines.  The sample above shows output for only 2 records. Your output should be based on the records read from the data file and not just the 2 records.
+An immune response in which T cells destroy antigens is called _____ immunity.

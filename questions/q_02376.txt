@@ -1,20 +1,20 @@
-8.2 (3 Points) We assume that a file system makes use of the counting approach to managing free blocks in a file system. In this approach, each entry in the counting table stores two items, namely, (1) the address of the first free disk block and (2) the number n of free contiguous disk blocks that follow the first block. Initially, the file system has 512 GB free space, where the block size is configured to 64 MB. How many bytes should be reserved in each entry for the second item (i.e., a counter)?
-Consider the permutations method from the textbook, which is intended to return all permutations of the word passed in as a parameter. Which line contains the recursive call in the permutations method? public static ArrayList permutations(String word) {  ArrayList result = new ArrayList();  if (word.length() == 0) // line #1  {  result.add(word); // line #2  return result; // line #3  }  else  {  for (int i = 0; i < word.length(); i++) // line #4  {  String shorter = word.substring(0, i) + word(substring(i + 1); // line #5  ArrayList shorterPermutations = permutations(shorter); // line #6  for (String s : shorterPermutations) // line #7  {  result.add(word.charAt(i) + s); // line #8  }  }  return result; // line #9  } }
-Replacing 24.48 with 25 results from using the ______________________ estimation strategy
-What federal agency was created and implemented as part of the Civil Rights Act of 1964 for the purpose of enforcing laws to prevent job discrimination?
-Choose the statement that supports the point.   Point: Drinking sodas on a regular basis is a poor nutritional choice. Which point is adequately supported by all the evidence above?
-The most recent techniques developed in the biological sciences allow the manipulation of DNA with the ultimate goal of intervening directly with the ________ fate of organisms.
-What agencies make up the joint terrorism task force:
-"The birth name of George Orwell, author of Nineteen Eighty-four, was Eric Blair. He died in 1950" is
-Which of the following is the BEST example of using evidence-based knowledge by a nurse educator?
-Quantifying the age of the rock or mineral in years before the present using methods such as radioactive isotopes is referred to as -
-Medicare will pay for all medications that are prescribed by the patient's primary physician.
-Which instruction has priority when teaching a patient about clozapine?
-Identify the form and explain the function of all words: boulometha egeisthai ton ekhonta megalen dunamin phusei basilea tous polemious nikesein.   *Identify the case, gender and, number of the highlighted noun, pronoun, or adjective and explain its function (e.g., direct object, indirect object, possession, dative of means, part of prepositional phrase, accusative of extent of time). **Identify the person, number, and tense of the highlighted verb and explain its function (e.g. objective infinitive, command, apodosis of a present simple condition, infinitive in indirect statement, same time as main verb).  Please make it clear which word you are identifying. You can do so by spelling out the Greek word in English letters (e.g., "ergois" for ergois or "potamo" for potamo).
-A patient with a history of drug abuse presents with a fever and severe right flank pain. The ultrasound shows a complex mass with low level echoes, debris and highly echogenic echoes with ring-down artifacts. These findings most likely represent:
-Which of the following tends to have a disproportionate amount of influence on employee selection decisions?
-A lesion on the right side of the primary motor cortex causes
-Only about 15% of all people can wiggle their ears. Is this percent different for millionaires? Of the 491 millionaires surveyed, 81 could wiggle their ears. What can be concluded at the 0.10 level of significance? H0: p [response0] 0.15 Ha: p [response1] 0.15 Test statistic: [response2] p-Value = [response3] Decision: [response4] Conclusion: There [response5] sufficient evidence to make the conclusion that the more than 15% of all millionaires can wiggle their ears.
-What action does this muscle perform in the sagittal plane?
-Latane and Darley attempted to explain people's failure to intervene in cases like that of Kitty Genovese through research uncovering the bystander effect, which explains helping in terms of _________________________.
-The phrase "I knew it all along" is most closely associated with the ________ bias.
+In Rupert Brook's "The Soldier," the most important characteristic of the soldier is his:
+_____________   _____________
+FEDERAL LAW requires individuals exposing patients to ionizing radiation for medical purposes to be certified.
+Eczema is caused by caustic chemicals.
+Which of the following would be best to study the glycosylation state of a protein?
+Name the special group of proteins used to catalyze our metabolic body chemical reactions: _______
+How does the burning of fossil fuels, such as gasoline and coal, contribute to the greenhouse effect?  Choose the best answer.
+Explain these two terms: PHONEMES and GRAPHEMES.
+Suppose two countries are identical in every way with the following exception. Economy A has a higher saving rate than economy B. Given this information, we know with certainty that
+Austin tells Linda, "If you do a good job landscaping my yard this summer, I will pay you a $10,000.00 bonus."
+The denaturation of proteins:
+Which of the following compounds shows a decrease in solubility across the graph?
+Then radiosensitivity of a normal cell and a cancer cell is a function of: 1. Cellular metabolism 2. Reproductive activity 3. Oxygen utilization
+The goal of Levenson and Grady's study was to inform efforts to prevent sexual victimization of children and to determine most effective methods of punishing MAPs such that they would not reoffend.
+8 surveillance drones are deployed to a region, and now need to be assigned to watch a new area in the region. Due to other existing tasks, each drone is only available during a certain period of time during the day. In addition, given each drone location, there are different costs involved with assigning each drone. Table below summarizes drone availability and cost. The problem is to determine a subset of drones that can be assigned to the task, so that the area is continuously watched from 6am to 9pm at minimum cost.  Draw a network, so that the problem can be solved as a shortest path problem. Describe how your approach can be applied to any set of drones (i.e., explain, in general, what nodes and arcs are present in your network). Identify the optimal solution. In the field below type the minimal cost.    Drone Availability Cost   drone 1 6am-noon 100    drone 2  3pm-9pm 300   drone 3 10am-7pm 1000   drone 4 6am-3pm 450   drone 5 noon-6pm 380   drone 6 7pm-9pm 50   drone 7 1pm-4pm 150   drone 8 2pm-9pm 650
+True or False - Shapes can help tell the story and make the dance more visually appealing.
+The deduction for qualified business income is available to all businesses, regardless of the type of business activity or entity type.
+______ is the total of an employee's pay and benefits.
+The eutectic composition for a Pb-Sn alloy is __ % Sn.
+The presence of tachycardia following a significant abdominal injury:

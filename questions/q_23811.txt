@@ -1,0 +1,20 @@
+Write an equivalent lambda expression that implements the functional interface T1 that could be used to replace the anonymous inner class given below. An example inner anonymous class implementation is given below. The body of the implementation must match the implementation given. Note: you only need to write the lambda expression NOT the entire block of code below. public class Motion {    public static void main(String[] args) {        Motion myMotion = new Motion();        myMotion.doStuff(new T1() {            public void printDifference(int first, int second) {                System.out.println(first - second);            }        });    }    public void doStuff(T1 t1) {        t1.printDifference(9, 3);    } } interface T1 {    public void printDifference(int first, int second); } Make sure to select the 'Preformatted' style from the dropdown so your code is formatted clearly.  DO NOT USE THE TAB KEY WHEN WRITING CODE AS YOU MAY ACCIDENTALLY SUBMIT YOUR EXAM. USE THE SPACE BAR INSTEAD.
+21. If a patient becomes nauseous, vomits or is extremely restless it is said that the patient is in which stage of analgesia?
+The area around an partially unerupted mandibular third molar is inflammed and painful to touch and chewing. This condition is most likely
+Your patient has lost weight, exercises several times a day, and only allows herself very small amounts ofcertain low-calorie foods. Could this patient have anorexia nervosa?
+Since the 1980s, American managers have become much more focused on stock prices, resulting in "shareholder capitalism."
+____________________  require being able to recall information, study specific and detailed information.
+The use of the U.S. federal budget to help stabilize the economy grew in reaction to the ________ and is known as ________.
+At some times during the year, in the northern hemisphere, very cold air reaches the southern latitudes, and very warm air reaches the northern latitudes. What allows this to happen?
+El esposo de mi hija es mi ______________________________.
+3. Avec qui Michel Hublot a-t-il un entretien?
+Physical pendulum: A uniform meter stick is freely pivoted about the 0.20-m mark. If it is allowed to swing in a vertical plane with a small amplitude and friction, what is the frequency of its oscillations?
+The figure shows scale drawings of four objects, each of the same mass and uniform thickness, with the mass distributed uniformly. Which one is easiest to rotate when rotated about an axis perpendicular to the plane of the drawing at point P?
+Where is the best place to find the assignments and their due dates?
+The abbreviation RNA stands for _________. Type the best term that completes this sentence into the text box below:
+Which of the following uses granzymes and perforin as a mechanism of direct action against foreign pathogens?
+Four point charges of magnitude 6.00 mC and of varying signs are placed at the corners of a square 2.00m on each side, as shown in the figure.     (a) What is the electric potential (relative to infinity) at the center of this square due to these charges?   [pot1][punits] (b) What is the magnitude of the electric field due to these charges at the center of the square?  [elec1][eunits]
+The segmentation strategy that helps identify a consumer segment by shared values, attitudes, preferences, and behaviors is what?
+Which pure substance below would be predicted to have the highest boiling point? ptable_6.pdf
+13.  a) Challenge problem. Nitric oxide gas reacts with bromine gas to form nitrosyl bromide gas.                        2 NO  +  Br2(g)
+Explain what a transcription factor is and describe the differences in the roles of general transcription factors and sequence-specific transcription factors.

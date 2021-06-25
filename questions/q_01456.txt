@@ -1,20 +1,20 @@
-Extra credit (please allow some extra time for manual grading after the due date):  A nurse at a medical call center is consulting with a mother regarding her 8-year old daughter. The child is experiencing throat pain and fever. The nurse recommends that the child should be taken to a health care provider for a rapid throat culture, because a condition associated with untreated pharyngitis that may result in damage to heart valves and cause joint pain. What condition is the nurse referencing? (hint: two words)
-Scholars credit _______________ with writing the Declaration of Independence.
-Select the expected major elimination product of the following reaction.
-Pre-procedural Communication II: Match each phrase on the left with its English equivalent.
-The term technological diffusion is defined as:
-Interferon are
-What is a syllable?
-Which one is a stop codon?
-An alternative work scheduling arrangement where two employees split one full-time job over a defined period of a day, week, or month is known as _____.
-In accounting for a defined benefit plan, gains and losses from PBO and plan assets may  be
-Gender stratification refers to the ranking of males and females according to their access to power, property, and prestige based on their sex.
-Financial risk is:
-This tissue is found in the uterus, blood vessels, intestines, stomach and urinary bladder.
-Fill in the blank: atoms, molecules, ____________, cells, ___________, organs, systems, __________.
-How does the raised 5th of a V+ or a V+7 resolve?
-The combining form meaning thyroid gland is:
-A, B, C, and E horizons can be found in any true soil.
-The ENUM data type stores values that are mutually exclusive. Which choice is not appropriate for the ENUM type?
-Beans are __________.
-Pt
+Which of the following courses have you completed? (click all that apply).
+Synovial fluid is
+011.pdf  Family [family] Genus [genus] Below genus (specific epithet etc.) [species-etc] Common name [common]
+A hospitalized patient complains of bilateral leg pain and asks the nurse to massage her legs. One calf is noticeably larger than the other, warm, and slightly reddened. What action by the nurse is best?
+Dentogenics was a term associated with which manufacturer of denture teeth?
+Both the ____________________ and ___________________ parts of the renal tubule help with reabsorption and transportation of solutes, while filtration collection occurs in the ________________.
+Cellulose is an examples of:  monosaccharides disaccharides lipids polysaccharides
+The nurse is caring for a client who is on bed rest after abdominal surgery. When the client complains of a "popping sensation" and wetness on the dressing, the nurse immediately suspects wound eviscerations.  Which priority independent nursing intervention is most likely to be taken by the nurse before contacting the provider?
+The questions[Q1 - Q8] below should be answered in the context of the following text Description: Consider the safety feature of a medical device that delivers drug to a patient (the system) as soon as the nurse starts it. The safety feature turns on a silent alarm (i.e. flashing light but no sound) and stops the patient's drug delivery (i.e. it stops the pump) in unsafe situations. Such unsafe situations are: 1) the values from the sensor that reads patient data are out of range (invalid), 2) the patient signals (using a "panic button") to the system that something is wrong. If more than 10 seconds (this time is called false alarm time) elapsed since the silent alarm was turned on, then an audible alarm is turned on. If the sensor provides values within range, or if the nurse clears the alarm, or if the patient had signaled that something is wrong but now signals that everything is ok (using an "ok button"), any alarm stops and the system turns drug delivery on again. In addition to the safety feature described above, the system can be configured by the nurse. For example, the false alarm time can be changed, with valid values between 5 and 30 seconds. The validity of all provided values is checked by the system. If the value is invalid, the system displays an error and asks the nurse to provide another value. Once the new value has been accepted, the nurse can choose to instruct the system to turn on the silent alarm for as many seconds as the new value indicates, then the silent alarm will be followed by a short audible alarm (default 2 seconds) as a test that it works properly. The time for the audible alarm can also be configured. The system can also be set to maintenance mode during which the nurse can use the system's pump to clean the intravenous line through which drug is delivered. During this mode, the sensors and alarms are turned off and cannot be activated, so that the nurse can work with the pump without risking accidental alarms. The capability of configuring the system is also turned off in maintenance mode. Interfaces: The system (aka "the work"), interfaces with the external components listed below. The system receives stimuli (input) and/or sends output to these entities, as follows:   [I1] The system shall interface with a component called Alarm. The Alarm accepts the following system output:  StartSilentAlarm  i.e. the alarm is on, but it is silent because the nurse has 15 seconds to check if it is a false alarm or a real alarm   StartAudibleAlarm  i.e. the alarm is real (which means it is not a false alarm), so the sound should be turned on    [I2] The system shall interface with a component called Keypad. The Keypad produces the following stimuli:  ClearAlarm  i.e. the user can clear (turn off) any alarm    [I3] The system shall interface with a component called Pump. The pump accepts the following system output:  ResetDrugDelivery  i.e. the pump should be started as soon as the system is started   StopDrugDelivery  i.e. the pump must be stopped if there is a real alarm    [I4] The system shall interface with a component called Sensor. The sensor produces the following stimuli:  ValueInRange  i.e. a valid value was received.   ValueOutOfRange  i.e. an invalid value was received, e.g. because the sensor is not attached to the patient.    [I5] The system shall interface with a component called Timer. The timer produces the following stimuli:  TimerExpires   i.e. the timer expires (goes off) 10 seconds after StartSilenceAlarm in order to StartAudibleAlarm unless the nurse clicks the clear alarm button.    [I6] The Timer accepts the following system output:  StartTimer - Start means that the timer is first reset and then starts StopTimer    Any desktop drawing tool (except for powerpoint and word) can be used for diagrams. The following online tools are allowed: yworks.com/yed-live/ https://plantuml.com https://www.lucidchart.com  https://app.diagrams.net (this is actually draw.io)
+What was the subject of the Great Compromise?
+Section 3: AC/DC Circuits Pick FOUR of the next 5 problems.
+How are these molecules related?
+A single-phase synchronous motor is sometimes referred to as a(n) _____ motor.
+Use the following study to answer the following question(s): A current trend among professional baseball players is to wear braided titanium necklaces. The titanium reportedly regulates the flow of energy through the body. The player wearing the necklace then shows improved strength, tires less, and recovers more quickly.What should one do if the results of an experiment consistently do not support the original hypothesis?
+Rights are offset by _____, which are obligations to perform certain tasks and duties.
+Isaiah is living with HIV. Which statement is most likely true of Isaiah?
+Find the area of the composite figure made up of a triangle and a trapezoid.
+The scale reads 1. 3 pounds when empty, introducing a systematic error that makes all measurements 1.3 pounds too high.
+The equation of exchange is
+The objective element of a social problem

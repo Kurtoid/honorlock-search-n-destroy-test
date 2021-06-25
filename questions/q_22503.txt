@@ -1,0 +1,20 @@
+Question 2 (Total 20 points)START THIS QUESTION ON A NEW PAGE. SEPARATE EACH PART NICELY!BOX THE FINAL ANSWERS For the system shown below find the TF from the voltage given to the motor to the speed of the mass-2
+A _____ appeal is used when the advertiser makes either a direct or an indirect comparison to another brand and usually claims superiority on one or more attributes.
+Short term regulation of blood pressure is due to __________.
+The atomic number of an atom containing 29 protons, 29 electrons, and 34 neutrons is
+Proteins perform all of the following functions except ________.
+About one-third of cases of __________ are preventable.
+The layer of the eye that provides the blood supply for the eye is the
+What is the correct order of events for translation:    mRNA moves out of the nucleus into the cytoplasm tRNA carries an amino acid to the mRNA RNA polymerase produces a strand of mRNA using a DNA template mRNA travels to the ribosome Amino acids are linked together, forming proteins
+Viruses can adapt to their environment.
+____________ means to select and prepare content from other sources for publication.
+Consider a Hash Table implementation that utilizes linear probing over an array with a length (ie capacity) of 10. What do you expect the following code that utilizes such a Hash Table to print out? The final method named findValueAndPrintArrayIndex does exactly what it's name implies, it prints out the array index that the specified value is stored within.     public class IntegerKey { private int key; public IntegerKey(int key) { this.key = key; } public int hashCode() { return key/2; } public static void main(String[] args) { Hashtable ht = new Hashtable(); ht.put(new IntegerKey(4),"four"); ht.put(new IntegerKey(5),"five"); ht.put(new IntegerKey(6),"six"); ht.findValueAndPrintArrayIndex("six"); } }
+The process that occurs when a cell, tissue, or organ adjusts in response to some environmental change is
+Match the points labeled on the phase diagram below to the features they represent.
+In which of the following situations would there be the least possibility of transmitting syphilis?
+T/F       Organizational structure refers to the totality of a firm's organization.
+What is the term for the different host species that one virus type can infect?
+Would Tris (Trizma) buffer be a good buffer to be placed in an intracellular buffer? Explain your answer.
+Consider someone who is hypo-ventilating resulting in increased levels of carbon dioxide in the blood. In this situation what would you expect to observe?
+Determine the limit.
+THIS CONTENT IS PROTECTED AND MAY NOT BE SHARED, UPLOADED, SOLD, OR DISTRIBUTED Problem 5. - 10 Points total A semiconductor material has an energy gap of [eg] eV, effective masses mn* = [mn] m0 and mp* = [mp] m0, where m0 is the free electron mass = 9.11 x 10-31 kg. Assume complete ionization.  Let the temperature be T = 300 degK. The material is un-doped. Find the intrinsic Fermi level EFi and carrier concentration ni = pi.        (4 points) Let the temperature be T = 300 degK. The material is doped with donors at concentration ND = 5 x 10+16 cm-3. Assuming Boltzmann statistics applies, find:   the electron concentration n,      (2 points) the hole concentration p and      (2 points) the position of the Fermi level EF.   (2 points)

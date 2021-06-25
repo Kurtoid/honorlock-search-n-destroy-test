@@ -1,0 +1,20 @@
+If a student has no clue about how to answer an essay, the student should indicate what they DO KNOW about the topic. The grade won't be very good, but hopefully the student can earn some points.
+Which of the following is the structural unit of whole muscle tissue?
+1.1   According to the article, what plays an important role in teen health?   (1)
+The French Revolution of 1848 led to the creation of
+A novice nurse is looking for employment and hopes to find a facility where the nursing staff participates in making, implementing, and evaluating client care policies. Which organizational module implements these practices?
+What is a carbohydrate? Explain what it has in common with all other organic compounds. What makes carbohydrates different from them?
+What is ACHE and what does it do?
+Read the following excerpt from U.S. President Harry Truman's announcement of the dropping of the atomic bomb on Hiroshima (1945), then answer the following question:  Truman called the success of completing the atomic bomb a victory in the battle of the
+Recall that the ArrayList class defines the instance variables inherited by the ArrayUnorderedList class. Below is a partial class definition of the ArrayList class:public class ArrayList implements List {    protected int count;    protected E[] contents;     public ArrayList(int capacity)     {        contents = (E[]) new Object[capacity];        count = 0;    }    ...} Answer the following questions. Please be sure to label each with an appropriate letter.  Write a method, removeAt, for the ArrayUnorderedList class which accepts the one-based position of the item to be removed. The position should be validated. If it is invalid an InvalidPositionException should be thrown. If it is valid, the item should be removed and returned. Shifting will be required to fill the void left by removing the item and the number of items in the list should be modified accordingly. You cannot use any of the other methods defined for the ArrayList or the ArrayUnorderedList classes.  (8 pts) Provide an example of a call to the removeAt method will cause the InvalidPositionException to be thrown. Be sure to declare all necessary variables and to handle the exception by displaying the message in the exception object that is thrown. (4 pts)
+Which of the following would you find in a plant cell but not an animal cell?
+Which of the following correlation coefficients is of the highest magnitude?
+Each carbon atom in ethylene, CH2CH2 has the following number of bonds.
+Defining the technology architecture is part of the activity to Design the application components.
+How do safety behaviors maintain anxiety? Give an example of a situation in which an individual with an anxiety disorder might use a safety behavior.
+Please observe microscope and look for part with an arrow  (2 pts) Part Name      Part function(s)
+1) Analyze graph 1, describing the effects of removing coyotes (Treatment) vs. control sites 2) Analyze graph 2, explaining the coyote's effect on the diversity of rodents 3) Analyze graph 3, describing and hypothesizing about the coyote's effect on the mesopredator population
+Despite multiple failures and setbacks, Terri perseveres in her efforts to solve an engineering problem. This is an example of which of the following?
+(7 pts) Part a of Question 22
+Two 20-ounce soda bottles are placed in a lake: one contains only air and is floating and the other is filled with sand and sitting on the bottom of the lake.Which bottle has a larger buoyant force acting on it?
+Identify the three main components of the criminal justice system and outline their main functions.

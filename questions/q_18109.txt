@@ -1,0 +1,20 @@
+Assume you inoculated 2 loopfuls of a bacterial broth culture into each of two flasks of tryptic soy broth.  One flask contains 250 mL of broth (1/4 of a liter). The second flask has 500mL of broth (1/2 a liter).  At the end of 10 hours, you would expect to find ...  (by comparison of broth tubes contain 5 mL of broth  Time would be relatively short for growing the culture.)
+For each of the calls to the following recursive function below, indicate what value is returned: string mystery5(string s) { if (s.length() == 0) { return s; } else if (s.length() % 2 == 0) { string rest = s.substr(0, s.length() - 1); string last = s.substr(s.length() - 1, 1); return last + mystery5(rest); } else { string first = s.substr(0, 1); string rest = s.substr(1); return "(" + first + ")" + mystery5(rest); } }  mystery5("foo") [r1] mystery5("kakuro") [r2] mystery5("computer") [r4]
+The texture of this igneous rock is ________________?
+Uranium-238 decays with a half-life of 4.5 x 109 years. How many years will it take for 75% of the uranium-238 to decay?
+1.3   Calculate the Mechanical Advantage present in a driver gear with a diameter of 6cm and the driven gear with a diameter of 30 cm   [1]
+Which statement best describes arteries?
+At which point is it winter in the northern hemisphere?
+Pamela asks Theodore what an energy drink is, and he correctly explains, ____.
+A pregnant woman has a red blood cell count (RBC) of 3.8 cells/uL.  Which complication should the nurse be aware of with this laboratory result?
+Which of the following describes the short-run relationship between the unemployment rate and the rate of inflation?
+The part of the tooth that shows when someone opens the mouth is the anatomic crown.
+Eastern Canada (Quebec Province) speaks which language besides English?
+INSTRUCTIONS      1.   Read the questions carefully and provide the correct answer.      2.   Do not use any dictionaries or online translators.           3.    To type (or copy paste) special characters, here are the accents, and codes: a - Alt 160 e - Alt 130 i - Alt 161 o - Alt 162 u - Alt 163 n - Alt 164      4.   Good luck! !Suerte!
+THE LAWS OF RELATIVE TIME DATING Which is older?
+Using the derivative of f(x) given below, determine the intervals on which f(x) is increasing or decreasing.f'(x) = (2 - x)(4 - x)
+The sensation of smell adapts                              .
+Symptoms of impending diabetic coma include    1.  increased urination    2.  sweet-smelling breath    3.  extreme thirst
+What are three situations in which mitotic cell division occurs?
+Question 24: Fill in the blank in the following sentence. "The 'ROC Curve' stands for ________________________."
+A boiler's ___ is the highest pressure in pounds per square inch (psi) at which it can be safely operated.

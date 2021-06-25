@@ -1,20 +1,20 @@
-A seventy-five year old male has noticed he has had difficulty urinating. His physician says his difficulty is most likely due to an enlarged gland known as the
-If you then took two of the warty-skinned offspring from the previous question and crossed them, what phenotypic ratio would you expect in their offspring?
-Identify the s-block element.
-Which term describes the simultaneous inward movement of the eyes toward each other?
-Two chromosomes that carry the same types of genes, but not necessarily the same information are called _________.   For example, both might have the gene for flower color, but one might say purple and the other might say white.
-Tap ENTER ____ time(s) after the letter address.
-The death benefits of key employee life insurance are payable to the employer.
-What is the fight-or-flight response?
-A potassium level of 6.8 mEq/L is obtained.  Before reporting the results, the first step the technologist should take is to:
-_____ gives the retailer a measure of how much profit it is making on merchandise sales without considering the expense associated with operating the store.
-Identify the congenital cardiac defect depicted in the following illustration:
-Sales promotions cannot be the sole basis for a promotional campaign because
-Which of the following is FALSE:
-An annual event where the president addresses the nation is called
-For questions 6-10 choose the appropriate definite article for the noun. ____ examen
-29. An older adult patient has extensive wound care needs after discharge from the hospital. Which facility should the nurse recommend to the patient?
-Which of the following medications are used to address the inflammation caused by Kawasaki's disease? Select all that apply.
-A camber line is the line which is the distance between the _________ surface and __________ surface.
-the United Nations came to replace the League of Nations after World War II
-Which of the following were not important in keeping the spirit of revolution alive?
+The nurse is preparing discharge instructions for the client with diverticulosis.  In reviewing dietary recommendations to keep the client from experiencing another exacerbation, what statement indicates that the client understands these recommendations?
+BONUS: Blood leaving the left ventricle of the heart enters which of the following vessels?
+Identify the interval where the function is increasing
+What is the purpose of a diuretic?
+Read the passage Origins of Western Theater, and then answer the following question(s).What change in the chorus was most significant in the development of Western theater?
+3.15   The [JOHARI window / SWOT analysis] is a tool that can be used to help someone better understand him / herself.   (2)
+Which of the above pinned structures is the thalamus?
+4.1.3   Draw a suitable graph using the data provided in the table.  Note: Graphs must always be drawn by hand. Scan or take a clear photo of your diagram and upload it in this question, using the button below.   (8)
+The median income for US families in 2016 was ________.
+3.20   Maatskappye betaal belasting teen [28%  /  25%]    (2)
+Classic Problems of Synchronization [Acuna] Consider the following fragment of code which uses a semaphore to solve the reader-writer problem:   //global variablesint read_count = 0;pthread_mutex_t rw_mutex = PTHREAD_MUTEX_INITIALIZER;pthread_mutex_t rc_mutex = PTHREAD_MUTEX_INITIALIZER; //writer processdo {    wait(rw_mutex);    /* writing is performed */    signal(rw_mutex);} while (true); //reader processdo {    wait(rc_mutex);    read_count++;    if (read_count == 1)        wait(rw_mutex); //THIS LINE (assume it is replaced by {})    signal(rc_mutex);    /* reading is performed */    wait(rc_mutex);    read_count--;    if (read_count == 0)        signal(rw_mutex);    signal(rc_mutex);} while (true);   Explain how the program would act differently if the indicated line was commented out.
+In a PCR assay, either blank control or negative control is required, it does not require both controls in the assay.
+A therapist is concerned about the ROM available in the hip of a patient who had a total hip replacement.  She observes gait and observes limited hip flexion and extension.  At initial contact during gait, the angle of hip flexion SHOULD be:
+The process of making the impedance values on either side of a boundary as close as possible to reduce reflections is called:
+Which of the following metamorphic rocks forms from mafic volcanic rocks?
+Match the group of organism to the type of molecule that makes up their cell wall. Some options may be used multiple times and some options might not be used at all!
+Choose the word that best fits into each blank.   Me gusta estudiar las lenguas. Tengo una clase de _____________
+Makes up the cytoskeleton
+A program that provides financial and medical assistance to needy children and their parents or relatives, is called ________________________________.
+A client of yours tells you that he is worried that he will not be able to find a job.  You say, "I know you can do it--you have all the qualities you need to do this." This is an example of what type of response?

@@ -1,20 +1,20 @@
-Which of the following is NOT a characteristic of an intrusion detection system?
-After teaching new parents about the sensory capabilities of their newborn, the nurse determines that the teaching was successful when they identify which sense as being the least mature?
-26) Which one of the following is a CORRECT statement? A) Blood pressure is higher in veins than in arteries since blood must be returned to the heart. B) Veins are more distensible than arteries. C) Veins have a smaller lumen than arteries. D) The walls of veins are made up of two distinct layers of tissues. E) Veins carry blood to the capillaries of the body.
-The normal values for the platelet count are:
-A mythical beast that was half man and half bull was known as:
-What example do Phillips and colleagues (2017) provide for the teachers to implement fitness assessments as part of a year-long fitness education?
-As the salesperson presented his product information to the purchasing agent, the purchasing agent examined his fingernails, rearranged the items in his desk drawer, and yawned. These are all examples of:
-The three elements of any IMC strategy are the consumer, the channels, and
-Heredity alone accounts for most differences in physical growth.
-Presence of which of the following genes shifts the bipotential gonad toward the development of the epididymus, vas deferens and the seminal vesicles?     A CYP21A2   B DAX1   C NR5A1   D SOX3   E SRY
-Consider an application which handles both general as well as private/personal information. Based on the type of data being handled, the system dynamically selects an appropriate data encryption approach to securely store the data. Identify the GoF pattern which can guide the system design for this requirement.
-~400x Total Magnification The specific cell indicated by the arrow is called a(n) ____________
-In order to perform an adequate uniformity assessment on a SPECT camera that you will regulary utiliize a 128 X 128 matrix you must acquire a minimum of how many counts?
-All of the following approaches are commonly used to increase the security of benefits for an employee under a nonqualified deferred compensation plan, except
-The Gospels make little mention of:
-The main purposes of the medical record are to provide a planning tool for patient care.
-The electrical signal sent carried by the neuron is known as:
-Phosphorus in the soil is low and added P becomes_______with time
-The Health Insurance Portability and Accountability Act (HIPAA) of 1996 is also known as the Privacy Rule
-Coach Rex expects his football players to practice with the same intensity that they play the game. His practices are usually gruelling and almost always end with the entire team running the stadium steps 5 times.  Coach Rex's players know that if they put the high effort demanded by the coach, that each player will be excused from the end of practice running the steps exercise. Is Coach Rex using reinforcement or punishment techniques  to condition his players to practice hard?
+A patient's airway pressures are as follows: PIP = 60 cm H2O, PEEP= 10 cm H2O and the PPlat = 40 cm H2O. The ventilator constant flow rate is set at 50L/min (0.83L/sec).
+While the nurse is performing an assessment on Mr. O., he states, "I'm so tired of fighting to breathe that I wish I could just go to sleep and never wake up." What is an appropriate response?
+The early colonial success Italy realized in Eritrea and parts of Somalia encouraged it to invade
+Which of the following is (are) true? I. A contract with an infant can be avoided by the infant at any time.II. A contract with a person who is mentally incapacitated is void.III. A contract with a person who is mentally incapacitated at the time the contract is entered into is enforceable if, at the time of performance, the person is no longer mentally incapacitated.
+At the end of an action potential there is a brief period of time when the membrane in hyperpolarized. How does the membrane eventually return to resting membrane potential?
+Which of the following assessment findings is considered the "hallmark" symptoms of peripheral artery disease?
+Following an abrupt increase in grain intake, soon after pasture grazing, a beef cattle can readily develop a condition called metabolic acidosis. Which acid is mainly responsible for this condition?
+1.2   What is the name of the process in which plants use sunlight to create food?   (1)
+Tissue matching! Match the feature with the appropriate tissue type.
+The hormone produced by the corpus luteum that helps maintain pregnancy is called ________.
+1pt - Parasympathetic effects are localized and short-lived because
+A/an _______ is any situation in which a person has competing interests, responsibilities and obligations to more than one person or entity, including his/her own self-interest.
+Negations: ne ... plus 5. -- Vous travaillez toujours a l'agence de voyages?
+Water is safe to use in concrete if it ____.
+Which of the following animal groups does not have tissues derived from mesoderm?
+A patient is performing stand to sit activities. What type of contraction occurs in the hip extensors during this activity?
+Which structure of the male reproductive system is also part of the urinary system?
+Severe mitral regurgitation will cause _______________ on pulmonary venous flow profiles?
+IF Filtration increases, contrast will _______.
+Write a method averagePositive, which will calculate and return the (double) average of the positive numbers in the array data that is passed in as a parameter. All negative numbers and zero should be ignored for the computation.  For example, if the array contains (3,0,6,-1,2,3) then the method should add up 3, 6, 2, and 3 to get 14 and then return 3.5 (which is 14 divided by 4).  If there are no positive numbers in the array, the method should return 0.0.  You can assume there is at least one item in the array.  The method header is provided below and you should include it in the code you write. You must do this in 15 lines of code or less to receive credit.  public double averagePositive(int[] data) {

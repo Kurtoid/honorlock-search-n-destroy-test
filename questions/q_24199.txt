@@ -1,0 +1,20 @@
+import tensorflow as tfdata = tf.keras.datasets.mnist(x_train, x_test), (y_train, y_test) = data.load_data()x_train  = x_train / 255.0y_train = y_train / 255.0model = tf.keras.models.Sequential([tf.keras.layers.Flatten(input_shape=(28,28)),                                    tf.keras.layers.Dense(512, activation=tf.nn.relu),                                    tf.keras.layers.Dense(128, activation=tf.nn.relu),                                    tf.keras.layers.Dense(64, activation=tf.nn.relu),                                    tf.keras.layers.Dense(10, activation=tf.nn.softmax)])model.compile(optimizer='adam',              loss='sparse_categorical_crossentropy',              metrics=['accuracy'])model.fit(x_train, x_test, epochs=5)#model.evaluate(y_train, y_test)classifications = model.predict(y_train)print(classifications[0])print(y_test[0])   The following questions all relate to the code above, you should feel free to run this code in your notebook, or in Google Colab if it helps. It is not necessary to run the code to get the right answers.
+One benefit of running is improved cardiovascular health.
+The average salinity of the oceans appear to have remained fairly constant during the last 2,000-3,000 million years.
+Which best describes shoe leather epidemiology?
+The nurse teaches the client with a pressure ulcer about the role of nutrition in wound healing.  The nurse evaluates that the client understands this teaching when the client selects which food choices to support Vitamin C intake?
+In a competitive product market, a Market Supply Schedule summarizes:
+Cortisol is released by the pituitary gland during stressful situations.
+The nurse is planning the care of a patient with hyperthyroidism. What should the nurse specify in the patient's meal plan?
+When a fashion starts to decline in popularity, people are still more than willing to pay full price.
+According to Standard Rate and Data Service's (SDRS's) classification of magazines, _____ magazines are bought by the general public for information and/or entertainment.
+Match the correct term to the definition.
+The foreign policy ideals that Americans have historically espoused assert that our foreign policies should
+5.4   Provide your own antonym for the word 'true', found in paragraph 2.   (1)
+Assuming the existence of the limit. Which choice below indicates the limit of the sequence defined recursively, starting at  and,
+4.8   ?Que asignaturas te gustan y no te gustan en el instituto? ?Por que?   (4)
+Which of the following typically does NOT occur at closing?
+Consider a (k, n) secret sharing scheme where k = number of shares required to reconstruct the secret and n is the total number of shares. Which of the following is correct for different values of k (assume k < n) ?
+Which of the following is a risk factor for the development of hypertension?
+Chapter 15: Each of these is an example of a soft scenery unit EXCEPT:
+A mutation in species 1 that causes its fundamental niche to diverge from the fundamental niche of species 2 could increase the fitness of species 1.

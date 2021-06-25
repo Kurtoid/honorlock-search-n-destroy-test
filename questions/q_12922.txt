@@ -1,0 +1,20 @@
+3rd in [1]  6th  in [2]  4th in [3]  2nd in [4]
+Write a function called filterDistance that takes a reference to a vector of pointers to Point objects, an individual Point object and a real number representing a distance as parameters. Your function should move any Points in the vector that are a greater distance from individual Point than the passed in distance to the end. They can end up in any order after your function runs as long as all points greater than the passed in distance away are after all points less than or equal to the passed in distance. For example if we run the code below: vector points {new Point(1, 2), new Point(90, 200), new Point(100, 100), new Point(4, 5), new Point(1, 2), new Point(100, 200)}; Point location(10, 10); filterDistance(points, location, 30);  We will find points contains points (1, 2), (4, 5), (1, 2) before points (90, 200), (100, 100), (100, 200) as the distance between the first three and location is less than or equal to 30 and the distance between location and the last three is greater than 30. Point objects have the following public members:    Name Description   Point(int x, int y) constructs a point with the given coordinates   int getX() returns the x coordinate   int getY() returns the y coordinate   double distance(Point p) returns the distance between this point and the passed in point
+VRAAG 3.3             Jou span het begin herwinbare items optel soos aangedui op die horlosie in die prentjie hierbo. Jou span het 3 ure om items op te tel. Hoe laat moet jou span klaar opgetel wees?   (1)
+The dual court system allows the states to retain a significant amount of judicial autonomy.
+Which of the following structures passes through the subacromial space?
+The patient with a CVA has residual dysphagia. When a diet order is initiated, the nurse  should initiate which of the following interventions?    (Select all that apply)
+The nurse caring for a patient with an ICP monitor will perform these actions, except:
+Find an equation of the normal line to the graph of the function  f(x) = x2 at the point (-3, 9).   Type your equation in the box below.  Then show all work for this problem on your answer sheet.  You must show all work for this question (this includes how the derivative was found) to receive any credit.
+Use the correct form of the verb: sammeln wohnen spulenmahenhaben sein lesenmachendecken Holger __________________________ mit seinem Bruder Klaus und seiner Mutter in einem Haus, nicht weit von Kiel. Jeden Morgen
+Psychoactive drugs affect our behavior and experience through their effects on the functioning of the:
+The SE Coastal Plain has the highest species richness of ___________________, _____________________ and ______________________ than anywhere else in the US and/or Canada.
+Lead produces a serious toxic effect when ingested because it
+A primigravida calls the hospital and tells the nurse on the labor unit that she knows that she is in labor. The nurse's initial response would be which of the following?
+The hypothalamus plays a role in both the nervous system and the endocrine system.
+Which of the following provides an example of a common drawback of a functional strategy?
+The Constitution would not have been ratified in several important states if the Federalists had not assured the states that __________.
+__________________________ is the process of conveying a messagewithout the use of words.
+How many hydrogen atoms are in a 1.0 g sample of acetic acid, CH3COOH?  The molar mass of acetic acid is 60.06 g[?]mol-1. [Submit your hand-written work]
+As you hire employees, you will need to become aware of laws and taxes, including ________.
+Which of the following has the correct pairing?

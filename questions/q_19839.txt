@@ -1,0 +1,20 @@
+Problem 2bc Using the result of your Boolean simplification from problem a) for the function F = ABC' + AB'C' + AB b) Write a Verilog or System Verilog module named Funs that evaluates your simplified F from 2a) using a structural model. To get credit this should be done using a structural model. Inputs are A, B and C. Output is F. All variables should be declared. c) Write a Verilog or System Verilog module named Funb that evaluates your simplified F from 2a) using a Boolean expression. To get credit this should be done using a Boolean expression (which, by the way is a Behavioral model). Inputs are A, B and C. Output is F. Give one clear answer, problems with multiple answers will be counted incorrect. All code should be efficiently designed and written in a well-organized fashion with indentation and should avoid errors and warnings, and particularly without inferred latches or multiply driven variables. Do not use compiler directives. Your work should be typed into the window provided, you can drag the bottom right hand corner to make the window bigger, you cannot use the tab key
+Magnesium hydroxide, Mg(OH)2, is available as an over the counter laxative known as Milk of Magnesia.  What is the number of atoms in the chemical formula of magnesium hydroxide?
+What reason best explains why K < 1 for this reaction?
+A woman calls the nurse and reports, "My menstrual period is 2 weeks late,painful, and is heavier than normal." Which is the most likely cause of the client's symptoms.
+Erythropoiesis is the production of:
+The client is admitted to the critical care unit.  The family member brought in the advance directive. Ideally, who should develop advance directives?
+One disadvantage of a Gantt chart is the fact that
+[THORACIC] [PELVIC]
+Which lipid is partially hydrophilic? (E.1)
+Wiretaps are legal when there is probable cause and they are:
+What happens to the moles of solute dissolved in a solution after dilution?
+What shows the the total number of slides?
+Calculate the RER of the following patients. Use the following formula: RER= (30 x weight (kg)) + 70 A 7-year-old neutered miniature Poodle weighing 15 lbs. _______  A 3-year-old intact Walker Coon Hound weighing 52 lbs. _______  A 15-year-old Shih Tzu weighing 36 lbs. _______
+You respond to a shopping mall for a possible cardiac arrest. When you arrive, you find a male patient in his seventies in cardiac arrest. The mall security officers have an AED attached. The AED is in the process of delivering a shock. Your first response should be to
+Which of the following statements is true given the graph bellow:      Solar power module price vs. production capacity
+Convert the following to either Fisher-Race or Wiener nomenclature: Ce
+Where did King and his group plan a carefully coordinated campaign of "direct action" in the spring of 1963?
+A mass extinction occurs when at least 80% of all existing species go extinct.
+A zombie apocalypse wipes out almost the entire human species before the zombie threat is eliminated. Only a group of 100 people who were at a family reunion on an uninhabited island survived. They returned to the mainland completely unaware of what had happened to everyone. Answer the following questions regarding the few survivors that now begin to rebuild the human population.A straggler with green eyes stumbles into the last remaining human outpost. The green eye trait did not exist in the outpost before her arrival, but it does now. What is the name of this mechanism of evolution?
+Use the range rule of thumb to estimate the standard deviation. Round results to the nearest tenth. 8) The heights in feet of people who work in an office are as follows.                   5.9    5.5    5.8    5.4    5.6    5.7    5.9    6.2    5.8    5.7

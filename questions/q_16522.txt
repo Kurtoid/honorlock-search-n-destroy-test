@@ -1,0 +1,20 @@
+EquationSheet.pdf  Must show all work. Three forces, each 17 N, are applied to a 6-m by 4-m rectangle.  Forces F1 and F2 act at 45@ angles to the vertical as shown, while F3 acts horizontally.  Find the individual torques and net torque about point D including direction.
+When an arrangement, such as a legal contract, is made amongst team members to ensure compliance, this is an example of which type of trust?
+Assume VS= {VS} V , R1= {R1} kO , R2= {R2} kO , R3= {R3} kO For Thevenin's equivalent circuit between points A and B (as seen by RL), the value of VTH is VTH = __________ V (The unit of the answer is [V]. Do NOT type the unit when you type your answer)
+One reason photosynthesis is so important is because photosynthetic organisms use solar energy to produce organic nutrients
+Given the illustrated manometer what correct conclusions can be made?  I. Indicates PEEP in use.    II. Suggests significantly high airway resistance.     III. Could be associated with a mainstem intubation
+Total Question 6:  [15]
+DO NOT DO THIS PROBLEM. DO NOT DO THIS PROBLEM. DO NOT DO THIS PROBLEM. An HMO is apportioning doctors among four clinics based on the average weekly patient load for each clinic. During a 2 year period, HMO records show the following growth rates in average weekly patient loads for the clinics:     Clinic A: 1.74%             Clinic B: 0.2%                 Clinic C: 2.4%                Clinic D: 3.1% At the beginning of the 2 year period, the apportionment of doctors was   Clinic A: 50 doctors      Clinic B: 32 doctors       Clinic C: 41 doctors        Clinic D: 65 doctorsAt the end of the 2 year period, the apportionment of doctors was    Clinic A: 51 doctors      Clinic B: 32 doctors       Clinic C: 40 doctors        Clinic D: 65 doctors Which Paradox is being tested and was it satisfied or violated?
+White light shines on a double slit interference setup. Assume that waves at any wavelength are coherent. The fourth-order maximum occurs at 90* at a wavelength of 450 nm. Which of the following wavelengths (in nm) will not occur in third order?
+The food combination that contains the most fat is:
+Write the formula for the compound formed between rubidium and sulfur.
+All of the following are PHI except:
+Order: Heparin sodium 30,000 units in 250ml D5W to infuse at 10ml/hrLabel: Heparin sodium 20,000 units per mlHow many ml of Heparin should be added to the D5W?
+What are the Facilitation Functions?
+____ refers to the division of a system into processes or subsystems.
+A high-pressure extravasation of blood out of an artery and into the surrounding tissue is called:
+Consider the following method discussed in class for doing a BFS traversal of a graph. What functionality is provided by the indicated line? private void bfs(Graph G, int s) { Queue queue = new LinkedList(); marked[s] = true; //THIS LINE HERE queue.add(s); while (!queue.isEmpty()) { int v = queue.remove(); for (int w : G.adj(v)) if (!marked[w]) { edgeTo[w] = v; marked[w] = true; queue.add(w); } }}
+During the reversible adiabatic expansion process of a Carnot heat engine, the energy of the working fluid:
+What is the major organic product that results when 3-heptyne is treated with lithium metal in ammonia?
+Refer to Source 1C to answer question 1.3.1-1.3.3
+BIBLIOGRAPHY: 1. Canvas notes (content pages) 2. https://www.tes.com/international  3. https://www.teachitprimary.co.uk/ks2-english 4. https://www.primaryresources.co.uk/english/english.htm

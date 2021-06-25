@@ -1,0 +1,20 @@
+Identify the normally clear avascular structure highlighted in blue.
+2.3   Refer to stanza 2. Explain the simile in line 6.   (2)
+Determine whether the improper integral converges or diverges by attempting to evaluate the integral. [?]1[?]1x3dx{"version":"1.1","math":"int_{1}^{infty} frac{1}{x^{3}} , dx"}
+A 70-year-old female was recently discharged from the hospital following a total hip replacement. Today, she presents with restlessness, tachycardia, and a blood pressure of 100/64 mm Hg. Her skin is hot and moist. You should be MOST suspicious that she is experiencing:
+In today's business environment, firms that truly focus on customers instill a corporate culture that places customers and other stakeholders at the top of the organizational hierarchy. When this occurs, the firm shifts its focus from transactions to __________, and from __________ to collaboration.
+A patient presents after falling into a vat of sulfuric acid. Which of the following would be the priority during the primary survey?
+Which of the following abbreviations stands for a surgical procedure?
+Which of the following should be expected during sympathetic dominance?
+The reactive oxygen ion superoxide is particularly important as the product of the one-electron reduction of dioxygen O2 is toxic in nature for aerobic respiration.
+Angina is:
+A tough coated dormant cluster of embryonic cells produced by freshwater sponges during harsh conditions when water is low, and that will develop when conditions are more favorable are called
+In this problem we are given as input a directed graph G=(V,E) and a designated vertex z*.  Each edge e has a positive length w(e).  Our goal is to design an algorithm which outputs the set of all vertices for which the distance from z* to this vertex is more than twice the distance from this vertex to z*.  In other words, we want to output a list of all vertices w for which dist(z*,w) > 2dist(w,z*).Note, dist(x,y) denotes the length of the shortest path from x to y. Give the fastest (in O() notation) algorithm you can for this problem.  You need to clearly state the running time in terms of n=|V| and m=|E| of your algorithm. Give a very clear and complete description of your algorithm  in words (this is required).  You can also include pseudocode if that will help clarify your algorithm (but if you just give pseudocode without explaining in words you will lose points). You can (and should) use the algorithms from class, such as DFS, BFS, Dijkstra's, SCC, or topologically sorting. You should use them as a black-box.  If you attempt to modify one of these algorithms you will not receive full credit, even if it is correct.
+What is voluntary health insurance?
+(c) Will you use a bioreactor? If so, what type of bioreactor may work best for skin (generic name of bioreactor is ok if you think you will need it).
+Molarity is calculated as __________________ divided by __________________. Must put the terms in the correct order
+In the context of psychological research methods, which of the following scenarios is an example of the survey method?
+What is the base SI unit for mass?
+What is the primary distinction between protostomes and deuterostomes?
+One disease that is studied in both dogs and humans is leukocyte adhesion deficiency.  In this disease,  dogs and/or humans are very susceptible to ______.
+This muscle will originate at the coracoid process of the scapula.

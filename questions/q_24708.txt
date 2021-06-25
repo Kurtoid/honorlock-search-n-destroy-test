@@ -1,0 +1,20 @@
+Write a function named "containsDoubles".  "containsDoubles" takes one parameter which will be an array. You may name the parameter "myarray". This is a suggestion. "containsDoubles" returns true IF any two elements in the array which are side-by-side are identical. "containsDoubles" returns false IF all side-by-side elements are different OR if the array contains 0 or 1 elements.  Examples. containsDoubles([1, 1, 2, 3]); // Returns true because there are two 1's side-by-sidecontainsDoubles([1, 2, 3, 3, 5]); // Returns true because there are two 3's side-by-sidecontainsDoubles([1, 2, 3, 4, 5]); // Returns false (no neighboring elements are the same)containsDoubles([1, 2, 1, 2, 1]); // Returns false (no neighboring elements are the same)containsDoubles([1]); // Returns false (list size is 1)containsDoubles([]); // Returns false (list size is 0) Here's how to lose points on this question:- Not using a function.- Not using parameters.- Not returning a value at the end of your function.- Using prompt, alert, or any other input or output mechanism besides parameters and return values.- Any of the above test cases produce unexpected results based on your approach.
+NeoClassic University, a university that opened in 2020, wants to make sure that people at the university have ready access to healthcare. NeoClassic University has plans to open a healthcare clinic that can be used by both students and faculty. The President of NeoClassic University asks you, as the privacy officer, what privacy requirements the healthcare clinic likely should follow:
+Above all, it was ___________________ in the fourteenth century that led to a revolution in cotton textile manufacture.
+Which about the distribution of Sinkhole activity in Florida is true?
+The economic environment refers to:
+2.3   Kies die korrekte antwoord.   (1)         Waarom is olifante se slurpe 'n belangrike liggaamsdeel, veral in 'n droee gebied sonder water?
+What is the total magnification when viewing a specimen using the oil immersion lens [a] What are the magnifications of the Meji's microscope objective lenses listed below: the red objective [b] the blue objective [c] the white/silver objective [d]
+[meal] The industry sales for at-home meal delivery kits in the U.S. in 2018 are listed below:     Company   Sales Revenue     Hello Fresh   $82 million     Blue Apron   $66 million     Home Chef   $25 million     Plated   $12 million     All Others   $45 million     What was Home Chef's market share by revenue in 2018 (rounded to the nearest whole percent)?
+What happens if the gap between C-shaped cartilaginous rings on the trachea is too large
+Fill in the blank with the most appropriate family member in Spanish.   You do not need to include the article since "mi" (my) is used.  Write only the member of the family.  La hermana de mi madre  es mi ______.
+The a-halogenation of cyclohexanone ________.
+Hiatal hernia-
+Working memory is best defined as:
+The effect of non-genetic or environment factors on phenotype is called _____________.
+Party A from Miami goes on vacation in country B and stays at the hotel of company B. When Party A returns to Miami, she decides to sue company B for breach of contract. Her vacation was not satisfactory and not consistent with the amenities listed in the brochure. A Florida court, if the issue is raised, will refer to the following body of law to decide which contract rules apply:
+What is the culturally appropriate way to minimize interruptions when arriving late to class?
+The large white ring in the image is indicating that:
+Repetitive, intrusive, and unwanted thoughts and repetitive behaviors that the individual feels driven to perform are characteristic of
+A new ancillary staff member is assisting the nurse with a client diagnosed with  Parkinson's disease. The client needs assistance with eating . Which instruction should  the nurse give the ancillary staff member about eating assistance?
+58.888 g - 55.988 g = Correctly rounded answer to the above is:

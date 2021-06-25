@@ -1,20 +1,20 @@
-A patient has a scalpular pressure ulcer with nonblanchable redness which measures 3.5 x 4.7 cm. There is no drainage. What stage is the pressure ulcer?
-If an organism is diploid and a certain gene found in the organism has 18 known alleles (variants), then any single organism of that species can/must have which of the following?
-If a septic system is to be used for sewage disposal,
-Harry, age 55 and the owner of a computer repair shop, has come to you to establish a qualified plan. The repair shop, which employs mostly young employees, has had steady cash flows over the past few years, but Harry foresees shaky cash flows in the future as new computer prices decline. Harry would like to allocate as much of the plan contributions to himself as possible. He is the only employee whose compensation is in excess of $100,000. Which of the following qualified plans would you advise Harry to establish?
-Using LD 50/30, the number 50 represents:
-In the equation dN/dt = rN, r is a measure of the population's intrinsic rate of increase. It is determined by which of the following?
-Compared to the interior of a grain, the dislocation density tends to be higher/lower at grain boundaries.
-Consider the permutations method from the textbook, which is intended to return all permutations of the word passed in as a parameter. What special cases for the simplest values are used by the permutations method to terminate the recursion? public static ArrayList permutations(String word) {  ArrayList result = new ArrayList();  if (word.length() == 0) // line #1  {  result.add(word); // line #2  return result; // line #3  }  else  {  for (int i = 0; i < word.length(); i++) // line #4  {  String shorter = word.substring(0, i) + word(substring(i + 1); // line #5  ArrayList shorterPermutations = permutations(shorter); // line #6  for (String s : shorterPermutations) // line #7  {  result.add(word.charAt(i) + s); // line #8  }  }  return result; // line #9  } }
-Although there are slight differences in the FITT recommendations for hypertension, dyslipidemia, and overweight/obesity, which of the following recommendations for frequency, intensity, and time summarizes all of them the best?
-The Uniform Commercial Code provides that, under certain circumstances, a merchant may be liable on a written contract, even though that merchant has NOT signed it.
-A climber of mass 72 kg is dangling over the edge of an ice cliff. He is roped to a 800 kg car located at a distance x from the edge of the cliff. Unfortunately, the car starts slipping (the car is on ice) and the climber accelerates downwards! Neglect the mass of the rope. The coefficient of kinetic friction between the tires of the car and the ice is 0.07.  Make a free body diagram for the car and for the climber (2pts) What is the climber's acceleration? (4 pts) What is the tension in the rope? (4 pts)
-Injury to the neurons of a collateral ganglion would affect the function of the ___.
-In 1598 King Henry IV of France issued the
-For 2 BONUS points, use the image to answer this question. Is this a predatory beetle?
-The lower abdominal cavity of a female mink is shown, head to the left. [A] = structure labeled A, [B] = structure labeled B, [C] = membrane labeled C.
-Are these male or female structures?
-The employer makes annual contributions to each employee's account under a nondiscriminatory contribution formula that requires a contribution of a specified percentage up to
-In describing the mechanism of cation exchange between colloids and the soil solution, it can be said that the reactions are _________.
-Identify which of the graphs shown below represent the graph of:
-For maximum accuracy when using a syringe you should?
+Molluscs belong in which group of animals?
+Which of the following would give rise to basophilic stippling?
+This act created a national network of interstate highway to serve the needs of commerce and defense as well as the public:
+What equation is used to determine EfD?
+Based on Chapter 4 of your textbook, it is important to understand cultural differences for all the following reasons EXCEPT:
+How many attempts do you get on the homework while it is available?
+This refers to the ability of water molecules to cling to other polar surfaces.
+Compare and Contrast readings you read from FDR and Hoover .  Discuss the fundamental differences between FDR's definitions of "freedom and liberty" in his Speech to the Democratic National Convention (1936) and Hoover's definitions in his On the New Deal and Liberty (1936).  How were these differing ideas about the role of government in the economy a reaction to the massive changes to US society during the Depression?  How do these differing ideas about the role of government also reflect the basic differences between the political left and the political right in the US today?
+Which of the following is important for swallowing?
+Cancerous condition involving white blood cells.
+Which among the following drugs have combined alpha and beta blocking activity and therefore used in the treatment of hypertension?
+Child development milestones indicate a three-year-old should be able to hold a toothbrush and brush his teeth on his own. Parent involvement in brushing is not needed at this stage of development.
+Which of the following structures conveys urine from the kidney to the urinary bladder?
+How do GluT transporters bring glucose into the cell?
+Given the results of several biochemical tests in Figure H.3, identify the genus and species of the organisms labeled A that have been isolated from the chin of a person.  Use the correct scientific name - non-abbreviated.
+Show the output of the Python code:   str = "Lions win the game" print (str.find("THE"))
+Determine the rate of liquid water, mw, leaving the system in grams per kg dry air.
+General Examination Instructions     1.   No copying of any sources is allowed. All work submitted must be the student's own, original work. Plagiarism will result in zero marks being awarded for the relevant question. By writing this examination the student agrees to this condition.         2.   If you encounter any problems during the examination please go to the Support Connect Zoom: https://zoom.us/j/92419489222  If you cannot access the connect, then  email support@teneoschool.co.za  (DURING THE EXAMINATION) to receive a ticket number. Queries without a unique ticket number, or emailed outside of the examination time, will not be answered.         3.   The email must have JUNE EXAMINATIONS in the subject line.         4.   The body of your email must include: FULL NAME SUBJECT Full details of the problem.         5.   At the end of each paper, there are TWO additional questions: a file upload and an essay question, for any additional problems.         6.   No emails, inboxes or Whatsapp images of answers will be accepted as valid.          7.   Make sure you have answered all the questions before submitting the test.
+You work for a restaurant that is currently facing customer complaints about long wait times. Which phase of the research process should you do first, if you want to use research to try and resolve your company's problem?
+Solve the system.4x + 4y + z = 202x - 5y - z = 93x + y + 4z = 0

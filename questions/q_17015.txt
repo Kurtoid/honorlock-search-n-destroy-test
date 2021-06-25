@@ -1,0 +1,20 @@
+The Chandrasekhar limit is
+What strategy emphasizes the continuity of retail prices at a level somewhere between the regular non-sale price and the deep-discount price?
+When we change a status, what happens to our role?
+Use the correct prefix.   Kommt ihr zum Kino ________________?
+True or False Question :   Open innovation is a two way process in which an organization's knowledge base is made available to others while at the same time the firm can find new sources of potentially useful knowledge from outside.
+5.  You are looking at a stained smear through a compound light microscope.  You are not able to see the image on your slide even though there is light coming from the light source.  The most probable explanation is:
+4.3   Verduidelik, in jou eie woorde, na wat die term ritueel verwys en hoe dit in die Griekse teater gebruik was.   (5)
+Bill Clinton's support for the North American Free Trade Agreement was evidence of
+The World Trade Organization (WTO) utilizes ____ to establish rules and guidelines for global commerce.
+Poly- has a similar meaning to:
+routes.py @application.route('/plotly_example', methods=('GET', 'POST'))@login_requireddef plotly_example(): locations = classes.Location.query.all() output = plotly_map(locations) return render_template('plotly_map.html', source=output) def plotly_map(locations): data = [ Scattermapbox( lat=[location.latitude for location in locations], lon=[location.longitude for location in locations], text=[location.name for location in locations], mode='markers', )] layout = Layout( autosize=True, hovermode='closest', mapbox=dict( accesstoken=mapbox_access_token, bearing=0, center=dict( lat=mean([location.latitude for location in locations]), lon=mean([location.longitude for location in locations]) ), pitch=100, zoom=10 ), ) fig = dict(data=data, layout=layout) output = plotly.offline.plot(fig, include_plotlyjs=False, output_type='div') return(output) plotly_map.html {% block content %}   {{ (1) }}  {% endblock %} Which filter should be used for (1) to render the json output on plotly_map.html?
+6   5   8    7     Greg Tom Steve Dan   Tom Greg Steve Dan   Dan Tom  Greg Steve   Steve Tom Greg Dan     If the Borda method is used (with 1 point given for each last place vote), who will win?
+The cost of an intangible asset with a finite useful life is amortized.
+What is the binary number 11001 in decimal notation (enter the number)
+A dedicated student licks a series of batteries to test whether or not the size of the battery affects the size of the "zap" felt on the tongue. If his tongue (approximately 7,000 ) drew 0.0017 A, what is the electric potential of the battery that he licked?  Choose the closest answer.
+The nurse is assessing an 84-year-old patient. Which finding is consistent with aging?
+When assessing risk factors for violence, the NUMBER ONE factor to consider is:
+Which of the following is TRUE about the cell membrane.
+The second Law of Thermodynamics states that every energy transformation makes the universe less organized and more disordered.  The relative amount of this disorganization is called _____.
+1.27   Below are tissues found in the walls of blood vessels. Which tissues are present in the walls of all blood vessels?   1.    Collagen 2.    Elastic 3.    Endothelial 4.    Smooth muscle   (1)                   A)   1, 2, 3 and 4         B)   3 only         C)   2 and 3 only         D)   1, 3 and 4 only
